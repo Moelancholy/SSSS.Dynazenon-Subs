@@ -1,0 +1,10 @@
+*
+!*/
+!.gitignore
+!*.ass
+!*.md
+!*.txt
+!build.gradle.kts
+!sub.properties
+.gradle/*
+build/*
