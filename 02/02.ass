@@ -10,7 +10,7 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 315
+Scroll Position: 246
 Active Line: 326
 
 [V4+ Styles]
@@ -39,8 +39,8 @@ Dialogue: 0,0:03:33.64,0:03:34.93,Default,,0,0,0,,Oh, Chise.
 Dialogue: 0,0:03:34.93,0:03:37.26,Default,,0,0,0,,Where'd the big robot go?
 Dialogue: 0,0:03:37.26,0:03:39.15,Default,,0,0,0,,I guess it shrunk.
 Dialogue: 0,0:03:37.98,0:03:39.76,Default,,0,0,0,,{\an8}Where's your umbrella, Minami?
-Dialogue: 0,0:03:39.76,0:03:41.26,Default,,0,0,0,,--Huh? Shrunk?\N--What?
-Dialogue: 0,0:03:41.26,0:03:42.55,Default,,0,0,0,,--Hell no.\N--Huh?
+Dialogue: 0,0:03:39.76,0:03:41.26,Default,,0,0,0,,—Huh? Shrunk?\N—What?
+Dialogue: 0,0:03:41.26,0:03:42.55,Default,,0,0,0,,—Hell no.\N—Huh?
 Dialogue: 0,0:03:42.55,0:03:45.76,Default,,0,0,0,,You! Apologize to Yomogi!
 Dialogue: 0,0:03:45.76,0:03:49.09,Default,,0,0,0,,What the hell?! You were about to leave!
 Dialogue: 0,0:03:49.09,0:03:53.14,Default,,0,0,0,,Apologize for breaking\Nyour promise with Yomogi!
@@ -86,8 +86,8 @@ Dialogue: 0,0:05:56.72,0:06:03.18,Default,,0,0,0,,Uh, transportation is a huge m
 Dialogue: 0,0:06:03.18,0:06:06.55,Default,,0,0,0,,Classes will start with 3rd period today.
 Dialogue: 0,0:06:06.55,0:06:07.80,Default,,0,0,0,,Huh?!
 Dialogue: 0,0:06:07.80,0:06:11.34,Default,,0,0,0,,Sensei! Tell us before we leave home!
-Dialogue: 0,0:06:11.34,0:06:17.34,Default,,0,0,0,,It just got decided!\NAnd periods will be shorter, so--
-Dialogue: 0,0:06:11.34,0:06:17.34,Default,,0,0,0,,{\an8}Why is our school so slow with\Nannouncements? My friend's school--
+Dialogue: 0,0:06:11.34,0:06:17.34,Default,,0,0,0,,It just got decided!\NAnd periods will be shorter, so—
+Dialogue: 0,0:06:11.34,0:06:17.34,Default,,0,0,0,,{\an8}Why is our school so slow with\Nannouncements? My friend's school—
 Dialogue: 0,0:06:17.34,0:06:22.80,Default,,0,0,0,,Senpai. Training is this evening,\Nright? Care if I come?
 Dialogue: 0,0:06:22.80,0:06:24.89,Default,,0,0,0,,Sure, why not?
 Dialogue: 0,0:06:24.89,0:06:31.84,Default,,0,0,0,,Must be nice to get your own robot!\NYou'll get paid for this, right?
@@ -136,7 +136,7 @@ Dialogue: 0,0:08:46.30,0:08:51.72,Default,,0,0,0,,It's possible Dynazenon\Nrecog
 Dialogue: 0,0:08:51.72,0:08:53.59,Default,,0,0,0,,Oh.
 Dialogue: 0,0:08:53.59,0:08:55.30,Default,,0,0,0,,You were in here? Sorry.
 Dialogue: 0,0:08:55.30,0:08:57.22,Default,,0,0,0,,Gauma? Why are you here?!
-Dialogue: 0,0:08:57.22,0:08:58.68,Default,,0,0,0,,Because you weren't at--
+Dialogue: 0,0:08:57.22,0:08:58.68,Default,,0,0,0,,Because you weren't at—
 Dialogue: 0,0:08:58.68,0:09:00.09,Default,,0,0,0,,Close the door!
 Dialogue: 0,0:09:00.09,0:09:01.76,Default,,0,0,0,,Oh, sorry.
 Dialogue: 0,0:09:01.76,0:09:03.47,Default,,0,0,0,,Why'd you come in?
@@ -150,7 +150,7 @@ Dialogue: 0,0:09:26.72,0:09:28.01,Default,,0,0,0,,Aren't you cramped?
 Dialogue: 0,0:09:28.01,0:09:29.09,Default,,0,0,0,,I am.
 Dialogue: 0,0:09:29.09,0:09:31.47,Default,,0,0,0,,I told you, it's too small.
 Dialogue: 0,0:09:31.47,0:09:34.01,Default,,0,0,0,,Oh? So now it's my fault?
-Dialogue: 0,0:09:34.01,0:09:35.05,Default,,0,0,0,,I never--
+Dialogue: 0,0:09:34.01,0:09:35.05,Default,,0,0,0,,I never—
 Dialogue: 0,0:09:35.05,0:09:38.64,Default,,0,0,0,,She's toying with you and tricked you!
 Dialogue: 0,0:09:38.64,0:09:39.93,Default,,0,0,0,,Is it true?
 Dialogue: 0,0:09:39.93,0:09:41.64,Default,,0,0,0,,I said I was sorry.
@@ -175,13 +175,13 @@ Dialogue: 0,0:10:17.51,0:10:23.55,Default,,0,0,0,,{\an8}There are what appears t
 Dialogue: 0,0:10:20.59,0:10:24.09,Default,,0,0,0,,I know! It's late,\Nso why don't you sleep over?
 Dialogue: 0,0:10:23.55,0:10:30.55,Default,,0,0,0,,{\an8}To protect city hall,\Nthis tent will be used as disaster HQ.
 Dialogue: 0,0:10:24.09,0:10:26.14,Default,,0,0,0,,Huh?! Why?!
-Dialogue: 0,0:10:26.14,0:10:30.55,Default,,0,0,0,,Well, I'd hate to intrude more than--
+Dialogue: 0,0:10:26.14,0:10:30.55,Default,,0,0,0,,Well, I'd hate to intrude more than—
 Dialogue: 0,0:10:44.43,0:10:48.64,Default,,0,0,0,,Due to the incident,\Nthis train service has been suspended.
-Dialogue: 0,0:10:48.64,0:10:50.76,Default,,0,0,0,,We're very sorry for any--
+Dialogue: 0,0:10:48.64,0:10:50.76,Default,,0,0,0,,We're very sorry for any—
 Dialogue: 0,0:11:02.30,0:11:06.51,Default,,0,0,0,,So it's impossible for Achilles\Nto catch up to the tortoise.
 Dialogue: 0,0:11:06.51,0:11:09.72,Default,,0,0,0,,If Achilles gets here,\Nhe hasn't caught up, yes?
 Dialogue: 0,0:11:09.72,0:11:11.80,Default,,0,0,0,,He's here, see? Not caught up.
-Dialogue: 0,0:11:11.80,0:11:13.34,Default,,0,0,0,,This paradox is--
+Dialogue: 0,0:11:11.80,0:11:13.34,Default,,0,0,0,,This paradox is—
 Dialogue: 0,0:11:15.05,0:11:17.34,Default,,0,0,0,,You didn't come yesterday.
 Dialogue: 0,0:11:17.34,0:11:21.18,Default,,0,0,0,,To training? Yeah, I had work.
 Dialogue: 0,0:11:21.18,0:11:24.59,Default,,0,0,0,,I want you to come with me somewhere.
@@ -229,7 +229,7 @@ Dialogue: 0,0:14:13.55,0:14:14.89,Default,,0,0,0,,Huh?
 Dialogue: 0,0:14:14.89,0:14:16.43,Default,,0,0,0,,By accident.
 Dialogue: 0,0:14:18.09,0:14:20.22,Default,,0,0,0,,She died at that flood gate.
 Dialogue: 0,0:14:20.22,0:14:23.84,Default,,0,0,0,,Next stop is Fujiyokidai. Fujiyokidai.
-Dialogue: 0,0:14:23.84,0:14:27.05,Default,,0,0,0,,Use the doors on the left. Please remain--
+Dialogue: 0,0:14:23.84,0:14:27.05,Default,,0,0,0,,Use the doors on the left. Please remain—
 Dialogue: 0,0:14:28.47,0:14:32.09,Default,,0,0,0,,We've got training today. You coming?
 Dialogue: 0,0:14:32.09,0:14:34.93,Default,,0,0,0,,I've got another shift today.
 Dialogue: 0,0:14:34.93,0:14:37.80,Default,,0,0,0,,I see. I'll let the others know.
@@ -278,12 +278,12 @@ Dialogue: 0,0:17:24.68,0:17:25.84,Default,,0,0,0,,Warping?!
 Dialogue: 0,0:17:25.84,0:17:28.89,Default,,0,0,0,,I'm just along for the ride, right?
 Dialogue: 0,0:17:38.18,0:17:42.39,Default,,0,0,0,,It's no use! I can't\Nfigure out its movements!
 Dialogue: 0,0:17:42.39,0:17:43.59,Default,,0,0,0,,Split up and fight!
-Dialogue: 0,0:17:43.59,0:17:45.59,Default,,0,0,0,,--Split up?\N--Disperse!
+Dialogue: 0,0:17:43.59,0:17:45.59,Default,,0,0,0,,—Split up?\N—Disperse!
 Dialogue: 0,0:17:49.14,0:17:50.89,Default,,0,0,0,,Um...
 Dialogue: 0,0:17:50.89,0:17:55.59,Default,,0,0,0,,Got it? Fight as three\Ntill I can get a good shot!
 Dialogue: 0,0:17:55.59,0:17:57.55,Default,,0,0,0,,Um...
-Dialogue: 0,0:17:57.55,0:17:58.72,Default,,0,0,0,,--Okay.\N--Got it.\N--But I don't really know how to move yet.
-Dialogue: 0,0:17:58.72,0:18:01.34,Default,,0,0,0,,--Good! Commence strategy!\N--But I don't really know how to move yet.
+Dialogue: 0,0:17:57.55,0:17:58.72,Default,,0,0,0,,—Okay.\N—Got it.\N—But I don't really know how to move yet.
+Dialogue: 0,0:17:58.72,0:18:01.34,Default,,0,0,0,,—Good! Commence strategy!\N—But I don't really know how to move yet.
 Dialogue: 0,0:18:09.89,0:18:12.76,Default,,0,0,0,,C'mon, Yomogi! Move!
 Dialogue: 0,0:18:12.76,0:18:17.22,Default,,0,0,0,,Sorry! I'm not sure how!
 Dialogue: 0,0:18:16.73,0:18:16.82,Default,,0,0,0,,{\bord0.1\blur10\fs70\pos(728,516)\fnOpen Sans\b0\3c&HDBDAD4&\c&HDBDAD4&\frz338.2}Supervisor
