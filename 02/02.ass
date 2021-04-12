@@ -10,14 +10,12 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dyna
-Audio File: dyna02workraw.mkv
-Video File: dyna02workraw.mkv
-Keyframes File: dyna02workraw_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 166
-Video Position: 16338
+Scroll Position: 44
+Active Line: 63
+Video Position: 8557
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +38,7 @@ Dialogue: 0,0:02:40.28,0:02:42.31,Default,,0,0,0,,Minami, you okay?!
 Dialogue: 0,0:02:59.94,0:03:01.58,Default,,0,0,0,,What's this?
 Dialogue: 0,0:03:06.79,0:03:07.92,Default,,0,0,0,,It vanished!
 Dialogue: 0,0:03:11.50,0:03:15.01,Default,,0,0,0,,It can go back to being small?
-Dialogue: 0,0:03:15.55,0:03:20.01,Default,,0,0,0,,It's thanks to you guys\Nwe beat that {\i1}kaiju{\i0}. Thanks.
+Dialogue: 0,0:03:15.55,0:03:20.01,Default,,0,0,0,,It's thanks to you guys\Nwe beat that kaiju. Thanks.
 Dialogue: 0,0:03:20.29,0:03:23.30,Default,,0,0,0,,Huh? But I didn't do anything.
 Dialogue: 0,0:03:23.30,0:03:29.46,Default,,0,0,0,,Actually, it's possible that Dynazenon\Nrecognized your aptitude.
 Dialogue: 0,0:03:29.46,0:03:33.83,Default,,0,0,0,,Thank goodness!\NYou're not dead after all, Senpai!
@@ -65,13 +63,13 @@ Dialogue: 0,0:04:09.97,0:04:13.61,Default,,0,0,0,,I'm Chise Asukagawa. We're cou
 Dialogue: 0,0:04:13.89,0:04:18.36,Default,,0,0,0,,I'm Gauma. And you? What's your name?
 Dialogue: 0,0:04:19.40,0:04:21.62,Default,,0,0,0,,Yume Minami.
 Dialogue: 0,0:04:22.99,0:04:25.36,Default,,0,0,0,,Just chill out, okay?
-Dialogue: 0,0:04:25.36,0:04:30.31,Default,,0,0,0,,Anyway, what's this about\N{\i1}kaiju{\i0} and Dynazenon?
-Dialogue: 0,0:04:30.31,0:04:33.15,Default,,0,0,0,,That {\i1}kaiju{\i0} was being controlled.
+Dialogue: 0,0:04:25.36,0:04:30.31,Default,,0,0,0,,Anyway, what's this about\Nkaiju and Dynazenon?
+Dialogue: 0,0:04:30.31,0:04:33.15,Default,,0,0,0,,That kaiju was being controlled.
 Dialogue: 0,0:04:33.15,0:04:37.85,Default,,0,0,0,,Probably by the Kaiju Eugenicists,\Na dangerous crew.
 Dialogue: 0,0:04:37.85,0:04:40.10,Default,,0,0,0,,Kaiju Eugenicists?
 Dialogue: 0,0:04:40.10,0:04:41.86,Default,,0,0,0,,How do you know?
-Dialogue: 0,0:04:41.86,0:04:46.01,Default,,0,0,0,,They're {\i1}kaiju{\i0} users like me,\Nand I know they'll be back.
-Dialogue: 0,0:04:46.01,0:04:48.14,Default,,0,0,0,,There's gonna be more {\i1}kaiju{\i0}?
+Dialogue: 0,0:04:41.86,0:04:46.01,Default,,0,0,0,,They're kaiju users like me,\Nand I know they'll be back.
+Dialogue: 0,0:04:46.01,0:04:48.14,Default,,0,0,0,,There's gonna be more kaiju?
 Dialogue: 0,0:04:48.14,0:04:53.78,Default,,0,0,0,,To get ready for when they come,\Nyou guys need Dynazenon training.
 Dialogue: 0,0:04:53.78,0:04:56.46,Default,,0,0,0,,Let's meet up here tomorrow.
 Dialogue: 0,0:04:57.51,0:05:00.88,Default,,0,0,0,,Huh? Tomorrow, I dunno...
@@ -79,17 +77,17 @@ Dialogue: 0,0:05:02.45,0:05:04.25,Default,,0,0,0,,You guys are fine with it?
 Dialogue: 0,0:05:04.25,0:05:06.66,Default,,0,0,0,,If everyone else comes, sure.
 Dialogue: 0,0:05:06.66,0:05:11.65,Default,,0,0,0,,Especially you. Promise me\Nthat you'll show up.
 Dialogue: 0,0:05:12.42,0:05:13.67,Default,,0,0,0,,Fine.
-Dialogue: 0,0:05:19.83,0:05:24.44,Default,,0,0,0,,Dynazenon... Are you a {\i1}kaiju{\i0} ?
+Dialogue: 0,0:05:19.83,0:05:24.44,Default,,0,0,0,,Dynazenon... Are you a kaiju?
 Dialogue: 0,0:05:24.44,0:05:28.18,Default,,0,0,0,,Why did "that" person trust you with me?
 Dialogue: 0,0:05:30.87,0:05:32.57,Default,,0,0,0,,I'm this way.
 Dialogue: 0,0:05:32.57,0:05:33.19,Default,,0,0,0,,Right.
-Dialogue: 0,0:05:36.48,0:05:39.19,Default,,0,0,0,,Yomogi! You're being tricked!
-Dialogue: 0,0:05:39.19,0:05:42.19,Default,,0,0,0,,She's toying with you and tricked you!
+Dialogue: 0,0:05:36.48,0:05:39.19,Default,,0,0,0,,{\i1}Yomogi! You're being tricked!{\i0}
+Dialogue: 0,0:05:39.19,0:05:42.19,Default,,0,0,0,,{\i1}She's toying with you and tricked you!{\i0}
 Dialogue: 0,0:05:48.78,0:05:50.91,Default,,0,0,0,,Whoa! That's sick!
-Dialogue: 0,0:05:50.91,0:05:53.21,Default,,0,0,0,,Which one's the {\i1}kaiju{\i0} ?
+Dialogue: 0,0:05:50.91,0:05:53.21,Default,,0,0,0,,Which one's the kaiju?
 Dialogue: 0,0:05:53.21,0:05:54.36,Default,,0,0,0,,Both of 'em?
 Dialogue: 0,0:05:54.36,0:05:56.59,Default,,0,0,0,,Hey, listen up!
-Dialogue: 0,0:05:56.88,0:06:02.59,Default,,0,0,0,,Uh, transportation is a huge mess\Nbecause of yesterday's {\i1}kaiju{\i0} incident.
+Dialogue: 0,0:05:56.88,0:06:02.59,Default,,0,0,0,,Uh, transportation is a huge mess\Nbecause of yesterday's kaiju incident.
 Dialogue: 0,0:06:03.31,0:06:06.73,Default,,0,0,0,,Classes will start with 3rd period today.
 Dialogue: 0,0:06:06.73,0:06:08.03,Default,,0,0,0,,Huh?!
 Dialogue: 0,0:06:08.03,0:06:11.35,Default,,0,0,0,,Sensei! Tell us before we leave home!
@@ -139,7 +137,7 @@ Dialogue: 0,0:08:26.46,0:08:27.61,Default,,0,0,0,,Stand out much?
 Dialogue: 0,0:08:28.17,0:08:31.15,Default,,0,0,0,,Should we go to the mountains for this?
 Dialogue: 0,0:08:31.15,0:08:32.12,Default,,0,0,0,,Right now?
 Dialogue: 0,0:08:32.60,0:08:35.12,Default,,0,0,0,,We can just go in your toys.
-Dialogue: 0,0:08:46.43,0:08:51.39,Default,,0,0,0,,It's possible Dynazenon\Nrecognized your aptitude.
+Dialogue: 0,0:08:46.43,0:08:51.39,Default,,0,0,0,,{\i1}It's possible Dynazenon\Nrecognized your aptitude.{\i0}
 Dialogue: 0,0:08:51.96,0:08:52.67,Default,,0,0,0,,Oh.
 Dialogue: 0,0:08:53.78,0:08:55.47,Default,,0,0,0,,You were in here? Sorry.
 Dialogue: 0,0:08:55.47,0:08:57.36,Default,,0,0,0,,Gauma? Why are you here?!
@@ -158,7 +156,7 @@ Dialogue: 0,0:09:28.21,0:09:29.05,Default,,0,0,0,,I am.
 Dialogue: 0,0:09:29.05,0:09:31.65,Default,,0,0,0,,I told you, it's too small.
 Dialogue: 0,0:09:31.65,0:09:34.22,Default,,0,0,0,,Oh? So now it's my fault?
 Dialogue: 0,0:09:34.22,0:09:35.05,Default,,0,0,0,,I never—
-Dialogue: 0,0:09:35.05,0:09:38.43,Default,,0,0,0,,She's toying with you and tricked you!
+Dialogue: 0,0:09:35.05,0:09:38.43,Default,,0,0,0,,{\i1}She's toying with you and tricked you!{\i0}
 Dialogue: 0,0:09:38.87,0:09:40.06,Default,,0,0,0,,Is it true?
 Dialogue: 0,0:09:40.06,0:09:41.82,Default,,0,0,0,,{\an8}I said I was sorry.
 Dialogue: 0,0:09:41.82,0:09:44.13,Default,,0,0,0,,{\an8}It didn't sound like you were sorry.
@@ -173,7 +171,7 @@ Dialogue: 0,0:10:01.64,0:10:03.04,Default,,0,0,0,,You're not listening.
 Dialogue: 0,0:10:03.04,0:10:06.46,Default,,0,0,0,,Well, I'd hate to intrude\Nmore than I have.
 Dialogue: 0,0:10:06.46,0:10:10.87,Default,,0,0,0,,{\an8}As you can see,\NImose City Hall is a disaster.
 Dialogue: 0,0:10:10.87,0:10:17.08,Default,,0,0,0,,{\an8}It's a six-floor building,\Nbut roughly four floors were torn apart.
-Dialogue: 0,0:10:17.72,0:10:23.79,Default,,0,0,0,,{\an8}There are what appears to be claw marks\Nfrom a {\i1}kaiju{\i0} on the building.
+Dialogue: 0,0:10:17.72,0:10:23.79,Default,,0,0,0,,{\an8}There are what appears to be claw marks\Nfrom a kaiju on the building.
 Dialogue: 0,0:10:23.79,0:10:28.68,Default,,0,0,0,,{\an8}To protect city hall,\Nthis tent will be used as disaster HQ.
 Dialogue: 0,0:10:09.03,0:10:10.87,Default,,0,0,0,,Why don't you go sleep, Mom?
 Dialogue: 0,0:10:11.28,0:10:12.56,Default,,0,0,0,,Mmm.
@@ -236,8 +234,8 @@ Dialogue: 0,0:14:07.84,0:14:13.46,Default,,0,0,0,,When I was in elementary schoo
 Dialogue: 0,0:14:13.76,0:14:14.46,Default,,0,0,0,,Huh?
 Dialogue: 0,0:14:15.13,0:14:16.05,Default,,0,0,0,,By accident.
 Dialogue: 0,0:14:18.35,0:14:20.21,Default,,0,0,0,,She died at that flood gate.
-Dialogue: 0,0:14:20.21,0:14:23.21,Default,,0,0,0,,Next stop is Fujiyokidai. Fujiyokidai.
-Dialogue: 0,0:14:24.07,0:14:26.72,Default,,0,0,0,,Use the doors on the left. Please remain—
+Dialogue: 0,0:14:20.21,0:14:23.21,Default,,0,0,0,,{\an8}Next stop is Fujiyokidai. Fujiyokidai.
+Dialogue: 0,0:14:24.07,0:14:26.72,Default,,0,0,0,,{\an8}Use the doors on the left. Please remain—
 Dialogue: 0,0:14:28.66,0:14:32.02,Default,,0,0,0,,We've got training today. You coming?
 Dialogue: 0,0:14:32.37,0:14:35.13,Default,,0,0,0,,I've got another shift today.
 Dialogue: 0,0:14:35.13,0:14:38.00,Default,,0,0,0,,I see. I'll let the others know.
@@ -256,32 +254,32 @@ Dialogue: 0,0:15:22.40,0:15:23.44,Default,,0,0,0,,I suppose.
 Dialogue: 0,0:15:23.88,0:15:26.04,Default,,0,0,0,,What if that thing interferes?
 Dialogue: 0,0:15:26.04,0:15:29.45,Default,,0,0,0,,Leave it to me. I'll show no mercy.
 Dialogue: 0,0:15:30.72,0:15:33.29,Default,,0,0,0,,Instance Domination.
-Dialogue: 0,0:15:39.79,0:15:43.17,Default,,0,0,0,,{\i1}Kaiju{\i0} shall steer the world.
+Dialogue: 0,0:15:39.79,0:15:43.17,Default,,0,0,0,,Kaiju shall steer the world.
 Dialogue: 0,0:15:45.33,0:15:46.29,Default,,0,0,0,,Look!
 Dialogue: 0,0:15:48.88,0:15:51.85,Default,,0,0,0,,Abort! Abort training!
 Dialogue: 0,0:15:54.09,0:15:55.51,Default,,0,0,0,,What's the matter?
-Dialogue: 0,0:15:55.51,0:15:58.27,Default,,0,0,0,,A {\i1}kaiju{\i0} appeared! Let's go!
+Dialogue: 0,0:15:55.51,0:15:58.27,Default,,0,0,0,,A kaiju appeared! Let's go!
 Dialogue: 0,0:15:58.63,0:16:01.49,Default,,0,0,0,,Yume, can you contact Yomogi?
 Dialogue: 0,0:16:01.49,0:16:02.86,Default,,0,0,0,,Contact?
 Dialogue: 0,0:16:04.42,0:16:07.15,Default,,0,0,0,,If I go through friends, maybe.
 Dialogue: 0,0:16:10.59,0:16:14.33,Default,,0,0,0,,I didn't go to training again, but...
 Dialogue: 0,0:16:16.68,0:16:17.01,Default,,0,0,0,,Hello?
-Dialogue: 0,0:16:17.01,0:16:18.13,Default,,0,0,0,,Yomogi!
-Dialogue: 0,0:16:18.13,0:16:20.52,Default,,0,0,0,,Another {\i1}kaiju{\i0} appeared!
-Dialogue: 0,0:16:20.52,0:16:21.42,Default,,0,0,0,,A {\i1}kaiju{\i0}?
+Dialogue: 0,0:16:17.01,0:16:18.13,Default,,0,0,0,,{\i1}Yomogi!
+Dialogue: 0,0:16:18.13,0:16:20.52,Default,,0,0,0,,{\i1}Another kaiju appeared!{\i0}
+Dialogue: 0,0:16:20.52,0:16:21.42,Default,,0,0,0,,A kaiju?
 Dialogue: 0,0:16:21.42,0:16:25.17,Default,,0,0,0,,Without you, we can't fight as Dynazenon!
-Dialogue: 0,0:16:25.17,0:16:27.62,Default,,0,0,0,,But I haven't been training.
+Dialogue: 0,0:16:25.17,0:16:27.62,Default,,0,0,0,,{\i1}But I haven't been training.{\i0}
 Dialogue: 0,0:16:27.62,0:16:32.93,Default,,0,0,0,,Don't worry about it. You can just\Nride along, but we need you here!
-Dialogue: 0,0:16:32.93,0:16:34.40,Default,,0,0,0,,Where are you?!
+Dialogue: 0,0:16:32.93,0:16:34.40,Default,,0,0,0,,{\i1}Where are you?!{\i0}
 Dialogue: 0,0:16:34.40,0:16:36.29,Default,,0,0,0,,Where? Um...
-Dialogue: 0,0:16:36.29,0:16:38.75,Default,,0,0,0,,Forget it. I see you.
+Dialogue: 0,0:16:36.29,0:16:38.75,Default,,0,0,0,,{\i1}Forget it. I see you.{\i0}
 Dialogue: 0,0:16:38.75,0:16:39.69,Default,,0,0,0,,You do?
 Dialogue: 0,0:17:02.75,0:17:04.59,Default,,0,0,0,,I knew it'd show up.
 Dialogue: 0,0:17:04.59,0:17:08.95,Default,,0,0,0,,Dynazenon! Battle, Go!
 Dialogue: 0,0:17:19.69,0:17:21.94,Default,,0,0,0,,What the hell?! It's too fast!
 Dialogue: 0,0:17:22.20,0:17:24.85,Default,,0,0,0,,It's not just fast. It's warping.
 Dialogue: 0,0:17:24.85,0:17:26.04,Default,,0,0,0,,Warping?!
-Dialogue: 0,0:17:26.04,0:17:28.69,Default,,0,0,0,,I'm just along for the ride, right?
+Dialogue: 0,0:17:26.04,0:17:28.69,Default,,0,0,0,,{\i1}I'm just along for the ride, right?{\i0}
 Dialogue: 0,0:17:38.42,0:17:42.37,Default,,0,0,0,,It's no use! I can't\Nfigure out its movements!
 Dialogue: 0,0:17:42.66,0:17:43.80,Default,,0,0,0,,Split up and fight!
 Dialogue: 0,0:17:43.80,0:17:44.21,Default,,0,0,0,,Split up?
@@ -329,7 +327,7 @@ Dialogue: 0,0:21:12.00,0:21:13.04,Default,,0,0,0,,Aren't you glad?
 Dialogue: 0,0:21:15.09,0:21:16.55,Default,,0,0,0,,We protected it.
 Dialogue: 0,0:21:17.74,0:21:20.85,Default,,0,0,0,,Sorry. I held you guys back.
 Dialogue: 0,0:21:21.59,0:21:22.55,Default,,0,0,0,,Maybe.
-Dialogue: 0,0:21:23.25,0:21:27.31,Default,,0,0,0,,When I was in elementary school,\Nmy big sister died.
+Dialogue: 0,0:21:23.25,0:21:27.31,Default,,0,0,0,,{\i1}When I was in elementary school,\Nmy big sister died.{\i0}
 Dialogue: 0,0:21:30.30,0:21:31.93,Default,,0,0,0,,Hey, Minami.
 Dialogue: 0,0:21:31.93,0:21:33.17,Default,,0,0,0,,What?
 Dialogue: 0,0:21:33.17,0:21:36.57,Default,,0,0,0,,Were you fond of your big sister?
@@ -339,7 +337,7 @@ Dialogue: 0,0:21:48.39,0:21:52.96,Default,,0,0,0,,I never thought we'd meet agai
 Dialogue: 0,0:21:57.24,0:21:59.38,Default,,0,0,0,,I knew it had to be you guys!
 Dialogue: 0,0:22:00.76,0:22:02.88,Default,,0,0,0,,Are those people the...?
 Dialogue: 0,0:22:03.17,0:22:06.64,Default,,0,0,0,,Yeah. The Kaiju Eugenicists.
-Dialogue: 0,0:22:07.28,0:22:09.93,Default,,0,0,0,,{\i1}Kaiju{\i0} users like me!
+Dialogue: 0,0:22:07.28,0:22:09.93,Default,,0,0,0,,Kaiju users like me!
 Comment: 0,0:22:09.93,0:22:09.93,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:09.80,0:22:11.80,Default,,0,0,0,,TS here
 Comment: 0,0:22:11.80,0:22:13.80,Default,,0,0,0,,
@@ -1853,5 +1851,5 @@ Dialogue: 0,0:07:08.52,0:07:11.15,Sign,,0,0,0,,{\pos(977,188)\bord3\blur0.9\fs39
 Dialogue: 1,0:07:08.52,0:07:11.15,Sign,,0,0,0,,{\pos(977,188)\bord0\blur0.9\fs39\c&HB3BFCE&\1a&H00&\3a&H14&\4a&HFF&}Dogs must be leashed
 Comment: 0,0:22:11.80,0:22:13.80,Default,,0,0,0,,
 Dialogue: 0,0:15:43.16,0:15:43.84,Default,,0,0,0,,{\an8}"Dai Jiro to judge the 32nd Computer Art & Photo Contest"
-Dialogue: 0,0:15:43.84,0:15:44.92,Default,,0,0,0,,{\an8}"[Breaking] Another gigantic {\i1}kaiju{\i0}-like creature discovered in Tokyo."
+Dialogue: 0,0:15:43.84,0:15:44.92,Default,,0,0,0,,{\an8}"[Breaking] Another gigantic kaiju-like creature discovered in Tokyo."
 Comment: 0,0:22:11.80,0:22:13.80,Default,,0,0,0,,
