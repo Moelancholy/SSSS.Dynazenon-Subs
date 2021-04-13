@@ -9,19 +9,19 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Dyna
-Audio File: A:/Downloads/dyna02workraw.mkv
-Video File: A:/Downloads/dyna02workraw.mkv
+Last Style Storage: Dynazenon
+Audio File: ../../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 02 [69508FBB].mkv
+Video File: ../../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 02 [69508FBB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 334
-Active Line: 337
-Video Position: 5586
+Video Zoom Percent: 0.500000
+Scroll Position: 127
+Active Line: 143
+Video Position: 15213
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gandhi Sans,75,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.8,0,1,3.375,0,2,22,22,81,1
+Style: Default,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
 Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
@@ -290,7 +290,7 @@ Dialogue: 0,0:17:49.29,0:17:51.01,Default,,0,0,0,,Um...
 Dialogue: 0,0:17:51.01,0:17:55.51,Default,,0,0,0,,Got it? Fight as three\Ntill I can get a good shot!
 Dialogue: 0,0:17:55.82,0:17:57.51,Default,,0,0,0,,Um...
 Dialogue: 0,0:17:57.76,0:17:58.91,Default,,0,0,0,,{=2}{\pos(240,430)}Got it.
-Dialogue: 0,0:17:57.76,0:17:58.91,Default,,0,0,0,,{=3}{\pos(1680,430)}Okay.
+Dialogue: 0,0:17:57.76,0:17:58.91,Default,,0,0,0,,{=3}{\pos(1690,430)}Okay.
 Dialogue: 0,0:17:58.12,0:18:01.02,Default,,0,0,0,,But I don't really know how to move yet.
 Dialogue: 0,0:17:58.91,0:18:01.02,Default,,0,0,0,,{=4}{\pos(968,340)}Good! Commence strategy!
 Dialogue: 0,0:18:10.24,0:18:12.99,Default,,0,0,0,,C'mon, Yomogi! Move!
