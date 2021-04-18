@@ -7,7 +7,7 @@ WrapStyle: 0
 PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
