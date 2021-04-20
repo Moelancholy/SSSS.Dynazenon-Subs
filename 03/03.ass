@@ -99,6 +99,7 @@ Dialogue: 10,0:05:06.91,0:05:07.83,Default,,0,0,0,,Chorus club.
 Dialogue: 10,0:05:09.96,0:05:14.84,Default,,0,0,0,,Kano... I mean, my big sister was in it.
 Dialogue: 10,0:05:14.84,0:05:16.00,Default,,0,0,0,,Oh, yeah?
 Dialogue: 10,0:05:16.55,0:05:20.47,Default,,0,0,0,,I thought I'd ask around\Nand see what I learn.
+Dialogue: 0,0:05:20.46,0:05:21.98,Sign,,0,0,0,,{\fnAgency FB\b1\an2\fs120\bord0\fsp0.5\1c&H11141C&\blur1.4\frx8\pos(924,802)}Music Prep Room
 Dialogue: 10,0:05:22.26,0:05:25.64,Default,,0,0,0,,Yeah, I was the club advisor\Nfive years ago,
 Dialogue: 10,0:05:25.64,0:05:29.43,Default,,0,0,0,,but I can't remember much\Nabout your sister.
 Dialogue: 10,0:05:29.43,0:05:30.73,Default,,0,0,0,,I see.
@@ -143,6 +144,7 @@ Dialogue: 10,0:07:02.99,0:07:05.24,Default,,0,0,0,,Uh, sure.
 Dialogue: 10,0:07:09.37,0:07:10.33,Default,,0,0,0,,Who's that?
 Dialogue: 10,0:07:10.33,0:07:14.00,Default,,0,0,0,,Yomogi's been with\Nsome weird people lately.
 Dialogue: 10,0:07:18.00,0:07:21.00,Default,,0,0,0,,Ugh, I'm starving.
+Dialogue: 0,0:07:21.02,0:07:22.77,Sign,,0,0,0,,{\fnArial\an2\fs50\bord0\fsp0.5\1c&H7A6E65&\blur1.2\frz21\pos(842.001,222.286)}Kanae
 Dialogue: 10,0:07:23.30,0:07:24.47,Default,,0,0,0,,Who's that?
 Dialogue: 10,0:07:24.47,0:07:27.05,Default,,0,0,0,,A chorus club grad.
 Dialogue: 10,0:07:27.05,0:07:28.34,Default,,0,0,0,,Chorus club?
