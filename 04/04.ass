@@ -19,9 +19,9 @@ Keyframes File: SSSS.Dynazenon - 04 - workraw_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 60
-Active Line: 75
-Video Position: 12481
+Scroll Position: 192
+Active Line: 207
+Video Position: 18796
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -231,14 +231,14 @@ Dialogue: 10,0:12:23.56,0:12:27.98,Default,,0,0,0,,{\i1}Freshman, get with it an
 Dialogue: 10,0:12:27.98,0:12:30.35,Default,,0,0,0,,{\i1}Ask her out on a date.
 Dialogue: 10,0:12:31.48,0:12:32.65,Default,,0,0,0,,Date...
 Dialogue: 10,0:12:33.19,0:12:34.65,Default,,0,0,0,,Something is wrong with me.
-Comment: 0,0:12:34.65,0:12:34.65,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:12:34.98,0:12:38.86,Default,,0,0,0,,When she's like that,\Nit ain't easy for me.
 Dialogue: 10,0:12:38.86,0:12:43.03,Default,,0,0,0,,{\an8}Here to visit?! How nice of you to come!
 Dialogue: 10,0:12:43.03,0:12:47.04,Default,,0,0,0,,By the tone of her voice,\NI bet it's just Gauma.
 Dialogue: 10,0:12:50.04,0:12:51.83,Default,,0,0,0,,Hmm? You're sleeping.
-Dialogue: 10,0:12:52.79,0:12:55.30,Default,,0,0,0,,And here I bought all this stuff.
-Dialogue: 10,0:12:59.51,0:13:00.59,Default,,0,0,0,,You're up.
+Dialogue: 10,0:12:52.54,0:12:55.30,Default,,0,0,0,,And here I bought all this stuff.
+Dialogue: 10,0:12:59.51,0:13:00.93,Default,,0,0,0,,You're up.
 Dialogue: 10,0:13:01.64,0:13:03.93,Default,,0,0,0,,Huh? What?
+Comment: 0,0:13:03.93,0:13:03.93,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:13:09.94,0:13:11.81,Default,,0,0,0,,That's trippy.
 Dialogue: 10,0:13:11.81,0:13:14.15,Default,,0,0,0,,It's a very kaiju-like power.
 Dialogue: 10,0:13:14.15,0:13:16.44,Default,,0,0,0,,It's like it shifts dimensions.
