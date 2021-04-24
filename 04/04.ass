@@ -19,8 +19,7 @@ Keyframes File: SSSS.Dynazenon - 04 - workraw_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 195
-Active Line: 221
+Active Line: 42
 Video Position: 12481
 
 [V4+ Styles]
@@ -73,7 +72,7 @@ Dialogue: 10,0:03:49.58,0:03:51.09,Default,,0,0,0,,No, it's okay.
 Dialogue: 10,0:03:51.09,0:03:54.26,Default,,0,0,0,,Wait. I think Urita might have a few videos.
 Dialogue: 10,0:03:54.80,0:03:55.72,Default,,0,0,0,,Videos?
 Dialogue: 10,0:03:55.72,0:03:59.93,Default,,0,0,0,,Yeah. Of chorus practice\Nfor the club records.
-Dialogue: 10,0:03:59.93,0:04:04.18,Default,,0,0,0,,I bet Kano's in them a bunch.\NWant his number?
+Dialogue: 10,0:03:59.93,0:04:04.18,Default,,0,0,0,,I bet Kano's in 'em a bunch.\NWant his number?
 Dialogue: 10,0:04:04.18,0:04:05.27,Default,,0,0,0,,Is that okay?
 Dialogue: 10,0:04:05.27,0:04:08.77,Default,,0,0,0,,Of course. Urita would be happy to help.
 Dialogue: 10,0:04:11.23,0:04:13.02,Default,,0,0,0,,Thank you.
