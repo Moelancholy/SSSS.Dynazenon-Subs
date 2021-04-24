@@ -19,8 +19,8 @@ Keyframes File: SSSS.Dynazenon - 04 - workraw_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 336
-Active Line: 352
+Scroll Position: 60
+Active Line: 75
 Video Position: 12481
 
 [V4+ Styles]
@@ -106,7 +106,7 @@ Dialogue: 10,0:05:41.70,0:05:42.91,Default,,0,0,0,,Huh? Wh-What's this?
 Dialogue: 10,0:05:43.57,0:05:47.29,Default,,0,0,0,,What does it mean? Is this like... a date?
 Dialogue: 10,0:05:47.29,0:05:50.45,Default,,0,0,0,,Hey, quit your mumbling over there.
 Dialogue: 10,0:05:50.45,0:05:52.00,Default,,0,0,0,,Y-You were here?
-Dialogue: 10,0:05:52.00,0:05:54.13,Default,,0,0,0,,Have been since morning.
+Dialogue: 10,0:05:52.00,0:05:54.13,Default,,0,0,0,,Huh? Have been since morning.
 Dialogue: 10,0:05:54.13,0:05:56.79,Default,,0,0,0,,Oh, right. Yeah.
 Dialogue: 10,0:05:58.63,0:06:00.88,Default,,0,0,0,,Did you meet the chorus grad?
 Dialogue: 10,0:06:00.88,0:06:01.55,Default,,0,0,0,,Yeah.
