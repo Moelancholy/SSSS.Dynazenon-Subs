@@ -17,10 +17,10 @@ Audio File: ../../../../Desktop/Dynazenon/SSSS.Dynazenon - 04 - qc.mkv
 Video File: ../../../../Desktop/Dynazenon/SSSS.Dynazenon - 04 - qc.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 358
-Active Line: 374
-Video Position: 8221
+Video Zoom Percent: 0.875000
+Scroll Position: 355
+Active Line: 357
+Video Position: 8017
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -390,7 +390,7 @@ Dialogue: 1,0:02:55.70,0:02:59.70,Title,,100,100,0,,{\an5\pos(960,415)\fsp4\fs14
 Dialogue: 0,0:02:55.70,0:02:59.70,Title,,0,0,0,,{\an7\pos(960,840)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m -350 -209 l 346 -209 346 -50 -350 -50
 Dialogue: 1,0:02:55.70,0:02:59.70,Title,,0,0,0,,{\an5\pos(960,715)\fsp6\fs90\fnRoboto\bord0\blur1.1}— Episode 4 —
 Comment: 0,0:05:34.36,0:05:35.48,Sign,,0,0,0,,
-Dialogue: 1,0:05:34.36,0:05:35.48,phone,,0,0,0,,{\an8\blur1.1.2\bord0\shad0\fscx100\fscy100\frz90\fnArial\pos(945,553.334)\fad(0,100)}Inamoto
+Dialogue: 1,0:05:34.36,0:05:35.48,phone,,0,0,0,,{\an8\blur1.2\bord0\shad0\fscx100\fscy100\frz90\fnArial\pos(945,553.334)\fad(0,100)}Inamoto
 Dialogue: 0,0:05:39.90,0:05:42.91,Sign,,0,0,0,,{\an7\pos(0,0)\blur11\bord0\shad0\fscx100\fscy100\p1\c&HB88267&}m 1122 236 l 982 235 942 185 977 134 1126 134 1162 188
 Dialogue: 0,0:05:39.90,0:05:42.91,Sign,,0,0,0,,{\an7\pos(0,0)\blur5\bord0\shad0\fscx100\fscy100\p1\c&HFEFEFE&}m 390 442 l 1468 442 1468 726 390 726
 Dialogue: 1,0:05:39.90,0:05:42.91,Sign,,0,0,0,,{\an1\blur1\bord0\shad0\fscx100\fscy120\c&H606060&\b1\fs72\fnArial\pos(390.666,680.668)}It's been so long,\Nlet's catch up over dinner someday.
