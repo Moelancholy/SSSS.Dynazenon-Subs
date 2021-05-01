@@ -16,9 +16,9 @@ Video File: A:/Downloads/SSSS.Dynazenon - 05 (workraw).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 448
-Active Line: 451
-Video Position: 8090
+Scroll Position: 439
+Active Line: 443
+Video Position: 10731
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -473,11 +473,9 @@ Dialogue: 1,0:06:15.18,0:06:15.43,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\
 Dialogue: 1,0:06:15.43,0:06:17.85,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
 Dialogue: 1,0:06:17.85,0:06:18.44,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.7)}Winner!
 Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
-Dialogue: 0,0:07:27.55,0:07:29.80,Sign,,0,0,0,,{\bord1.6\fsp1.2\blur1\an4\fs40\b1\pos(1367.35,441)\1a&H00&\3c&H9D6C4D&\c&H9D6C4D&\fnArial}TOKYO {\3c&H8766E3&\c&H8766E3&\fnArial Rounded MT Bold\i1}BEACH LAND
-Dialogue: 1,0:07:27.55,0:07:29.80,Sign,,0,0,0,,{\bord0\fsp1.2\blur1\an4\fs40\b1\pos(1367.35,441)\c&HB8DFF1&\1a&H00&\fnArial\4a&HFF&}TOKYO {\fnArial Rounded MT Bold\i1}BEACH LAND
+Dialogue: 0,0:07:27.55,0:07:29.80,Sign,,0,0,0,,{\fsp1.2\blur1\an4\fs42\b1\pos(1367.35,441)\1a&H00&\3c&H9D6C4D&\c&H9D6C4D&\fnArial}TOKYO {\3c&H8766E3&\c&H8766E3&\fnArial Rounded MT Bold\i1}BEACH LAND
 Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
-Dialogue: 0,0:21:18.47,0:21:20.47,Sign,,0,0,0,,{\bord1.6\fsp1.2\blur1\an4\fs40\b1\pos(1367.35,441)\1a&H00&\3c&HA79593&\c&HA79593&\fnArial}TOKYO {\3c&H8F83F1&\c&H8F83F1&\fnArial Rounded MT Bold\i1}BEACH LAND
-Dialogue: 1,0:21:18.47,0:21:20.47,Sign,,0,0,0,,{\bord0\fsp1.2\blur1\an4\fs40\b1\pos(1367.35,441)\c&HB5E8FB&\1a&H00&\fnArial\4a&HFF&}TOKYO {\fnArial Rounded MT Bold\i1}BEACH LAND
+Dialogue: 0,0:21:18.47,0:21:20.47,Sign,,0,0,0,,{\fsp1.2\blur1\an4\fs42\b1\pos(1367.35,441)\1a&H00&\3c&HA79593&\c&HA79593&\fnArial}TOKYO {\3c&H8F83F1&\c&H8F83F1&\fnArial Rounded MT Bold\i1}BEACH LAND
 Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
 Dialogue: 0,0:05:37.40,0:05:39.40,Sign,,0,0,0,,{\an7\bord0\c&H584E56&\blur1\p1\pos(3.21,4.18)}m 1576 667 l 1575 722 1849 732 1849 676
 Dialogue: 0,0:05:37.40,0:05:39.40,Sign,,0,0,0,,{\an5\fsp0\b0\bord0\frz-2\fry-5\fs28\bord2\shad2\c&H554F56&\3c&H554F56&\4c&H483F46&\blur0.6\4a&H96&\pos(1710.21,702.18)}Fujiyokidai High School
