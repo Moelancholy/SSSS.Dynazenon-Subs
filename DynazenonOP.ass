@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Desktop/Dynazenon/SSSS.Dynazenon - 04 - qc.mkv
-Video File: ../../../Desktop/Dynazenon/SSSS.Dynazenon - 04 - qc.mkv
+Audio File: ../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 04 [F8FDE38C].mkv
+Video File: ../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 04 [F8FDE38C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 51
-Active Line: 61
-Video Position: 2100
+Scroll Position: 23
+Active Line: 33
+Video Position: 981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,15 +57,15 @@ Dialogue: 0,0:00:35.47,0:00:38.06,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I
 Dialogue: 2,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)}You can find the root of their anxiety
 Dialogue: 1,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You can find the root of their anxiety
 Dialogue: 0,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You can find the root of their anxiety
-Dialogue: 2,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)}I want to know why I met you all on your own
-Dialogue: 1,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to know why I met you all on your own
-Dialogue: 0,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to know why I met you all on your own
-Dialogue: 2,0:00:43.69,0:00:50.20,OP,,0,0,0,,{\fad(100,200)}I want to know the reason for your solitude
-Dialogue: 1,0:00:43.69,0:00:50.20,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to know the reason for your solitude
-Dialogue: 0,0:00:43.69,0:00:50.20,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to know the reason for your solitude
-Dialogue: 2,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(100,200)}Stand proud!
-Dialogue: 1,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Stand proud!
-Dialogue: 0,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Stand proud!
+Dialogue: 2,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)}When you and I met, you were all alone
+Dialogue: 1,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}When you and I met, you were all alone
+Dialogue: 0,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}When you and I met, you were all alone
+Dialogue: 2,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
+Dialogue: 1,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
+Dialogue: 0,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
+Dialogue: 2,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
+Dialogue: 1,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
+Dialogue: 0,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
 Dialogue: 2,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
 Dialogue: 1,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
 Dialogue: 0,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
