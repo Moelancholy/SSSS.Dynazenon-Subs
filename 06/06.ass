@@ -11,21 +11,20 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: dynazenon
-Audio File: [Pizza] SSSS.Dynazenon . 06 (workraw).mkv
-Video File: [Pizza] SSSS.Dynazenon . 06 (workraw).mkv
-Keyframes File: [Pizza] SSSS.Dynazenon . 06 (workraw)_keyframes.txt
+Audio File: A:/Downloads/[Pizza] SSSS.Dynazenon . 06 (workraw).mkv
+Video File: A:/Downloads/[Pizza] SSSS.Dynazenon . 06 (workraw).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 207
-Active Line: 212
-Video Position: 18256
+Video Zoom Percent: 1.000000
+Scroll Position: 405
+Active Line: 411
+Video Position: 15253
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
 Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Title,Roboto Light,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,10,0,5,0,0,0,1
+Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,100,100,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -383,22 +382,65 @@ Dialogue: 10,0:22:05.43,0:22:06.68,Default,,0,0,0,,A giant?!
 Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,{TS BELOW HERE}
 Dialogue: 0,0:02:16.78,0:02:22.54,Sign,,0,0,0,,{\an8}"Emergency Exit"
-Dialogue: 0,0:09:31.55,0:09:35.81,Sign,,0,0,0,,{\an8}"Pre-Recital Pranking!!"
-Dialogue: 0,0:09:33.76,0:09:35.76,Sign,,0,0,0,,{\an8}"Kanokano Edition"
-Dialogue: 0,0:09:39.93,0:09:41.06,Sign,,0,0,0,,{\an8}"She closed it!"
-Dialogue: 0,0:09:44.06,0:09:45.06,Sign,,0,0,0,,{\an8}"Did you lose something?"
-Dialogue: 0,0:09:50.32,0:09:51.32,Sign,,0,0,0,,{\an8}"I don't know"
-Dialogue: 0,0:09:54.07,0:09:55.07,Sign,,0,0,0,,{\an8}"Kanokano's searching"
-Dialogue: 0,0:09:57.95,0:09:58.83,Sign,,0,0,0,,{\an8}"My ankh puzzle's...{\alphaH&FF&} gone"
-Dialogue: 0,0:09:58.83,0:09:59.70,Sign,,0,0,0,,{\an8}"My ankh puzzle's... gone"
-Dialogue: 0,0:09:59.70,0:10:00.96,Sign,,0,0,0,,{\an8}"She got it!!!!!!"
-Dialogue: 0,0:10:05.58,0:10:06.54,Sign,,0,0,0,,{\an8}"Kano-Kano is searching the clubroom"
-Dialogue: 0,0:10:12.84,0:10:13.80,Sign,,0,0,0,,{\an8}"Kanokano missed the hint"
-Dialogue: 0,0:10:14.34,0:10:15.97,Sign,,0,0,0,,{\an8}"But then..."
-Dialogue: 0,0:10:18.43,0:10:19.43,Sign,,0,0,0,,{\an8}"Kanokano sees something"
-Dialogue: 0,0:10:24.90,0:10:26.90,Sign,,0,0,0,,{\an8}"Ankh puzzle, found!!"
-Dialogue: 0,0:10:26.90,0:10:32.49,Sign,,0,0,0,,{\an8}"Thank goodness"
-Dialogue: 0,0:10:33.90,0:10:36.16,Sign,,0,0,0,,{\an8}"Prank success!!"
-Dialogue: 0,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\an8}"Subscribe if you liked it!"\N"Recommended Videos" "Click below"
-Dialogue: 0,0:10:36.16,0:10:38.66,Sign,,0,0,0,,"(Title)" "Subscribe"
-Dialogue: 0,0:03:31.73,0:03:35.74,Title,,0,0,0,,{\an8}"Episode 3: What Is This Pain?"
+Dialogue: 1,0:09:31.55,0:09:35.81,Sign,,0,0,0,,{\fad(1523,0)\fs180\blur1.7\fsp6\bord6\i1\pos(973.72,124)\4a&HFF&\3c&HFF5800&\c&HFF5800&\fnRoboto Condensed\1a&HFF&\t(1478,1523,\1a&H00&)}Pre-Recital Pranking!!{\i0}
+Dialogue: 2,0:09:31.55,0:09:35.81,Sign,,0,0,0,,{\fad(1523,0)\fs180\blur1.7\fsp6\bord0\c&HFFFF02&\i1\pos(973.72,124)\4a&HFF&\fnRoboto Condensed\4a&HFF&}Pre-Recital Pranking!!{\i0}
+Dialogue: 0,0:09:33.76,0:09:35.76,Sign,,0,0,0,,{\fs100\blur2.5\c&HFC02F4&\pos(912,630)}~Kanokano Edition~
+Comment: 0,0:09:33.76,0:09:35.76,Sign,,0,0,0,,
+Dialogue: 0,0:09:39.93,0:09:41.06,Sign,,0,0,0,,{\fs128\fsp2\bord3.6\blur4\pos(986,761.33)\c&H000000&}She closed it!
+Dialogue: 1,0:09:39.93,0:09:41.06,Sign,,0,0,0,,{\fs128\fsp2\c&H0607FB&\bord0\blur2\pos(986,761.33)\4a&HFF&}She closed it!
+Comment: 1,0:09:39.93,0:09:41.06,Sign,,0,0,0,,
+Dialogue: 0,0:09:44.06,0:09:45.06,Sign,,0,0,0,,{\fsp4\pos(960,730)\fs120\bord1\blur2\3c&HFFFFFF&\c&HFFFFFF&\3a&H2D&}Did you lose something?
+Dialogue: 1,0:09:44.06,0:09:45.06,Sign,,0,0,0,,{\fsp4\pos(960,730)\fs120\bord0\blur3\c&H0000FD&\3a&H2D&\4a&HFF&}Did you lose something?
+Comment: 1,0:09:44.06,0:09:45.06,Sign,,0,0,0,,
+Dialogue: 0,0:09:50.32,0:09:51.32,Sign,,0,0,0,,{\fsp4\fs114\bord1\blur2\3c&HFFFFFF&\c&HFFFFFF&\3a&H2D&\pos(1372.5,114)}I don't know
+Dialogue: 0,0:09:50.32,0:09:51.32,Sign,,0,0,0,,{\fsp4\fs114\bord0\blur3\c&HED04FF&\3a&H2D&\4a&HFF&\pos(1372.5,114)}I don't know
+Comment: 0,0:09:50.32,0:09:51.32,Sign,,0,0,0,,
+Dialogue: 0,0:09:54.07,0:09:55.07,Sign,,0,0,0,,{\fsp4\fs114\bord1.6\blur2\3c&HFFFFFF&\c&HFFFFFF&\3a&H2D&\pos(968,780)}Kanokano's {\3c&H000000&\c&H000000&}searching
+Dialogue: 1,0:09:54.07,0:09:55.07,Sign,,0,0,0,,{\fsp4\fs114\bord0\blur2\c&HFF01DC&\3a&H2D&\pos(968,780)\4a&HFF&}Kanokano's {\c&HFFEE00&}searching
+Comment: 1,0:09:54.07,0:09:55.07,Sign,,0,0,0,,
+Dialogue: 0,0:09:57.95,0:09:59.70,Sign,,0,0,0,,{\fsp2\pos(440,700)\fs100\bord4\blur2\3c&HCF7960&\c&HCF7960&}My ankh puzzle's...
+Dialogue: 1,0:09:57.95,0:09:59.70,Sign,,0,0,0,,{\fsp2\pos(440,700)\fs100\c&HFFFCFE&\bord0\blur1\4a&HFF&}My ankh puzzle's...
+Dialogue: 0,0:09:58.83,0:09:59.70,Sign,,0,0,0,,{\3c&H000000&\c&H000000&\t(0,394,\frz180)\fsp10\pos(1458,660)\fs140\bord5\blur2\3c&H5B4FDE&\c&H5B4FDE&}go
+Dialogue: 1,0:09:58.83,0:09:59.70,Sign,,0,0,0,,{\t(0,394,\frz180)\fsp10\pos(1458,660)\fs140\c&HFFFFFC&\bord0\blur1\4a&HFF&}go
+Dialogue: 0,0:09:58.83,0:09:59.70,Sign,,0,0,0,,{\3c&H000000&\c&H000000&\t(0,394,\frz180)\fsp10\pos(1658,660)\fs140\bord5\blur2\3c&H5B4FDE&\c&H5B4FDE&}ne
+Dialogue: 1,0:09:58.83,0:09:59.70,Sign,,0,0,0,,{\t(0,394,\frz180)\fsp10\pos(1658,660)\fs140\c&HFFFFFC&\bord0\blur1\4a&HFF&}ne
+Comment: 1,0:09:58.83,0:09:59.70,Sign,,0,0,0,,
+Dialogue: 0,0:09:59.70,0:10:00.96,Sign,,0,0,0,,{\blur2\bord3\fs120\pos(620,330)\c&H000000&\3c&H000000&\3a&H2D&}She got it!!!!!! 
+Dialogue: 1,0:09:59.70,0:10:00.96,Sign,,0,0,0,,{\blur1.5\c&H00FE01&\bord0\fs120\pos(620,330)\4a&HFF&}She got it!!!!!! 
+Comment: 1,0:09:59.70,0:10:00.96,Sign,,0,0,0,,
+Dialogue: 0,0:10:05.58,0:10:06.54,Sign,,0,0,0,,{\blur1.5\bord0.5\fs90\pos(960,280)\3c&H000000&\c&H000000&\3a&H5A&}Kano-Kano is searching the clubroom
+Dialogue: 1,0:10:05.58,0:10:06.54,Sign,,0,0,0,,{\blur1\bord0\fs90\pos(960,280)\c&HFD05F6&\3a&H2D&\4a&HFF&}Kano-Kano {\c&H08FEFC&}is searching the clubroom
+Comment: 1,0:10:05.58,0:10:06.54,Sign,,0,0,0,,
+Dialogue: 0,0:10:12.84,0:10:13.80,Sign,,0,0,0,,{\fsp2\bord1\blur2\fs80\pos(1317,558)\3c&H000000&\c&H000000&\3a&H8C&}Kanokano missed the hint
+Dialogue: 1,0:10:12.84,0:10:13.80,Sign,,0,0,0,,{\fsp2\bord0\blur1\fs80\pos(1317,558)\c&H03FE22&\3a&H2D&\4a&HFF&}Kanokano {\c&HFD430B&}missed the hint
+Comment: 1,0:10:12.84,0:10:13.80,Sign,,0,0,0,,
+Dialogue: 0,0:10:14.26,0:10:15.97,Sign,,0,0,0,,{\an4\fsp20\blur3\fs140\bord8\move(1924,700,711,700,0,936)\3c&HE41423&\c&HE41423&\fnRoboto Light}But then...
+Dialogue: 1,0:10:14.26,0:10:15.97,Title,,0,0,0,,{\an4\fsp20\blur2\fs140\bord2\3c&HB810AF&\c&HB810AF&\move(1924,700,711,700,0,936)\fnRoboto Light}But then...
+Dialogue: 2,0:10:14.26,0:10:15.97,Title,,0,0,0,,{\an4\fsp20\blur1\fs140\bord0\c&H4C49FF&\move(1924,700,711,700,0,936)\fnRoboto Light\4a&HFF&}But then...
+Dialogue: 2,0:10:14.26,0:10:15.97,Sign,,0,0,0,,{\an4\fsp20\blur10\fs140\c&HD12FA6&\bord0\move(1924,700,711,700,0,936)\fnRoboto Light\4a&HFF&}But then...
+Dialogue: 2,0:10:14.26,0:10:15.97,Sign,,0,0,0,,{\an4\fsp20\blur6\fs140\c&H444CFE&\bord0\move(1924,700,711,700,0,936)\fnRoboto Light\4a&HFF&\1a&H78&}But then...
+Comment: 0,0:10:14.26,0:10:15.97,Sign,,0,0,0,,
+Dialogue: 0,0:10:18.43,0:10:19.43,Sign,,0,0,0,,{\pos(960,720)\fs124\blur2\fsp2\bord5\fnRoboto Light\b0\c&H000000&}Kanokano sees something
+Dialogue: 1,0:10:18.43,0:10:19.43,Sign,,0,0,0,,{\pos(960,720)\fs124\blur1.5\fsp2\bord0\fnRoboto Light\b0\c&HF302F5&\4a&HFF&}Kanokano {\c&H0000E5&}sees something
+Comment: 1,0:10:18.43,0:10:19.43,Sign,,0,0,0,,
+Dialogue: 0,0:10:24.90,0:10:26.90,Sign,,0,0,0,,{\an6\fs120\bord0.2\blur2\fsp2\fnRoboto Light\b0\pos(936,780)\c&H000000&}Ankh puzzle
+Dialogue: 1,0:10:24.90,0:10:26.90,Sign,,0,0,0,,{\an6\fs120\bord0\blur1\c&H52DD3E&\fsp2\fnRoboto Light\b0\pos(936,780)\4a&HFF&}Ankh puzzle
+Dialogue: 0,0:10:24.90,0:10:26.90,Sign,,0,0,0,,{\an4\fs120\bord0.2\blur2\fsp2\fnRoboto Light\b0\pos(1110,780)\c&H000000&}found! !
+Dialogue: 1,0:10:24.90,0:10:26.90,Sign,,0,0,0,,{\an4\fs120\bord0\blur1\c&H52DD3E&\fsp2\fnRoboto Light\b0\pos(1110,780)\4a&HFF&}found! !
+Comment: 1,0:10:24.90,0:10:26.90,Sign,,0,0,0,,
+Dialogue: 0,0:10:26.90,0:10:32.49,Sign,,0,0,0,,{\c&H0000FD&\fs124\fsp2\blur1.7\shad2\t(3813,5590,\fscx0)}Thank goodness
+Comment: 0,0:10:26.90,0:10:32.49,Sign,,0,0,0,,
+Dialogue: 0,0:10:33.90,0:10:36.16,Sign,,0,0,0,,{\fsp2\blur1\fs120\yshad-3\bord0\4c&HFFFFFF&\pos(960,720)\c&HFFFFFF&\alpha&HFF&\t(0,80,\alpha&H00&)}P{\alpha&HFF&\t(79,159,\alpha&H00&)}r{\alpha&HFF&\t(158,238,\alpha&H00&)}a{\alpha&HFF&\t(237,317,\alpha&H00&)}n{\alpha&HFF&\t(316,396,\alpha&H00&)}k {\alpha&HFF&\t(395,475,\alpha&H00&)}s{\alpha&HFF&\t(474,554,\alpha&H00&)}u{\alpha&HFF&\t(554,634,\alpha&H00&)}c{\alpha&HFF&\t(633,713,\alpha&H00&)}c{\alpha&HFF&\t(712,792,\alpha&H00&)}e{\alpha&HFF&\t(791,871,\alpha&H00&)}s{\alpha&HFF&\t(870,950,\alpha&H00&)}s{\alpha&HFF&\t(949,1029,\alpha&H00&)}!{\alpha&HFF&\t(1029,1109,\alpha&H00&)}!
+Dialogue: 1,0:10:33.90,0:10:36.16,Sign,,0,0,0,,{\fsp2\blur2\fs120\c&H2E9EFD&\yshad3\bord0\4c&H000000&\pos(960,720)\4a&H00&\3c&H000000&\alpha&HFF&\t(0,80,\alpha&H00&)}P{\alpha&HFF&\t(79,159,\alpha&H00&)}r{\alpha&HFF&\t(158,238,\alpha&H00&)}a{\alpha&HFF&\t(237,317,\alpha&H00&)}n{\alpha&HFF&\t(316,396,\alpha&H00&)}k {\alpha&HFF&\t(395,475,\alpha&H00&)}s{\alpha&HFF&\t(474,554,\alpha&H00&)}u{\alpha&HFF&\t(554,634,\alpha&H00&)}c{\alpha&HFF&\t(633,713,\alpha&H00&)}c{\alpha&HFF&\t(712,792,\alpha&H00&)}e{\alpha&HFF&\t(791,871,\alpha&H00&)}s{\alpha&HFF&\t(870,950,\alpha&H00&)}s{\alpha&HFF&\t(949,1029,\alpha&H00&)}!{\alpha&HFF&\t(1029,1109,\alpha&H00&)}!
+Dialogue: 0,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\fsp-2\pos(960,360)\bord2\blur3\fs140\fnRoboto Condensed\b1\3c&H81BFEC&\c&H81BFEC&}Subscribe if you liked it!
+Dialogue: 1,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\fsp-2\pos(960,360)\bord0\blur1\fs140\c&H1A12F9&\fnRoboto Condensed\b1\4a&HFF&}Subscribe if you liked it!
+Dialogue: 0,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\blur0.6\bord1.4\fs30\3c&H8E8DE7&\c&H8E8DE7&\fnRoboto\b0\pos(364,571)}Recommended Videos
+Dialogue: 1,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\blur0.6\bord0\fs30\fnRoboto\b0\pos(364,571)\4a&HFF&}Recommended Videos
+Dialogue: 0,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\shad4\blur2\c&H21F823&\pos(1404,530)\4c&H8D928F&\4a&H00&}Click below
+Dialogue: 0,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\blur3\bord8\fs60\3c&HFFFFFF&\c&HFFFFFF&\pos(395,820)\fnRoboto Light}(Title)
+Dialogue: 1,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\blur2\bord0\fs60\c&H000000&\pos(395,820)\4a&HFF&\fnRoboto Light\b0}(Title)
+Dialogue: 0,0:10:36.16,0:10:38.66,Sign,,0,0,0,,{\shad3\fs100\blur2\pos(1263,888)\c&H30F429&\4c&H000000&\4a&H3C&}Subscribe
+Dialogue: 0,0:03:31.73,0:03:35.74,Title,,0,0,0,,{\an7\pos(960,840)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m -631 -538 l 723 -538 723 -327 -631 -327
+Dialogue: 1,0:03:31.73,0:03:35.74,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\blur1.1\b0}What Is This Pain?
+Dialogue: 0,0:03:31.73,0:03:35.74,Title,,0,0,0,,{\an7\pos(960,840)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m -350 -209 l 346 -209 346 -50 -350 -50
+Dialogue: 1,0:03:31.73,0:03:35.74,Title,,0,0,0,,{\pos(960,715)\fsp6\fs90\fnRoboto\bord0\blur1.1}— Episode 6 —
