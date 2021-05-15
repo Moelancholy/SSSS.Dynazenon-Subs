@@ -313,7 +313,6 @@ Dialogue: 0,0:05:05.45,0:05:08.45,Sign,,0,0,0,,{\an7\blur10\c&HFFFFFF&\blur1\p1\
 Dialogue: 2,0:05:05.45,0:05:08.45,Sign,,0,0,0,,{\1c&H484848&\be3\fs50\frz8.2\fnRoboto Regular\fscx80\pos(769.2,115.2)}It's time to change capitals if Tokyo's like this.
 Dialogue: 0,0:05:05.45,0:05:08.45,Sign,,0,0,0,,{\an7\blur10\c&HFFFFFF&\blur1\p1\pos(0,0)}m 985 244 l 508 313 516 380 993 315
 Dialogue: 2,0:05:05.45,0:05:08.45,Sign,,0,0,0,,{\1c&H484848&\be3\fs50\frz8.4\fnRoboto Regular\fscx80\pos(739.2,313.2)}Another rampaging kaiju
-Comment: 0,0:05:05.45,0:05:08.45,Default,,0,0,0,,{\an8}"It's time to change capitals\Nif Tokyo's like this."\N"Another rampaging {\i1}kaiju{\i0}"
 Comment: 0,0:22:11.97,0:22:13.97,Default,,0,0,0,,
 Comment: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\blur1.4\c&H381615&\b1\fs70\pos(1162,250)}Authorized Personnel Only{\c&H361412&}
 Comment: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\blur1.4\c&H33110F&\b1\fs70\pos(1162,250)}Authorized Personnel Only{\c&H311413&}
