@@ -11,15 +11,16 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Dynazenon
-Audio File: A:/Downloads/SSSS.Dynazenon - 08 (workraw).mkv
-Video File: A:/Downloads/SSSS.Dynazenon - 08 (workraw).mkv
+Last Style Storage: dynazenon
+Audio File: SSSS.Dynazenon - 08 (workraw).mkv
+Video File: SSSS.Dynazenon - 08 (workraw).mkv
+Keyframes File: SSSS.Dynazenon - 08 (workraw)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 316
-Active Line: 329
-Video Position: 5192
+Video Zoom Percent: 0.500000
+Scroll Position: 544
+Active Line: 558
+Video Position: 31889
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,304 +32,318 @@ Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:30.65,0:01:32.36,Default,,0,0,0,,Gimme a sec.
-Dialogue: 0,0:01:32.36,0:01:33.73,Default,,0,0,0,,Hurry up!
-Dialogue: 0,0:01:33.73,0:01:35.28,Default,,0,0,0,,I can't do it!
-Dialogue: 0,0:01:35.28,0:01:38.28,Default,,0,0,0,,Ugh, it's creepy.
-Dialogue: 0,0:01:38.28,0:01:40.37,Default,,0,0,0,,Let's see.
-Dialogue: 0,0:01:40.37,0:01:41.45,Default,,0,0,0,,What is it?
-Dialogue: 0,0:01:41.45,0:01:42.87,Default,,0,0,0,,A {\i1}kaiju{\i0}?
-Dialogue: 0,0:01:44.20,0:01:46.08,Default,,0,0,0,,A failed {\i1}kaiju{\i0}.
-Dialogue: 0,0:01:57.68,0:01:59.22,Default,,0,0,0,,What the—?!
-Dialogue: 0,0:02:03.31,0:02:05.35,Default,,0,0,0,,Damn cat.
-Dialogue: 0,0:02:05.35,0:02:08.85,Default,,0,0,0,,What a gross face!
-Dialogue: 0,0:02:08.85,0:02:11.77,Default,,0,0,0,,Man, talk about rude.
-Dialogue: 0,0:02:11.77,0:02:14.40,Default,,0,0,0,,Is my face really that ugly?
-Dialogue: 0,0:02:16.99,0:02:18.03,Default,,0,0,0,,Hey!
-Dialogue: 0,0:02:18.03,0:02:18.86,Default,,0,0,0,,Hey!
-Dialogue: 0,0:02:18.86,0:02:21.03,Default,,0,0,0,,The hell is this?!
-Dialogue: 0,0:02:23.20,0:02:24.49,Default,,0,0,0,,What's up?
-Dialogue: 0,0:02:24.49,0:02:28.41,Default,,0,0,0,,I guess they came to talk with Futaba.
-Dialogue: 0,0:02:28.41,0:02:29.87,Default,,0,0,0,,Futaba?
-Dialogue: 0,0:02:29.87,0:02:34.25,Default,,0,0,0,,That's right. He quit\Na while back, though.
-Dialogue: 0,0:02:35.71,0:02:38.72,Default,,0,0,0,,Um, do you have his contact info?
-Dialogue: 0,0:02:38.72,0:02:43.51,Default,,0,0,0,,Of course we do,\Nbut that's private information.
-Dialogue: 0,0:02:43.51,0:02:45.18,Default,,0,0,0,,Oh, yeah.
-Dialogue: 0,0:02:55.02,0:02:57.82,Default,,0,0,0,,Inamoto, what is this?
-Dialogue: 0,0:02:57.82,0:03:03.03,Default,,0,0,0,,I found it here. We could\Ndo anything with this much.
-Dialogue: 0,0:03:03.03,0:03:04.49,Default,,0,0,0,,It's real?
-Dialogue: 0,0:03:05.53,0:03:08.54,Default,,0,0,0,,Let's go somewhere together.
-Dialogue: 0,0:03:11.54,0:03:13.08,Default,,0,0,0,,Somewhere?
-Dialogue: 0,0:03:17.50,0:03:20.59,Default,,0,0,0,,I wonder why I got married?
-Dialogue: 0,0:03:20.59,0:03:25.39,Default,,0,0,0,,It helped us realize\Nwe should value each other more.
-Dialogue: 0,0:03:38.44,0:03:39.32,Default,,0,0,0,,Hello?
-Dialogue: 0,0:03:39.32,0:03:44.74,Default,,0,0,0,,Senpai? Where are you?\NGauma called an emergency meeting.
-Dialogue: 0,0:03:44.74,0:03:46.24,Default,,0,0,0,,Be right there.
-Dialogue: 0,0:03:51.54,0:03:55.67,Default,,0,0,0,,I'm sure Futaba will call eventually.
-Dialogue: 0,0:03:55.67,0:03:57.67,Default,,0,0,0,,I hope so.
-Dialogue: 0,0:03:59.96,0:04:02.93,Default,,0,0,0,,You wanna go somewhere?
-Dialogue: 0,0:04:02.93,0:04:04.26,Default,,0,0,0,,Where?
-Dialogue: 0,0:04:04.26,0:04:08.06,Default,,0,0,0,,Uh, well... Anywhere is fine.
-Dialogue: 0,0:04:10.52,0:04:12.31,Default,,0,0,0,,Um...
-Dialogue: 0,0:04:23.95,0:04:25.41,Default,,0,0,0,,What's this face?
-Dialogue: 0,0:04:27.20,0:04:29.20,Default,,0,0,0,,Another {\i1}kaiju{\i0}?
-Dialogue: 0,0:04:29.20,0:04:32.04,Default,,0,0,0,,Yeah. A {\i1}kaiju {\i0}got me.
-Dialogue: 0,0:04:32.04,0:04:37.92,Default,,0,0,0,,Only a {\i1}kaiju {\i0}could do this!\NEveryone, let's split up and find it!
-Dialogue: 0,0:04:37.92,0:04:39.42,Default,,0,0,0,,Find it?
-Dialogue: 0,0:04:39.42,0:04:43.17,Default,,0,0,0,,It's using power but hasn't shown itself.
-Dialogue: 0,0:04:43.17,0:04:44.51,Default,,0,0,0,,True.
-Dialogue: 0,0:04:44.51,0:04:47.39,Default,,0,0,0,,It could be a little {\i1}kaiju{\i0}.
-Dialogue: 0,0:04:47.39,0:04:49.89,Default,,0,0,0,,I guess there's all types of {\i1}kaiju{\i0}.
-Dialogue: 0,0:04:49.89,0:04:55.44,Default,,0,0,0,,It still might be nearby.\NIf we all look, we'll find it quick.
-Dialogue: 0,0:04:55.44,0:04:59.40,Default,,0,0,0,,Don't let your guard down\Nor you'll become like me.
-Dialogue: 0,0:04:59.40,0:05:01.28,Default,,0,0,0,,That would suck.
-Dialogue: 0,0:05:07.11,0:05:13.45,Default,,0,0,0,,Is Gauma seriously saying there's\Na {\i1}kaiju {\i0}that goes around coloring stuff?
-Dialogue: 0,0:05:13.45,0:05:14.33,Default,,0,0,0,,There's one.
-Dialogue: 0,0:05:14.33,0:05:15.29,Default,,0,0,0,,Huh?
-Dialogue: 0,0:05:16.83,0:05:18.46,Default,,0,0,0,,There {\i1}is {\i0}one!
-Dialogue: 0,0:05:18.46,0:05:21.30,Default,,0,0,0,,It's really small.
-Dialogue: 0,0:05:21.30,0:05:22.76,Default,,0,0,0,,It's running!
-Dialogue: 0,0:05:22.76,0:05:25.22,Default,,0,0,0,,Tell Gauma! I'll catch it!
-Dialogue: 0,0:05:25.22,0:05:26.26,Default,,0,0,0,,Right!
-Dialogue: 0,0:05:29.72,0:05:33.31,Default,,0,0,0,,No matter how small it is,\Nit's still a {\i1}kaiju{\i0}.
-Dialogue: 0,0:05:36.27,0:05:37.31,Default,,0,0,0,,Huh?
-Dialogue: 0,0:05:40.19,0:05:41.86,Default,,0,0,0,,What's his deal?
-Dialogue: 0,0:05:41.86,0:05:42.98,Default,,0,0,0,,Catch it?
-Dialogue: 0,0:05:42.98,0:05:44.82,Default,,0,0,0,,It fell on its own.
-Dialogue: 0,0:05:46.07,0:05:48.95,Default,,0,0,0,,Look how cute it— Never mind.
-Dialogue: 0,0:05:54.45,0:05:58.37,Default,,0,0,0,,Good job, Yomogi! Now I'll defeat it!
-Dialogue: 0,0:05:58.37,0:06:01.50,Default,,0,0,0,,Defeat it? You're gonna kill it?
-Dialogue: 0,0:06:01.50,0:06:03.21,Default,,0,0,0,,Don't we always?
-Dialogue: 0,0:06:03.21,0:06:05.55,Default,,0,0,0,,Yeah, I guess so.
-Dialogue: 0,0:06:05.55,0:06:08.84,Default,,0,0,0,,All right... Here goes.
-Dialogue: 0,0:06:10.93,0:06:11.89,Default,,0,0,0,,W-Wait!
-Dialogue: 0,0:06:11.89,0:06:13.31,Default,,0,0,0,,What now?!
-Dialogue: 0,0:06:13.31,0:06:18.27,Default,,0,0,0,,Don't {\i1}kaiju {\i0}wreck things\N'cuz the Eugenicists control them?
-Dialogue: 0,0:06:18.27,0:06:19.27,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:06:19.27,0:06:22.36,Default,,0,0,0,,But you'll kill it when they're not?
-Dialogue: 0,0:06:22.36,0:06:23.19,Default,,0,0,0,,Mmm?
-Dialogue: 0,0:06:23.19,0:06:25.94,Default,,0,0,0,,Yeah, it's not hurting anything.
-Dialogue: 0,0:06:25.94,0:06:27.86,Default,,0,0,0,,It's just coloring stuff.
-Dialogue: 0,0:06:27.86,0:06:31.37,Default,,0,0,0,,Don't you think killing it sounds cruel?
-Dialogue: 0,0:06:32.32,0:06:36.08,Default,,0,0,0,,Good point. Maybe you're right.
-Dialogue: 0,0:06:36.08,0:06:40.71,Default,,0,0,0,,In that case, I'll control it\Nas a {\i1}kaiju {\i0}user.
-Dialogue: 0,0:06:40.71,0:06:43.75,Default,,0,0,0,,Oh, yeah. Gauma's a {\i1}kaiju {\i0}user.
-Dialogue: 0,0:06:43.75,0:06:47.34,Default,,0,0,0,,I've never seen him do it though.
-Dialogue: 0,0:06:47.34,0:06:50.01,Default,,0,0,0,,Well, watch closely!
-Dialogue: 0,0:06:50.01,0:06:53.18,Default,,0,0,0,,Instance Domination!
-Dialogue: 0,0:06:58.43,0:07:01.90,Default,,0,0,0,,Are you controlling it right now?
-Dialogue: 0,0:07:04.57,0:07:08.86,Default,,0,0,0,,It's no use. My power must've weakened.
-Dialogue: 0,0:07:08.86,0:07:12.20,Default,,0,0,0,,—Instance Domination!\N—Huh?
-Dialogue: 0,0:07:13.03,0:07:14.74,Default,,0,0,0,,You making fun?!
-Dialogue: 0,0:07:14.74,0:07:18.12,Default,,0,0,0,,Nah, but I thought I'd give it a shot!
-Dialogue: 0,0:07:18.12,0:07:21.37,Default,,0,0,0,,That's not how {\i1}kaiju {\i0}users work!
-Dialogue: 0,0:07:21.37,0:07:25.17,Default,,0,0,0,,You've gotta train and train your ass off.
-Dialogue: 0,0:07:25.17,0:07:26.63,Default,,0,0,0,,Instance Domination.
-Dialogue: 0,0:07:26.63,0:07:28.38,Default,,0,0,0,,You didn't train shit!
-Dialogue: 0,0:07:28.38,0:07:31.26,Default,,0,0,0,,Go on. Let's see your training.
-Dialogue: 0,0:07:31.26,0:07:33.34,Default,,0,0,0,,You {\i1}are {\i0}making fun.
-Dialogue: 0,0:07:33.34,0:07:35.22,Default,,0,0,0,,I think I'll pass.
-Dialogue: 0,0:07:35.22,0:07:37.60,Default,,0,0,0,,—Instance Domination.\N—Huh?
-Dialogue: 0,0:07:40.43,0:07:42.35,Default,,0,0,0,,Eh?
-Dialogue: 0,0:07:47.52,0:07:49.94,Default,,0,0,0,,Instance Domination.
-Dialogue: 0,0:07:51.95,0:07:53.53,Default,,0,0,0,,Huh? Sweet!
-Dialogue: 0,0:07:53.53,0:07:54.36,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:07:54.36,0:07:57.62,Default,,0,0,0,,Yomogi! Holy shit!
-Dialogue: 0,0:07:57.62,0:07:58.49,Default,,0,0,0,,You did it.
-Dialogue: 0,0:07:58.49,0:08:00.45,Default,,0,0,0,,You're kidding me!
-Dialogue: 0,0:08:08.25,0:08:10.46,Default,,0,0,0,,You tricked us.
-Dialogue: 0,0:08:10.46,0:08:12.13,Default,,0,0,0,,That was freaky.
-Dialogue: 0,0:08:15.55,0:08:16.89,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:08:16.89,0:08:19.60,Default,,0,0,0,,Nothing, but...
-Dialogue: 0,0:08:19.60,0:08:22.94,Default,,0,0,0,,So, Captain? What to do with the {\i1}kaiju{\i0}?
-Dialogue: 0,0:08:22.94,0:08:27.69,Default,,0,0,0,,Yeah, uh... I'll take it home\Nand keep an eye on it.
-Dialogue: 0,0:08:27.69,0:08:29.15,Default,,0,0,0,,You'll keep it?
-Dialogue: 0,0:08:29.15,0:08:32.15,Default,,0,0,0,,To see if it'll fix my face somehow.
-Dialogue: 0,0:08:32.15,0:08:36.28,Default,,0,0,0,,But if it causes any damage, I'll kill it.
-Dialogue: 0,0:08:36.28,0:08:39.45,Default,,0,0,0,,Until then, you'll look like that?
-Dialogue: 0,0:08:39.45,0:08:42.12,Default,,0,0,0,,I might just kill it sooner.
-Dialogue: 0,0:08:42.12,0:08:45.17,Default,,0,0,0,,Well, look who we have here!
-Dialogue: 0,0:08:47.25,0:08:49.42,Default,,0,0,0,,You guys are still here?
-Dialogue: 0,0:08:49.42,0:08:52.38,Default,,0,0,0,,Why should we have left?
-Dialogue: 0,0:08:52.38,0:08:55.59,Default,,0,0,0,,Is that a {\i1}kaiju {\i0}I see?
-Dialogue: 0,0:08:55.59,0:08:59.43,Default,,0,0,0,,It's rare for Sizumu\Nto invite us somewhere.
-Dialogue: 0,0:08:59.43,0:09:04.81,Default,,0,0,0,,All we can do is wait for a {\i1}kaiju{\i0},\Nso why not have fun?
-Dialogue: 0,0:09:04.81,0:09:09.44,Default,,0,0,0,,Hey, hey, hey, hey! This looks fun!
-Dialogue: 0,0:09:10.32,0:09:15.03,Default,,0,0,0,,Worried about {\i1}kaiju {\i0}being born\Nwhile we're in there?
-Dialogue: 0,0:09:15.03,0:09:17.70,Default,,0,0,0,,Learn to loosen up!
-Dialogue: 0,0:09:17.70,0:09:20.16,Default,,0,0,0,,Did you two always get along?
-Dialogue: 0,0:09:20.16,0:09:21.70,Default,,0,0,0,,—No way.\N—No way.
-Dialogue: 0,0:09:23.75,0:09:27.12,Default,,0,0,0,,It's believed that {\i1}kaiju {\i0}have a source.
-Dialogue: 0,0:09:27.12,0:09:28.71,Default,,0,0,0,,A source?
-Dialogue: 0,0:09:28.71,0:09:33.17,Default,,0,0,0,,However, for {\i1}kaiju {\i0}to\Nappear this frequently,
-Dialogue: 0,0:09:33.17,0:09:38.01,Default,,0,0,0,,their sources must be\Npurposely scattered around.
-Dialogue: 0,0:09:38.01,0:09:40.47,Default,,0,0,0,,The Kaiju Eugenicists?
-Dialogue: 0,0:09:40.47,0:09:41.68,Default,,0,0,0,,Mmm.
-Dialogue: 0,0:09:41.68,0:09:44.68,Default,,0,0,0,,The human heart feeds the source.
-Dialogue: 0,0:09:44.68,0:09:48.94,Default,,0,0,0,,Emotions give birth to and nurture {\i1}kaiju{\i0}.
-Dialogue: 0,0:09:50.31,0:09:55.82,Default,,0,0,0,,How do you guys know that?\NIt's not like you're {\i1}kaiju{\i0}.
-Dialogue: 0,0:10:00.66,0:10:04.91,Default,,0,0,0,,So a {\i1}kaiju {\i0}user like you\Ndidn't know, Captain Gauma?
-Dialogue: 0,0:10:04.91,0:10:11.21,Default,,0,0,0,,It's news to me. {\i1}Kaiju {\i0}users\Ndon't need to know how {\i1}kaiju {\i0}are born.
-Dialogue: 0,0:10:11.21,0:10:14.05,Default,,0,0,0,,This {\i1}kaiju {\i0}may be incomplete
-Dialogue: 0,0:10:14.05,0:10:18.51,Default,,0,0,0,,because the human\Nresponsible for it is, too.
-Dialogue: 0,0:10:18.51,0:10:23.01,Default,,0,0,0,,Even so, it'll be dangerous if it grows.
-Dialogue: 0,0:10:23.01,0:10:24.85,Default,,0,0,0,,You think?
-Dialogue: 0,0:10:24.85,0:10:28.31,Default,,0,0,0,,I'm saying we can't leave it be.
-Dialogue: 0,0:10:28.31,0:10:31.19,Default,,0,0,0,,That's why I'm watching it.
-Dialogue: 0,0:10:31.19,0:10:34.65,Default,,0,0,0,,Won't it absorb emotions or something?
-Dialogue: 0,0:10:34.65,0:10:37.53,Default,,0,0,0,,You mean, like mine?
-Dialogue: 0,0:10:37.53,0:10:40.49,Default,,0,0,0,,Whatever. Just watch it closely.
-Dialogue: 0,0:10:40.49,0:10:43.20,Default,,0,0,0,,I already said I would.
-Dialogue: 0,0:10:43.20,0:10:46.24,Default,,0,0,0,,They grow through human emotions...
-Dialogue: 0,0:10:46.24,0:10:48.71,Default,,0,0,0,,—What?\N—Oh, nothing.
-Dialogue: 0,0:10:57.80,0:10:59.09,Default,,0,0,0,,What?!
-Dialogue: 0,0:11:00.01,0:11:04.76,Default,,0,0,0,,—Oh, shit! Stop pushing me, idiot!\N—Wait, wait up! Hey!
-Dialogue: 0,0:11:08.93,0:11:11.27,Default,,0,0,0,,Is it okay to be doing this?
-Dialogue: 0,0:11:15.07,0:11:20.03,Default,,0,0,0,,At least you behave,\Nbut you're really an eyesore.
-Dialogue: 0,0:11:21.99,0:11:26.37,Default,,0,0,0,,That person was kind to living things...
-Dialogue: 0,0:11:27.83,0:11:30.62,Default,,0,0,0,,Where are you, Princess?
-Dialogue: 0,0:11:31.75,0:11:37.21,Default,,0,0,0,,In this world, there're three things\Nimportant for people to keep:
-Dialogue: 0,0:11:37.21,0:11:40.67,Default,,0,0,0,,Promises, love, and...
-Dialogue: 0,0:11:44.43,0:11:46.22,Default,,0,0,0,,It's already this late?
-Dialogue: 0,0:11:46.22,0:11:48.10,Default,,0,0,0,,Sleepy!
-Dialogue: 0,0:11:53.77,0:11:55.94,Default,,0,0,0,,Hey, hey, hey!
-Dialogue: 0,0:11:57.19,0:12:01.78,Default,,0,0,0,,Before anyone asks,\NI swear I was watching it!
-Dialogue: 0,0:12:01.78,0:12:05.37,Default,,0,0,0,,But in an instant—\Nthe instant I looked away...!
-Dialogue: 0,0:12:05.37,0:12:08.54,Default,,0,0,0,,Gauma, that's three times.
-Dialogue: 0,0:12:08.54,0:12:14.21,Default,,0,0,0,,Excuses aside, Captain,\Nwhat should we do now?
-Dialogue: 0,0:12:14.21,0:12:17.92,Default,,0,0,0,,Let's split up and look for the {\i1}kaiju{\i0}!
-Dialogue: 0,0:12:19.00,0:12:21.05,Default,,0,0,0,,It's Sunday, you know.
-Dialogue: 0,0:12:21.05,0:12:22.92,Default,,0,0,0,,S-Sorry.
-Dialogue: 0,0:12:22.92,0:12:24.47,Default,,0,0,0,,Whatever.
-Dialogue: 0,0:12:25.39,0:12:27.55,Default,,0,0,0,,It's morning, Mujina.
-Dialogue: 0,0:12:32.52,0:12:34.73,Default,,0,0,0,,Shall we head back?
-Dialogue: 0,0:12:34.73,0:12:36.44,Default,,0,0,0,,Wanna see a movie?
-Dialogue: 0,0:12:36.44,0:12:37.94,Default,,0,0,0,,Whoa, shouldn't we—?
-Dialogue: 0,0:12:37.94,0:12:40.11,Default,,0,0,0,,—Which movie?\N—You're going?!
-Dialogue: 0,0:12:53.33,0:12:55.71,Default,,0,0,0,,Where is it?
-Dialogue: 0,0:12:55.71,0:12:58.79,Default,,0,0,0,,Whoa, whoa, whoa. You serious?
-Dialogue: 0,0:12:58.79,0:13:00.75,Default,,0,0,0,,—That sounds awesome.\N—That sounds awesome.
-Dialogue: 0,0:13:00.75,0:13:01.67,Default,,0,0,0,,Huh?
-Dialogue: 0,0:13:06.55,0:13:09.01,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:13:09.01,0:13:10.60,Default,,0,0,0,,Knight?
-Dialogue: 0,0:13:12.10,0:13:15.14,Default,,0,0,0,,That one {\i1}kaiju {\i0}got away.
-Dialogue: 0,0:13:15.14,0:13:18.19,Default,,0,0,0,,I should've dealt with it back then.
-Dialogue: 0,0:13:19.40,0:13:21.44,Default,,0,0,0,,I'll have to step in.
-Dialogue: 0,0:13:21.44,0:13:25.86,Default,,0,0,0,,Huh? Do you have a way to find {\i1}kaiju{\i0}?
-Dialogue: 0,0:13:25.86,0:13:26.99,Default,,0,0,0,,I do.
-Dialogue: 0,0:13:26.99,0:13:29.41,Default,,0,0,0,,Seriously? What a relief!
-Dialogue: 0,0:13:29.41,0:13:32.99,Default,,0,0,0,,Yomogi Asanaka, let's find the {\i1}kaiju{\i0}.
-Dialogue: 0,0:13:32.99,0:13:37.54,Default,,0,0,0,,Uh, sure... and thanks. But, how?
-Dialogue: 0,0:13:37.54,0:13:39.42,Default,,0,0,0,,Search till we find it.
-Dialogue: 0,0:13:41.50,0:13:43.71,Default,,0,0,0,,Search till we find it.
-Dialogue: 0,0:13:45.30,0:13:46.30,Default,,0,0,0,,Right.
-Dialogue: 0,0:13:48.13,0:13:51.68,Default,,0,0,0,,Whoa, holy shit! This is sick!
-Dialogue: 0,0:13:51.68,0:13:53.01,Default,,0,0,0,,Shut up!
-Dialogue: 0,0:13:54.60,0:13:57.02,Default,,0,0,0,,You taking a break, too?
-Dialogue: 0,0:13:57.02,0:13:59.77,Default,,0,0,0,,Yeah. No sign of the {\i1}kaiju{\i0}.
-Dialogue: 0,0:13:59.77,0:14:02.07,Default,,0,0,0,,Tell me about it.
-Dialogue: 0,0:14:02.07,0:14:03.36,Default,,0,0,0,,Watching a movie?
-Dialogue: 0,0:14:03.36,0:14:05.78,Default,,0,0,0,,My battery's gonna die.
-Dialogue: 0,0:14:08.36,0:14:12.20,Default,,0,0,0,,Do you think the {\i1}kaiju {\i0}has a heart?
-Dialogue: 0,0:14:12.20,0:14:14.16,Default,,0,0,0,,Why do you ask?
-Dialogue: 0,0:14:14.16,0:14:20.29,Default,,0,0,0,,Until now, I thought we had to kill {\i1}kaiju{\i0}\Nbecause they run amok.
-Dialogue: 0,0:14:20.29,0:14:27.09,Default,,0,0,0,,But if it's like you're saying—\Nthat {\i1}kaiju {\i0}are born from human emotions,
-Dialogue: 0,0:14:27.09,0:14:31.18,Default,,0,0,0,,maybe there's {\i1}kaiju {\i0}with feelings like us.
-Dialogue: 0,0:14:31.18,0:14:33.47,Default,,0,0,0,,Some {\i1}kaiju {\i0}do have hearts.
-Dialogue: 0,0:14:33.47,0:14:35.18,Default,,0,0,0,,Then, what if this one—?
-Dialogue: 0,0:14:35.18,0:14:37.56,Default,,0,0,0,,Others will fool you.
-Dialogue: 0,0:14:37.56,0:14:41.44,Default,,0,0,0,,If you guess wrong\Nand people die, it's too late.
-Dialogue: 0,0:14:41.44,0:14:44.98,Default,,0,0,0,,Why do you know so much about {\i1}kaiju{\i0}?
-Dialogue: 0,0:14:44.98,0:14:46.82,Default,,0,0,0,,I just do.
-Dialogue: 0,0:14:50.78,0:14:56.75,Default,,0,0,0,,If {\i1}kaiju {\i0}are a threat, I'll kill\Nwithout hesitation as I always do.
-Dialogue: 0,0:14:59.75,0:15:01.08,Default,,0,0,0,,—Hello?\N—Yomogi!
-Dialogue: 0,0:15:01.08,0:15:03.08,Default,,0,0,0,,I found the {\i1}kaiju{\i0}!
-Dialogue: 0,0:15:11.22,0:15:12.26,Default,,0,0,0,,Gauma!
-Dialogue: 0,0:15:12.26,0:15:14.80,Default,,0,0,0,,Let's try to stop it together!
-Dialogue: 0,0:15:14.80,0:15:16.35,Default,,0,0,0,,Right!
-Dialogue: 0,0:15:16.35,0:15:19.43,Default,,0,0,0,,Access Mode... Dyna Diver!
-Dialogue: 0,0:15:19.43,0:15:21.39,Default,,0,0,0,,Dyna Striker!
-Dialogue: 0,0:15:23.69,0:15:27.65,Default,,0,0,0,,Since I messed up this time,\NI've gotta defeat it!
-Dialogue: 0,0:15:30.40,0:15:33.28,Default,,0,0,0,,It's dangerous to fire missiles here!
-Dialogue: 0,0:15:33.28,0:15:34.53,Default,,0,0,0,,Good point.
-Dialogue: 0,0:15:34.53,0:15:39.00,Default,,0,0,0,,I'll lure it outside the city\Nand you can hit it!
-Dialogue: 0,0:15:39.00,0:15:42.42,Default,,0,0,0,,It feels like you're growing up, kid.
-Dialogue: 0,0:15:42.42,0:15:43.25,Default,,0,0,0,,Hold up.
-Dialogue: 0,0:15:43.25,0:15:44.21,Default,,0,0,0,,What?
-Dialogue: 0,0:15:44.21,0:15:46.71,Default,,0,0,0,,I'm probably older than you.
-Dialogue: 0,0:15:46.71,0:15:50.67,Default,,0,0,0,,But I'm plus five thousand.\NFive thousand years.
-Dialogue: 0,0:15:50.67,0:15:52.76,Default,,0,0,0,,Sh-Shut up.
-Dialogue: 0,0:15:54.01,0:15:55.22,Default,,0,0,0,,What's up?
-Dialogue: 0,0:15:55.22,0:15:58.77,Default,,0,0,0,,It's Sunday, so maybe it's an event.
-Dialogue: 0,0:15:58.77,0:16:00.06,Default,,0,0,0,,I see.
-Dialogue: 0,0:16:04.69,0:16:06.19,Default,,0,0,0,,A {\i1}kaiju{\i0}?
-Dialogue: 0,0:16:06.19,0:16:09.11,Default,,0,0,0,,Hey! This way, this way!
-Dialogue: 0,0:16:09.11,0:16:10.90,Default,,0,0,0,,This way, this way!
-Dialogue: 0,0:16:12.90,0:16:15.07,Default,,0,0,0,,Nice, it's working!
-Dialogue: 0,0:16:22.41,0:16:28.13,Default,,0,0,0,,Argh! The exit's gonna\Nbe packed! Huh? Minami?
-Dialogue: 0,0:16:29.05,0:16:32.30,Default,,0,0,0,,—Chise!\N—Minami!
-Dialogue: 0,0:16:32.30,0:16:38.39,Default,,0,0,0,,Sorry! Sorry! Sorry! Sorry! Sorry!
-Dialogue: 0,0:16:38.39,0:16:42.39,Default,,0,0,0,,If it's that big, it's dangerous. Kill it.
-Dialogue: 0,0:16:42.39,0:16:46.19,Default,,0,0,0,,I guess the Eugenicists must've found it.
-Dialogue: 0,0:16:49.15,0:16:50.61,Default,,0,0,0,,Koyomi!
-Dialogue: 0,0:16:50.61,0:16:51.69,Default,,0,0,0,,Koyomi!
-Dialogue: 0,0:16:51.69,0:16:55.24,Default,,0,0,0,,It's doing damage. No time to hesitate.
-Dialogue: 0,0:16:56.28,0:17:01.58,Default,,0,0,0,,Yomogi Asanaka,\Nlet's defeat the {\i1}kaiju {\i0}together.
-Dialogue: 0,0:17:01.58,0:17:02.91,Default,,0,0,0,,Together?
-Dialogue: 0,0:17:03.79,0:17:05.87,Default,,0,0,0,,Let me use you.
-Dialogue: 0,0:17:10.13,0:17:13.05,Default,,0,0,0,,Access Mode... Dyna Soldier!
-Dialogue: 0,0:17:19.30,0:17:20.56,Default,,0,0,0,,What's this?!
-Dialogue: 0,0:17:20.56,0:17:23.81,Default,,0,0,0,,It must have adapted to my presence.
-Dialogue: 0,0:17:23.81,0:17:24.85,Default,,0,0,0,,Adapted?
-Dialogue: 0,0:17:24.85,0:17:26.60,Default,,0,0,0,,Meaning, this!
-Dialogue: 0,0:17:27.98,0:17:30.94,Default,,0,0,0,,Dynamic Cannon!
-Dialogue: 0,0:17:42.49,0:17:44.04,Default,,0,0,0,,You're kidding!
-Dialogue: 0,0:17:48.08,0:17:50.54,Default,,0,0,0,,Take aim, Yomogi Asanaka.
-Dialogue: 0,0:17:51.67,0:17:56.26,Default,,0,0,0,,Should we really be killing it like this?
-Dialogue: 0,0:17:56.26,0:18:00.97,Default,,0,0,0,,What if {\i1}kaiju {\i0}have hearts and emotions?
-Dialogue: 0,0:18:00.97,0:18:02.89,Default,,0,0,0,,Yomo!
-Dialogue: 0,0:18:02.89,0:18:06.27,Default,,0,0,0,,Bad news! Minami's still in there!
-Dialogue: 0,0:18:06.27,0:18:07.56,Default,,0,0,0,,She is?!
-Dialogue: 0,0:18:07.56,0:18:10.48,Default,,0,0,0,,We got split up while leaving!
-Dialogue: 0,0:18:17.28,0:18:19.95,Default,,0,0,0,,—Yomogi!\N—Minami?!
-Dialogue: 0,0:18:19.95,0:18:24.20,Default,,0,0,0,,I'm still inside the building,\Nbut my Dyna Wing—!
-Dialogue: 0,0:18:31.21,0:18:33.46,Default,,0,0,0,,Minami! Minami!
-Dialogue: 0,0:18:33.46,0:18:35.09,Default,,0,0,0,,Son of a—!
-Dialogue: 0,0:18:38.93,0:18:42.76,Default,,0,0,0,,What are you doing?\NThere's no time to hesitate.
-Dialogue: 0,0:18:46.43,0:18:48.35,Default,,0,0,0,,Please, work!
-Dialogue: 0,0:18:51.73,0:18:54.36,Default,,0,0,0,,Instance Domina—!
-Dialogue: 0,0:18:59.74,0:19:02.70,Default,,0,0,0,,Now! Do it, Yomogi Asanaka!
-Dialogue: 0,0:19:24.68,0:19:28.06,Default,,0,0,0,,Dynamic Fire!
-Dialogue: 0,0:19:53.71,0:19:55.29,Default,,0,0,0,,Yomogi...
-Dialogue: 0,0:20:03.55,0:20:05.47,Default,,0,0,0,,Over here, Minami!
-Dialogue: 0,0:20:06.39,0:20:09.02,Default,,0,0,0,,Sorry. I dropped Dyna Wing.
-Dialogue: 0,0:20:09.02,0:20:10.81,Default,,0,0,0,,Least it wasn't stolen.
-Dialogue: 0,0:20:10.81,0:20:11.64,Default,,0,0,0,,True.
-Dialogue: 0,0:20:11.64,0:20:13.81,Default,,0,0,0,,She's not you.
-Dialogue: 0,0:20:23.32,0:20:28.12,Default,,0,0,0,,Sorry. It's my fault this happened.
-Dialogue: 0,0:20:28.12,0:20:32.12,Default,,0,0,0,,No, it's because I said something weird.
-Dialogue: 0,0:20:32.12,0:20:34.12,Default,,0,0,0,,Yomogi...
-Dialogue: 0,0:20:34.12,0:20:37.46,Default,,0,0,0,,When I was about to shoot, the {\i1}kaiju{\i0}...
-Dialogue: 0,0:20:37.46,0:20:39.17,Default,,0,0,0,,It looked at me.
-Dialogue: 0,0:20:40.26,0:20:43.51,Default,,0,0,0,,Hope it was just my imagination.
-Dialogue: 0,0:20:45.30,0:20:47.47,Default,,0,0,0,,{\i1}Kaiju {\i0}are {\i1}kaiju{\i0}.
-Dialogue: 0,0:20:55.52,0:20:56.94,Default,,0,0,0,,Huh?
-Dialogue: 0,0:20:56.94,0:20:58.65,Default,,0,0,0,,That was amazing!
-Dialogue: 0,0:20:58.65,0:21:01.73,Default,,0,0,0,,Yeah, I thought I was dead!
-Dialogue: 0,0:21:02.78,0:21:06.20,Default,,0,0,0,,When the water spewed up\Nlike that, it was incred—
-Dialogue: 0,0:21:13.96,0:21:16.54,Default,,0,0,0,,Are you feeling down?
-Dialogue: 0,0:21:16.54,0:21:19.25,Default,,0,0,0,,No, not really.
-Dialogue: 0,0:21:29.39,0:21:30.47,Default,,0,0,0,,What?
-Dialogue: 0,0:21:33.56,0:21:35.02,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:21:35.02,0:21:36.56,Default,,0,0,0,,Huh?
-Dialogue: 0,0:21:36.56,0:21:41.11,Default,,0,0,0,,I heard you saved everyone from the {\i1}kaiju{\i0}.
-Dialogue: 0,0:21:42.40,0:21:46.03,Default,,0,0,0,,It was Knight more so than me, but...
-Dialogue: 0,0:21:50.16,0:21:51.87,Default,,0,0,0,,Are you hungry?
-Dialogue: 0,0:21:52.83,0:21:54.12,Default,,0,0,0,,Starving.
-Dialogue: 0,0:21:55.04,0:21:57.62,Default,,0,0,0,,Wanna go somewhere?
-Dialogue: 0,0:21:59.67,0:22:01.21,Default,,0,0,0,,Where?
-Dialogue: 0,0:22:02.92,0:22:04.59,Default,,0,0,0,,Anywhere is fine.
-Dialogue: 0,0:22:08.89,0:22:09.93,Default,,0,0,0,,Mmm.
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
+Dialogue: 20,0:01:30.78,0:01:31.82,Default,,0,0,0,,Gimme a sec.
+Dialogue: 20,0:01:31.82,0:01:32.86,Default,,0,0,0,,Come on, do it!
+Dialogue: 20,0:01:32.45,0:01:33.49,Default,,0,0,0,,{\an8}Hurry up!
+Dialogue: 20,0:01:33.49,0:01:35.37,Default,,0,0,0,,I can't do it!
+Dialogue: 20,0:01:35.37,0:01:37.54,Default,,0,0,0,,Ugh, it's creepy.
+Dialogue: 20,0:01:38.33,0:01:39.50,Default,,0,0,0,,Let's see.
+Dialogue: 20,0:01:40.41,0:01:41.46,Default,,0,0,0,,What is it?
+Dialogue: 20,0:01:41.46,0:01:42.54,Default,,0,0,0,,A kaiju?
+Dialogue: 20,0:01:44.25,0:01:45.88,Default,,0,0,0,,A failed kaiju.
+Dialogue: 20,0:01:57.51,0:01:58.72,Default,,0,0,0,,What the—?!
+Dialogue: 20,0:02:03.31,0:02:04.85,Default,,0,0,0,,Damn cat.
+Dialogue: 20,0:02:05.52,0:02:07.73,Default,,0,0,0,,What a gross face!
+Dialogue: 20,0:02:08.86,0:02:11.74,Default,,0,0,0,,Man, talk about rude.
+Dialogue: 20,0:02:11.74,0:02:13.53,Default,,0,0,0,,Is my face really that ugly?
+Dialogue: 20,0:02:17.03,0:02:18.03,Default,,0,0,0,,Hey!
+Dialogue: 20,0:02:18.91,0:02:20.91,Default,,0,0,0,,The hell is this?!
+Dialogue: 20,0:02:23.21,0:02:24.54,Default,,0,0,0,,What's up?
+Dialogue: 20,0:02:24.54,0:02:28.42,Default,,0,0,0,,I guess they came to talk with Futaba.
+Dialogue: 20,0:02:28.42,0:02:29.92,Default,,0,0,0,,Futaba?
+Dialogue: 20,0:02:29.92,0:02:33.88,Default,,0,0,0,,That's right. He quit\Na while back, though.
+Dialogue: 20,0:02:35.76,0:02:39.01,Default,,0,0,0,,Um, do you have his contact info?
+Dialogue: 20,0:02:39.01,0:02:43.14,Default,,0,0,0,,Of course we do,\Nbut that's private information.
+Dialogue: 20,0:02:43.56,0:02:45.19,Default,,0,0,0,,Oh, yeah.
+Dialogue: 20,0:02:54.86,0:02:57.62,Default,,0,0,0,,Inamoto, what is this?
+Dialogue: 20,0:02:57.62,0:03:02.54,Default,,0,0,0,,I found it here. We could\Ndo anything with this much.
+Dialogue: 20,0:03:03.12,0:03:04.25,Default,,0,0,0,,It's real?
+Dialogue: 20,0:03:05.54,0:03:08.54,Default,,0,0,0,,Let's go somewhere together.
+Dialogue: 20,0:03:11.59,0:03:12.67,Default,,0,0,0,,Somewhere?
+Dialogue: 20,0:03:17.51,0:03:19.93,Default,,0,0,0,,{\i1}I wonder why I got married?
+Dialogue: 20,0:03:20.64,0:03:25.18,Default,,0,0,0,,It helped us realize\Nwe should value each other more.
+Dialogue: 20,0:03:38.49,0:03:39.24,Default,,0,0,0,,Hello?
+Dialogue: 20,0:03:39.24,0:03:44.12,Default,,0,0,0,,Senpai? Where are you?\NGauma called an emergency meeting.
+Dialogue: 20,0:03:44.83,0:03:46.00,Default,,0,0,0,,Be right there.
+Dialogue: 20,0:03:51.63,0:03:55.09,Default,,0,0,0,,I'm sure Futaba will call eventually.
+Dialogue: 20,0:03:55.59,0:03:57.09,Default,,0,0,0,,I hope so.
+Dialogue: 20,0:04:00.01,0:04:02.97,Default,,0,0,0,,You wanna go somewhere?
+Dialogue: 20,0:04:02.97,0:04:04.31,Default,,0,0,0,,Where?
+Dialogue: 20,0:04:04.31,0:04:07.48,Default,,0,0,0,,Uh, well... Anywhere is fine.
+Dialogue: 20,0:04:10.52,0:04:11.90,Default,,0,0,0,,Um...
+Dialogue: 20,0:04:24.04,0:04:25.12,Default,,0,0,0,,What's this face?
+Dialogue: 20,0:04:27.25,0:04:29.21,Default,,0,0,0,,Another kaiju?
+Dialogue: 20,0:04:29.21,0:04:31.63,Default,,0,0,0,,Yeah. A kaiju got me.
+Dialogue: 20,0:04:32.13,0:04:37.80,Default,,0,0,0,,Only a kaiju could do this!\NEveryone, let's split up and find it!
+Dialogue: 20,0:04:37.80,0:04:39.18,Default,,0,0,0,,Find it?
+Dialogue: 20,0:04:39.51,0:04:43.18,Default,,0,0,0,,It's using power but hasn't shown itself.
+Dialogue: 20,0:04:43.18,0:04:44.47,Default,,0,0,0,,True.
+Dialogue: 20,0:04:44.47,0:04:47.43,Default,,0,0,0,,It could be a little kaiju.
+Dialogue: 20,0:04:47.43,0:04:49.69,Default,,0,0,0,,I guess there's all types of kaiju.
+Dialogue: 20,0:04:49.69,0:04:55.44,Default,,0,0,0,,It still might be nearby.\NIf we all look, we'll find it quick.
+Dialogue: 20,0:04:55.44,0:04:59.20,Default,,0,0,0,,Don't let your guard down\Nor you'll become like me.
+Dialogue: 20,0:04:59.20,0:05:01.07,Default,,0,0,0,,That would suck.
+Dialogue: 20,0:05:07.16,0:05:12.83,Default,,0,0,0,,Is Gauma seriously saying there's\Na kaiju that goes around coloring stuff?
+Dialogue: 20,0:05:13.58,0:05:14.34,Default,,0,0,0,,There's one.
+Dialogue: 20,0:05:14.34,0:05:15.00,Default,,0,0,0,,Huh?
+Dialogue: 20,0:05:16.84,0:05:18.46,Default,,0,0,0,,There {\i1}is {\i0}one!
+Dialogue: 20,0:05:18.46,0:05:19.63,Default,,0,0,0,,It's really small.
+Dialogue: 20,0:05:21.51,0:05:22.64,Default,,0,0,0,,It's running!
+Dialogue: 20,0:05:22.64,0:05:25.22,Default,,0,0,0,,Tell Gauma! I'll catch it!
+Dialogue: 20,0:05:25.22,0:05:25.81,Default,,0,0,0,,Right!
+Dialogue: 20,0:05:29.56,0:05:32.81,Default,,0,0,0,,{\i1}No matter how small it is,\Nit's still a kaiju.
+Dialogue: 20,0:05:36.27,0:05:36.86,Default,,0,0,0,,Huh?
+Dialogue: 20,0:05:40.19,0:05:41.90,Default,,0,0,0,,What's his deal?
+Dialogue: 20,0:05:41.90,0:05:43.03,Default,,0,0,0,,Catch it?
+Dialogue: 20,0:05:43.03,0:05:44.62,Default,,0,0,0,,It fell on its own.
+Dialogue: 20,0:05:46.16,0:05:48.79,Default,,0,0,0,,Look how cute it— Never mind.
+Dialogue: 20,0:05:54.46,0:05:58.42,Default,,0,0,0,,Good job, Yomogi! Now I'll defeat it!
+Dialogue: 20,0:05:58.42,0:06:01.51,Default,,0,0,0,,Defeat it? You're gonna kill it?
+Dialogue: 20,0:06:01.51,0:06:03.22,Default,,0,0,0,,Don't we always?
+Dialogue: 20,0:06:03.22,0:06:05.47,Default,,0,0,0,,Yeah, I guess so.
+Dialogue: 20,0:06:05.47,0:06:08.72,Default,,0,0,0,,All right... Here goes.
+Dialogue: 20,0:06:10.73,0:06:11.85,Default,,0,0,0,,W-Wait!
+Dialogue: 20,0:06:11.85,0:06:13.35,Default,,0,0,0,,What now?!
+Dialogue: 20,0:06:13.35,0:06:18.27,Default,,0,0,0,,Don't kaiju wreck things\N'cuz the Eugenicists control them?
+Dialogue: 20,0:06:18.27,0:06:19.28,Default,,0,0,0,,Yeah.
+Dialogue: 20,0:06:19.28,0:06:22.32,Default,,0,0,0,,But you'll kill it when they're not?
+Dialogue: 20,0:06:22.32,0:06:23.15,Default,,0,0,0,,Mmm?
+Dialogue: 20,0:06:23.15,0:06:25.99,Default,,0,0,0,,Yeah, it's not hurting anything.
+Dialogue: 20,0:06:25.99,0:06:27.91,Default,,0,0,0,,It's just coloring stuff.
+Dialogue: 20,0:06:27.91,0:06:31.16,Default,,0,0,0,,Don't you think killing it sounds cruel?
+Dialogue: 20,0:06:32.33,0:06:35.63,Default,,0,0,0,,Good point. Maybe you're right.
+Dialogue: 20,0:06:36.13,0:06:40.63,Default,,0,0,0,,In that case, I'll control it\Nas a kaiju user.
+Dialogue: 20,0:06:40.63,0:06:43.76,Default,,0,0,0,,Oh, yeah. Gauma's a kaiju user.
+Dialogue: 20,0:06:43.76,0:06:47.35,Default,,0,0,0,,I've never seen him do it though.
+Dialogue: 20,0:06:47.35,0:06:49.26,Default,,0,0,0,,Well, watch closely!
+Dialogue: 20,0:06:49.97,0:06:52.89,Default,,0,0,0,,Instance Domination!
+Dialogue: 20,0:06:58.44,0:07:01.57,Default,,0,0,0,,Are you controlling it right now?
+Dialogue: 20,0:07:04.70,0:07:08.95,Default,,0,0,0,,It's no use. My power must've weakened.
+Dialogue: 20,0:07:08.95,0:07:12.04,Default,,0,0,0,,Instance Domination!
+Dialogue: 20,0:07:10.03,0:07:10.53,Default,,0,0,0,,{\an8}Huh?
+Dialogue: 20,0:07:13.08,0:07:14.75,Default,,0,0,0,,You making fun?!
+Dialogue: 20,0:07:14.75,0:07:18.33,Default,,0,0,0,,Nah, but I thought I'd give it a shot!
+Dialogue: 20,0:07:18.33,0:07:21.42,Default,,0,0,0,,That's not how kaiju users work!
+Dialogue: 20,0:07:21.42,0:07:24.47,Default,,0,0,0,,You've gotta train and train your ass off.
+Dialogue: 20,0:07:25.22,0:07:26.59,Default,,0,0,0,,Instance Domination.
+Dialogue: 20,0:07:26.59,0:07:28.30,Default,,0,0,0,,You didn't train shit!
+Dialogue: 20,0:07:28.30,0:07:31.22,Default,,0,0,0,,Go on. Let's see your training.
+Dialogue: 20,0:07:31.22,0:07:33.18,Default,,0,0,0,,You {\i1}are {\i0}making fun.
+Dialogue: 20,0:07:33.18,0:07:35.23,Default,,0,0,0,,I think I'll pass.
+Dialogue: 20,0:07:35.23,0:07:37.31,Default,,0,0,0,,Instance Domination.
+Dialogue: 20,0:07:36.10,0:07:36.69,Default,,0,0,0,,{\an8}Huh?
+Dialogue: 20,0:07:47.53,0:07:49.82,Default,,0,0,0,,Instance Domination.
+Dialogue: 20,0:07:51.83,0:07:53.54,Default,,0,0,0,,Huh? Sweet!
+Dialogue: 20,0:07:53.54,0:07:54.37,Default,,0,0,0,,Whoa!
+Dialogue: 20,0:07:54.37,0:07:56.83,Default,,0,0,0,,Yomogi! Holy shit!
+Dialogue: 20,0:07:57.58,0:07:58.54,Default,,0,0,0,,You did it.
+Dialogue: 20,0:07:58.54,0:08:00.33,Default,,0,0,0,,You're kidding me!
+Dialogue: 20,0:08:08.18,0:08:09.72,Default,,0,0,0,,You tricked us.
+Dialogue: 20,0:08:10.34,0:08:11.97,Default,,0,0,0,,That was freaky.
+Dialogue: 20,0:08:15.56,0:08:16.85,Default,,0,0,0,,What's wrong?
+Dialogue: 20,0:08:16.85,0:08:19.40,Default,,0,0,0,,Nothing, but...
+Dialogue: 20,0:08:19.40,0:08:22.94,Default,,0,0,0,,So, Captain? What to do with the kaiju?
+Dialogue: 20,0:08:22.94,0:08:27.74,Default,,0,0,0,,Yeah, uh... I'll take it home\Nand keep an eye on it.
+Dialogue: 20,0:08:27.74,0:08:29.16,Default,,0,0,0,,You'll keep it?
+Dialogue: 20,0:08:29.16,0:08:32.24,Default,,0,0,0,,To see if it'll fix my face somehow.
+Dialogue: 20,0:08:32.24,0:08:35.83,Default,,0,0,0,,But if it causes any damage, I'll kill it.
+Dialogue: 20,0:08:36.29,0:08:39.50,Default,,0,0,0,,Until then, you'll look like that?
+Dialogue: 20,0:08:39.50,0:08:42.17,Default,,0,0,0,,I might just kill it sooner.
+Dialogue: 20,0:08:42.17,0:08:45.17,Default,,0,0,0,,Well, look who we have here!
+Dialogue: 20,0:08:47.17,0:08:49.43,Default,,0,0,0,,You guys are still here?
+Dialogue: 20,0:08:49.43,0:08:51.34,Default,,0,0,0,,Why should we have left?
+Dialogue: 20,0:08:52.43,0:08:55.43,Default,,0,0,0,,Is that a kaiju I see?
+Dialogue: 20,0:08:55.43,0:08:59.48,Default,,0,0,0,,It's rare for Sizumu\Nto invite us somewhere.
+Dialogue: 20,0:08:59.48,0:09:04.82,Default,,0,0,0,,All we can do is wait for a kaiju,\Nso why not have fun?
+Dialogue: 20,0:09:04.82,0:09:09.07,Default,,0,0,0,,Hey, hey, hey, hey! This looks fun!
+Dialogue: 20,0:09:10.36,0:09:15.12,Default,,0,0,0,,Worried about kaiju being born\Nwhile we're in there?
+Dialogue: 20,0:09:15.12,0:09:16.83,Default,,0,0,0,,Learn to loosen up!
+Dialogue: 20,0:09:17.75,0:09:20.08,Default,,0,0,0,,Did you two always get along?
+Dialogue: 20,0:09:20.08,0:09:21.71,Default,,0,0,0,,{\pos(650,999)}No way.
+Dialogue: 20,0:09:20.08,0:09:21.71,Default,,0,0,0,,{\pos(1320,999)}No way.
+Dialogue: 20,0:09:23.79,0:09:27.05,Default,,0,0,0,,It's believed that kaiju have a source.
+Dialogue: 20,0:09:27.05,0:09:28.76,Default,,0,0,0,,A source?
+Dialogue: 20,0:09:28.76,0:09:33.22,Default,,0,0,0,,However, for kaiju to\Nappear this frequently,
+Dialogue: 20,0:09:33.22,0:09:37.68,Default,,0,0,0,,their sources must be\Npurposely scattered around.
+Dialogue: 20,0:09:38.10,0:09:40.18,Default,,0,0,0,,The Kaiju Eugenicists?
+Dialogue: 20,0:09:40.48,0:09:41.06,Default,,0,0,0,,Mmm.
+Dialogue: 20,0:09:41.44,0:09:44.73,Default,,0,0,0,,The human heart feeds the source.
+Dialogue: 20,0:09:44.73,0:09:48.69,Default,,0,0,0,,Emotions give birth to and nurture kaiju.
+Dialogue: 20,0:09:50.28,0:09:55.53,Default,,0,0,0,,How do you guys know that?\NIt's not like you're kaiju.
+Dialogue: 20,0:10:00.70,0:10:04.83,Default,,0,0,0,,So a kaiju user like you\Ndidn't know, Captain Gauma?
+Dialogue: 20,0:10:04.83,0:10:10.97,Default,,0,0,0,,It's news to me. Kaiju users\Ndon't need to know how kaiju are born.
+Dialogue: 20,0:10:10.97,0:10:13.97,Default,,0,0,0,,This kaiju may be incomplete
+Dialogue: 20,0:10:13.97,0:10:18.47,Default,,0,0,0,,because the human\Nresponsible for it is, too.
+Dialogue: 20,0:10:18.47,0:10:22.73,Default,,0,0,0,,Even so, it'll be dangerous if it grows.
+Dialogue: 20,0:10:23.02,0:10:24.90,Default,,0,0,0,,You think?
+Dialogue: 20,0:10:24.90,0:10:28.23,Default,,0,0,0,,I'm saying we can't leave it be.
+Dialogue: 20,0:10:28.23,0:10:31.19,Default,,0,0,0,,That's why I'm watching it.
+Dialogue: 20,0:10:31.19,0:10:34.36,Default,,0,0,0,,Won't it absorb emotions or something?
+Dialogue: 20,0:10:34.36,0:10:36.41,Default,,0,0,0,,You mean, like mine?
+Dialogue: 20,0:10:37.37,0:10:40.37,Default,,0,0,0,,Whatever. Just watch it closely.
+Dialogue: 20,0:10:40.37,0:10:43.00,Default,,0,0,0,,I already said I would.
+Dialogue: 20,0:10:43.00,0:10:46.33,Default,,0,0,0,,They grow through human emotions...
+Dialogue: 20,0:10:46.33,0:10:47.00,Default,,0,0,0,,What?
+Dialogue: 20,0:10:47.00,0:10:48.46,Default,,0,0,0,,Oh, nothing.
+Dialogue: 20,0:10:57.85,0:10:58.76,Default,,0,0,0,,What?!
+Dialogue: 20,0:11:00.89,0:11:03.77,Default,,0,0,0,,{\an8}Wait, wait up! Hey!
+Dialogue: 20,0:11:01.72,0:11:03.77,Default,,0,0,0,,Oh, shit! Stop pushing me, idiot!
+Dialogue: 20,0:11:08.98,0:11:11.28,Default,,0,0,0,,Is it okay to be doing this?
+Dialogue: 20,0:11:15.11,0:11:19.78,Default,,0,0,0,,At least you behave,\Nbut you're really an eyesore.
+Dialogue: 20,0:11:22.04,0:11:26.17,Default,,0,0,0,,That person was kind to living things...
+Dialogue: 20,0:11:27.79,0:11:30.38,Default,,0,0,0,,Where are you, Princess?
+Dialogue: 20,0:11:31.71,0:11:36.63,Default,,0,0,0,,In this world, there're three things\Nimportant for people to keep:
+Dialogue: 20,0:11:37.26,0:11:40.26,Default,,0,0,0,,Promises, love, and...
+Dialogue: 20,0:11:44.43,0:11:46.27,Default,,0,0,0,,It's already this late?
+Dialogue: 20,0:11:46.27,0:11:47.73,Default,,0,0,0,,Sleepy!
+Dialogue: 20,0:11:53.82,0:11:55.95,Default,,0,0,0,,Hey, hey, hey!
+Comment: 0,0:11:55.95,0:11:55.95,Default,chapter,0,0,0,,{Part B}
+Dialogue: 20,0:11:57.20,0:12:01.78,Default,,0,0,0,,Before anyone asks,\NI swear I was watching it!
+Dialogue: 20,0:12:01.78,0:12:05.37,Default,,0,0,0,,But in an instant—\Nthe instant I looked away...!
+Dialogue: 20,0:12:05.37,0:12:08.12,Default,,0,0,0,,Gauma, that's three times.
+Dialogue: 20,0:12:08.58,0:12:13.30,Default,,0,0,0,,Excuses aside, Captain,\Nwhat should we do now?
+Dialogue: 20,0:12:13.96,0:12:17.80,Default,,0,0,0,,Let's split up and look for the kaiju!
+Dialogue: 20,0:12:19.05,0:12:21.01,Default,,0,0,0,,It's Sunday, you know.
+Dialogue: 20,0:12:21.47,0:12:22.93,Default,,0,0,0,,S-Sorry.
+Dialogue: 20,0:12:22.93,0:12:24.47,Default,,0,0,0,,Whatever.
+Dialogue: 20,0:12:25.39,0:12:27.27,Default,,0,0,0,,It's morning, Mujina.
+Dialogue: 20,0:12:32.23,0:12:34.73,Default,,0,0,0,,Shall we head back?
+Dialogue: 20,0:12:34.73,0:12:36.36,Default,,0,0,0,,Wanna see a movie?
+Dialogue: 20,0:12:36.36,0:12:37.95,Default,,0,0,0,,Whoa, shouldn't we—?
+Dialogue: 20,0:12:37.95,0:12:38.74,Default,,0,0,0,,Which movie?
+Dialogue: 20,0:12:38.74,0:12:40.24,Default,,0,0,0,,You're going?!
+Dialogue: 20,0:12:53.38,0:12:55.00,Default,,0,0,0,,Where is it?
+Dialogue: 20,0:12:55.50,0:12:58.51,Default,,0,0,0,,Whoa, whoa, whoa. You serious?
+Dialogue: 20,0:12:58.80,0:13:00.76,Default,,0,0,0,,{\pos(1200,999)}That sounds\Nawesome.
+Dialogue: 20,0:12:58.80,0:13:00.76,Default,,0,0,0,,{\pos(1700,999)}That sounds\Nawesome.
+Dialogue: 20,0:13:00.76,0:13:01.51,Default,,0,0,0,,Huh?
+Dialogue: 20,0:13:06.60,0:13:08.02,Default,,0,0,0,,What are you doing?
+Dialogue: 20,0:13:08.77,0:13:10.31,Default,,0,0,0,,Knight?
+Dialogue: 20,0:13:12.10,0:13:14.61,Default,,0,0,0,,That one kaiju got away.
+Dialogue: 20,0:13:15.19,0:13:18.07,Default,,0,0,0,,I should've dealt with it back then.
+Dialogue: 20,0:13:19.40,0:13:21.49,Default,,0,0,0,,I'll have to step in.
+Dialogue: 20,0:13:21.49,0:13:25.66,Default,,0,0,0,,Huh? Do you have a way to find kaiju?
+Dialogue: 20,0:13:25.91,0:13:26.66,Default,,0,0,0,,I do.
+Dialogue: 20,0:13:27.04,0:13:29.16,Default,,0,0,0,,Seriously? What a relief!
+Dialogue: 20,0:13:29.16,0:13:32.92,Default,,0,0,0,,Yomogi Asanaka, let's find the kaiju.
+Dialogue: 20,0:13:32.92,0:13:37.30,Default,,0,0,0,,Uh, sure... and thanks. But, how?
+Dialogue: 20,0:13:37.30,0:13:39.30,Default,,0,0,0,,Search till we find it.
+Dialogue: 20,0:13:41.30,0:13:43.30,Default,,0,0,0,,Search till we find it.
+Dialogue: 20,0:13:45.30,0:13:46.31,Default,,0,0,0,,Right.
+Dialogue: 20,0:13:48.22,0:13:51.73,Default,,0,0,0,,Whoa, holy shit! This is sick!
+Dialogue: 20,0:13:51.73,0:13:52.64,Default,,0,0,0,,Shut up!
+Dialogue: 20,0:13:54.65,0:13:57.02,Default,,0,0,0,,You taking a break, too?
+Dialogue: 20,0:13:57.02,0:13:59.82,Default,,0,0,0,,Yeah. No sign of the kaiju.
+Dialogue: 20,0:13:59.82,0:14:01.78,Default,,0,0,0,,Tell me about it.
+Dialogue: 20,0:14:02.11,0:14:03.45,Default,,0,0,0,,Watching a movie?
+Dialogue: 20,0:14:03.91,0:14:05.53,Default,,0,0,0,,My battery's gonna die.
+Dialogue: 20,0:14:08.37,0:14:12.21,Default,,0,0,0,,Do you think the kaiju has a heart?
+Dialogue: 20,0:14:12.21,0:14:13.79,Default,,0,0,0,,Why do you ask?
+Dialogue: 20,0:14:14.21,0:14:19.67,Default,,0,0,0,,Until now, I thought we had to kill kaiju\Nbecause they run amok.
+Dialogue: 20,0:14:20.34,0:14:26.30,Default,,0,0,0,,But if it's like you're saying—\Nthat kaiju are born from human emotions,
+Dialogue: 20,0:14:27.14,0:14:30.81,Default,,0,0,0,,maybe there's kaiju with feelings like us.
+Dialogue: 20,0:14:31.14,0:14:33.52,Default,,0,0,0,,Some kaiju do have hearts.
+Dialogue: 20,0:14:33.52,0:14:35.23,Default,,0,0,0,,Then, what if this one—?
+Dialogue: 20,0:14:35.23,0:14:37.31,Default,,0,0,0,,Others will fool you.
+Dialogue: 20,0:14:37.31,0:14:41.32,Default,,0,0,0,,If you guess wrong\Nand people die, it's too late.
+Dialogue: 20,0:14:41.32,0:14:44.28,Default,,0,0,0,,Why do you know so much about kaiju?
+Dialogue: 20,0:14:45.03,0:14:46.32,Default,,0,0,0,,I just do.
+Dialogue: 20,0:14:50.58,0:14:56.58,Default,,0,0,0,,If kaiju are a threat, I'll kill\Nwithout hesitation as I always do.
+Dialogue: 20,0:14:59.75,0:15:00.00,Default,,0,0,0,,Hello?
+Dialogue: 20,0:15:00.00,0:15:01.09,Default,,0,0,0,,{\i1}Yomogi!
+Dialogue: 20,0:15:01.09,0:15:02.92,Default,,0,0,0,,{\i1}I found the kaiju!
+Dialogue: 20,0:15:11.22,0:15:12.27,Default,,0,0,0,,Gauma!
+Dialogue: 20,0:15:12.27,0:15:14.81,Default,,0,0,0,,Let's try to stop it together!
+Dialogue: 20,0:15:14.81,0:15:15.73,Default,,0,0,0,,Right!
+Dialogue: 20,0:15:16.35,0:15:19.23,Default,,0,0,0,,Access Mode... Dyna Diver!
+Dialogue: 20,0:15:19.23,0:15:21.19,Default,,0,0,0,,Dyna Striker!
+Dialogue: 20,0:15:23.65,0:15:27.16,Default,,0,0,0,,Since I messed up this time,\NI've gotta defeat it!
+Dialogue: 20,0:15:30.45,0:15:33.29,Default,,0,0,0,,It's dangerous to fire missiles here!
+Dialogue: 20,0:15:33.29,0:15:34.20,Default,,0,0,0,,Good point.
+Dialogue: 20,0:15:34.58,0:15:39.00,Default,,0,0,0,,I'll lure it outside the city\Nand you can hit it!
+Dialogue: 20,0:15:39.00,0:15:42.46,Default,,0,0,0,,It feels like you're growing up, kid.
+Dialogue: 20,0:15:42.46,0:15:43.26,Default,,0,0,0,,Hold up.
+Dialogue: 20,0:15:43.26,0:15:43.96,Default,,0,0,0,,What?
+Dialogue: 20,0:15:43.96,0:15:46.59,Default,,0,0,0,,I'm probably older than you.
+Dialogue: 20,0:15:46.59,0:15:50.60,Default,,0,0,0,,But I'm plus five thousand.\NFive thousand years.
+Dialogue: 20,0:15:50.60,0:15:52.47,Default,,0,0,0,,Sh-Shut up.
+Dialogue: 20,0:15:54.06,0:15:55.27,Default,,0,0,0,,What's up?
+Dialogue: 20,0:15:55.27,0:15:58.81,Default,,0,0,0,,It's Sunday, so maybe it's an event.
+Dialogue: 20,0:15:58.81,0:15:59.73,Default,,0,0,0,,I see.
+Dialogue: 20,0:16:04.69,0:16:06.11,Default,,0,0,0,,A kaiju?
+Dialogue: 20,0:16:06.11,0:16:08.86,Default,,0,0,0,,Hey! This way, this way!
+Dialogue: 20,0:16:08.86,0:16:10.70,Default,,0,0,0,,This way, this way!
+Dialogue: 20,0:16:12.87,0:16:14.91,Default,,0,0,0,,Nice, it's working!
+Dialogue: 20,0:16:22.38,0:16:25.38,Default,,0,0,0,,Argh! The exit's gonna be packed!
+Dialogue: 20,0:16:26.13,0:16:27.80,Default,,0,0,0,,Huh? Minami?
+Dialogue: 20,0:16:28.88,0:16:30.09,Default,,0,0,0,,Chise!
+Dialogue: 20,0:16:30.09,0:16:31.39,Default,,0,0,0,,Minami!
+Dialogue: 20,0:16:32.30,0:16:38.14,Default,,0,0,0,,Sorry! Sorry! Sorry! Sorry! Sorry!
+Dialogue: 20,0:16:38.48,0:16:42.02,Default,,0,0,0,,If it's that big, it's dangerous. Kill it.
+Dialogue: 20,0:16:42.40,0:16:45.90,Default,,0,0,0,,I guess the Eugenicists must've found it.
+Dialogue: 20,0:16:48.99,0:16:50.49,Default,,0,0,0,,Koyomi!
+Dialogue: 20,0:16:50.49,0:16:51.70,Default,,0,0,0,,Koyomi!
+Dialogue: 20,0:16:51.70,0:16:54.95,Default,,0,0,0,,It's doing damage. No time to hesitate.
+Dialogue: 20,0:16:56.29,0:17:01.38,Default,,0,0,0,,Yomogi Asanaka,\Nlet's defeat the kaiju together.
+Dialogue: 20,0:17:01.38,0:17:02.88,Default,,0,0,0,,Together?
+Dialogue: 20,0:17:03.84,0:17:05.42,Default,,0,0,0,,Let me use you.
+Dialogue: 20,0:17:10.13,0:17:13.05,Default,,0,0,0,,Access Mode... Dyna Soldier!
+Dialogue: 20,0:17:19.39,0:17:20.52,Default,,0,0,0,,What's this?!
+Dialogue: 20,0:17:20.52,0:17:23.81,Default,,0,0,0,,It must have adapted to my presence.
+Dialogue: 20,0:17:23.81,0:17:24.69,Default,,0,0,0,,Adapted?
+Dialogue: 20,0:17:24.69,0:17:26.19,Default,,0,0,0,,Meaning, this!
+Dialogue: 20,0:17:28.11,0:17:30.82,Default,,0,0,0,,Dynamic Cannon!
+Dialogue: 20,0:17:42.58,0:17:43.75,Default,,0,0,0,,You're kidding!
+Dialogue: 20,0:17:48.13,0:17:50.30,Default,,0,0,0,,Take aim, Yomogi Asanaka.
+Dialogue: 20,0:17:51.76,0:17:55.76,Default,,0,0,0,,Should we really be killing it like this?
+Dialogue: 20,0:17:56.26,0:18:01.02,Default,,0,0,0,,What if kaiju have hearts and emotions?
+Dialogue: 20,0:18:01.02,0:18:01.89,Default,,0,0,0,,Yomo!
+Dialogue: 20,0:18:02.77,0:18:06.27,Default,,0,0,0,,Bad news! Minami's still in there!
+Dialogue: 20,0:18:06.27,0:18:07.40,Default,,0,0,0,,She is?!
+Dialogue: 20,0:18:07.40,0:18:10.40,Default,,0,0,0,,We got split up while leaving!
+Dialogue: 20,0:18:17.24,0:18:18.16,Default,,0,0,0,,{\i1}Yomogi!
+Dialogue: 20,0:18:18.16,0:18:18.91,Default,,0,0,0,,Minami?!
+Dialogue: 20,0:18:20.00,0:18:23.92,Default,,0,0,0,,I'm still inside the building,\Nbut my Dyna Wing—!
+Dialogue: 20,0:18:31.26,0:18:33.18,Default,,0,0,0,,{\i1}Minami! Minami!
+Dialogue: 20,0:18:33.47,0:18:34.76,Default,,0,0,0,,Son of a—!
+Dialogue: 20,0:18:38.76,0:18:42.77,Default,,0,0,0,,What are you doing?\NThere's no time to hesitate.
+Dialogue: 20,0:18:46.44,0:18:48.36,Default,,0,0,0,,Please, work!
+Dialogue: 20,0:18:51.78,0:18:53.86,Default,,0,0,0,,Instance Domina—!
+Dialogue: 20,0:18:59.70,0:19:02.00,Default,,0,0,0,,Now! Do it, Yomogi Asanaka!
+Dialogue: 20,0:19:24.69,0:19:27.69,Default,,0,0,0,,Dynamic Fire!
+Dialogue: 20,0:19:53.76,0:19:54.92,Default,,0,0,0,,Yomogi...
+Dialogue: 20,0:20:03.60,0:20:05.27,Default,,0,0,0,,Over here, Minami!
+Dialogue: 20,0:20:06.44,0:20:08.98,Default,,0,0,0,,Sorry. I dropped Dyna Wing.
+Dialogue: 20,0:20:08.98,0:20:10.77,Default,,0,0,0,,Least it wasn't stolen.
+Dialogue: 20,0:20:10.77,0:20:11.65,Default,,0,0,0,,True.
+Dialogue: 20,0:20:11.65,0:20:13.02,Default,,0,0,0,,She's not you.
+Dialogue: 20,0:20:23.37,0:20:27.50,Default,,0,0,0,,Sorry. It's my fault this happened.
+Dialogue: 20,0:20:28.12,0:20:30.92,Default,,0,0,0,,No, it's because I said something weird.
+Dialogue: 20,0:20:32.21,0:20:33.50,Default,,0,0,0,,Yomogi...
+Dialogue: 20,0:20:34.17,0:20:36.80,Default,,0,0,0,,When I was about to shoot, the kaiju...
+Dialogue: 20,0:20:37.47,0:20:38.55,Default,,0,0,0,,It looked at me.
+Dialogue: 20,0:20:40.30,0:20:43.18,Default,,0,0,0,,Hope it was just my imagination.
+Dialogue: 20,0:20:45.31,0:20:47.27,Default,,0,0,0,,Kaiju are kaiju.
+Dialogue: 20,0:20:55.53,0:20:56.28,Default,,0,0,0,,Huh?
+Dialogue: 20,0:20:56.82,0:20:58.65,Default,,0,0,0,,That was amazing!
+Dialogue: 20,0:20:58.65,0:21:01.62,Default,,0,0,0,,Yeah, I thought I was dead!
+Dialogue: 20,0:21:02.82,0:21:05.83,Default,,0,0,0,,When the water spewed up\Nlike that, it was incred—
+Dialogue: 20,0:21:13.96,0:21:15.92,Default,,0,0,0,,Are you feeling down?
+Dialogue: 20,0:21:16.59,0:21:19.05,Default,,0,0,0,,No, not really.
+Dialogue: 20,0:21:29.35,0:21:30.48,Default,,0,0,0,,What?
+Dialogue: 20,0:21:33.61,0:21:34.56,Default,,0,0,0,,Thanks.
+Dialogue: 20,0:21:35.07,0:21:35.61,Default,,0,0,0,,Huh?
+Dialogue: 20,0:21:36.61,0:21:41.07,Default,,0,0,0,,I heard you saved everyone from the kaiju.
+Dialogue: 20,0:21:42.45,0:21:45.58,Default,,0,0,0,,It was Knight more so than me, but...
+Dialogue: 20,0:21:50.12,0:21:51.62,Default,,0,0,0,,Are you hungry?
+Dialogue: 20,0:21:52.83,0:21:53.75,Default,,0,0,0,,Starving.
+Dialogue: 20,0:21:55.04,0:21:57.34,Default,,0,0,0,,Wanna go somewhere?
+Dialogue: 20,0:21:59.67,0:22:00.84,Default,,0,0,0,,Where?
+Dialogue: 20,0:22:02.97,0:22:04.59,Default,,0,0,0,,Anywhere is fine.
+Dialogue: 20,0:22:08.93,0:22:09.60,Default,,0,0,0,,Mmm.
+Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:08.89,0:22:09.93,Sign,,0,0,0,,TS BELOW HERE
 Comment: 0,0:22:08.89,0:22:09.93,Sign,,0,0,0,,
 Dialogue: 0,0:02:18.03,0:02:22.04,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -631 -538 l 723 -538 723 -327 -631 -327
@@ -576,14 +591,3 @@ Dialogue: 0,0:20:56.82,0:21:02.82,Sign,,0,0,0,,{=44}{\clip(900,302,1145,304)\pos
 Dialogue: 0,0:20:56.82,0:21:02.82,Sign,,0,0,0,,{=44}{\clip(900,304,1145,306)\pos(1030.1,277)\fsp10\fnEncode Sans SemiBold\b0\1a&H00&\c&H4BB3E5&\blur1.3}ATION
 Comment: 0,0:20:56.82,0:21:02.82,Sign,,0,0,0,,{=44}
 Comment: 0,0:22:08.89,0:22:09.93,Sign,,0,0,0,,
-
-[Aegisub Extradata]
-Data: 11,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A5}
-Data: 16,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A10}
-Data: 21,a-mo,e{"uuid"#3A"4b91ce12-2246-48c7-b6b3-b6010eeb4f9f"#2C"originalText"#3A"{\\fnRoboto Light\\b1\\org(1207.6#2C779.2)\\fry0.21\\frx0.88\\frz16.14\\blur1.3\\fs47\\pos(995#2C672)}Calling"}
-Data: 22,a-mo,e{"uuid"#3A"e30440b4-e109-4148-ab3f-e308679e24fd"#2C"originalText"#3A"{\\fnRoboto Light\\b1\\org(1207.6#2C779.2)\\fry0.21\\frx0.88\\frz16.14\\blur10\\fs47\\pos(995#2C672)\\alpha&HB0&\\c&HFFFFFF&}Calling"}
-Data: 23,a-mo,e{"uuid"#3A"add06c2a-690a-4792-9746-4ab4e5d6db3f"#2C"originalText"#3A"{\\fnRoboto Light\\b1\\org(1207.6#2C779.2)\\fry0.21\\frx0.88\\frz16.14\\blur1.3\\pos(991#2C477)}Chise"}
-Data: 24,a-mo,e{"uuid"#3A"a4fed469-b6e9-4fd5-ad55-b1904d4ac03b"#2C"originalText"#3A"{\\fnRoboto Light\\b1\\org(1207.6#2C779.2)\\fry0.21\\frx0.88\\frz16.14\\blur10\\pos(991#2C477)\\c&HFFFFFF&\\1a&HB0&}Chise"}
-Data: 27,a-mo,e{"uuid"#3A"dc6ece12-0097-4de5-b11c-5758b0fbee70"#2C"originalText"#3A"{\\fnRoboto Light\\b0\\org(1207.6#2C779.2)\\fry0.21\\frx0.88\\frz16.14\\blur1.3\\fs26\\pos(1185#2C1003)}Message"}
-Data: 28,a-mo,e{"uuid"#3A"65fe7bf6-e7b8-413b-a088-56a3f0802aab"#2C"originalText"#3A"{\\fnRoboto Light\\b0\\org(1207.6#2C779.2)\\fry0.21\\frx0.88\\frz16.14\\blur10\\fs26\\pos(1185#2C1003)\\alpha&HA0&\\c&HFFFFFF&}Message"}
-Data: 44,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A4}
