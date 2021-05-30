@@ -12,14 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: dynazenon
-Audio File: dynazenon09.mkv
-Video File: dynazenon09.mkv
-Keyframes File: dynazenon09_keyframes.txt
+Audio File: A:/Downloads/SSSS.Dynazenon - 09 (workraw).mkv
+Video File: A:/Downloads/SSSS.Dynazenon - 09 (workraw).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 276
-Video Position: 32259
+Video Zoom Percent: 0.750000
+Scroll Position: 414
+Active Line: 417
+Video Position: 6983
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -310,11 +310,154 @@ Dialogue: 20,0:22:21.36,0:22:23.45,Default,,0,0,0,,Yeah, it's been a while.
 Dialogue: 20,0:22:23.45,0:22:25.45,Default,,0,0,0,,Late, yet again?
 Dialogue: 20,0:22:25.45,0:22:27.24,Default,,0,0,0,,I'll go get her.
 Dialogue: 20,0:22:39.21,0:22:41.84,Default,,0,0,0,,Sorry for taking so long.
-Dialogue: 0,0:03:18.64,0:03:21.01,Default,,0,0,0,,{\an8}"Episode 9: What Are These\NOverlapping Emotions?"
-Dialogue: 0,0:03:21.01,0:03:22.64,Default,,0,0,0,,"Episode 9: What Are These\NOverlapping Emotions?"
+Comment: 0,0:03:18.64,0:03:21.01,Sign,,0,0,0,,
+Comment: 0,0:03:18.64,0:03:21.01,Sign,,0,0,0,,TS BELOW HERE
+Comment: 0,0:03:18.64,0:03:21.01,Sign,,0,0,0,,
+Dialogue: 0,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -631 -538 l 723 -538 723 -327 -631 -327
+Dialogue: 1,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\fs110\blur1.1}What Are These Overlapping Emotions?
+Dialogue: 0,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -350 -209 l 346 -209 346 -50 -350 -50
+Dialogue: 1,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\pos(960,715)\fnRoboto\fs90\fsp6\blur1.1}— Episode 9 —
+Comment: 0,0:03:28.90,0:03:30.31,Sign,,0,0,0,,
+Dialogue: 0,0:04:42.13,0:04:42.17,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,1196.35)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.17,0:04:42.22,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,1175.61)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.22,0:04:42.26,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,1154.83)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.26,0:04:42.30,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,1134.22)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.30,0:04:42.34,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,1113.6)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.34,0:04:42.38,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.43,1093.1)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.38,0:04:42.42,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,1072.76)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.42,0:04:42.47,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,1052.55)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.47,0:04:42.51,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,1032.31)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.51,0:04:42.55,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,1012.31)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.55,0:04:42.59,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,992.37)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.59,0:04:42.63,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.46,972.67)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.63,0:04:42.67,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,952.92)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.67,0:04:42.72,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,933.4)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.72,0:04:42.76,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,914.09)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.76,0:04:42.80,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,894.87)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.80,0:04:42.84,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,875.88)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.84,0:04:42.88,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,856.89)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.88,0:04:42.92,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,838.14)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.92,0:04:42.97,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,819.64)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.97,0:04:43.01,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.46,801.25)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.01,0:04:43.05,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,783.05)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.05,0:04:43.09,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,765.05)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.09,0:04:43.13,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,747.25)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.13,0:04:43.17,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,729.68)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.17,0:04:43.22,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,712.27)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.22,0:04:43.26,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,695.18)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.26,0:04:43.30,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,678.21)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.30,0:04:43.34,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.43,661.51)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.34,0:04:43.38,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.43,645.08)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.38,0:04:43.42,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.43,628.86)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.42,0:04:43.47,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,612.9)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.47,0:04:43.51,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,597.27)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.51,0:04:43.55,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,581.86)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.55,0:04:43.59,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.43,566.75)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.59,0:04:43.63,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.43,551.93)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.63,0:04:43.67,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,537.43)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.67,0:04:43.72,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,523.19)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.72,0:04:43.76,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.42,509.37)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.76,0:04:43.80,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,495.9)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.80,0:04:43.84,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,482.68)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.84,0:04:43.88,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,469.9)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.88,0:04:43.93,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.42,457.57)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.93,0:04:43.97,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.42,445.57)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:43.97,0:04:44.01,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,433.88)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.01,0:04:44.05,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,422.79)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.05,0:04:44.09,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,412)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.09,0:04:44.13,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,401.81)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.13,0:04:44.18,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,392.03)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.18,0:04:44.22,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,382.84)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.22,0:04:44.26,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.43,374.09)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.26,0:04:44.30,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,365.87)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.30,0:04:44.34,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,358.35)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.34,0:04:44.38,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,351.38)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.38,0:04:44.43,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,345.14)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.43,0:04:44.47,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,339.57)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.47,0:04:44.51,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,334.75)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.51,0:04:44.55,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,330.51)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.55,0:04:44.59,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,327.24)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.59,0:04:44.63,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,324.88)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.63,0:04:44.68,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,323.3)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.68,0:04:44.97,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,322.83)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:44.97,0:04:45.43,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,322.84)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:45.43,0:04:46.14,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,322.83)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:46.14,0:04:47.05,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,322.84)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:47.05,0:04:47.47,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,322.83)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:47.47,0:04:48.72,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,322.84)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
+Dialogue: 0,0:04:42.13,0:04:42.17,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,2002.11)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,1056.66)}Model Apartments Open
+Dialogue: 0,0:04:42.17,0:04:42.22,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1981.37)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,1035.92)}Model Apartments Open
+Dialogue: 0,0:04:42.22,0:04:42.26,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1960.6)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,1015.15)}Model Apartments Open
+Dialogue: 0,0:04:42.26,0:04:42.30,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1939.99)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,994.54)}Model Apartments Open
+Dialogue: 0,0:04:42.30,0:04:42.34,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1919.37)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,973.92)}Model Apartments Open
+Dialogue: 0,0:04:42.34,0:04:42.38,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.78,1898.86)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.41,953.41)}Model Apartments Open
+Dialogue: 0,0:04:42.38,0:04:42.42,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1878.53)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,933.08)}Model Apartments Open
+Dialogue: 0,0:04:42.42,0:04:42.47,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1858.32)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,912.87)}Model Apartments Open
+Dialogue: 0,0:04:42.47,0:04:42.51,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1838.08)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,892.63)}Model Apartments Open
+Dialogue: 0,0:04:42.51,0:04:42.55,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1818.07)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,872.62)}Model Apartments Open
+Dialogue: 0,0:04:42.55,0:04:42.59,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1798.14)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,852.69)}Model Apartments Open
+Dialogue: 0,0:04:42.59,0:04:42.63,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.82,1778.44)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.45,832.99)}Model Apartments Open
+Dialogue: 0,0:04:42.63,0:04:42.67,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1758.69)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,813.24)}Model Apartments Open
+Dialogue: 0,0:04:42.67,0:04:42.72,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1739.16)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,793.71)}Model Apartments Open
+Dialogue: 0,0:04:42.72,0:04:42.76,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1719.86)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,774.41)}Model Apartments Open
+Dialogue: 0,0:04:42.76,0:04:42.80,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1700.63)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,755.18)}Model Apartments Open
+Dialogue: 0,0:04:42.80,0:04:42.84,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1681.64)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,736.19)}Model Apartments Open
+Dialogue: 0,0:04:42.84,0:04:42.88,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1662.66)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,717.21)}Model Apartments Open
+Dialogue: 0,0:04:42.88,0:04:42.92,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1643.9)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,698.45)}Model Apartments Open
+Dialogue: 0,0:04:42.92,0:04:42.97,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1625.41)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,679.96)}Model Apartments Open
+Dialogue: 0,0:04:42.97,0:04:43.01,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.81,1607.01)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,661.56)}Model Apartments Open
+Dialogue: 0,0:04:43.01,0:04:43.05,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1588.82)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,643.37)}Model Apartments Open
+Dialogue: 0,0:04:43.05,0:04:43.09,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1570.82)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,625.37)}Model Apartments Open
+Dialogue: 0,0:04:43.09,0:04:43.13,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1553.02)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,607.57)}Model Apartments Open
+Dialogue: 0,0:04:43.13,0:04:43.17,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1535.45)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,590)}Model Apartments Open
+Dialogue: 0,0:04:43.17,0:04:43.22,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1518.04)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,572.59)}Model Apartments Open
+Dialogue: 0,0:04:43.22,0:04:43.26,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1500.95)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,555.5)}Model Apartments Open
+Dialogue: 0,0:04:43.26,0:04:43.30,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.81,1483.98)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,538.53)}Model Apartments Open
+Dialogue: 0,0:04:43.30,0:04:43.34,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1467.28)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,521.83)}Model Apartments Open
+Dialogue: 0,0:04:43.34,0:04:43.38,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1450.85)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,505.4)}Model Apartments Open
+Dialogue: 0,0:04:43.38,0:04:43.42,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1434.62)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,489.17)}Model Apartments Open
+Dialogue: 0,0:04:43.42,0:04:43.47,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1418.67)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,473.22)}Model Apartments Open
+Dialogue: 0,0:04:43.47,0:04:43.51,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1403.03)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,457.58)}Model Apartments Open
+Dialogue: 0,0:04:43.51,0:04:43.55,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1387.63)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,442.18)}Model Apartments Open
+Dialogue: 0,0:04:43.55,0:04:43.59,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.78,1372.52)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.41,427.07)}Model Apartments Open
+Dialogue: 0,0:04:43.59,0:04:43.63,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1357.69)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,412.24)}Model Apartments Open
+Dialogue: 0,0:04:43.63,0:04:43.67,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1343.19)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,397.74)}Model Apartments Open
+Dialogue: 0,0:04:43.67,0:04:43.72,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1328.96)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,383.51)}Model Apartments Open
+Dialogue: 0,0:04:43.72,0:04:43.76,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.78,1315.13)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.41,369.68)}Model Apartments Open
+Dialogue: 0,0:04:43.76,0:04:43.80,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1301.66)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,356.21)}Model Apartments Open
+Dialogue: 0,0:04:43.80,0:04:43.84,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1288.44)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,342.99)}Model Apartments Open
+Dialogue: 0,0:04:43.84,0:04:43.88,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1275.66)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,330.21)}Model Apartments Open
+Dialogue: 0,0:04:43.88,0:04:43.93,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.78,1263.33)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.41,317.88)}Model Apartments Open
+Dialogue: 0,0:04:43.93,0:04:43.97,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.78,1251.34)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.41,305.89)}Model Apartments Open
+Dialogue: 0,0:04:43.97,0:04:44.01,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.81,1239.64)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,294.19)}Model Apartments Open
+Dialogue: 0,0:04:44.01,0:04:44.05,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1228.55)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,283.1)}Model Apartments Open
+Dialogue: 0,0:04:44.05,0:04:44.09,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1217.76)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,272.31)}Model Apartments Open
+Dialogue: 0,0:04:44.09,0:04:44.13,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1207.57)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,262.12)}Model Apartments Open
+Dialogue: 0,0:04:44.13,0:04:44.18,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1197.8)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,252.35)}Model Apartments Open
+Dialogue: 0,0:04:44.18,0:04:44.22,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1188.6)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,243.15)}Model Apartments Open
+Dialogue: 0,0:04:44.22,0:04:44.26,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1179.85)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,234.4)}Model Apartments Open
+Dialogue: 0,0:04:44.26,0:04:44.30,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1171.64)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,226.19)}Model Apartments Open
+Dialogue: 0,0:04:44.30,0:04:44.34,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1164.12)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,218.67)}Model Apartments Open
+Dialogue: 0,0:04:44.34,0:04:44.38,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1157.14)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,211.69)}Model Apartments Open
+Dialogue: 0,0:04:44.38,0:04:44.43,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.79,1150.9)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.42,205.45)}Model Apartments Open
+Dialogue: 0,0:04:44.43,0:04:44.47,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1145.33)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,199.88)}Model Apartments Open
+Dialogue: 0,0:04:44.47,0:04:44.51,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1140.51)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,195.06)}Model Apartments Open
+Dialogue: 0,0:04:44.51,0:04:44.55,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1136.27)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,190.82)}Model Apartments Open
+Dialogue: 0,0:04:44.55,0:04:44.59,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1133.01)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,187.56)}Model Apartments Open
+Dialogue: 0,0:04:44.59,0:04:44.63,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1130.64)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,185.19)}Model Apartments Open
+Dialogue: 0,0:04:44.63,0:04:44.68,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1129.06)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,183.62)}Model Apartments Open
+Dialogue: 0,0:04:44.68,0:04:48.72,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1128.6)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,183.15)}Model Apartments Open
+Comment: 0,0:04:44.68,0:04:48.72,Sign,,0,0,0,,{=0}
+Dialogue: 0,0:04:51.23,0:04:58.49,Sign,,0,0,0,,{=0}{\blur3\pos(846.5,101.5)\p1\c&H0AC4FE&}m 0 27 l 214 257 233 128 114 0
+Dialogue: 0,0:04:51.23,0:04:58.49,Sign,,0,0,0,,{=0}{\org(-303.2,2238.7)\fry4.89\frx-0.33\frz-9.01\fnAsap Condensed SemiBold\blur0.9\fs76\pos(741.99,-986.34)}Model Apartments Open
+Comment: 0,0:04:44.59,0:04:44.63,Sign,,0,0,0,,{=0}
 Dialogue: 0,0:03:28.90,0:03:30.31,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
 Dialogue: 0,0:03:30.31,0:03:32.32,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
 Dialogue: 0,0:03:32.32,0:03:34.11,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
 Dialogue: 0,0:03:34.11,0:03:36.53,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
 Dialogue: 0,0:03:36.53,0:03:37.66,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
 Dialogue: 0,0:06:23.70,0:06:25.45,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"\N"We're excited to see you there!"
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"6afac755-7c3c-415f-935d-64733a679758"#2C"originalText"#3A"{\\org(649.8#2C1128.6)\\fry15.91\\frx-3.42\\frz-10.09\\fnAsap Condensed SemiBold\\fs36\\blur0.9\\pos(829.43#2C183.15)}Model Apartments Open"}
+Data: 1,a-mo,e{"uuid"#3A"f009bd3d-9230-4e4f-a435-154f25a58347"#2C"originalText"#3A"{\\blur1\\pos(943.445#2C322.835)\\p1\\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44"}
