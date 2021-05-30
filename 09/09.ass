@@ -1,0 +1,289 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:02:05.95,0:02:08.67,Default,,0,0,0,,Um, Captain?
+Dialogue: 0,0:02:08.67,0:02:11.79,Default,,0,0,0,,Yomo? Minami?
+Dialogue: 0,0:02:12.84,0:02:14.38,Default,,0,0,0,,Senpai...
+Dialogue: 0,0:02:32.15,0:02:33.77,Default,,0,0,0,,Huh?
+Dialogue: 0,0:02:33.77,0:02:35.15,Default,,0,0,0,,What's this?
+Dialogue: 0,0:02:44.95,0:02:48.96,Default,,0,0,0,,Huh?! N-No way!
+Dialogue: 0,0:02:48.96,0:02:52.13,Default,,0,0,0,,Hey! Turn this back to normal!
+Dialogue: 0,0:02:52.13,0:02:54.21,Default,,0,0,0,,Wh-Whoa!
+Dialogue: 0,0:02:59.01,0:03:01.55,Default,,0,0,0,,It's all back...
+Dialogue: 0,0:03:01.55,0:03:03.68,Default,,0,0,0,,You understand me.
+Dialogue: 0,0:03:04.97,0:03:06.39,Default,,0,0,0,,Sit.
+Dialogue: 0,0:03:07.60,0:03:09.35,Default,,0,0,0,,Lie down.
+Dialogue: 0,0:03:09.35,0:03:10.52,Default,,0,0,0,,Paw.
+Dialogue: 0,0:03:11.52,0:03:14.73,Default,,0,0,0,,Not quite, but whatever.
+Dialogue: 0,0:03:14.73,0:03:17.40,Default,,0,0,0,,You need a name, don't you?
+Dialogue: 0,0:03:18.74,0:03:22.41,Default,,0,0,0,,Um, let's give you a cool one.
+Dialogue: 0,0:03:23.32,0:03:25.66,Default,,0,0,0,,All right. Your name will be Goldburn.
+Dialogue: 0,0:03:25.66,0:03:28.00,Default,,0,0,0,,{\an8}"Episode 9: What Are These\NOverlapping Emotions?"
+Dialogue: 0,0:03:25.66,0:03:28.00,Default,,0,0,0,,All right. Your name will be Goldburn.
+Dialogue: 0,0:03:28.00,0:03:29.66,Default,,0,0,0,,"Episode 9: What Are These\NOverlapping Emotions?"
+Dialogue: 0,0:03:29.96,0:03:32.42,Default,,0,0,0,,Going to the festival, Yomogi?
+Dialogue: 0,0:03:32.42,0:03:33.96,Default,,0,0,0,,There's fireworks.
+Dialogue: 0,0:03:33.96,0:03:35.92,Default,,0,0,0,,Super crummy ones.
+Dialogue: 0,0:03:35.92,0:03:37.34,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
+Dialogue: 0,0:03:35.92,0:03:37.34,Default,,0,0,0,,You going?
+Dialogue: 0,0:03:37.34,0:03:39.34,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
+Dialogue: 0,0:03:37.34,0:03:39.34,Default,,0,0,0,,I can't make it.
+Dialogue: 0,0:03:39.34,0:03:41.13,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
+Dialogue: 0,0:03:39.34,0:03:41.13,Default,,0,0,0,,It's my brother's birthday.
+Dialogue: 0,0:03:41.13,0:03:43.55,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
+Dialogue: 0,0:03:41.13,0:03:43.55,Default,,0,0,0,,I've got plans to go eat.
+Dialogue: 0,0:03:43.55,0:03:44.68,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"
+Dialogue: 0,0:03:43.55,0:03:44.68,Default,,0,0,0,,Me, too.
+Dialogue: 0,0:03:44.68,0:03:46.72,Default,,0,0,0,,Why don't you two go?
+Dialogue: 0,0:03:49.31,0:03:50.64,Default,,0,0,0,,--No way.\N--No way.
+Dialogue: 0,0:03:53.69,0:03:56.23,Default,,0,0,0,,Not interested in the festival?
+Dialogue: 0,0:03:56.23,0:03:59.78,Default,,0,0,0,,Huh? Uh, not really.
+Dialogue: 0,0:04:00.65,0:04:02.86,Default,,0,0,0,,I think I wanna go.
+Dialogue: 0,0:04:02.86,0:04:06.49,Default,,0,0,0,,Huh? Should we check it out?
+Dialogue: 0,0:04:06.49,0:04:07.66,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:04:07.66,0:04:11.71,Default,,0,0,0,,I'll ask the others\Nsince I bet they're bored.
+Dialogue: 0,0:04:14.58,0:04:16.79,Default,,0,0,0,,Think Knight will come?
+Dialogue: 0,0:04:16.79,0:04:18.63,Default,,0,0,0,,Hmm. Don't know.
+Dialogue: 0,0:04:18.63,0:04:21.30,Default,,0,0,0,,Oh. No way to reach him.
+Dialogue: 0,0:04:21.30,0:04:23.34,Default,,0,0,0,,Just let me know.
+Dialogue: 0,0:04:25.05,0:04:26.60,Default,,0,0,0,,Okay.
+Dialogue: 0,0:04:26.60,0:04:28.14,Default,,0,0,0,,Senpai.
+Dialogue: 0,0:04:28.14,0:04:29.14,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:04:29.14,0:04:34.02,Default,,0,0,0,,Hypothetically, if there was\Na peaceful {\i1}kaiju {\i0}that understood--
+Dialogue: 0,0:04:34.02,0:04:36.81,Default,,0,0,0,,Oh, sorry. Hello?
+Dialogue: 0,0:04:36.81,0:04:39.02,Default,,0,0,0,,Hey, Yomogi.
+Dialogue: 0,0:04:39.02,0:04:40.73,Default,,0,0,0,,Festival?
+Dialogue: 0,0:04:40.73,0:04:42.99,Default,,0,0,0,,I've got nothing going on.
+Dialogue: 0,0:04:42.99,0:04:44.99,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:04:44.99,0:04:46.74,Default,,0,0,0,,I'll see if Chise--
+Dialogue: 0,0:04:47.82,0:04:48.87,Default,,0,0,0,,Huh?
+Dialogue: 0,0:04:49.91,0:04:52.75,Default,,0,0,0,,Ugh, I'm spent.
+Dialogue: 0,0:04:52.75,0:04:54.12,Default,,0,0,0,,Captain Gauma.
+Dialogue: 0,0:04:54.12,0:04:56.38,Default,,0,0,0,,Hmm? What's up?
+Dialogue: 0,0:04:56.38,0:04:58.50,Default,,0,0,0,,Hypothetically...
+Dialogue: 0,0:04:58.50,0:05:01.05,Default,,0,0,0,,Just hypothetically...
+Dialogue: 0,0:05:01.05,0:05:06.59,Default,,0,0,0,,If there was a peaceful {\i1}kaiju{\i0}\Nthat understood people, what then?
+Dialogue: 0,0:05:08.14,0:05:11.35,Default,,0,0,0,,You're thinking about\Nthat last {\i1}kaiju{\i0}, huh?
+Dialogue: 0,0:05:12.31,0:05:16.73,Default,,0,0,0,,We've gotta fight any {\i1}kaiju{\i0}\Nthat poses a threat.
+Dialogue: 0,0:05:16.73,0:05:19.02,Default,,0,0,0,,That's our duty.
+Dialogue: 0,0:05:19.02,0:05:22.40,Default,,0,0,0,,A-Absolutely!
+Dialogue: 0,0:05:25.90,0:05:30.49,Default,,0,0,0,,Shoot. I've gotta keep Goldburn\Na secret. If anyone finds--
+Dialogue: 0,0:05:35.58,0:05:38.71,Default,,0,0,0,,Wh-What?! What?!
+Dialogue: 0,0:05:38.71,0:05:45.05,Default,,0,0,0,,No, no, no! Too big, too big! Shrink,\NGoldburn! Go back to being small!
+Dialogue: 0,0:05:45.05,0:05:47.80,Default,,0,0,0,,You're not listening at all.
+Dialogue: 0,0:06:04.07,0:06:05.94,Default,,0,0,0,,Awesome!
+Dialogue: 0,0:06:07.40,0:06:08.99,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:08.99,0:06:12.20,Default,,0,0,0,,The lousy Ayame Middle School...
+Dialogue: 0,0:06:13.70,0:06:15.50,Default,,0,0,0,,Huh?! Goldburn?!
+Dialogue: 0,0:06:15.50,0:06:18.25,Default,,0,0,0,,W-Wait, wait! No!
+Dialogue: 0,0:06:23.00,0:06:26.67,Default,,0,0,0,,I almost became a Kaiju Eugenicist.
+Dialogue: 0,0:06:27.59,0:06:30.51,Default,,0,0,0,,Sorry, Goldburn.
+Dialogue: 0,0:06:30.72,0:06:32.47,Default,,0,0,0,,{\an8}"38th Uzukigaoka Fireworks Festival"\N"We're excited to see you there!"
+Dialogue: 0,0:06:34.39,0:06:35.52,Default,,0,0,0,,Yomogi!
+Dialogue: 0,0:06:35.52,0:06:36.35,Default,,0,0,0,,Mmm?
+Dialogue: 0,0:06:36.35,0:06:38.06,Default,,0,0,0,,You've got a guest.
+Dialogue: 0,0:06:38.06,0:06:39.06,Default,,0,0,0,,Huh?
+Dialogue: 0,0:06:41.48,0:06:45.94,Default,,0,0,0,,I'm Futaba Senda, the chorus club grad.
+Dialogue: 0,0:06:49.61,0:06:51.32,Default,,0,0,0,,Any progress?
+Dialogue: 0,0:06:52.32,0:06:54.24,Default,,0,0,0,,With what?
+Dialogue: 0,0:06:54.24,0:06:56.54,Default,,0,0,0,,You guys dating?
+Dialogue: 0,0:06:56.54,0:06:58.12,Default,,0,0,0,,Shut up.
+Dialogue: 0,0:07:01.63,0:07:02.54,Default,,0,0,0,,Hello?
+Dialogue: 0,0:07:02.54,0:07:06.09,Default,,0,0,0,,Minami? Futaba just showed up here.
+Dialogue: 0,0:07:06.09,0:07:07.13,Default,,0,0,0,,Huh?
+Dialogue: 0,0:07:07.97,0:07:10.47,Default,,0,0,0,,Um, all right.
+Dialogue: 0,0:07:10.47,0:07:12.76,Default,,0,0,0,,Sorry, I've gotta go back.
+Dialogue: 0,0:07:12.76,0:07:13.80,Default,,0,0,0,,Why?
+Dialogue: 0,0:07:13.80,0:07:16.27,Default,,0,0,0,,I'm super sorry.
+Dialogue: 0,0:07:16.27,0:07:18.18,Default,,0,0,0,,The boyfriend, huh?!
+Dialogue: 0,0:07:18.18,0:07:19.89,Default,,0,0,0,,Ex-boyfriend!
+Dialogue: 0,0:07:20.77,0:07:22.77,Default,,0,0,0,,That girl...
+Dialogue: 0,0:07:29.36,0:07:31.45,Default,,0,0,0,,I've got this one.
+Dialogue: 0,0:07:31.45,0:07:34.49,Default,,0,0,0,,It does seem right up your alley.
+Dialogue: 0,0:07:34.49,0:07:36.41,Default,,0,0,0,,You've got this.
+Dialogue: 0,0:07:36.41,0:07:38.95,Default,,0,0,0,,Instance Domination.
+Dialogue: 0,0:07:46.71,0:07:52.13,Default,,0,0,0,,I heard from my old work\Nthat you guys were looking for me.
+Dialogue: 0,0:07:52.13,0:07:54.26,Default,,0,0,0,,Sorry to bother you.
+Dialogue: 0,0:07:54.26,0:07:57.10,Default,,0,0,0,,You're Kano's little sister, right?
+Dialogue: 0,0:07:57.10,0:08:00.10,Default,,0,0,0,,Yeah. Yume Minami.
+Dialogue: 0,0:08:00.10,0:08:03.44,Default,,0,0,0,,Is it true that you two were dating?
+Dialogue: 0,0:08:03.44,0:08:06.19,Default,,0,0,0,,Yeah, we were at the time.
+Dialogue: 0,0:08:06.19,0:08:12.11,Default,,0,0,0,,So, you knew that she was\Nbeing bullied in chorus club?
+Dialogue: 0,0:08:12.11,0:08:16.78,Default,,0,0,0,,I heard rumors about it,\Nbut I never saw it in person.
+Dialogue: 0,0:08:16.78,0:08:21.75,Default,,0,0,0,,Besides, people don't just\Nadmit they're being bullied.
+Dialogue: 0,0:08:21.75,0:08:25.13,Default,,0,0,0,,That's true...
+Dialogue: 0,0:08:25.13,0:08:28.21,Default,,0,0,0,,But it made Kano commit suicide.
+Dialogue: 0,0:08:29.96,0:08:35.26,Default,,0,0,0,,No. Even the police\Nconcluded it was an accident.
+Dialogue: 0,0:08:37.93,0:08:41.81,Default,,0,0,0,,I wonder... Was it really?
+Dialogue: 0,0:08:41.81,0:08:46.31,Default,,0,0,0,,Kano wasn't like that.\NShe wouldn't kill herself.
+Dialogue: 0,0:08:57.70,0:09:00.54,Default,,0,0,0,,Sorry, I've gotta get going.
+Dialogue: 0,0:09:02.41,0:09:03.83,Default,,0,0,0,,Okay.
+Dialogue: 0,0:09:03.83,0:09:04.87,Default,,0,0,0,,Bye.
+Dialogue: 0,0:09:09.09,0:09:10.42,Default,,0,0,0,,Why?
+Dialogue: 0,0:09:15.38,0:09:19.89,Default,,0,0,0,,If you were dating Kano,\Nwhy didn't you save her?!
+Dialogue: 0,0:09:22.52,0:09:25.73,Default,,0,0,0,,Yeah, most people would think that.
+Dialogue: 0,0:09:32.40,0:09:34.40,Default,,0,0,0,,What's that mean?
+Dialogue: 0,0:09:40.91,0:09:42.20,Default,,0,0,0,,Minami--
+Dialogue: 0,0:09:47.75,0:09:51.25,Default,,0,0,0,,A {\i1}kaiju{\i0}? At a time like this?
+Dialogue: 0,0:09:51.25,0:09:53.96,Default,,0,0,0,,Let's go, Yomogi.
+Dialogue: 0,0:09:53.96,0:09:56.05,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:09:56.05,0:09:58.59,Default,,0,0,0,,Yeah. Let's hurry.
+Dialogue: 0,0:09:58.59,0:10:00.51,Default,,0,0,0,,R-Right.
+Dialogue: 0,0:10:07.31,0:10:12.02,Default,,0,0,0,,Sorry, go on ahead. I'll be right there.
+Dialogue: 0,0:10:12.02,0:10:13.07,Default,,0,0,0,,But--!
+Dialogue: 0,0:10:13.07,0:10:15.15,Default,,0,0,0,,I'm fine, really.
+Dialogue: 0,0:10:16.45,0:10:17.86,Default,,0,0,0,,Go.
+Dialogue: 0,0:10:18.91,0:10:20.32,Default,,0,0,0,,All right.
+Dialogue: 0,0:10:31.75,0:10:38.63,Default,,0,0,0,,What now? When you're this big,\NI can't bring you home.
+Dialogue: 0,0:10:40.05,0:10:41.68,Default,,0,0,0,,Another {\i1}kaiju{\i0}?!
+Dialogue: 0,0:10:43.76,0:10:44.72,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:45.68,0:10:51.23,Default,,0,0,0,,H-Hey! Wait! Wait up, Goldburn!
+Dialogue: 0,0:10:56.86,0:10:59.74,Default,,0,0,0,,Dyna Launcher Burst Missile!
+Dialogue: 0,0:11:09.00,0:11:10.71,Default,,0,0,0,,Shit! The ground!
+Dialogue: 0,0:11:10.71,0:11:13.63,Default,,0,0,0,,We can't fight this alone!
+Dialogue: 0,0:11:13.63,0:11:16.96,Default,,0,0,0,,Where the hell are Yomogi and Yume?!
+Dialogue: 0,0:11:16.96,0:11:20.84,Default,,0,0,0,,With this {\i1}kaiju{\i0}, I can beat Gauma at last!
+Dialogue: 0,0:11:20.84,0:11:22.34,Default,,0,0,0,,You know...
+Dialogue: 0,0:11:22.34,0:11:25.06,Default,,0,0,0,,Don't get too worked up.
+Dialogue: 0,0:11:25.06,0:11:26.81,Default,,0,0,0,,We have a guest.
+Dialogue: 0,0:11:31.35,0:11:34.19,Default,,0,0,0,,Be careful out there, Knight.
+Dialogue: 0,0:11:43.32,0:11:45.37,Default,,0,0,0,,Having trouble, Gauma?
+Dialogue: 0,0:11:45.37,0:11:48.16,Default,,0,0,0,,The whole team's not here yet!
+Dialogue: 0,0:11:52.46,0:11:54.13,Default,,0,0,0,,Gauma!
+Dialogue: 0,0:11:54.13,0:11:56.13,Default,,0,0,0,,You're late, Yomogi!
+Dialogue: 0,0:11:57.38,0:11:59.38,Default,,0,0,0,,Hey, where's Yume?
+Dialogue: 0,0:11:59.38,0:12:02.09,Default,,0,0,0,,She'll probably be here shortly.
+Dialogue: 0,0:12:02.09,0:12:05.89,Default,,0,0,0,,What's "probably"?! What happened to her?
+Dialogue: 0,0:12:05.89,0:12:07.93,Default,,0,0,0,,About that...
+Dialogue: 0,0:12:07.93,0:12:13.44,Default,,0,0,0,,She met with her sister's ex\Nand was acting a bit strange.
+Dialogue: 0,0:12:13.44,0:12:16.36,Default,,0,0,0,,And? You just ditched her?
+Dialogue: 0,0:12:16.36,0:12:18.28,Default,,0,0,0,,No, I left because--
+Dialogue: 0,0:12:18.28,0:12:19.78,Default,,0,0,0,,Hey!
+Dialogue: 0,0:12:19.78,0:12:22.53,Default,,0,0,0,,--Go get Yume right now!\N--Huh?
+Dialogue: 0,0:12:22.53,0:12:28.66,Default,,0,0,0,,What have you been around her for?!\NYou can tell that she's acting strange!
+Dialogue: 0,0:12:28.66,0:12:32.62,Default,,0,0,0,,I-I... I'll go get her!
+Dialogue: 0,0:12:32.62,0:12:38.84,Default,,0,0,0,,Come back together. You're the only one\Nwho can bring her back!
+Dialogue: 0,0:12:38.84,0:12:40.09,Default,,0,0,0,,Right!
+Dialogue: 0,0:12:44.51,0:12:49.01,Default,,0,0,0,,If there's something\Nonly I can do, I've gotta do it.
+Dialogue: 0,0:12:52.31,0:12:56.10,Default,,0,0,0,,It's no use. I totally lost him.
+Dialogue: 0,0:12:56.10,0:12:57.11,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:12:59.19,0:13:00.94,Default,,0,0,0,,Minami?
+Dialogue: 0,0:13:04.70,0:13:07.82,Default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:13:10.37,0:13:13.29,Default,,0,0,0,,Isn't there a {\i1}kaiju{\i0}?
+Dialogue: 0,0:13:16.04,0:13:18.84,Default,,0,0,0,,Um, shouldn't you be helping?
+Dialogue: 0,0:13:20.13,0:13:24.13,Default,,0,0,0,,I know. I know that.
+Dialogue: 0,0:13:26.30,0:13:28.60,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:13:28.60,0:13:33.77,Default,,0,0,0,,I'm fine. I'm fine, and it's got\Nnothing to do with you.
+Dialogue: 0,0:13:37.98,0:13:43.19,Default,,0,0,0,,When I fight, nothing good\Never comes from it.
+Dialogue: 0,0:13:45.65,0:13:50.16,Default,,0,0,0,,I wish you wouldn't say that.
+Dialogue: 0,0:13:50.16,0:13:54.66,Default,,0,0,0,,I try to fight as part of\Nthe team, you know.
+Dialogue: 0,0:13:54.66,0:13:58.08,Default,,0,0,0,,So don't say it's got\Nnothing to do with me!
+Dialogue: 0,0:14:01.84,0:14:02.88,Default,,0,0,0,,A {\i1}kaiju{\i0}?!
+Dialogue: 0,0:14:02.88,0:14:04.42,Default,,0,0,0,,No, that's--!
+Dialogue: 0,0:14:04.42,0:14:07.09,Default,,0,0,0,,Minami!
+Dialogue: 0,0:14:12.56,0:14:14.73,Default,,0,0,0,,Minami! You okay?!
+Dialogue: 0,0:14:16.77,0:14:18.81,Default,,0,0,0,,Yomogi...
+Dialogue: 0,0:14:18.81,0:14:21.82,Default,,0,0,0,,I came... to get you.
+Dialogue: 0,0:14:30.37,0:14:35.50,Default,,0,0,0,,Minami, are you sure\Nnothing good came from it?
+Dialogue: 0,0:14:35.50,0:14:39.42,Default,,0,0,0,,This guy charged in to save you.
+Dialogue: 0,0:14:39.42,0:14:43.09,Default,,0,0,0,,Is there anyone else\Nthat would do that for you?
+Dialogue: 0,0:14:46.55,0:14:49.64,Default,,0,0,0,,You don't know what you've got.
+Dialogue: 0,0:15:00.31,0:15:02.19,Default,,0,0,0,,--Minami!\N--Huh?
+Dialogue: 0,0:15:04.23,0:15:05.61,Default,,0,0,0,,Minami!
+Dialogue: 0,0:15:13.33,0:15:14.58,Default,,0,0,0,,Kano...
+Dialogue: 0,0:15:25.96,0:15:29.42,Default,,0,0,0,,The {\i1}kaiju{\i0}... saved her?
+Dialogue: 0,0:15:32.76,0:15:37.06,Default,,0,0,0,,That's Goldburn, my friend!
+Dialogue: 0,0:15:37.06,0:15:39.69,Default,,0,0,0,,A friend... {\i1}kaiju{\i0}?
+Dialogue: 0,0:15:43.81,0:15:47.48,Default,,0,0,0,,Knight Bursting Light Bom--
+Dialogue: 0,0:15:47.48,0:15:48.57,Default,,0,0,0,,Knight!
+Dialogue: 0,0:15:48.57,0:15:50.45,Default,,0,0,0,,I-I can't move!
+Dialogue: 0,0:15:50.45,0:15:52.74,Default,,0,0,0,,Shit! We're screwed!
+Dialogue: 0,0:15:53.78,0:15:57.74,Default,,0,0,0,,Gauma! I will now surpass you!
+Dialogue: 0,0:15:57.74,0:15:59.96,Default,,0,0,0,,We're really sinking!
+Dialogue: 0,0:15:59.96,0:16:02.75,Default,,0,0,0,,Yomogi! Where are you?!
+Dialogue: 0,0:16:04.17,0:16:05.13,Default,,0,0,0,,Gauma!
+Dialogue: 0,0:16:05.13,0:16:07.30,Default,,0,0,0,,Sorry we're late!
+Dialogue: 0,0:16:07.30,0:16:10.05,Default,,0,0,0,,You're late as hell, you two!
+Dialogue: 0,0:16:15.68,0:16:18.47,Default,,0,0,0,,Huh? What's going on?
+Dialogue: 0,0:16:18.47,0:16:20.64,Default,,0,0,0,,What's up with that {\i1}kaiju{\i0}?
+Dialogue: 0,0:16:23.06,0:16:24.48,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:16:24.48,0:16:29.03,Default,,0,0,0,,I can't control it. No, it's rejecting me.
+Dialogue: 0,0:16:29.03,0:16:32.15,Default,,0,0,0,,This {\i1}kaiju {\i0}can hear my heart!
+Dialogue: 0,0:16:32.15,0:16:33.28,Default,,0,0,0,,Your heart?
+Dialogue: 0,0:16:33.28,0:16:36.91,Default,,0,0,0,,Captain! Please trust this {\i1}kaiju{\i0}!
+Dialogue: 0,0:16:36.91,0:16:39.16,Default,,0,0,0,,Chise's telling the truth!
+Dialogue: 0,0:16:39.16,0:16:41.08,Default,,0,0,0,,It saved us!
+Dialogue: 0,0:16:41.08,0:16:44.83,Default,,0,0,0,,This {\i1}kaiju {\i0}is my friend!
+Dialogue: 0,0:16:44.83,0:16:48.38,Default,,0,0,0,,If Chise says so, it must be true.
+Dialogue: 0,0:16:52.01,0:16:58.72,Default,,0,0,0,,All right. Since I believe in you guys,\NI'll believe in the {\i1}kaiju{\i0}, too!
+Dialogue: 0,0:17:18.24,0:17:21.79,Default,,0,0,0,,Combine Dragon Dynazenon!
+Dialogue: 0,0:17:22.70,0:17:25.83,Default,,0,0,0,,Go, Goldburn!
+Dialogue: 0,0:17:25.83,0:17:26.88,Default,,0,0,0,,What?!
+Dialogue: 0,0:17:26.88,0:17:29.25,Default,,0,0,0,,Let's save him while we're at it!
+Dialogue: 0,0:17:36.93,0:17:38.80,Default,,0,0,0,,I didn't need help.
+Dialogue: 0,0:17:38.80,0:17:43.10,Default,,0,0,0,,Don't get me wrong. It wasn't to help you.
+Dialogue: 0,0:17:45.44,0:17:50.57,Default,,0,0,0,,Quit with the flirting.\NI'll wipe you both out at once!
+Dialogue: 0,0:17:55.99,0:18:00.03,Default,,0,0,0,,Goldburn has the power\Nto protect everyone!
+Dialogue: 0,0:18:00.03,0:18:03.16,Default,,0,0,0,,It's time to put our powers together!
+Dialogue: 0,0:18:03.16,0:18:04.33,Default,,0,0,0,,Right!
+Dialogue: 0,0:18:58.47,0:19:03.47,Default,,0,0,0,,Super Dragon King Kaiser Gridknight!
+Dialogue: 0,0:19:09.52,0:19:11.65,Default,,0,0,0,,What the hell is that?!
+Dialogue: 0,0:19:11.65,0:19:14.32,Default,,0,0,0,,All of 'em lumped together.
+Dialogue: 0,0:19:14.32,0:19:18.20,Default,,0,0,0,,The giant, Dynazenon,\Nand {\i1}kaiju {\i0}became one.
+Dialogue: 0,0:19:21.57,0:19:25.58,Default,,0,0,0,,That still doesn't mean\Nyou're gonna beat me!
+Dialogue: 0,0:19:40.63,0:19:41.55,Default,,0,0,0,,So fast!
+Dialogue: 0,0:19:41.55,0:19:43.35,Default,,0,0,0,,And strong! We've got this!
+Dialogue: 0,0:19:43.35,0:19:44.64,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:19:44.64,0:19:49.81,Default,,0,0,0,,This is the power of all of us together!
+Dialogue: 0,0:19:52.90,0:19:57.40,Default,,0,0,0,,Kaiser Knight Double Storm!
+Dialogue: 0,0:20:01.95,0:20:03.24,Default,,0,0,0,,Shoot!
+Dialogue: 0,0:20:06.24,0:20:08.33,Default,,0,0,0,,Yomogi Asanaka!
+Dialogue: 0,0:20:08.33,0:20:10.33,Default,,0,0,0,,Dynamic Cannon!
+Dialogue: 0,0:20:13.38,0:20:15.04,Default,,0,0,0,,Rex...
+Dialogue: 0,0:20:15.04,0:20:16.96,Default,,0,0,0,,...Grid...
+Dialogue: 0,0:20:16.96,0:20:19.92,Default,,0,0,0,,...Fire!
+Dialogue: 0,0:20:50.20,0:20:53.42,Default,,0,0,0,,Well, you almost had it, Juuga.
+Dialogue: 0,0:20:53.42,0:20:56.79,Default,,0,0,0,,We'll win next time, yeah?
+Dialogue: 0,0:20:56.79,0:21:01.80,Default,,0,0,0,,There's not an infinite number\Nof {\i1}kaiju{\i0}, you know.
+Dialogue: 0,0:21:01.80,0:21:03.55,Default,,0,0,0,,That's true.
+Dialogue: 0,0:21:06.09,0:21:08.64,Default,,0,0,0,,I realized something today.
+Dialogue: 0,0:21:08.64,0:21:14.39,Default,,0,0,0,,We've all gotta fight together.\NWe can't win without everyone.
+Dialogue: 0,0:21:16.15,0:21:17.73,Default,,0,0,0,,Even me?
+Dialogue: 0,0:21:17.73,0:21:21.28,Default,,0,0,0,,Including you... and Goldburn.
+Dialogue: 0,0:21:27.45,0:21:30.24,Default,,0,0,0,,We're too late for the festival.
+Dialogue: 0,0:21:30.24,0:21:32.79,Default,,0,0,0,,No, not if we run.
+Dialogue: 0,0:21:32.79,0:21:34.16,Default,,0,0,0,,All right!
+Dialogue: 0,0:21:34.16,0:21:35.42,Default,,0,0,0,,Right now?
+Dialogue: 0,0:21:35.42,0:21:37.63,Default,,0,0,0,,C'mon, get moving!
+Dialogue: 0,0:21:39.13,0:21:40.84,Default,,0,0,0,,You guys, too.
+Dialogue: 0,0:21:52.10,0:21:54.02,Default,,0,0,0,,We didn't make it.
+Dialogue: 0,0:21:54.02,0:21:55.52,Default,,0,0,0,,Guess not.
+Dialogue: 0,0:21:55.52,0:21:57.98,Default,,0,0,0,,Who wants to do fireworks?
+Dialogue: 0,0:21:57.98,0:21:58.81,Default,,0,0,0,,Huh?
+Dialogue: 0,0:21:58.81,0:22:00.36,Default,,0,0,0,,Like, our own.
+Dialogue: 0,0:22:00.36,0:22:04.40,Default,,0,0,0,,That's a great idea!\NWe'll go and buy some!
+Dialogue: 0,0:22:04.40,0:22:06.74,Default,,0,0,0,,Huh? Okay.
+Dialogue: 0,0:22:06.74,0:22:09.03,Default,,0,0,0,,I wanna buy some, too!
+Dialogue: 0,0:22:09.03,0:22:11.62,Default,,0,0,0,,Huh? O-Okay.
+Dialogue: 0,0:22:11.62,0:22:13.91,Default,,0,0,0,,Can I go home for a sec?
+Dialogue: 0,0:22:13.91,0:22:15.37,Default,,0,0,0,,What for?
+Dialogue: 0,0:22:15.37,0:22:17.83,Default,,0,0,0,,I'll be right back.
+Dialogue: 0,0:22:26.47,0:22:28.43,Default,,0,0,0,,Minami sure is late.
+Dialogue: 0,0:22:28.43,0:22:30.51,Default,,0,0,0,,Yeah, it's been a while.
+Dialogue: 0,0:22:30.51,0:22:32.47,Default,,0,0,0,,Late, yet again?
+Dialogue: 0,0:22:32.47,0:22:34.27,Default,,0,0,0,,I'll go get her.
+Dialogue: 0,0:22:46.15,0:22:48.82,Default,,0,0,0,,Sorry for taking so long.
