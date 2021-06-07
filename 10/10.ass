@@ -17,8 +17,8 @@ Video File: A:/Downloads/SSSS.Dynazenon - 10 (workraw).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 331
-Active Line: 361
+Scroll Position: 294
+Active Line: 39
 Video Position: 2736
 
 [V4+ Styles]
@@ -44,7 +44,7 @@ Dialogue: 20,0:00:16.08,0:00:19.00,Default,,0,0,0,,Up? O-Oh!
 Dialogue: 20,0:00:19.37,0:00:20.58,Default,,0,0,0,,A kite!
 Comment: 0,0:00:23.00,0:00:23.00,Default,chapter,0,0,0,,{Part A}
 Dialogue: 20,0:00:23.92,0:00:26.01,Default,,0,0,0,,First kaiju in a while.
-Dialogue: 20,0:00:26.01,0:00:28.51,Default,,0,0,0,,{\pos(960,1050)}This one looks different.
+Dialogue: 20,0:00:26.01,0:00:28.51,Default,,0,0,30,,This one looks different.
 Dialogue: 20,0:00:28.51,0:00:31.76,Default,,0,0,0,,It's good. I was waiting\Nfor one like this.
 Dialogue: 20,0:00:32.55,0:00:34.31,Default,,0,0,0,,Can I go for it?
 Dialogue: 20,0:00:34.31,0:00:35.52,Default,,0,0,0,,Of course.
@@ -75,12 +75,12 @@ Dialogue: 20,0:01:46.63,0:01:48.34,Default,,0,0,0,,Kano's alive?
 Dialogue: 20,0:01:49.46,0:01:51.97,Default,,0,0,0,,Hey, what the hell?!
 Dialogue: 20,0:01:51.97,0:01:54.09,Default,,0,0,0,,People are vanishing.
 Dialogue: 20,0:01:54.09,0:01:55.68,Default,,0,0,0,,Huh? Over there!
-Dialogue: 20,0:01:55.68,0:01:55.72,Default,,0,0,0,,{\pos(930,999)}Huh? Over there!
-Dialogue: 20,0:01:55.72,0:01:55.76,Default,,0,0,0,,{\pos(700,999)}Huh? Over there!
-Dialogue: 20,0:01:55.76,0:01:55.80,Default,,0,0,0,,{\pos(450,995)}Huh? Over there!
-Dialogue: 20,0:01:55.80,0:01:55.85,Default,,0,0,0,,{\pos(210,999)}Huh? Over there!
-Dialogue: 20,0:01:55.85,0:01:55.89,Default,,0,0,0,,{\pos(-35,999)}Huh? Over there!
-Dialogue: 20,0:01:55.89,0:01:55.93,Default,,0,0,0,,{\pos(-170,999)}Huh? Over there!
+Dialogue: 20,0:01:55.68,0:01:55.72,Default,,-8,52,81,,Huh? Over there!
+Dialogue: 20,0:01:55.72,0:01:55.76,Default,,-238,282,81,,Huh? Over there!
+Dialogue: 20,0:01:55.76,0:01:55.80,Default,,-488,532,85,,Huh? Over there!
+Dialogue: 20,0:01:55.80,0:01:55.85,Default,,-728,772,81,,Huh? Over there!
+Dialogue: 20,0:01:55.85,0:01:55.89,Default,,-973,1017,81,,Huh? Over there!
+Dialogue: 20,0:01:55.89,0:01:55.93,Default,,-1108,1152,81,,Huh? Over there!
 Dialogue: 20,0:01:56.10,0:01:58.93,Default,,0,0,0,,Shit! I knew it was a kaiju!
 Dialogue: 20,0:01:58.93,0:02:01.10,Default,,0,0,0,,So that's what took Minami?
 Dialogue: 20,0:02:02.60,0:02:03.85,Default,,0,0,0,,Thank you.
@@ -294,8 +294,8 @@ Dialogue: 20,0:18:40.64,0:18:41.31,Default,,0,0,0,,Right!
 Dialogue: 20,0:18:55.82,0:18:59.49,Default,,0,0,0,,We have to hurry!\NThe whole world will disappear!
 Dialogue: 20,0:18:59.49,0:19:03.37,Default,,0,0,0,,But what about the people\Ntrapped in the kaiju?!
 Dialogue: 20,0:19:03.37,0:19:09.29,Default,,0,0,0,,If you beat the kaiju and disable\Nits power, all the people should return!
-Dialogue: 20,0:19:09.29,0:19:11.30,Default,,0,0,0,,{\pos(1130,1040)}Then let's beat \Nthe kaiju...
-Dialogue: 20,0:19:09.29,0:19:11.30,Default,,0,0,0,,{\pos(520,820)}Then let's beat \Nthe kaiju...
+Dialogue: 20,0:19:09.29,0:19:11.30,Default,,192,-148,40,,Then let's beat \Nthe kaiju...
+Dialogue: 20,0:19:09.29,0:19:11.30,Default,,-418,462,260,,Then let's beat \Nthe kaiju...
 Dialogue: 20,0:19:11.80,0:19:15.43,Default,,0,0,0,,...and get back our "now"!
 Dialogue: 20,0:19:23.77,0:19:25.14,Default,,0,0,0,,All together!
 Dialogue: 20,0:19:25.14,0:19:25.89,Default,,0,0,0,,Right!
@@ -315,13 +315,13 @@ Dialogue: 20,0:20:53.86,0:20:56.44,Default,,0,0,0,,I can't remember every damn t
 Dialogue: 20,0:20:57.90,0:21:02.62,Default,,0,0,0,,But... I thought I'd\Nget to meet her again.
 Dialogue: 20,0:21:02.62,0:21:03.20,Default,,0,0,0,,Huh?
 Dialogue: 20,0:21:05.29,0:21:06.95,Default,,0,0,0,,I'm starving!
-Dialogue: 20,0:21:06.95,0:21:07.08,Default,,0,0,0,,{\pos(1510,675)}Hmm?!
-Dialogue: 20,0:21:07.08,0:21:07.16,Default,,0,0,0,,{\pos(1535,540)}Hmm?!
-Dialogue: 20,0:21:07.16,0:21:07.20,Default,,0,0,0,,{\pos(1490,470)}Hmm?!
-Dialogue: 20,0:21:07.20,0:21:07.33,Default,,0,0,0,,{\pos(1435,400)}Hmm?!
-Dialogue: 20,0:21:07.33,0:21:07.41,Default,,0,0,0,,{\pos(1340,370)}Hmm?!
-Dialogue: 20,0:21:07.41,0:21:08.21,Default,,0,0,0,,{\pos(1400,320)}Hmm?!
-Dialogue: 20,0:21:07.29,0:21:08.21,Default,,0,0,0,,{\pos(750,999)}Us, too.
+Dialogue: 20,0:21:06.95,0:21:07.08,Default,,572,-528,405,,Hmm?!
+Dialogue: 20,0:21:07.08,0:21:07.16,Default,,597,-553,540,,Hmm?!
+Dialogue: 20,0:21:07.16,0:21:07.20,Default,,552,-508,610,,Hmm?!
+Dialogue: 20,0:21:07.20,0:21:07.33,Default,,497,-453,680,,Hmm?!
+Dialogue: 20,0:21:07.33,0:21:07.41,Default,,402,-358,710,,Hmm?!
+Dialogue: 20,0:21:07.41,0:21:08.21,Default,,462,-418,760,,Hmm?!
+Dialogue: 20,0:21:07.29,0:21:08.21,Default,,-188,232,81,,Us, too.
 Dialogue: 20,0:21:08.54,0:21:09.96,Default,,0,0,0,,Wanna go eat?
 Dialogue: 20,0:21:09.96,0:21:11.46,Default,,0,0,0,,Absolutely!
 Dialogue: 20,0:21:11.75,0:21:14.21,Default,,0,0,0,,Huh? Where's Minami?
