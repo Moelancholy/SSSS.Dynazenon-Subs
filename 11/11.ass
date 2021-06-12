@@ -1,0 +1,285 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:40.93,0:01:42.51,Default,,0,0,0,,We lost.
+Dialogue: 0,0:01:44.39,0:01:46.69,Default,,0,0,0,,Dynazenon beat us.
+Dialogue: 0,0:01:47.81,0:01:53.23,Default,,0,0,0,,I see. And that {\i1}kaiju {\i0}even\Ndestroyed time and space.
+Dialogue: 0,0:01:53.23,0:01:56.70,Default,,0,0,0,,People seeing their past and future
+Dialogue: 0,0:01:56.70,0:02:00.32,Default,,0,0,0,,should've spawned lots of emotions.
+Dialogue: 0,0:02:00.32,0:02:02.16,Default,,0,0,0,,However...
+Dialogue: 0,0:02:02.16,0:02:04.58,Default,,0,0,0,,{\i1}Kaiju {\i0}aren't appearing.
+Dialogue: 0,0:02:04.58,0:02:08.46,Default,,0,0,0,,Meaning all the {\i1}kaiju {\i0}seeds\Nwere wiped out.
+Dialogue: 0,0:02:08.46,0:02:12.21,Default,,0,0,0,,So, {\i1}kaiju {\i0}won't be born anymore?
+Dialogue: 0,0:02:12.21,0:02:14.92,Default,,0,0,0,,We were beaten.
+Dialogue: 0,0:02:14.92,0:02:17.01,Default,,0,0,0,,We lost to Gauma?
+Dialogue: 0,0:02:17.93,0:02:24.26,Default,,0,0,0,,Their weapon isn't from this era.\NIt had to come from 5,000 years ago.
+Dialogue: 0,0:02:24.26,0:02:28.31,Default,,0,0,0,,If there's no {\i1}kaiju{\i0},\NI'll just kill people myself.
+Dialogue: 0,0:02:29.19,0:02:34.73,Default,,0,0,0,,There has to be something we can do\Nfor the world of {\i1}kaiju{\i0}.
+Dialogue: 0,0:02:34.73,0:02:37.78,Default,,0,0,0,,For all the {\i1}kaiju {\i0}that have fallen.
+Dialogue: 0,0:02:45.08,0:02:51.17,Default,,0,0,0,,{\i1}Kaiju {\i0}users without {\i1}kaiju{\i0}\Nreturn to human beings?
+Dialogue: 0,0:02:51.17,0:02:53.34,Default,,0,0,0,,Like Gauma.
+Dialogue: 0,0:02:54.59,0:02:57.59,Default,,0,0,0,,Senpai, what are you doing?
+Dialogue: 0,0:02:57.59,0:02:59.38,Default,,0,0,0,,Making a resume.
+Dialogue: 0,0:03:01.09,0:03:02.47,Default,,0,0,0,,Huh?
+Dialogue: 0,0:03:02.47,0:03:05.39,Default,,0,0,0,,I wonder if I need a suit?
+Dialogue: 0,0:03:05.39,0:03:09.43,Default,,0,0,0,,Uh... Where'd it go?
+Dialogue: 0,0:03:11.10,0:03:15.52,Default,,0,0,0,,Hey, Mom! Have you seen my suit?
+Dialogue: 0,0:03:15.52,0:03:17.65,Default,,0,0,0,,You're kidding me.
+Dialogue: 0,0:03:17.65,0:03:20.11,Default,,0,0,0,,This is from my mom.
+Dialogue: 0,0:03:20.11,0:03:22.36,Default,,0,0,0,,Hmm? Thanks.
+Dialogue: 0,0:03:22.36,0:03:25.20,Default,,0,0,0,,Crab crisps from Toyosu.
+Dialogue: 0,0:03:25.20,0:03:27.95,Default,,0,0,0,,Tastes better than river crabs.
+Dialogue: 0,0:03:27.95,0:03:32.25,Default,,0,0,0,,Tsk! Shaddap!\NGet moving or you'll be late.
+Dialogue: 0,0:03:32.25,0:03:33.42,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:03:42.26,0:03:46.97,Default,,0,0,0,,Ugh, I feel like shit.\NWhat's wrong with me?
+Dialogue: 0,0:03:48.27,0:03:51.64,Default,,0,0,0,,Huh? You apologized to the 2nd-year?
+Dialogue: 0,0:03:51.64,0:03:53.65,Default,,0,0,0,,After all this time.
+Dialogue: 0,0:03:54.65,0:03:56.06,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:03:56.06,0:03:59.57,Default,,0,0,0,,Picking an entry for the festival.
+Dialogue: 0,0:03:59.57,0:04:01.40,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:04:01.40,0:04:04.16,Default,,0,0,0,,Can I use one with you in it?
+Dialogue: 0,0:04:05.12,0:04:06.58,Default,,0,0,0,,Hell no.
+Dialogue: 0,0:04:06.58,0:04:09.04,Default,,0,0,0,,So, no more Sizumu?
+Dialogue: 0,0:04:09.04,0:04:10.41,Default,,0,0,0,,Really?
+Dialogue: 0,0:04:10.41,0:04:12.79,Default,,0,0,0,,Could be family issues.
+Dialogue: 0,0:04:12.79,0:04:15.13,Default,,0,0,0,,He wasn't very friendly.
+Dialogue: 0,0:04:17.96,0:04:20.76,Default,,0,0,0,,I look so weird in this.
+Dialogue: 0,0:04:23.47,0:04:26.14,Default,,0,0,0,,Watch over me, Goldburn!
+Dialogue: 0,0:04:29.60,0:04:31.98,Default,,0,0,0,,I can't do it after all.
+Dialogue: 0,0:04:34.23,0:04:35.65,Default,,0,0,0,,Chise?
+Dialogue: 0,0:04:35.65,0:04:36.77,Default,,0,0,0,,Huh?
+Dialogue: 0,0:04:36.77,0:04:38.52,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:04:38.52,0:04:41.53,Default,,0,0,0,,I'm fine, but what's this about?
+Dialogue: 0,0:04:41.53,0:04:43.70,Default,,0,0,0,,--Goldburn.\N--Hmm?
+Dialogue: 0,0:04:43.70,0:04:47.45,Default,,0,0,0,,Soon, we'll be leaving here for good.
+Dialogue: 0,0:04:47.45,0:04:49.28,Default,,0,0,0,,That's sudden.
+Dialogue: 0,0:04:49.28,0:04:56.00,Default,,0,0,0,,{\i1}Kaiju {\i0}shouldn't appear anymore.\NWe and Goldburn are irregulars here.
+Dialogue: 0,0:04:56.00,0:05:00.38,Default,,0,0,0,,Which is why we're\Ntaking Goldburn with us.
+Dialogue: 0,0:05:00.38,0:05:02.30,Default,,0,0,0,,Why?
+Dialogue: 0,0:05:02.30,0:05:06.43,Default,,0,0,0,,A world without {\i1}kaiju{\i0}\Nis much more natural.
+Dialogue: 0,0:05:11.64,0:05:13.64,Default,,0,0,0,,Prepare your heart.
+Dialogue: 0,0:05:15.64,0:05:19.65,Default,,0,0,0,,I know that's the way things should be.
+Dialogue: 0,0:05:19.65,0:05:21.65,Default,,0,0,0,,I know, but...
+Dialogue: 0,0:05:22.94,0:05:24.90,Default,,0,0,0,,I just don't get it!
+Dialogue: 0,0:05:33.00,0:05:36.62,Default,,0,0,0,,Gauma seems out of it lately.
+Dialogue: 0,0:05:36.62,0:05:39.17,Default,,0,0,0,,Without his spunk, he's boring.
+Dialogue: 0,0:05:39.17,0:05:40.46,Default,,0,0,0,,Right?
+Dialogue: 0,0:05:45.13,0:05:46.68,Default,,0,0,0,,Worried about him?
+Dialogue: 0,0:05:46.68,0:05:48.68,Default,,0,0,0,,Not exactly.
+Dialogue: 0,0:05:51.31,0:05:52.81,Default,,0,0,0,,You are.
+Dialogue: 0,0:05:56.64,0:06:01.94,Default,,0,0,0,,I knew this day would eventually come.
+Dialogue: 0,0:06:01.94,0:06:08.03,Default,,0,0,0,,Both Senpai... and you... are leaving me.
+Dialogue: 0,0:06:08.03,0:06:12.62,Default,,0,0,0,,What do you want?\NIf you're here to fight, bring it on.
+Dialogue: 0,0:06:13.79,0:06:19.58,Default,,0,0,0,,No, it seems {\i1}kaiju {\i0}won't be\Nappearing anymore.
+Dialogue: 0,0:06:19.58,0:06:21.67,Default,,0,0,0,,We lost.
+Dialogue: 0,0:06:24.51,0:06:26.05,Default,,0,0,0,,I came to tell you--
+Dialogue: 0,0:06:29.59,0:06:33.31,Default,,0,0,0,,Don't think saying that changes anything!
+Dialogue: 0,0:06:33.31,0:06:37.43,Default,,0,0,0,,Do you even know the things\Nthat you've done?!
+Dialogue: 0,0:06:37.43,0:06:40.40,Default,,0,0,0,,It's about time I teach you!
+Dialogue: 0,0:06:43.23,0:06:45.69,Default,,0,0,0,,Gauma! What are you doing?!
+Dialogue: 0,0:06:47.15,0:06:49.20,Default,,0,0,0,,Cut it out!
+Dialogue: 0,0:06:49.20,0:06:51.20,Default,,0,0,0,,Violence is bad!
+Dialogue: 0,0:06:52.03,0:06:56.58,Default,,0,0,0,,Don't ever show your face again!
+Dialogue: 0,0:06:56.58,0:06:58.25,Default,,0,0,0,,That was my plan.
+Dialogue: 0,0:07:01.12,0:07:07.09,Default,,0,0,0,,It's actually sad how little\Nyour punches hurt. That hasn't changed.
+Dialogue: 0,0:07:10.47,0:07:12.97,Default,,0,0,0,,{\i1}Kaiju {\i0}won't appear anymore?
+Dialogue: 0,0:07:12.97,0:07:15.64,Default,,0,0,0,,Is that why you're feeling down?
+Dialogue: 0,0:07:15.64,0:07:19.14,Default,,0,0,0,,Huh? Did it look that way?
+Dialogue: 0,0:07:19.14,0:07:23.19,Default,,0,0,0,,Seems like you're out of it lately. Ow.
+Dialogue: 0,0:07:23.19,0:07:30.20,Default,,0,0,0,,When I revived, I thought Princess would,\Ntoo, somewhere in the world.
+Dialogue: 0,0:07:30.20,0:07:31.70,Default,,0,0,0,,Princess?
+Dialogue: 0,0:07:31.70,0:07:35.87,Default,,0,0,0,,The person you're searching for\Nis a princess?
+Dialogue: 0,0:07:35.87,0:07:40.79,Default,,0,0,0,,Yeah. We vowed to\Nspend our future together.
+Dialogue: 0,0:07:40.79,0:07:46.17,Default,,0,0,0,,Which is why after I died,\NPrincess ended her own life.
+Dialogue: 0,0:07:46.17,0:07:47.30,Default,,0,0,0,,Huh?
+Dialogue: 0,0:07:47.30,0:07:51.55,Default,,0,0,0,,How do you know\Nwhat happened after you died?
+Dialogue: 0,0:07:51.55,0:07:53.93,Default,,0,0,0,,I heard it.
+Dialogue: 0,0:07:53.93,0:08:00.43,Default,,0,0,0,,Princess died so she could meet you!\NShe followed you into death!
+Dialogue: 0,0:08:00.43,0:08:04.19,Default,,0,0,0,,"She wanted to give you this."
+Dialogue: 0,0:08:04.19,0:08:06.77,Default,,0,0,0,,Whose voice was it?
+Dialogue: 0,0:08:06.77,0:08:12.91,Default,,0,0,0,,I can't remember,\Nbut Princess had a premonition.
+Dialogue: 0,0:08:12.91,0:08:17.87,Default,,0,0,0,,She knew I'd need Dynazenon in the future.
+Dialogue: 0,0:08:17.87,0:08:24.21,Default,,0,0,0,,But only the {\i1}kaiju {\i0}users\Nwere revived, so Princess...
+Dialogue: 0,0:08:24.21,0:08:26.84,Default,,0,0,0,,You won't get to meet her?
+Dialogue: 0,0:08:26.84,0:08:28.67,Default,,0,0,0,,Who knows?
+Dialogue: 0,0:08:29.84,0:08:32.93,Default,,0,0,0,,But I'm glad I came to this place.
+Dialogue: 0,0:08:32.93,0:08:35.68,Default,,0,0,0,,The scenery's so similar.
+Dialogue: 0,0:08:38.81,0:08:42.06,Default,,0,0,0,,I doubt we'll need Dynazenon anymore.
+Dialogue: 0,0:08:43.14,0:08:45.52,Default,,0,0,0,,I had Koyomi return his.
+Dialogue: 0,0:08:51.28,0:08:53.40,Default,,0,0,0,,You going somewhere?
+Dialogue: 0,0:08:53.40,0:08:55.45,Default,,0,0,0,,I just might.
+Dialogue: 0,0:08:58.66,0:09:00.20,Default,,0,0,0,,What's up?
+Dialogue: 0,0:09:00.20,0:09:05.83,Default,,0,0,0,,Nothing. But now that I look at it,\Nhe's actually kinda cool.
+Dialogue: 0,0:09:05.83,0:09:07.04,Default,,0,0,0,,{\an8}"Photo Dispenser"
+Dialogue: 0,0:09:05.83,0:09:07.04,Default,,0,0,0,,Nothing. But now that I look at it,\Nhe's actually kinda cool.
+Dialogue: 0,0:09:12.26,0:09:14.42,Default,,0,0,0,,I look awful.
+Dialogue: 0,0:09:19.05,0:09:20.81,Default,,0,0,0,,Wh-What?!
+Dialogue: 0,0:09:20.81,0:09:24.48,Default,,0,0,0,,I thought I'd come tell you myself.
+Dialogue: 0,0:09:26.44,0:09:29.94,Default,,0,0,0,,There probably won't be more {\i1}kaiju{\i0}.
+Dialogue: 0,0:09:30.94,0:09:32.53,Default,,0,0,0,,I heard.
+Dialogue: 0,0:09:32.53,0:09:36.07,Default,,0,0,0,,So, no more fighting.
+Dialogue: 0,0:09:36.07,0:09:37.91,Default,,0,0,0,,I see.
+Dialogue: 0,0:09:37.91,0:09:44.41,Default,,0,0,0,,But it's not like I can say\Neverything's just dandy now.
+Dialogue: 0,0:09:44.41,0:09:49.71,Default,,0,0,0,,{\i1}Kaiju {\i0}have changed me\Nand everything around me.
+Dialogue: 0,0:09:49.71,0:09:51.96,Default,,0,0,0,,Do you despise me?
+Dialogue: 0,0:09:51.96,0:09:58.55,Default,,0,0,0,,No. You were just doing the duty\Nyou were meant to do.
+Dialogue: 0,0:09:58.55,0:10:01.39,Default,,0,0,0,,Well, I despise you.
+Dialogue: 0,0:10:09.98,0:10:11.48,Default,,0,0,0,,There it is.
+Dialogue: 0,0:10:12.73,0:10:15.03,Default,,0,0,0,,What's that? A mirror?
+Dialogue: 0,0:10:15.03,0:10:18.86,Default,,0,0,0,,A 5,000-year-old mirror went missing.
+Dialogue: 0,0:10:18.86,0:10:22.78,Default,,0,0,0,,The mirror came to life and vanished?
+Dialogue: 0,0:10:22.78,0:10:25.87,Default,,0,0,0,,I'm thinking it might be Gauma.
+Dialogue: 0,0:10:25.87,0:10:29.29,Default,,0,0,0,,The mirror? Freaky.
+Dialogue: 0,0:10:29.29,0:10:32.13,Default,,0,0,0,,How'd he come back to life?
+Dialogue: 0,0:10:32.13,0:10:33.80,Default,,0,0,0,,A {\i1}kaiju{\i0}'s power?
+Dialogue: 0,0:10:33.80,0:10:34.84,Default,,0,0,0,,Probably.
+Dialogue: 0,0:10:36.09,0:10:40.55,Default,,0,0,0,,Princess wasn't a {\i1}kaiju {\i0}user,\Nso she didn't revive.
+Dialogue: 0,0:10:40.55,0:10:44.14,Default,,0,0,0,,And because of that, they'll never meet.
+Dialogue: 0,0:10:44.14,0:10:47.23,Default,,0,0,0,,Must be why he's so bummed.
+Dialogue: 0,0:10:47.23,0:10:48.23,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:56.90,0:11:01.45,Default,,0,0,0,,Yomogi, can you come with me\Nsomewhere tomorrow?
+Dialogue: 0,0:11:12.79,0:11:18.17,Default,,0,0,0,,Tomorrow, I'm planning\Nto visit Kano's grave.
+Dialogue: 0,0:11:18.17,0:11:20.93,Default,,0,0,0,,That seems sudden.
+Dialogue: 0,0:11:20.93,0:11:22.97,Default,,0,0,0,,I guess it is.
+Dialogue: 0,0:11:24.01,0:11:26.06,Default,,0,0,0,,When are you going?
+Dialogue: 0,0:11:26.06,0:11:27.18,Default,,0,0,0,,Huh?
+Dialogue: 0,0:11:27.18,0:11:28.73,Default,,0,0,0,,Need a ride?
+Dialogue: 0,0:11:31.27,0:11:34.57,Default,,0,0,0,,No, I'll be fine on my own.
+Dialogue: 0,0:11:34.57,0:11:41.07,Default,,0,0,0,,What? I said we're eating\Nwith Kamijo tomorrow.
+Dialogue: 0,0:11:41.07,0:11:42.99,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:11:42.99,0:11:45.41,Default,,0,0,0,,We scheduled around you.
+Dialogue: 0,0:11:45.41,0:11:46.95,Default,,0,0,0,,Sorry!
+Dialogue: 0,0:11:46.95,0:11:49.54,Default,,0,0,0,,Sorry doesn't cut it.
+Dialogue: 0,0:11:49.54,0:11:54.59,Default,,0,0,0,,You can eat out whenever,\Nso what's the big deal?
+Dialogue: 0,0:11:54.59,0:11:55.79,Default,,0,0,0,,Eh?
+Dialogue: 0,0:12:01.80,0:12:02.89,Default,,0,0,0,,{\an8}"interview questions"\N"Search Results for: suits haircut grooming"
+Dialogue: 0,0:12:02.89,0:12:03.01,Default,,0,0,0,,{\an8}"interview questions"
+Dialogue: 0,0:12:03.01,0:12:03.80,Default,,0,0,0,,{\an8}"interview questions"\N"Search Results for: interview questions"
+Dialogue: 0,0:12:04.64,0:12:07.01,Default,,0,0,0,,"What are my strengths?"
+Dialogue: 0,0:12:23.32,0:12:29.29,Default,,0,0,0,,Make sure you thank him\Nfor all he's done for us, Knight.
+Dialogue: 0,0:12:29.29,0:12:31.21,Default,,0,0,0,,I know.
+Dialogue: 0,0:12:36.50,0:12:39.51,Default,,0,0,0,,What's with the early visit?
+Dialogue: 0,0:12:39.51,0:12:44.38,Default,,0,0,0,,We came to say goodbye\Nsince we'll be leaving soon.
+Dialogue: 0,0:12:44.38,0:12:46.26,Default,,0,0,0,,Thanks for everything.
+Dialogue: 0,0:12:47.30,0:12:52.77,Default,,0,0,0,,I see. Thanks for your help. Be safe.
+Dialogue: 0,0:12:53.89,0:12:55.85,Default,,0,0,0,,Knight!
+Dialogue: 0,0:12:57.90,0:12:59.94,Default,,0,0,0,,Thanks for everything.
+Dialogue: 0,0:13:00.90,0:13:02.65,Default,,0,0,0,,Couldn't hear you.
+Dialogue: 0,0:13:02.65,0:13:05.61,Default,,0,0,0,,C'mon! Say it even louder!
+Dialogue: 0,0:13:16.33,0:13:20.34,Default,,0,0,0,,{\an8}"Minami Family Grave"
+Dialogue: 0,0:13:27.14,0:13:29.89,Default,,0,0,0,,Flowers facing this way?
+Dialogue: 0,0:13:29.89,0:13:31.10,Default,,0,0,0,,That's fine.
+Dialogue: 0,0:13:36.98,0:13:40.73,Default,,0,0,0,,I've never visited Kano till now.
+Dialogue: 0,0:13:41.82,0:13:43.36,Default,,0,0,0,,You haven't?
+Dialogue: 0,0:13:43.36,0:13:45.86,Default,,0,0,0,,{\an8}"Minami"
+Dialogue: 0,0:13:43.36,0:13:45.86,Default,,0,0,0,,I kept avoiding it.
+Dialogue: 0,0:13:45.86,0:13:52.12,Default,,0,0,0,,{\an8}"Minami"
+Dialogue: 0,0:13:45.86,0:13:52.12,Default,,0,0,0,,My mom was a bit surprised,\Nbut my dad actually looked glad.
+Dialogue: 0,0:13:53.20,0:13:59.71,Default,,0,0,0,,I swear, my parents drive me nuts.\NYou don't have that problem, do you?
+Dialogue: 0,0:14:01.75,0:14:04.38,Default,,0,0,0,,Well, the thing is...
+Dialogue: 0,0:14:04.38,0:14:05.59,Default,,0,0,0,,Mmm?
+Dialogue: 0,0:14:05.59,0:14:09.34,Default,,0,0,0,,A dude I don't know might become my dad.
+Dialogue: 0,0:14:09.34,0:14:10.68,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:14:10.68,0:14:13.85,Default,,0,0,0,,Though, he's not a bad guy.
+Dialogue: 0,0:14:13.85,0:14:17.52,Default,,0,0,0,,We've both got it rough. Oh!
+Dialogue: 0,0:14:19.65,0:14:24.48,Default,,0,0,0,,I'll tell my ancestors\Nall my parents do is fight.
+Dialogue: 0,0:14:25.49,0:14:27.65,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:14:27.65,0:14:29.28,Default,,0,0,0,,Kidding!
+Dialogue: 0,0:14:29.66,0:14:32.28,Default,,0,0,0,,{\an8}"Minami"
+Dialogue: 0,0:14:37.96,0:14:42.13,Default,,0,0,0,,I've never visited someone else's grave.
+Dialogue: 0,0:14:42.13,0:14:46.05,Default,,0,0,0,,I thought if anyone,\Nmaybe you would understand.
+Dialogue: 0,0:14:51.09,0:14:52.39,Default,,0,0,0,,I'll return these.
+Dialogue: 0,0:14:52.39,0:14:53.72,Default,,0,0,0,,R-Right.
+Dialogue: 0,0:15:06.90,0:15:08.24,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:15:17.04,0:15:19.04,Default,,0,0,0,,Isn't this nearby?
+Dialogue: 0,0:15:19.04,0:15:20.21,Default,,0,0,0,,What?
+Dialogue: 0,0:15:20.21,0:15:25.09,Default,,0,0,0,,He punched a cop\Nand tried to take his gun.
+Dialogue: 0,0:15:25.09,0:15:26.96,Default,,0,0,0,,That'll do it.
+Dialogue: 0,0:15:26.96,0:15:29.05,Default,,0,0,0,,What a crazy look.
+Dialogue: 0,0:15:29.05,0:15:30.55,Default,,0,0,0,,Let's see.
+Dialogue: 0,0:15:31.18,0:15:31.68,Default,,0,0,0,,{\an8}"Self-Proclaimed 'Kaiju Eugenicist'"\N"Suspect Name: Onija\NAge: 5021 (Claimed)"
+Dialogue: 0,0:15:31.68,0:15:33.76,Default,,0,0,0,,{\an8}"Self-Proclaimed 'Kaiju Eugenicist'"\N"Suspect Name: Onija\NAge: 5021 (Claimed)"
+Dialogue: 0,0:15:31.68,0:15:33.76,Default,,0,0,0,,So cool!
+Dialogue: 0,0:15:35.10,0:15:37.22,Default,,0,0,0,,Looks bad over there.
+Dialogue: 0,0:15:37.22,0:15:40.06,Default,,0,0,0,,It's where the first one appeared.
+Dialogue: 0,0:15:40.06,0:15:42.98,Default,,0,0,0,,You brought me there, right?
+Dialogue: 0,0:15:42.98,0:15:44.69,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:15:44.69,0:15:48.57,Default,,0,0,0,,{\i1}Kaiju {\i0}appeared all over the place, huh?
+Dialogue: 0,0:15:48.57,0:15:51.95,Default,,0,0,0,,We fought {\i1}kaiju {\i0}and stuff,
+Dialogue: 0,0:15:51.95,0:15:55.78,Default,,0,0,0,,but it was the closest to normal\Nmy life's ever been.
+Dialogue: 0,0:15:55.78,0:15:58.75,Default,,0,0,0,,Normal? How is that normal?
+Dialogue: 0,0:15:58.75,0:16:02.71,Default,,0,0,0,,The piloting a robot part wasn't normal.
+Dialogue: 0,0:16:02.71,0:16:06.50,Default,,0,0,0,,But visiting graves, going swimming,
+Dialogue: 0,0:16:06.50,0:16:09.42,Default,,0,0,0,,missing the festival\Nand doing fireworks...
+Dialogue: 0,0:16:09.42,0:16:10.76,Default,,0,0,0,,That happened.
+Dialogue: 0,0:16:12.59,0:16:17.06,Default,,0,0,0,,If there's no {\i1}kaiju {\i0}and\Nwe're done with Dynazenon,
+Dialogue: 0,0:16:17.06,0:16:20.48,Default,,0,0,0,,won't we not see everyone?
+Dialogue: 0,0:16:20.48,0:16:24.40,Default,,0,0,0,,Is my "normal" done for, too?
+Dialogue: 0,0:16:24.40,0:16:28.98,Default,,0,0,0,,Deep inside, maybe you just\Nwant to fight them?
+Dialogue: 0,0:16:28.98,0:16:32.28,Default,,0,0,0,,Maybe Sizumu was right when he said--
+Dialogue: 0,0:16:32.28,0:16:34.20,Default,,0,0,0,,Minami.
+Dialogue: 0,0:16:34.20,0:16:35.78,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:16:35.78,0:16:40.95,Default,,0,0,0,,Even if there's no {\i1}kaiju{\i0}...\NEven if there's no Dynazenon...
+Dialogue: 0,0:16:43.17,0:16:45.71,Default,,0,0,0,,...I still want to see you.
+Dialogue: 0,0:16:47.09,0:16:48.00,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:17:01.14,0:17:04.44,Default,,0,0,0,,I like you. Will you go out with me?
+Dialogue: 0,0:17:10.03,0:17:13.28,Default,,0,0,0,,I was right to hang around you two.
+Dialogue: 0,0:17:13.28,0:17:15.70,Default,,0,0,0,,--Huh?\N--Sizumu?
+Dialogue: 0,0:17:15.70,0:17:20.95,Default,,0,0,0,,Now I get why Gauma died\Nas a {\i1}kaiju {\i0}user and became a human.
+Dialogue: 0,0:17:20.95,0:17:23.41,Default,,0,0,0,,Because he's just like you two.
+Dialogue: 0,0:17:27.58,0:17:29.55,Default,,0,0,0,,Gauma!
+Dialogue: 0,0:17:29.55,0:17:30.84,Default,,0,0,0,,Gauma...
+Dialogue: 0,0:17:33.80,0:17:37.14,Default,,0,0,0,,Wait. What are you doing?
+Dialogue: 0,0:17:38.60,0:17:44.43,Default,,0,0,0,,I knew you'd show up. You've had\Nyour eyes on 'em for a while.
+Dialogue: 0,0:17:45.48,0:17:51.53,Default,,0,0,0,,I'm grateful to you two. You helped me\Nwitness some wonderful emotions.
+Dialogue: 0,0:17:51.53,0:17:52.86,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:17:54.78,0:17:56.66,Default,,0,0,0,,Gauma, your body!
+Dialogue: 0,0:17:57.99,0:18:03.75,Default,,0,0,0,,We revived with the power of {\i1}kaiju{\i0},\Ndefying the laws of the world.
+Dialogue: 0,0:18:03.75,0:18:08.96,Default,,0,0,0,,But being a human,\Nyour body will decay and you'll die.
+Dialogue: 0,0:18:10.54,0:18:15.38,Default,,0,0,0,,Since we're connected to {\i1}kaiju{\i0},\Nthat won't happen to us.
+Dialogue: 0,0:18:17.80,0:18:21.56,Default,,0,0,0,,Wish you would've told me from the start.
+Dialogue: 0,0:18:21.56,0:18:25.93,Default,,0,0,0,,If I had, would you have\Nbecome a {\i1}kaiju {\i0}user?
+Dialogue: 0,0:18:27.19,0:18:30.40,Default,,0,0,0,,Quit asking stupid questions.
+Dialogue: 0,0:18:56.51,0:19:02.05,Default,,0,0,0,,The fighting is over, Eugenicist!\NYou lost all your {\i1}kaiju{\i0}!
+Dialogue: 0,0:19:02.05,0:19:05.02,Default,,0,0,0,,I never lose my {\i1}kaiju{\i0}.
+Dialogue: 0,0:19:13.86,0:19:16.40,Default,,0,0,0,,Instance...
+Dialogue: 0,0:19:16.40,0:19:18.40,Default,,0,0,0,,...Domination!
+Dialogue: 0,0:19:18.40,0:19:20.78,Default,,0,0,0,,No way! He's...!
+Dialogue: 0,0:19:20.78,0:19:23.12,Default,,0,0,0,,There's a {\i1}kaiju {\i0}inside him?!
+Dialogue: 0,0:19:23.12,0:19:26.33,Default,,0,0,0,,{\i1}Kaiju {\i0}deserve to be free.
+Dialogue: 0,0:19:29.75,0:19:33.00,Default,,0,0,0,,Sizumu turned into a {\i1}kaiju{\i0}?!
+Dialogue: 0,0:19:41.01,0:19:43.05,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:19:43.05,0:19:47.14,Default,,0,0,0,,I see. Don't worry about me. Go!
+Dialogue: 0,0:19:53.56,0:19:55.52,Default,,0,0,0,,{\an8}"New {\i1}Kaiju {\i0}Spotted in Tokyo"
+Dialogue: 0,0:19:53.56,0:19:55.52,Default,,0,0,0,,Those in the area\Nshould take extreme caution.
+Dialogue: 0,0:19:55.52,0:19:57.82,Default,,0,0,0,,Those in the area\Nshould take extreme caution.
+Dialogue: 0,0:19:57.82,0:19:59.24,Default,,0,0,0,,{\i1}Kaiju?{\i0}
+Dialogue: 0,0:20:09.29,0:20:10.62,Default,,0,0,0,,Goldburn!
+Dialogue: 0,0:20:11.92,0:20:16.46,Default,,0,0,0,,Call Koyomi. We'll stop him\Nwith Dynazenon.
+Dialogue: 0,0:20:16.46,0:20:19.05,Default,,0,0,0,,But you're in no shape for that!
+Dialogue: 0,0:20:20.01,0:20:22.22,Default,,0,0,0,,Let me handle this.
+Dialogue: 0,0:20:22.22,0:20:28.14,Default,,0,0,0,,If I use Goldburn, I can combine\Ninto Dynazenon without any help.
+Dialogue: 0,0:20:28.14,0:20:29.81,Default,,0,0,0,,Even so...
+Dialogue: 0,0:20:29.81,0:20:31.48,Default,,0,0,0,,Wait here.
+Dialogue: 0,0:20:38.07,0:20:42.57,Default,,0,0,0,,Super Dragon King Kaiser Gridknight!
+Dialogue: 0,0:20:47.16,0:20:50.37,Default,,0,0,0,,Knight's holding the {\i1}kaiju {\i0}back.
+Dialogue: 0,0:20:50.37,0:20:52.66,Default,,0,0,0,,Let's get to the hospital!
+Dialogue: 0,0:20:52.66,0:20:55.13,Default,,0,0,0,,The hospital can't fix this.
+Dialogue: 0,0:21:03.43,0:21:06.39,Default,,0,0,0,,Sitting here won't help either!
+Dialogue: 0,0:21:06.39,0:21:07.85,Default,,0,0,0,,Gauma?
+Dialogue: 0,0:21:26.95,0:21:30.49,Default,,0,0,0,,Hey, hey... I thought I was dead.
+Dialogue: 0,0:21:39.09,0:21:43.30,Default,,0,0,0,,The world of {\i1}kaiju {\i0}isn't over just yet!
+Dialogue: 0,0:22:12.95,0:22:16.96,Default,,0,0,0,,{\an8}"Episode 11: What Wish Can't Come True?"
