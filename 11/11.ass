@@ -18,9 +18,9 @@ Keyframes File: [Pizza] SSSS.Dynazenon - 11 (workraw)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 217
-Active Line: 216
-Video Position: 23709
+Scroll Position: 92
+Active Line: 98
+Video Position: 11278
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +29,6 @@ Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,100,100,0,1
 Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,100,100,40,1
 Style: OP,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,1,1,64,150,43,1
-Style: Yellow-Subs,Arial,60,&H0023DEF8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,1.5,2,10,10,81,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -104,14 +103,14 @@ Dialogue: 20,0:05:44.37,0:05:45.78,Default,,0,0,0,,You are.
 Dialogue: 20,0:05:49.75,0:05:53.79,Default,,0,0,0,,I knew this day would eventually come.
 Dialogue: 20,0:05:54.79,0:06:00.42,Default,,0,0,0,,Both Senpai... and you... are leaving me.
 Dialogue: 20,0:06:01.01,0:06:02.55,Default,,0,0,0,,What do you want?
-Dialogue: 20,0:06:03.06,0:06:05.26,Default,,0,0,0,,If you're here to fight, bring it on.
+Dialogue: 20,0:06:03.05,0:06:05.26,Default,,0,0,0,,If you're here to fight, bring it on.
 Dialogue: 20,0:06:06.85,0:06:11.77,Default,,0,0,0,,No, it seems kaiju won't be\Nappearing anymore.
 Dialogue: 20,0:06:12.64,0:06:14.31,Default,,0,0,0,,We lost.
 Dialogue: 20,0:06:17.32,0:06:18.73,Default,,0,0,0,,I came to tell you—
 Dialogue: 20,0:06:22.65,0:06:25.66,Default,,0,0,0,,Don't think saying that changes anything!
 Dialogue: 20,0:06:26.32,0:06:30.16,Default,,0,0,0,,Do you even know the things\Nthat you've done?!
 Dialogue: 20,0:06:30.54,0:06:32.66,Default,,0,0,0,,It's about time I teach you!
-Dialogue: 20,0:06:36.29,0:06:38.43,Default,,0,0,0,,Gauma! What are you doing?!
+Dialogue: 20,0:06:36.29,0:06:38.42,Default,,0,0,0,,Gauma! What are you doing?!
 Dialogue: 20,0:06:40.38,0:06:41.84,Default,,0,0,0,,Cut it out!
 Dialogue: 20,0:06:42.84,0:06:43.93,Default,,0,0,0,,Violence is bad!
 Dialogue: 20,0:06:45.05,0:06:48.76,Default,,0,0,0,,Don't ever show your face again!
@@ -130,8 +129,8 @@ Dialogue: 20,0:07:33.85,0:07:39.23,Default,,0,0,0,,Which is why after I died,\NP
 Dialogue: 20,0:07:39.23,0:07:40.31,Default,,0,0,0,,Huh?
 Dialogue: 20,0:07:40.31,0:07:44.11,Default,,0,0,0,,How do you know\Nwhat happened after you died?
 Dialogue: 20,0:07:44.61,0:07:46.11,Default,,0,0,0,,I heard it.
-Dialogue: 20,0:07:46.99,0:07:50.36,Yellow-Subs,,0,0,0,,{\pos(960,999)\blur1}Princess died so she could meet you! 
-Dialogue: 20,0:07:50.36,0:07:53.12,Yellow-Subs,,0,0,0,,{\pos(960,999)\blur1}She followed you into death!
+Dialogue: 20,0:07:46.99,0:07:50.37,Default,,0,0,0,,{\fnArial\b1\fs60\shad2.8\c&H23DEF8&\bord0\fsp-0.3\blur1}Princess died so she could meet you!
+Dialogue: 20,0:07:50.37,0:07:53.12,Default,,0,0,0,,{\fnArial\b1\fs60\shad2.8\c&H23DEF8&\bord0\fsp-0.3\blur1}She followed you into death!
 Dialogue: 20,0:07:53.49,0:07:56.37,Default,,0,0,0,,"She wanted to give you this."
 Dialogue: 20,0:07:57.21,0:07:59.25,Default,,0,0,0,,Whose voice was it?
 Dialogue: 20,0:07:59.88,0:08:01.42,Default,,0,0,0,,I can't remember,
@@ -149,7 +148,7 @@ Dialogue: 20,0:08:46.46,0:08:48.17,Default,,0,0,0,,I just might.
 Dialogue: 20,0:08:51.55,0:08:52.80,Default,,0,0,0,,What's up?
 Dialogue: 20,0:08:53.22,0:08:58.81,Default,,0,0,0,,Nothing. But now that I look at it,\Nhe's actually kinda cool.
 Dialogue: 20,0:09:05.36,0:09:07.07,Default,,0,0,0,,I look awful.
-Dialogue: 20,0:09:12.07,0:09:13.26,Default,,0,0,0,,Wh-What?!
+Dialogue: 20,0:09:12.07,0:09:13.24,Default,,0,0,0,,Wh-What?!
 Dialogue: 20,0:09:13.82,0:09:17.41,Default,,0,0,0,,I thought I'd come tell you myself.
 Dialogue: 20,0:09:19.54,0:09:22.67,Default,,0,0,0,,There probably won't be more kaiju.
 Dialogue: 20,0:09:24.04,0:09:25.17,Default,,0,0,0,,I heard.
@@ -252,8 +251,8 @@ Dialogue: 20,0:16:27.30,0:16:28.05,Default,,0,0,0,,Hmm?
 Dialogue: 20,0:16:28.84,0:16:34.06,Default,,0,0,0,,Even if there's no kaiju...\NEven if there's no Dynazenon...
 Dialogue: 20,0:16:36.18,0:16:38.56,Default,,0,0,0,,...I still want to see you.
 Dialogue: 20,0:16:40.06,0:16:40.73,Default,,0,0,0,,Yeah.
-Dialogue: 20,0:16:54.20,0:16:55.14,Default,,0,0,0,,I like you.
-Dialogue: 20,0:16:56.00,0:16:57.20,Default,,0,0,0,,Will you go out with me?
+Dialogue: 20,0:16:54.20,0:16:55.16,Default,,0,0,0,,I like you.
+Dialogue: 20,0:16:55.99,0:16:57.20,Default,,0,0,0,,Will you go out with me?
 Dialogue: 20,0:17:02.83,0:17:06.34,Default,,0,0,0,,I was right to hang around you two.
 Dialogue: 20,0:17:06.34,0:17:06.92,Default,,0,0,0,,Huh?
 Dialogue: 20,0:17:06.92,0:17:08.26,Default,,0,0,0,,Sizumu?
