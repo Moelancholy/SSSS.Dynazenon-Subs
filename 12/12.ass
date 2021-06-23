@@ -11,11 +11,14 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: SSSS.Dynazenon - 12 (workraw).mkv
-Video File: SSSS.Dynazenon - 12 (workraw).mkv
+Audio File: A:/Downloads/SSSS.Dynazenon - 12 (workraw).mkv
+Video File: A:/Downloads/SSSS.Dynazenon - 12 (workraw).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 1.000000
+Scroll Position: 324
+Active Line: 327
+Video Position: 30657
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,8 +133,8 @@ Dialogue: 20,0:09:20.37,0:09:25.84,Default,,0,0,0,,I realized they're all I've g
 Dialogue: 20,0:09:25.84,0:09:29.34,Default,,0,0,0,,If it's my fault, then I'm sorry!
 Dialogue: 20,0:09:31.85,0:09:35.97,Default,,0,0,0,,Even if you apologize,\NI'll never forgive you!
 Dialogue: 20,0:09:37.62,0:09:39.13,Default,,0,0,0,,Get off me! {Hands off, thot!}
-Dialogue: 20,0:09:45.86,0:09:47.23,Default,,-448,492,81,,Sizumu!
-Dialogue: 20,0:09:45.86,0:09:47.23,Default,,492,-448,81,,Sizumu!
+Dialogue: 20,0:09:45.86,0:09:47.23,Default,,0,492,81,,Sizumu!
+Dialogue: 20,0:09:45.86,0:09:47.23,Default,,492,0,81,,Sizumu!
 Dialogue: 20,0:09:48.20,0:09:51.49,Default,,0,0,0,,He's not gonna talk to us, is he?
 Dialogue: 20,0:09:54.95,0:09:56.33,Default,,0,0,0,,Rex...
 Dialogue: 20,0:09:56.33,0:09:57.68,Default,,0,0,0,,...Grid...
@@ -288,12 +291,76 @@ Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,TS BELOW HERE
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,
 Dialogue: 0,0:17:31.61,0:17:33.62,Sign,,0,0,0,,{\an8}"Entry Prohibited"\N"Ayanashi City Ayame Public Middle School"
-Dialogue: 0,0:18:20.41,0:18:22.66,Sign,,0,0,0,,{\an8}"School Festival"
-Dialogue: 0,0:18:22.66,0:18:24.92,Sign,,0,0,0,,{\an8}"Fujiyokidai High School Festival"
-Dialogue: 0,0:18:24.92,0:18:25.83,Sign,,0,0,0,,{\an8}"My Good Friends"\N"Mei Kakui"
-Dialogue: 0,0:18:59.58,0:19:04.33,Sign,,0,0,0,,{\an8}"Horror Cafe"
-Dialogue: 0,0:22:43.93,0:22:47.05,Sign,,0,0,0,,{\an8}"School Festival"
-Dialogue: 0,0:23:18.46,0:23:22.46,Title,,0,0,0,,{\an8}"What Was I Entrusted With?"\N"Final Episode"
+Comment: 0,0:18:24.92,0:18:25.83,Sign,,0,0,0,,
+Dialogue: 0,0:18:24.91,0:18:24.95,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.9,113)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:24.95,0:18:25.00,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.91,105.21)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.00,0:18:25.04,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.91,97.41)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.04,0:18:25.08,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.89,89.5)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.08,0:18:25.12,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.87,81.77)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.12,0:18:25.16,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.87,73.92)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.16,0:18:25.20,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.88,65.98)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.20,0:18:25.25,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.82,58.18)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.25,0:18:25.29,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.9,50.36)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.29,0:18:25.33,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.91,42.58)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.33,0:18:25.37,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.89,34.62)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.37,0:18:25.41,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.94,26.97)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.41,0:18:25.45,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.89,19.14)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.45,0:18:25.50,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.91,11.31)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.50,0:18:25.54,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.91,3.58)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.54,0:18:25.58,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.92,-4.33)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.58,0:18:25.62,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.89,-12.18)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.62,0:18:25.66,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.9,-19.95)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.66,0:18:25.70,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.88,-27.84)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.70,0:18:25.75,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.89,-35.67)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.75,0:18:25.79,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.86,-43.52)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.79,0:18:25.83,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.85,-51.31)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.83,0:18:25.87,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.86,-59.08)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.87,0:18:25.91,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.82,-67.13)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.91,0:18:25.95,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.85,-74.82)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:25.95,0:18:26.00,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.83,-82.58)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:26.00,0:18:26.04,Sign,,0,0,0,,{=5=9}{\frz0\alpha&H00&\blur1\pos(961.85,-90.58)\c&HFAFAFA&\p1\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26
+Dialogue: 0,0:18:24.91,0:18:24.95,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960,112)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:24.95,0:18:25.00,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960.01,104.21)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.00,0:18:25.04,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960.01,96.41)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.04,0:18:25.08,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.99,88.5)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.08,0:18:25.12,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.97,80.77)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.12,0:18:25.16,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.97,72.92)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.16,0:18:25.20,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.98,64.98)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.20,0:18:25.25,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.92,57.18)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.25,0:18:25.29,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960,49.36)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.29,0:18:25.33,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960.01,41.58)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.33,0:18:25.37,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.99,33.62)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.37,0:18:25.41,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960.04,25.97)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.41,0:18:25.45,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.99,18.14)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.45,0:18:25.50,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960.01,10.31)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.50,0:18:25.54,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960.01,2.58)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.54,0:18:25.58,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960.02,-5.33)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.58,0:18:25.62,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.99,-13.18)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.62,0:18:25.66,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(960,-20.95)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.66,0:18:25.70,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.98,-28.84)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.70,0:18:25.75,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.99,-36.67)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.75,0:18:25.79,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.96,-44.52)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.79,0:18:25.83,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.95,-52.31)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.83,0:18:25.87,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.96,-60.08)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.87,0:18:25.91,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.92,-68.13)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.91,0:18:25.95,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.95,-75.82)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:25.95,0:18:26.00,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.94,-83.58)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Dialogue: 0,0:18:26.00,0:18:26.04,Sign,,0,0,0,,{=2=8}{\frz0\alpha&H00&\blur1\c&H7D7D7D&\fs122\pos(959.95,-91.58)\fnRoboto Medium\b0}"My Good Friends" \N {\fs56}ENO.24   Mei Kakui
+Comment: 0,0:18:24.92,0:18:25.83,Sign,,0,0,0,,
+Dialogue: 0,0:18:22.66,0:18:24.92,Sign,,0,0,0,,{\an7\c&H584E56&\blur1\p1\pos(10.01,0.78)\iclip(m 1696.95 656.91 l 1692.35 733.09 1830.08 738.05 1833.22 667.77)}m 1576 667 l 1575 722 1849 732 1849 676
+Dialogue: 0,0:18:22.66,0:18:24.92,Sign,,0,0,0,,{\frz-2\fry-5\fs28\bord2\shad2\c&H554F56&\3c&H554F56&\4c&H483F46&\blur0.6\pos(1717.01,698.78)\iclip(m 1696.95 656.91 l 1692.35 733.09 1830.08 738.05 1833.22 667.77)}Fujiyokidai High School
+Dialogue: 1,0:18:22.66,0:18:24.92,Sign,,0,0,0,,{\frz-2\fry-5\fs28\shad2\c&H8DE1EA&\4c&H483F46&\4a&HFF&\blur0.6\pos(1717.01,698.78)\iclip(m 1696.95 656.91 l 1692.35 733.09 1830.08 738.05 1833.22 667.77)}Fujiyokidai High School
+Comment: 0,0:23:18.46,0:23:22.46,Title,,0,0,0,,
+Dialogue: 0,0:23:18.46,0:23:22.46,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -631 -538 l 723 -538 723 -327 -631 -327
+Dialogue: 1,0:23:18.46,0:23:22.46,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\fs161\blur1.1}What Was I Entrusted With?
+Dialogue: 0,0:23:18.46,0:23:22.46,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -350 -209 l 346 -209 346 -50 -350 -50
+Dialogue: 1,0:23:18.46,0:23:22.46,Title,,0,0,0,,{\pos(960,715)\fnRoboto\fs90\fsp6\blur1.1}— Final Episode —
+Comment: 0,0:10:04.33,0:10:06.33,Sign,,0,0,0,,
+Dialogue: 0,0:17:27.61,0:17:31.61,Sign,,0,0,0,,{=14}{\an4\fs6\bord0\c&H6D6AAE&\blur0.6\pos(770.1,368.96)\org(770.1,368.96)\fry2.45\frx-2.82\frz-8.5\fax0.06\clip(m 742.77 341.54 l 858.46 361.23 848 446.15 733.54 428.31)}Respect for the Aged Day
+Dialogue: 0,0:17:27.61,0:17:31.61,Sign,,0,0,0,,{=11}{\bord0\fs17\c&H8E4889&\fnFinger Paint\blur1\pos(786.15,394.4)\org(786.15,394.4)\fry2.47\frx-2.84\fax0.05\clip(m 742.77 341.54 l 858.46 361.23 848 446.15 733.54 428.31)\frz359.9}Recital
+Comment: 0,0:10:04.33,0:10:06.33,Sign,,0,0,0,,
+Dialogue: 0,0:21:18.63,0:21:19.26,Sign,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnDCPRyuuMoji-W12\blur1.4\b0\yshad1.3\fs27\4c&H9C9C9C&\1a&H00&\4a&H00&\c&H121212&\pos(951.5,530.78)\iclip(m 949.65 512.94 b 949.98 516.82 949.24 523.89 948.08 535.06 946.81 539.83 947.07 549.17 944.72 560.24 948.64 555.67 952.31 561.84 955.11 555.1 956.45 543.81 954.7 538.47 955.68 530.23 956.43 523.78 956.4 516.59 957.06 512.47)}Minami \NFamily Grave
+Comment: 0,0:10:04.33,0:10:06.33,Sign,,0,0,0,,
 Comment: 0,0:10:30.50,0:10:30.50,OP,,0,0,0,,{OP Start}
 Comment: 2,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
 Comment: 1,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
@@ -408,3 +475,11 @@ Dialogue: 0,0:09:58.33,0:10:00.96,Insert Song,,0,0,0,,Let me show I'm never wron
 Dialogue: 0,0:10:00.96,0:10:02.67,Insert Song,,0,0,0,,I can tell this situation's
 Dialogue: 0,0:10:02.67,0:10:04.33,Insert Song,,0,0,0,,The one that we've been waiting
 Dialogue: 0,0:10:04.33,0:10:06.33,Insert Song,,0,0,0,,All this time, I know!
+
+[Aegisub Extradata]
+Data: 2,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A3}
+Data: 5,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A6}
+Data: 8,a-mo,e{"uuid"#3A"50724af0-092e-4c49-a91c-084eee9ebc5e"#2C"originalText"#3A"{\\blur1\\c&H7D7D7D&\\fs122\\pos(960#2C112)\\fnRoboto Medium\\b0}\"My Good Friends\" \\N {\\fs56}ENO.24   Mei Kakui"}
+Data: 9,a-mo,e{"uuid"#3A"ac936c32-34d9-44cc-abf7-1abe2478b094"#2C"originalText"#3A"{\\blur1\\pos(961.9#2C113)\\c&HFAFAFA&\\p1\\fnRoboto}m 0 0 l 904.86 0 904.86 178.26 0 178.26"}
+Data: 11,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A2}
+Data: 14,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A5}
