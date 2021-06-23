@@ -16,8 +16,8 @@ Video File: A:/Downloads/SSSS.Dynazenon - 12 (workraw).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 324
-Active Line: 327
+Scroll Position: 129
+Active Line: 146
 Video Position: 30657
 
 [V4+ Styles]
@@ -177,7 +177,7 @@ Dialogue: 20,0:13:46.01,0:13:47.89,Default,,0,0,0,,...I got to meet them.
 Dialogue: 20,0:13:52.35,0:13:55.97,Default,,0,0,0,,I think I finally know the reason why...
 Dialogue: 20,0:13:57.54,0:14:00.84,Default,,0,0,0,,...you entrusted Dynazenon to me.
 Dialogue: 20,0:14:20.97,0:14:24.20,Default,,0,0,0,,Huh? What about Gauma?
-Comment: 20,0:14:25.97,0:14:25.97,Default,chapter,0,0,0,,{Part B}
+Comment: 20,0:14:25.97,0:14:25.97,Default,chapter,0,0,0,,{Epilogue}
 Dialogue: 20,0:15:43.28,0:15:45.15,Default,,0,0,0,,That scared me.
 Dialogue: 20,0:15:45.15,0:15:48.34,Default,,0,0,0,,He's saying, "Let's not drag this out."
 Dialogue: 20,0:15:48.66,0:15:51.56,Default,,0,0,0,,{\an8}Your friend looks better now.
@@ -362,79 +362,111 @@ Comment: 0,0:10:04.33,0:10:06.33,Sign,,0,0,0,,
 Dialogue: 0,0:21:18.63,0:21:19.26,Sign,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fnDCPRyuuMoji-W12\blur1.4\b0\yshad1.3\fs27\4c&H9C9C9C&\1a&H00&\4a&H00&\c&H121212&\pos(951.5,530.78)\iclip(m 949.65 512.94 b 949.98 516.82 949.24 523.89 948.08 535.06 946.81 539.83 947.07 549.17 944.72 560.24 948.64 555.67 952.31 561.84 955.11 555.1 956.45 543.81 954.7 538.47 955.68 530.23 956.43 523.78 956.4 516.59 957.06 512.47)}Minami \NFamily Grave
 Comment: 0,0:10:04.33,0:10:06.33,Sign,,0,0,0,,
 Comment: 0,0:10:30.50,0:10:30.50,OP,,0,0,0,,{OP Start}
-Comment: 2,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
-Comment: 1,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
-Comment: 0,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
-Comment: 2,0:10:32.54,0:10:37.07,OP,,0,0,0,,{\fad(100,0)}We're fighting to secure our futures
-Comment: 1,0:10:32.54,0:10:37.07,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}We're fighting to secure our futures
-Comment: 0,0:10:32.54,0:10:37.07,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}We're fighting to secure our futures
-Comment: 2,0:10:43.08,0:10:45.75,OP,,0,0,0,,{\fad(100,200)}If you look at the azure sky
-Comment: 1,0:10:43.08,0:10:45.75,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you look at the azure sky
-Comment: 0,0:10:43.08,0:10:45.75,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you look at the azure sky
-Comment: 2,0:10:45.75,0:10:50.05,OP,,0,0,0,,{\fad(100,200)}You may find your heart torn
-Comment: 1,0:10:45.75,0:10:50.05,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You may find your heart torn
-Comment: 0,0:10:45.75,0:10:50.05,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You may find your heart torn
-Comment: 2,0:10:50.05,0:10:53.79,OP,,0,0,0,,{\fad(100,200)}As you realize your own insignificance
-Comment: 1,0:10:50.05,0:10:53.79,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}As you realize your own insignificance
-Comment: 0,0:10:50.05,0:10:53.79,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}As you realize your own insignificance
-Comment: 2,0:10:54.05,0:10:56.81,OP,,0,0,0,,{\fad(100,200)}The emotions dispersed throughout the city
-Comment: 1,0:10:54.05,0:10:56.81,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}The emotions dispersed throughout the city
-Comment: 0,0:10:54.05,0:10:56.81,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}The emotions dispersed throughout the city
-Comment: 2,0:10:56.81,0:11:01.41,OP,,0,0,0,,{\fad(100,200)}Incommodius and unstable as they are
-Comment: 1,0:10:56.81,0:11:01.41,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Incommodius and unstable as they are
-Comment: 0,0:10:56.81,0:11:01.41,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Incommodius and unstable as they are
-Comment: 2,0:11:01.41,0:11:04.97,OP,,0,0,0,,{\fad(100,200)}Are almost like an impuissant SOS
-Comment: 1,0:11:01.41,0:11:04.97,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Are almost like an impuissant SOS
-Comment: 0,0:11:01.41,0:11:04.97,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Are almost like an impuissant SOS
-Comment: 2,0:11:05.69,0:11:08.52,OP,,0,0,0,,{\fad(100,200)}If you try and take someone's hand
-Comment: 1,0:11:05.69,0:11:08.52,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you try and take someone's hand
-Comment: 0,0:11:05.69,0:11:08.52,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you try and take someone's hand
-Comment: 2,0:11:08.52,0:11:11.40,OP,,0,0,0,,{\fad(100,200)}You can find the root of their anxiety
-Comment: 1,0:11:08.52,0:11:11.40,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You can find the root of their anxiety
-Comment: 0,0:11:08.52,0:11:11.40,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You can find the root of their anxiety
-Comment: 2,0:11:11.40,0:11:14.07,OP,,0,0,0,,{\fad(100,200)}When I met you, you were all alone
-Comment: 1,0:11:11.40,0:11:14.07,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}When I met you, you were all alone
-Comment: 0,0:11:11.40,0:11:14.07,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}When I met you, you were all alone
-Comment: 2,0:11:14.07,0:11:19.98,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
-Comment: 1,0:11:14.07,0:11:19.98,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
-Comment: 0,0:11:14.07,0:11:19.98,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
-Comment: 2,0:11:20.53,0:11:21.95,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
-Comment: 1,0:11:20.53,0:11:21.95,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
-Comment: 0,0:11:20.53,0:11:21.95,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
-Comment: 2,0:11:21.95,0:11:24.74,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
-Comment: 1,0:11:21.95,0:11:24.74,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
-Comment: 0,0:11:21.95,0:11:24.74,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
-Comment: 2,0:11:24.74,0:11:31.62,OP,,0,0,0,,{\fad(100,200)}We can nullify the melancholy of this world!
-Comment: 1,0:11:24.74,0:11:31.62,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We can nullify the melancholy of this world!
-Comment: 0,0:11:24.74,0:11:31.62,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We can nullify the melancholy of this world!
-Comment: 2,0:11:31.62,0:11:35.83,OP,,0,0,0,,{\fad(100,200)}I want to take on all your overflowing sadness
-Comment: 1,0:11:31.62,0:11:35.83,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to take on all your overflowing sadness
-Comment: 0,0:11:31.62,0:11:35.83,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to take on all your overflowing sadness
-Comment: 2,0:11:35.83,0:11:38.63,OP,,0,0,0,,{\fad(100,200)}And all your weakness
-Comment: 1,0:11:35.83,0:11:38.63,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And all your weakness
-Comment: 0,0:11:35.83,0:11:38.63,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And all your weakness
-Comment: 2,0:11:38.63,0:11:42.59,OP,,0,0,0,,{\fad(100,200)}I'll take it hand in hand
-Comment: 1,0:11:38.63,0:11:42.59,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I'll take it hand in hand
-Comment: 0,0:11:38.63,0:11:42.59,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I'll take it hand in hand
-Comment: 2,0:11:42.59,0:11:44.39,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
-Comment: 1,0:11:42.59,0:11:44.39,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
-Comment: 0,0:11:42.59,0:11:44.39,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
-Comment: 2,0:11:44.39,0:11:49.49,OP,,0,0,0,,{\fad(100,200)}We're fighting to secure our futures
-Comment: 1,0:11:44.39,0:11:49.49,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We're fighting to secure our futures
-Comment: 0,0:11:44.39,0:11:49.49,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We're fighting to secure our futures
-Comment: 2,0:11:49.49,0:11:52.94,OP,,0,0,0,,{\fad(100,200)}And you're really needed right now
-Comment: 1,0:11:49.49,0:11:52.94,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And you're really needed right now
-Comment: 0,0:11:49.49,0:11:52.94,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And you're really needed right now
-Comment: 2,0:11:52.94,0:11:55.69,OP,,0,0,0,,{\fad(100,200)}You're needed right now!
-Comment: 1,0:11:52.94,0:11:55.69,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You're needed right now!
-Comment: 0,0:11:52.94,0:11:55.69,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You're needed right now!
-Comment: 0,0:12:10.27,0:12:13.42,OP,,0,0,0,,When protecting the one they care about
-Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,Anyone can become the hero of their own little story, for sure!
-Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,(Scarred Souls Shine like Stars) (Dynazenon)
-Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,Something had been missing, I was left discontent
-Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,The days kept tearing holes in my heart
-Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,But you were the missing piece, you completed me
-Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,And right now I'll proudly put on display all I've learned
+Dialogue: 2,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
+Dialogue: 1,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
+Dialogue: 0,0:10:30.99,0:10:32.54,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
+Dialogue: 2,0:10:32.54,0:10:37.07,OP,,0,0,0,,{\fad(100,0)}We're fighting to secure our futures
+Dialogue: 1,0:10:32.54,0:10:37.07,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}We're fighting to secure our futures
+Dialogue: 0,0:10:32.54,0:10:37.07,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}We're fighting to secure our futures
+Dialogue: 2,0:10:43.08,0:10:45.75,OP,,0,0,0,,{\fad(100,200)}If you look at the azure sky
+Dialogue: 1,0:10:43.08,0:10:45.75,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you look at the azure sky
+Dialogue: 0,0:10:43.08,0:10:45.75,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you look at the azure sky
+Dialogue: 2,0:10:45.75,0:10:50.05,OP,,0,0,0,,{\fad(100,200)}You may find your heart torn
+Dialogue: 1,0:10:45.75,0:10:50.05,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You may find your heart torn
+Dialogue: 0,0:10:45.75,0:10:50.05,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You may find your heart torn
+Dialogue: 2,0:10:50.05,0:10:53.79,OP,,0,0,0,,{\fad(100,200)}As you realize your own insignificance
+Dialogue: 1,0:10:50.05,0:10:53.79,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}As you realize your own insignificance
+Dialogue: 0,0:10:50.05,0:10:53.79,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}As you realize your own insignificance
+Dialogue: 2,0:10:54.05,0:10:56.81,OP,,0,0,0,,{\fad(100,200)}The emotions dispersed throughout the city
+Dialogue: 1,0:10:54.05,0:10:56.81,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}The emotions dispersed throughout the city
+Dialogue: 0,0:10:54.05,0:10:56.81,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}The emotions dispersed throughout the city
+Dialogue: 2,0:10:56.81,0:11:01.41,OP,,0,0,0,,{\fad(100,200)}Incommodius and unstable as they are
+Dialogue: 1,0:10:56.81,0:11:01.41,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Incommodius and unstable as they are
+Dialogue: 0,0:10:56.81,0:11:01.41,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Incommodius and unstable as they are
+Dialogue: 2,0:11:01.41,0:11:04.97,OP,,0,0,0,,{\fad(100,200)}Are almost like an impuissant SOS
+Dialogue: 1,0:11:01.41,0:11:04.97,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Are almost like an impuissant SOS
+Dialogue: 0,0:11:01.41,0:11:04.97,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Are almost like an impuissant SOS
+Dialogue: 2,0:11:05.69,0:11:08.52,OP,,0,0,0,,{\fad(100,200)}If you try and take someone's hand
+Dialogue: 1,0:11:05.69,0:11:08.52,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you try and take someone's hand
+Dialogue: 0,0:11:05.69,0:11:08.52,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you try and take someone's hand
+Dialogue: 2,0:11:08.52,0:11:11.40,OP,,0,0,0,,{\fad(100,200)}You can find the root of their anxiety
+Dialogue: 1,0:11:08.52,0:11:11.40,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You can find the root of their anxiety
+Dialogue: 0,0:11:08.52,0:11:11.40,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You can find the root of their anxiety
+Dialogue: 2,0:11:11.40,0:11:14.07,OP,,0,0,0,,{\fad(100,200)}When I met you, you were all alone
+Dialogue: 1,0:11:11.40,0:11:14.07,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}When I met you, you were all alone
+Dialogue: 0,0:11:11.40,0:11:14.07,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}When I met you, you were all alone
+Dialogue: 2,0:11:14.07,0:11:19.98,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
+Dialogue: 1,0:11:14.07,0:11:19.98,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
+Dialogue: 0,0:11:14.07,0:11:19.98,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
+Dialogue: 2,0:11:20.53,0:11:21.95,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
+Dialogue: 1,0:11:20.53,0:11:21.95,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
+Dialogue: 0,0:11:20.53,0:11:21.95,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
+Dialogue: 2,0:11:21.95,0:11:24.74,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
+Dialogue: 1,0:11:21.95,0:11:24.74,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
+Dialogue: 0,0:11:21.95,0:11:24.74,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
+Dialogue: 2,0:11:24.74,0:11:31.62,OP,,0,0,0,,{\fad(100,200)}We can nullify the melancholy of this world!
+Dialogue: 1,0:11:24.74,0:11:31.62,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We can nullify the melancholy of this world!
+Dialogue: 0,0:11:24.74,0:11:31.62,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We can nullify the melancholy of this world!
+Dialogue: 2,0:11:31.62,0:11:35.83,OP,,0,0,0,,{\fad(100,200)}I want to take on all your overflowing sadness
+Dialogue: 1,0:11:31.62,0:11:35.83,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to take on all your overflowing sadness
+Dialogue: 0,0:11:31.62,0:11:35.83,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to take on all your overflowing sadness
+Dialogue: 2,0:11:35.83,0:11:38.63,OP,,0,0,0,,{\fad(100,200)}And all your weakness
+Dialogue: 1,0:11:35.83,0:11:38.63,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And all your weakness
+Dialogue: 0,0:11:35.83,0:11:38.63,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And all your weakness
+Dialogue: 2,0:11:38.63,0:11:42.59,OP,,0,0,0,,{\fad(100,200)}I'll take it hand in hand
+Dialogue: 1,0:11:38.63,0:11:42.59,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I'll take it hand in hand
+Dialogue: 0,0:11:38.63,0:11:42.59,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I'll take it hand in hand
+Dialogue: 2,0:11:42.59,0:11:46.69,OP,,0,0,0,,{\fad(100,0)}When protecting the one they care about
+Dialogue: 1,0:11:42.59,0:11:46.69,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}When protecting the one they care about
+Dialogue: 0,0:11:42.59,0:11:46.69,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}When protecting the one they care about
+Dialogue: 2,0:11:46.69,0:11:55.28,OP,,0,0,0,,{\fad(0,200)}Anyone can become the hero of their own little story, for sure!
+Dialogue: 1,0:11:46.69,0:11:55.28,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&}Anyone can become the hero of their own little story, for sure!
+Dialogue: 0,0:11:46.69,0:11:55.28,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&}Anyone can become the hero of their own little story, for sure!
+Dialogue: 2,0:11:55.28,0:11:59.62,OP,,0,0,0,,{\fad(100,200)\an9}Dynazenon
+Dialogue: 1,0:11:55.28,0:11:59.62,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&\an9}Dynazenon
+Dialogue: 0,0:11:55.28,0:11:59.62,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&\an9}Dynazenon
+Dialogue: 2,0:12:10.27,0:12:16.00,OP,,0,0,0,,{\fad(100,200)}Something had been missing, I was left discontent
+Dialogue: 1,0:12:10.27,0:12:16.00,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Something had been missing, I was left discontent
+Dialogue: 0,0:12:10.27,0:12:16.00,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Something had been missing, I was left discontent
+Dialogue: 2,0:12:16.00,0:12:21.55,OP,,0,0,0,,{\fad(100,200)}The days kept tearing holes in my heart
+Dialogue: 1,0:12:16.00,0:12:21.55,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}The days kept tearing holes in my heart
+Dialogue: 0,0:12:16.00,0:12:21.55,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}The days kept tearing holes in my heart
+Dialogue: 2,0:12:21.55,0:12:27.23,OP,,0,0,0,,{\fad(100,200)}But you were the missing piece, you completed me
+Dialogue: 1,0:12:21.55,0:12:27.23,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}But you were the missing piece, you completed me
+Dialogue: 0,0:12:21.55,0:12:27.23,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}But you were the missing piece, you completed me
+Dialogue: 2,0:12:27.23,0:12:35.44,OP,,0,0,0,,{\fad(100,200)}And right now I'll proudly put on display all I've learned
+Dialogue: 1,0:12:27.23,0:12:35.44,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And right now I'll proudly put on display all I've learned
+Dialogue: 0,0:12:27.23,0:12:35.44,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And right now I'll proudly put on display all I've learned
+Dialogue: 2,0:12:37.78,0:12:39.20,OP,,0,0,0,,{\fad(100,200)\fs69}Stand proud!
+Dialogue: 1,0:12:37.78,0:12:39.20,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&\fs69}Stand proud!
+Dialogue: 0,0:12:37.78,0:12:39.20,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&\fs69}Stand proud!
+Dialogue: 2,0:12:39.20,0:12:41.95,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
+Dialogue: 1,0:12:39.20,0:12:41.95,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
+Dialogue: 0,0:12:39.20,0:12:41.95,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
+Dialogue: 2,0:12:41.95,0:12:48.83,OP,,0,0,0,,{\fad(100,200)}We can nullify the melancholy of this world!
+Dialogue: 1,0:12:41.95,0:12:48.83,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We can nullify the melancholy of this world!
+Dialogue: 0,0:12:41.95,0:12:48.83,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We can nullify the melancholy of this world!
+Dialogue: 2,0:12:48.83,0:12:52.52,OP,,0,0,0,,{\fad(100,0)\t(3108,0,\3c&HFFFFFF&\4c&HFFFFFF&)}I want to take on all your overflowing sadness
+Dialogue: 1,0:12:48.83,0:12:52.52,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&\t(3108,0,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}I want to take on all your overflowing sadness
+Dialogue: 0,0:12:48.83,0:12:52.52,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&\t(3108,0,\3c&HFFFFFF&\4c&HFFFFFF&)}I want to take on all your overflowing sadness
+Dialogue: 2,0:12:52.96,0:12:55.84,OP,,0,0,0,,{\fad(0,200)}And all your weakness
+Dialogue: 1,0:12:52.96,0:12:55.84,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&}And all your weakness
+Dialogue: 0,0:12:52.96,0:12:55.84,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&}And all your weakness
+Dialogue: 2,0:12:55.84,0:12:59.80,OP,,0,0,0,,{\fad(100,200)}I'll take it hand in hand
+Dialogue: 1,0:12:55.84,0:12:59.80,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I'll take it hand in hand
+Dialogue: 0,0:12:55.84,0:12:59.80,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I'll take it hand in hand
+Dialogue: 2,0:12:59.80,0:13:01.47,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
+Dialogue: 1,0:12:59.80,0:13:01.47,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
+Dialogue: 0,0:12:59.80,0:13:01.47,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
+Dialogue: 2,0:13:01.47,0:13:06.14,OP,,0,0,0,,{\fad(100,200)}We're fighting to secure our futures
+Dialogue: 1,0:13:01.47,0:13:06.14,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We're fighting to secure our futures
+Dialogue: 0,0:13:01.47,0:13:06.14,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We're fighting to secure our futures
+Dialogue: 2,0:13:06.14,0:13:10.14,OP,,0,0,0,,{\fad(100,200)}And you're really needed right now
+Dialogue: 1,0:13:06.14,0:13:10.14,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And you're really needed right now
+Dialogue: 0,0:13:06.14,0:13:10.14,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And you're really needed right now
+Dialogue: 2,0:13:10.14,0:13:12.90,OP,,0,0,0,,{\fad(100,200)}You're needed right now!
+Dialogue: 1,0:13:10.14,0:13:12.90,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You're needed right now!
+Dialogue: 0,0:13:10.14,0:13:12.90,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You're needed right now!
 Comment: 0,0:08:23.02,0:08:23.02,Insert Song,,0,0,0,,
 Comment: 0,0:08:23.02,0:08:23.02,Insert Song,,0,0,0,,{ALL THIS METAL insert song}
 Comment: 0,0:08:23.02,0:08:23.02,Insert Song,,0,0,0,,
