@@ -390,10 +390,10 @@ Dialogue: 2,0:11:42.59,0:11:46.69,Insert Song 12,,0,0,0,,{\fad(100,0)}When prote
 Dialogue: 2,0:11:46.69,0:11:55.44,Insert Song 12,,0,0,0,,{\fad(0,200)}Anyone can become the hero of their own little story, for sure!
 Dialogue: 2,0:11:55.19,0:11:59.62,Insert Song 12,,0,0,0,,{\pos(1870,54)\fs42\fad(200,200)\an9\1a&BB&\3a&BB&\4a&&FF}Dynazenon
 Dialogue: 2,0:12:10.27,0:12:16.00,Insert Song 12,,0,0,0,,{\fade(150,200)}Something had been missing,
-Dialogue: 1,0:12:13.25,0:12:16.00,Insert Song 12,,0,0,0,,{\fad(150,200)}Something had been missing, I was left discontent
+Dialogue: 3,0:12:13.25,0:12:16.00,Insert Song 12,,0,0,0,,{\fad(150,200)\alpha&HFF&}Something had been missing,{\alpha&H00&} I was left discontent
 Dialogue: 2,0:12:16.00,0:12:21.42,Insert Song 12,,0,0,0,,{\fad(100,200)}The days kept tearing holes in my heart
 Dialogue: 2,0:12:21.55,0:12:27.22,Insert Song 12,,0,0,0,,{\fad(150,200)}But you were the missing piece,
-Dialogue: 1,0:12:24.22,0:12:27.23,Insert Song 12,,0,0,0,,{\fad(150,200)}But you were the missing piece, you completed me
+Dialogue: 1,0:12:24.22,0:12:27.23,Insert Song 12,,0,0,0,,{\fad(150,200)\alpha&HFF&}But you were the missing piece,{\alpha&H00&} you completed me
 Dialogue: 2,0:12:27.23,0:12:35.44,Insert Song 12,,0,0,0,,{\fad(100,200)}And right now I'll proudly put on display all I've learned
 Dialogue: 2,0:12:37.78,0:12:39.20,Insert Song 12,,0,0,0,,{\fs62\pos(50,38)\fad(100,150)}Stand proud!
 Dialogue: 2,0:12:39.20,0:12:41.95,Insert Song 12,,0,0,0,,{\fad(100,150)}It all depends on us!
