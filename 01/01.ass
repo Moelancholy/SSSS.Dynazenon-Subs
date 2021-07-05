@@ -12,18 +12,21 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
-Audio File: ../../../../Tools/Timing/ssss dynazenon/01/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
-Video File: ../../../../Tools/Timing/ssss dynazenon/01/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
-Keyframes File: ../../../../Tools/Timing/ssss dynazenon/01/[Pizza] SSSS.Dynazenon - 01 [E059AA8F]_keyframes.txt
+Audio File: ../../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
+Video File: ../../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.750000
+Scroll Position: 330
+Active Line: 334
+Video Position: 32513
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gandhi Sans,75,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.8,0,1,3.375,0,2,22,22,81,1
+Style: Default,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
 Style: Title,Roboto Light,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,10,0,5,0,0,0,1
 Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,100,100,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -54,8 +57,8 @@ Dialogue: 10,0:01:48.13,0:01:49.63,Default,,0,0,0,,{\an8} Fried food? In class?
 Dialogue: 10,0:01:44.96,0:01:48.13,Default,,0,0,0,,Huh? Who teases in high school?
 Dialogue: 10,0:01:48.13,0:01:49.63,Default,,0,0,0,,I know, right?
 Dialogue: 10,0:01:49.63,0:01:51.17,Default,,0,0,0,,{\an8} Why not?!
-Dialogue: 10,0:01:54.43,0:01:59.14,Default,,0,0,0,,♪ Now, ♪
-Dialogue: 10,0:01:59.14,0:02:01.43,Default,,0,0,0,,♪ go and soar. ♪
+Dialogue: 10,0:01:54.43,0:01:59.14,Default,,0,0,105,,Now,
+Dialogue: 10,0:01:59.14,0:02:01.43,Default,,0,0,105,,go and soar.
 Dialogue: 10,0:02:01.43,0:02:03.77,Default,,0,0,0,,Whoa. That's dangerous.
 Dialogue: 10,0:02:03.77,0:02:05.27,Default,,0,0,0,, It's Minami.
 Dialogue: 10,0:02:05.27,0:02:07.69,Default,,0,0,0,,What's she doing up there?
@@ -136,7 +139,7 @@ Dialogue: 10,0:06:23.74,0:06:24.49,Default,,0,0,0,,Mmm.
 Dialogue: 10,0:06:24.49,0:06:26.66,Default,,0,0,0,,You're so loud.
 Dialogue: 10,0:06:26.66,0:06:27.91,Default,,0,0,0,,Say something?
 Dialogue: 10,0:06:27.91,0:06:29.58,Default,,0,0,0,,So loud.
-Dialogue: 10,0:06:31.58,0:06:34.08,Default,,0,0,0,,It's good for the earth!
+Dialogue: 10,0:06:31.58,0:06:34.08,Default,,0,0,0,,And it's so good for the earth!
 Dialogue: 10,0:06:34.37,0:06:37.08,Default,,0,0,0,,Yomogi, you're now in...?
 Dialogue: 10,0:06:37.08,0:06:37.88,Default,,0,0,0,,High school.
 Dialogue: 10,0:06:37.88,0:06:40.59,Default,,0,0,0,,Yeah, thought so. Which is why...
@@ -148,7 +151,7 @@ Dialogue: 10,0:06:49.26,0:06:52.10,Default,,0,0,0,,You shouldn't have, but thank
 Dialogue: 10,0:06:52.10,0:06:53.85,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:06:54.64,0:06:56.31,Default,,0,0,0,,...and it talks automatically.
 Dialogue: 10,0:06:58.69,0:07:01.61,Default,,0,0,0,,What are you doing, Yomogi? Let's go!
-Dialogue: 10,0:07:06.11,0:07:09.70,Default,,0,0,0,,{\an8}It's another day in the life\Nof this big family.
+Dialogue: 10,0:07:06.11,0:07:09.70,Default,,0,0,0,,{\an8}It's another day in the life\Nof this big family!
 Dialogue: 10,0:07:10.41,0:07:12.29,Default,,0,0,0,,{\an8}The Hinode's morning starts...
 Dialogue: 10,0:07:12.29,0:07:13.58,Default,,0,0,0,,Thanks for the meal.
 Dialogue: 10,0:07:16.79,0:07:21.25,Default,,0,0,0,,Oh. Can I go in Kano's room?\NI wanna borrow something.
@@ -188,7 +191,7 @@ Dialogue: 10,0:09:09.86,0:09:12.87,Default,,0,0,0,,Do you have time after school
 Dialogue: 10,0:09:12.87,0:09:14.58,Default,,0,0,0,,Huh? Today?
 Dialogue: 10,0:09:14.58,0:09:15.95,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:15.95,0:09:17.45,Default,,0,0,0,,Uh, um...
-Dialogue: 10,0:09:17.45,0:09:20.08,Default,,0,0,0,,Minami. Yume Minami.
+Dialogue: 10,0:09:17.45,0:09:20.08,Default,,0,0,0,,My name's Minami. Yume Minami.
 Dialogue: 10,0:09:20.08,0:09:23.17,Default,,0,0,0,,Yeah, I know. You're in my class.
 Dialogue: 10,0:09:24.42,0:09:25.67,Default,,0,0,0,,Oh, yeah.
 Dialogue: 10,0:09:26.55,0:09:29.26,Default,,0,0,0,,I've gotta go to work tonight.
@@ -263,7 +266,7 @@ Dialogue: 10,0:13:48.72,0:13:50.39,Default,,0,0,0,,You...
 Dialogue: 10,0:13:51.23,0:13:54.19,Default,,0,0,0,,You tricked Yomogi?
 Dialogue: 10,0:13:55.23,0:13:58.44,Default,,0,0,0,,You weren't gonna go,\N but you made him wait?
 Dialogue: 10,0:13:58.44,0:13:59.99,Default,,0,0,0,,You toying with him?
-Dialogue: 10,0:14:02.24,0:14:04.16,Default,,0,0,0,,And what if I was?
+Dialogue: 10,0:14:02.24,0:14:04.16,Default,,0,0,35,,And what if I was?
 Dialogue: 10,0:14:06.45,0:14:09.41,Default,,0,0,0,,Then we've got a huge damn problem!
 Dialogue: 10,0:14:10.12,0:14:14.96,Default,,0,0,0,,Yomogi's been waiting in the rain!\NThe dude might even catch a cold!
 Dialogue: 10,0:14:14.96,0:14:16.29,Default,,0,0,0,,Shut up.
@@ -357,6 +360,20 @@ Dialogue: 10,0:21:53.58,0:21:56.71,Default,,0,0,0,,I dunno, but I think it's ove
 Dialogue: 10,0:21:57.09,0:21:59.30,Default,,0,0,0,,What... just happened?
 Dialogue: 10,0:22:00.59,0:22:02.63,Default,,0,0,0,,Minami, you okay?!
 Dialogue: 10,0:22:04.26,0:22:07.56,Default,,0,0,0,,Something is wrong with me.
+Comment: 0,0:22:09.93,0:22:09.93,ED,,0,0,0,,{ED Start}
+Dialogue: 0,0:22:10.68,0:22:16.98,ED,,0,0,0,,You were looking a little downcast and I wanted to have a chat
+Dialogue: 0,0:22:17.48,0:22:22.49,ED,,0,0,0,,So I tried walking a whole step closer alongside you
+Dialogue: 0,0:22:29.33,0:22:35.54,ED,,0,0,0,,The shadows were growing like a sundial's needle at sunset
+Dialogue: 0,0:22:36.00,0:22:43.17,ED,,0,0,0,,You were striding so fast I thought the season'd change
+Dialogue: 0,0:22:43.17,0:22:49.68,ED,,0,0,0,,I'd never put into words the real important stuff like love
+Dialogue: 0,0:22:49.68,0:22:55.77,ED,,0,0,0,,Blink and you'll miss it, but that's what I put my faith in
+Dialogue: 0,0:22:55.77,0:23:03.19,ED,,0,0,0,,Words of promise, my favourite flower, the treasure in my pocket
+Dialogue: 0,0:23:03.19,0:23:09.37,ED,,0,0,0,,It seemed like you'd be torn away along with all those wonderful things
+Dialogue: 0,0:23:09.37,0:23:15.87,ED,,0,0,0,,So I started running, not knowing if I'd make it, your hand in mine
+Dialogue: 0,0:23:15.87,0:23:20.21,ED,,0,0,0,,This world probably isn't that vast
+Dialogue: 0,0:23:20.21,0:23:25.26,ED,,0,0,0,,So I took another step forward today
+Dialogue: 0,0:23:25.26,0:23:28.64,ED,,0,0,0,,It was ever so radiant
+Dialogue: 0,0:23:28.64,0:23:33.56,ED,,0,0,0,,Just like your smiling face
 Comment: 0,0:22:10.31,0:22:10.31,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:07.65,0:22:09.65,Default,,0,0,0,,TS
 Comment: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,{\fs39\c&H8F8584&\bord0\blur1.8\frz347\frx-20\fry10\fnAlata\pos(1013.22,343.47)}25 May 2020
@@ -375,7 +392,6 @@ Dialogue: 1,0:02:44.35,0:02:48.35,Sign,,0,0,0,,{\an5\pos(960,715)\fsp6\fs90\fnRo
 Dialogue: 0,0:02:48.35,0:02:51.35,Sign,,0,0,0,,{\an7\pos(0,0)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H584E56&}m 1576 667 l 1575 722 1849 732 1849 676
 Dialogue: 0,0:02:48.35,0:02:51.35,Sign,,0,0,0,,{\an5\pos(1707,698)\blur0.6\shad2\fs34\bord2\3c&H554F56&\c&H554F56&\frz-2\fry-5\4c&H483F46&}Fujiyoki High School
 Dialogue: 1,0:02:48.35,0:02:51.35,Sign,,0,0,0,,{\an5\pos(1707,698)\blur0.6\fs34\c&H8DE1EA&\bord0\frz-2\fry-5\4c&H483F46&\shad2\4a&HFF&}Fujiyoki High School
-Dialogue: 0,0:04:27.58,0:04:30.20,Default,,0,0,0,,{\an8}"High Water"
 Dialogue: 0,0:06:42.08,0:06:45.46,Sign,,0,0,0,,{\pos(970,794)\fs60\blur1.6\bord0\c&H5A5B5D&\fnBubblegum Sans\b1\frz236.4}Entering \N School \N Gift
 Dialogue: 0,0:07:03.61,0:07:06.11,Default,,0,0,0,,{\an8}"Donation Box"
 Dialogue: 0,0:07:48.03,0:07:51.28,Sign,,0,0,0,,{\an4\pos(660,340)\fs60\bord0\c&H666AEE&\blur1.2}Respect for the Aged Day
