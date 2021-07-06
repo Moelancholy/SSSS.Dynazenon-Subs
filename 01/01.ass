@@ -11,15 +11,16 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
-Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
+Last Style Storage: dynazenon
+Audio File: H:/ssss dynazenon/01/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
+Video File: H:/ssss dynazenon/01/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
+Keyframes File: H:/ssss dynazenon/01/[Pizza] SSSS.Dynazenon - 01 [E059AA8F]_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 756
-Active Line: 770
-Video Position: 11222
+Video Zoom Percent: 0.500000
+Scroll Position: 350
+Active Line: 359
+Video Position: 30245
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,6 +28,8 @@ Style: Default,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0
 Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,100,100,60,1
 Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,100,100,0,1
+Style: Alt,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00564100,&HFF000000,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
+Style: Insert Song,Bahnschrift,60,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,7,22,22,81,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -48,7 +51,7 @@ Dialogue: 10,0:01:32.49,0:01:34.62,Default,,0,0,0,,I heard they were banned.
 Dialogue: 10,0:01:34.62,0:01:35.58,Default,,0,0,0,,Why?
 Dialogue: 10,0:01:35.58,0:01:37.45,Default,,0,0,0,,Ghosts might show up.
 Dialogue: 10,0:01:37.45,0:01:38.45,Default,,0,0,0,,Serious?
-Dialogue: 10,0:01:37.45,0:01:38.45,Default,,0,0,0,,{\an8}What?
+Dialogue: 10,0:01:37.45,0:01:38.45,Alt,,0,0,0,,What?
 Dialogue: 10,0:01:38.45,0:01:39.83,Default,,0,0,0,, Gimme a break.
 Dialogue: 10,0:01:39.83,0:01:44.58,Default,,0,0,0,,No, I'm serious. Years back,\Nsome teased student offed themselves.
 Dialogue: 10,0:01:44.58,0:01:47.21,Default,,0,0,0,,{\an8}If we cooked food, what should we do?
@@ -70,7 +73,7 @@ Dialogue: 10,0:02:18.79,0:02:21.20,Default,,0,0,0,,{\an8}Huh? She's that kinda g
 Dialogue: 10,0:02:21.20,0:02:24.21,Default,,0,0,0,,{\an8}She asks 'em out and ditches 'em.
 Dialogue: 10,0:02:24.71,0:02:27.46,Default,,0,0,0,,Like some sort of promise-breaking affliction.
 Dialogue: 10,0:02:27.46,0:02:28.88,Default,,0,0,0,,The hell's that?
-Dialogue: 10,0:02:28.88,0:02:30.55,Default,,0,0,0,,It's just a rumor.
+Dialogue: 10,0:02:28.88,0:02:30.13,Default,,0,0,0,,It's just a rumor.
 Dialogue: 10,0:02:31.55,0:02:33.67,Default,,0,0,0,,I can't picture her like that.
 Dialogue: 10,0:02:34.22,0:02:36.51,Default,,0,0,0,,You're so pure, Yomogi.
 Dialogue: 10,0:02:36.51,0:02:38.30,Default,,0,0,0,,What's that mean?
@@ -85,9 +88,9 @@ Dialogue: 10,0:03:11.63,0:03:14.51,Default,,0,0,0,,Since you're not in my class,
 Dialogue: 10,0:03:15.59,0:03:20.26,Default,,0,0,0,,I've known you forever,\Nso I'm saying it for your own good.
 Dialogue: 10,0:03:20.26,0:03:22.52,Default,,0,0,0,,Why, thanks, Mom.
 Dialogue: 10,0:03:22.52,0:03:23.77,Default,,0,0,0,,Cut it out.
-Dialogue: 10,0:03:25.52,0:03:28.77,Default,,0,0,0,,Yume. Stop making promises you won't keep.
+Dialogue: 10,0:03:25.52,0:03:29.38,Default,,0,0,0,,Yume. Stop making promises you won't keep.
 Dialogue: 10,0:03:31.82,0:03:33.07,Default,,0,0,0,,Hello?
-Dialogue: 10,0:03:35.28,0:03:36.53,Default,,0,0,0,,Don't ignore me.
+Dialogue: 10,0:03:35.28,0:03:36.40,Default,,0,0,0,,Don't ignore me.
 Dialogue: 10,0:03:37.03,0:03:39.78,Default,,0,0,0,,About the different lines of thinking...
 Dialogue: 10,0:03:39.78,0:03:43.66,Default,,0,0,0,,There's Stoic Asceticism\Nand Epicurus' Hedonism.
 Dialogue: 10,0:03:44.20,0:03:47.79,Default,,0,0,0,,These two are like night and day.
@@ -99,10 +102,10 @@ Dialogue: 10,0:04:00.68,0:04:03.18,Default,,0,0,0,,Ugh, you're right.
 Dialogue: 10,0:04:03.60,0:04:06.64,Default,,0,0,0,,Good luck explaining you're unemployed.
 Dialogue: 10,0:04:06.64,0:04:08.98,Default,,0,0,0,,Says the one who skips school.
 Dialogue: 10,0:04:08.98,0:04:14.32,Default,,0,0,0,,That's different! I don't attend\Nschool purely by choice.
-Dialogue: 10,0:04:14.90,0:04:17.70,Default,,0,0,0,,This may very well be the new "grave."
+Dialogue: 10,0:04:14.90,0:04:17.70,Default,,0,0,0,,{\an8\i1}This may very well be the new "grave."
 Dialogue: 10,0:04:17.70,0:04:19.20,Default,,0,0,0,,That's different?
 Dialogue: 10,0:04:19.82,0:04:21.20,Default,,0,0,0,,Bye, bye.
-Dialogue: 10,0:04:20.20,0:04:21.20,Default,,0,0,0,,{\an8}Bye.
+Dialogue: 10,0:04:20.20,0:04:21.20,Alt,,0,0,0,,Bye.
 Dialogue: 10,0:04:21.20,0:04:22.66,Default,,0,0,0,,Later.
 Dialogue: 10,0:04:47.52,0:04:49.60,Default,,0,0,0,,Um, are you okay?
 Dialogue: 10,0:04:51.23,0:04:52.61,Default,,0,0,0,,Starving...
@@ -144,14 +147,14 @@ Dialogue: 10,0:06:34.37,0:06:37.08,Default,,0,0,0,,Yomogi, you're now in...?
 Dialogue: 10,0:06:37.08,0:06:37.88,Default,,0,0,0,,High school.
 Dialogue: 10,0:06:37.88,0:06:40.59,Default,,0,0,0,,Yeah, thought so. Which is why...
 Dialogue: 10,0:06:41.38,0:06:43.42,Default,,0,0,0,,Here. Congrats.
-Dialogue: 10,0:06:43.42,0:06:45.47,Default,,0,0,0,,Huh? Um...
-Dialogue: 10,0:06:43.42,0:06:45.47,Default,,0,0,0,,{\an8}What? My goodness!
+Dialogue: 10,0:06:43.42,0:06:45.47,Default,,0,0,50,,What? My goodness!
+Dialogue: 10,0:06:43.42,0:06:45.47,Alt,,0,0,50,,Huh? Um...
 Dialogue: 10,0:06:45.47,0:06:49.26,Default,,0,0,0,,Because you'll be\Ngoing out more, you know?
 Dialogue: 10,0:06:49.26,0:06:52.10,Default,,0,0,0,,You shouldn't have, but thanks.
 Dialogue: 10,0:06:52.10,0:06:53.85,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:06:54.64,0:06:56.31,Default,,0,0,0,,...and it talks automatically.
 Dialogue: 10,0:06:58.69,0:07:01.61,Default,,0,0,0,,What are you doing, Yomogi? Let's go!
-Dialogue: 10,0:07:06.11,0:07:09.70,Default,,0,0,0,,{\an8}It's another day in the life\Nof this big family!
+Dialogue: 10,0:07:06.11,0:07:09.70,Default,,0,0,0,,{\an8\i1}It's another day in the life\Nof this big family!
 Dialogue: 10,0:07:10.41,0:07:12.29,Default,,0,0,0,,{\an8}The Hinode's morning starts...
 Dialogue: 10,0:07:12.29,0:07:13.58,Default,,0,0,0,,Thanks for the meal.
 Dialogue: 10,0:07:16.79,0:07:21.25,Default,,0,0,0,,Oh. Can I go in Kano's room?\NI wanna borrow something.
@@ -339,8 +342,8 @@ Dialogue: 10,0:18:46.73,0:18:48.27,Default,,0,0,0,,I'll try my luck!
 Dialogue: 10,0:18:48.27,0:18:49.57,Default,,0,0,0,,Huh? Try?
 Dialogue: 10,0:18:49.57,0:18:51.69,Default,,0,0,0,,Yeah! This is my first time!
 Dialogue: 10,0:18:57.70,0:18:59.16,Default,,0,0,0,,Whoa!
-Dialogue: 10,0:18:59.16,0:19:03.16,Default,,0,0,0,,Are you alive? Senpai, hello?\NAre you alive?!
-Dialogue: 10,0:19:00.24,0:19:03.16,Default,,0,0,0,,{\an8}Chise? I dunno what's going on.
+Dialogue: 10,0:18:59.16,0:19:03.16,Default,,0,0,0,,{\i1}Are you alive? Senpai, hello? Are you alive?!
+Dialogue: 10,0:19:00.24,0:19:03.16,Alt,,0,0,0,,Chise? I dunno what's going on.
 Dialogue: 10,0:19:09.54,0:19:12.88,Default,,0,0,0,,What the hell? Wh-Whoa!
 Dialogue: 10,0:19:14.55,0:19:18.47,Default,,0,0,0,,Shit! Is this the kaiju's power?!
 Dialogue: 10,0:19:23.31,0:19:25.06,Default,,0,0,0,,Ow, ow! Shit!
@@ -358,8 +361,50 @@ Dialogue: 10,0:21:18.22,0:21:23.05,Default,,0,0,0,,Blazing Inferno Rex Roar!
 Dialogue: 10,0:21:51.04,0:21:53.58,Default,,0,0,0,,Hello, Senpai?! You alive?!
 Dialogue: 10,0:21:53.58,0:21:56.71,Default,,0,0,0,,I dunno, but I think it's over.
 Dialogue: 10,0:21:57.09,0:21:59.30,Default,,0,0,0,,What... just happened?
-Dialogue: 10,0:22:00.59,0:22:02.63,Default,,0,0,0,,Minami, you okay?!
-Dialogue: 10,0:22:04.26,0:22:07.56,Default,,0,0,0,,Something is wrong with me.
+Dialogue: 10,0:22:00.59,0:22:01.97,Default,,0,0,0,,Minami, you okay?!
+Dialogue: 10,0:22:04.26,0:22:07.56,Default,,0,0,0,,{\i1}Something is wrong with me.
+Comment: 0,0:22:10.31,0:22:10.31,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
+Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,{ALL THIS METAL insert song}
+Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
+Dialogue: 0,0:18:40.22,0:18:41.22,Insert Song,,0,0,0,,Yeah
+Dialogue: 0,0:18:46.90,0:18:50.44,Insert Song,,0,0,0,,Just put your trust in me it's gonna work out alright
+Dialogue: 0,0:18:52.99,0:18:56.37,Insert Song,,0,0,0,,I can convince you even if it's gonna take all night
+Dialogue: 0,0:18:58.20,0:18:59.83,Insert Song,,0,0,0,,Cause there's something in my mind
+Dialogue: 0,0:18:59.83,0:19:01.37,Insert Song,,0,0,0,,I can picture inside me
+Dialogue: 0,0:19:01.37,0:19:02.95,Insert Song,,0,0,0,,It took away my breath
+Dialogue: 0,0:19:02.95,0:19:04.37,Insert Song,,0,0,0,,And my heart is breathing faster
+Dialogue: 0,0:19:04.37,0:19:05.87,Insert Song,,0,0,0,,It's chemistry at work
+Dialogue: 0,0:19:05.87,0:19:07.46,Insert Song,,0,0,0,,whenever we're together
+Dialogue: 0,0:19:07.46,0:19:08.92,Insert Song,,0,0,0,,A sign
+Dialogue: 0,0:19:08.92,0:19:11.67,Insert Song,,0,0,0,,Something tells me that you're gonna fall
+Dialogue: 0,0:19:11.67,0:19:13.51,Insert Song,,0,0,0,,For my charms and my affection
+Dialogue: 0,0:19:13.51,0:19:15.01,Insert Song,,0,0,0,,Move in my direction
+Dialogue: 0,0:19:15.01,0:19:17.51,Insert Song,,0,0,0,,Let me show I'm never wrong
+Dialogue: 0,0:19:17.51,0:19:19.30,Insert Song,,0,0,0,,I can tell this situation
+Dialogue: 0,0:19:19.30,0:19:21.01,Insert Song,,0,0,0,,The one that we've been waiting
+Dialogue: 0,0:19:21.01,0:19:23.39,Insert Song,,0,0,0,,All this time, I know!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{OP Start}
+Comment: 0,0:00:00.49,0:00:02.16,Insert Song,,0,0,0,,Alright it's go time
+Comment: 0,0:00:02.16,0:00:06.72,Insert Song,,0,0,0,,We're fighting to secure our futures
+Dialogue: 0,0:19:58.55,0:19:59.85,Insert Song,,0,0,0,,Stand proud!
+Dialogue: 0,0:19:59.85,0:20:09.48,Insert Song,,0,0,0,,It all depends on us! We can nullify the melancholy of this world!
+Dialogue: 0,0:20:09.48,0:20:16.49,Insert Song,,0,0,0,,I want to take on all your overflowing sadness and all your weakness
+Dialogue: 0,0:20:16.49,0:20:20.45,Insert Song,,0,0,0,,I'll take it hand in hand
+Dialogue: 0,0:20:20.45,0:20:22.24,Insert Song,,0,0,0,,Alright it's go time
+Dialogue: 0,0:20:22.24,0:20:26.79,Insert Song,,0,0,0,,We're fighting to secure our futures
+Dialogue: 0,0:20:32.84,0:20:35.46,Insert Song,,0,0,0,,If you look at the azure sky
+Dialogue: 0,0:20:35.46,0:20:40.01,Insert Song,,0,0,0,,You may find your heart torn
+Dialogue: 0,0:20:40.01,0:20:43.51,Insert Song,,0,0,0,,As you realise your own insignificance
+Dialogue: 0,0:20:43.89,0:20:46.64,Insert Song,,0,0,0,,The emotions dispersed throughout the city
+Dialogue: 0,0:20:46.64,0:20:51.02,Insert Song,,0,0,0,,Incommodius and unstable as they are
+Dialogue: 0,0:20:51.02,0:20:54.69,Insert Song,,0,0,0,,Are almost like an impuissant SOS
+Dialogue: 0,0:20:55.69,0:20:58.28,Insert Song,,0,0,0,,If you try and take someone's hand
+Dialogue: 0,0:20:58.28,0:21:01.11,Insert Song,,0,0,0,,You can find the root of their anxiety
+Dialogue: 0,0:21:01.11,0:21:03.91,Insert Song,,0,0,0,,I want to know why I met you solus
+Dialogue: 0,0:21:03.91,0:21:10.42,Insert Song,,0,0,0,,I want to know the reason for your solitude
+Comment: 0,0:20:26.79,0:20:30.79,Insert Song,,0,0,0,,And you're really needed right now
+Comment: 0,0:20:30.79,0:20:33.55,Insert Song,,0,0,0,,You're needed
 Comment: 0,0:22:09.93,0:22:09.93,ED,,0,0,0,,{ED Start}
 Dialogue: 0,0:22:10.68,0:22:16.98,ED,,0,0,0,,You were looking a little downcast and I wanted to have a chat
 Dialogue: 0,0:22:17.48,0:22:22.49,ED,,0,0,0,,So I tried walking a whole step closer alongside you
@@ -374,7 +419,6 @@ Dialogue: 0,0:23:15.87,0:23:20.21,ED,,0,0,0,,This world probably isn't that vast
 Dialogue: 0,0:23:20.21,0:23:25.26,ED,,0,0,0,,So I took another step forward today
 Dialogue: 0,0:23:25.26,0:23:28.64,ED,,0,0,0,,It was ever so radiant
 Dialogue: 0,0:23:28.64,0:23:33.56,ED,,0,0,0,,Just like your smiling face
-Comment: 0,0:22:10.31,0:22:10.31,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:07.65,0:22:09.65,Sign,,0,0,0,,=====TS BELOW HERE=====
 Comment: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,=====Pay Check=====
 Dialogue: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,{\pos(774,234.06)\fs60\c&HC4968F&\bord0\blur1.5\frz346.5\fnAlata\b1}Pay Stub
