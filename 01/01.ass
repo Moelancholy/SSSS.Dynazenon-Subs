@@ -18,9 +18,9 @@ Keyframes File: H:/ssss dynazenon/01/[Pizza] SSSS.Dynazenon - 01 [E059AA8F]_keyf
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 350
-Active Line: 359
-Video Position: 30245
+Scroll Position: 279
+Active Line: 287
+Video Position: 25240
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -368,43 +368,49 @@ Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,{ALL THIS METAL insert song}
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
 Dialogue: 0,0:18:40.22,0:18:41.22,Insert Song,,0,0,0,,Yeah
-Dialogue: 0,0:18:46.90,0:18:50.44,Insert Song,,0,0,0,,Just put your trust in me it's gonna work out alright
-Dialogue: 0,0:18:52.99,0:18:56.37,Insert Song,,0,0,0,,I can convince you even if it's gonna take all night
-Dialogue: 0,0:18:58.20,0:18:59.83,Insert Song,,0,0,0,,Cause there's something in my mind
-Dialogue: 0,0:18:59.83,0:19:01.37,Insert Song,,0,0,0,,I can picture inside me
+Dialogue: 0,0:18:46.73,0:18:50.44,Insert Song,,0,0,0,,Just put your trust in me it's gonna work out alright
+Dialogue: 0,0:18:53.12,0:18:55.86,Insert Song,,0,0,0,,I can convince you even if it's gonna take all night
+Dialogue: 0,0:18:58.08,0:18:59.88,Insert Song,,0,0,0,,Cause there's something in my mind
+Dialogue: 0,0:18:59.88,0:19:01.37,Insert Song,,0,0,0,,I can picture inside me
 Dialogue: 0,0:19:01.37,0:19:02.95,Insert Song,,0,0,0,,It took away my breath
 Dialogue: 0,0:19:02.95,0:19:04.37,Insert Song,,0,0,0,,And my heart is breathing faster
 Dialogue: 0,0:19:04.37,0:19:05.87,Insert Song,,0,0,0,,It's chemistry at work
-Dialogue: 0,0:19:05.87,0:19:07.46,Insert Song,,0,0,0,,whenever we're together
-Dialogue: 0,0:19:07.46,0:19:08.92,Insert Song,,0,0,0,,A sign
-Dialogue: 0,0:19:08.92,0:19:11.67,Insert Song,,0,0,0,,Something tells me that you're gonna fall
+Dialogue: 0,0:19:05.87,0:19:07.34,Insert Song,,0,0,0,,whenever we're together
+Dialogue: 0,0:19:07.34,0:19:08.96,Insert Song,,0,0,0,,A sign
+Dialogue: 0,0:19:08.96,0:19:11.67,Insert Song,,0,0,0,,Something tells me that you're gonna fall
 Dialogue: 0,0:19:11.67,0:19:13.51,Insert Song,,0,0,0,,For my charms and my affection
 Dialogue: 0,0:19:13.51,0:19:15.01,Insert Song,,0,0,0,,Move in my direction
 Dialogue: 0,0:19:15.01,0:19:17.51,Insert Song,,0,0,0,,Let me show I'm never wrong
 Dialogue: 0,0:19:17.51,0:19:19.30,Insert Song,,0,0,0,,I can tell this situation
 Dialogue: 0,0:19:19.30,0:19:21.01,Insert Song,,0,0,0,,The one that we've been waiting
-Dialogue: 0,0:19:21.01,0:19:23.39,Insert Song,,0,0,0,,All this time, I know!
+Dialogue: 0,0:19:21.01,0:19:23.31,Insert Song,,0,0,0,,All this time, I know!
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{OP Start}
 Comment: 0,0:00:00.49,0:00:02.16,Insert Song,,0,0,0,,Alright it's go time
 Comment: 0,0:00:02.16,0:00:06.72,Insert Song,,0,0,0,,We're fighting to secure our futures
-Dialogue: 0,0:19:58.55,0:19:59.85,Insert Song,,0,0,0,,Stand proud!
-Dialogue: 0,0:19:59.85,0:20:09.48,Insert Song,,0,0,0,,It all depends on us! We can nullify the melancholy of this world!
-Dialogue: 0,0:20:09.48,0:20:16.49,Insert Song,,0,0,0,,I want to take on all your overflowing sadness and all your weakness
-Dialogue: 0,0:20:16.49,0:20:20.45,Insert Song,,0,0,0,,I'll take it hand in hand
-Dialogue: 0,0:20:20.45,0:20:22.24,Insert Song,,0,0,0,,Alright it's go time
-Dialogue: 0,0:20:22.24,0:20:26.79,Insert Song,,0,0,0,,We're fighting to secure our futures
+Dialogue: 0,0:19:58.55,0:20:00.14,Insert Song,,0,0,0,,Stand proud!
+Dialogue: 0,0:20:00.14,0:20:09.90,Insert Song,,0,0,0,,It all depends on us! We can nullify the melancholy of this world!
+Dialogue: 0,0:20:09.90,0:20:16.86,Insert Song,,0,0,0,,I want to take on all your overflowing sadness and all your weakness
+Dialogue: 0,0:20:16.86,0:20:20.76,Insert Song,,0,0,0,,I'll take it hand in hand
+Dialogue: 0,0:20:20.76,0:20:22.24,Insert Song,,0,0,0,,Alright it's go time
+Dialogue: 0,0:20:22.24,0:20:26.54,Insert Song,,0,0,0,,We're fighting to secure our futures
 Dialogue: 0,0:20:32.84,0:20:35.46,Insert Song,,0,0,0,,If you look at the azure sky
 Dialogue: 0,0:20:35.46,0:20:40.01,Insert Song,,0,0,0,,You may find your heart torn
-Dialogue: 0,0:20:40.01,0:20:43.51,Insert Song,,0,0,0,,As you realise your own insignificance
-Dialogue: 0,0:20:43.89,0:20:46.64,Insert Song,,0,0,0,,The emotions dispersed throughout the city
-Dialogue: 0,0:20:46.64,0:20:51.02,Insert Song,,0,0,0,,Incommodius and unstable as they are
-Dialogue: 0,0:20:51.02,0:20:54.69,Insert Song,,0,0,0,,Are almost like an impuissant SOS
-Dialogue: 0,0:20:55.69,0:20:58.28,Insert Song,,0,0,0,,If you try and take someone's hand
-Dialogue: 0,0:20:58.28,0:21:01.11,Insert Song,,0,0,0,,You can find the root of their anxiety
+Dialogue: 0,0:20:40.01,0:20:43.99,Insert Song,,0,0,0,,As you realise your own insignificance
+Dialogue: 0,0:20:43.99,0:20:46.71,Insert Song,,0,0,0,,The emotions dispersed throughout the city
+Dialogue: 0,0:20:46.71,0:20:51.38,Insert Song,,0,0,0,,Incommodius and unstable as they are
+Dialogue: 0,0:20:51.38,0:20:54.69,Insert Song,,0,0,0,,Are almost like an impuissant SOS
+Dialogue: 0,0:20:55.69,0:20:58.59,Insert Song,,0,0,0,,If you try and take someone's hand
+Dialogue: 0,0:20:58.59,0:21:01.11,Insert Song,,0,0,0,,You can find the root of their anxiety
 Dialogue: 0,0:21:01.11,0:21:03.91,Insert Song,,0,0,0,,I want to know why I met you solus
-Dialogue: 0,0:21:03.91,0:21:10.42,Insert Song,,0,0,0,,I want to know the reason for your solitude
-Comment: 0,0:20:26.79,0:20:30.79,Insert Song,,0,0,0,,And you're really needed right now
-Comment: 0,0:20:30.79,0:20:33.55,Insert Song,,0,0,0,,You're needed
+Dialogue: 0,0:21:03.91,0:21:10.33,Insert Song,,0,0,0,,I want to know the reason for your solitude
+Dialogue: 0,0:21:10.33,0:21:11.63,Insert Song,,0,0,0,,Stand proud!
+Dialogue: 0,0:21:11.63,0:21:21.26,Insert Song,,0,0,0,,It all depends on us! We can nullify the melancholy of this world!
+Dialogue: 0,0:21:21.26,0:21:28.27,Insert Song,,0,0,0,,I want to take on all your overflowing sadness and all your weakness
+Dialogue: 0,0:21:28.27,0:21:32.52,Insert Song,,0,0,0,,I'll take it hand in hand
+Dialogue: 0,0:21:32.52,0:21:34.02,Insert Song,,0,0,0,,Alright it's go time
+Dialogue: 0,0:21:34.02,0:21:38.57,Insert Song,,0,0,0,,We're fighting to secure our futures
+Dialogue: 0,0:21:38.72,0:21:42.57,Insert Song,,0,0,0,,And you're really needed right now
+Dialogue: 0,0:21:42.57,0:21:45.52,Insert Song,,0,0,0,,You're needed
 Comment: 0,0:22:09.93,0:22:09.93,ED,,0,0,0,,{ED Start}
 Dialogue: 0,0:22:10.68,0:22:16.98,ED,,0,0,0,,You were looking a little downcast and I wanted to have a chat
 Dialogue: 0,0:22:17.48,0:22:22.49,ED,,0,0,0,,So I tried walking a whole step closer alongside you
