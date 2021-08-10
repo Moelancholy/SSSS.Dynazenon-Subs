@@ -131,7 +131,7 @@ Dialogue: 10,0:06:56.98,0:07:00.48,Default,,0,0,0,,Captain Gauma, do you have a 
 Dialogue: 10,0:07:00.48,0:07:01.36,Default,,0,0,0,,I do!
 Dialogue: 10,0:07:01.36,0:07:01.98,Default,,0,0,0,,Like?
 Dialogue: 10,0:07:02.40,0:07:03.44,Default,,0,0,0,,Like...
-Dialogue: 10,0:07:04.57,0:07:05.24,Default,,0,0,0,,Like?
+Dialogue: 10,0:07:04.57,0:07:05.25,Default,,0,0,0,,Like?
 Dialogue: 10,0:07:05.99,0:07:07.20,Default,,0,0,0,,Like this!
 Dialogue: 10,0:07:09.41,0:07:15.29,Default,,0,0,0,,But first, dinner! Eat up! You can't\Ndo squat on an empty stomach!
 Dialogue: 10,0:07:15.29,0:07:18.29,Default,,0,0,0,,{\an8}Senpai, do you have a swimsuit?
@@ -141,8 +141,8 @@ Dialogue: 10,0:07:22.84,0:07:24.51,Default,,0,0,0,,{\an8}It fits.
 Dialogue: 10,0:07:24.51,0:07:26.76,Default,,0,0,0,,{\an8\t(309,2228,\c&H000000&\4c&H000000&)}From elementary school?
 Dialogue: 10,0:07:15.79,0:07:18.29,Alt,,0,0,0,,{\an8}That jerk is never gonna see it coming.
 Dialogue: 10,0:07:20.71,0:07:22.84,Alt,,0,0,0,,{\an8}This time, I'll get him for sure!
-Dialogue: 10,0:07:25.13,0:07:26.76,Alt,,0,0,0,,{\an8\pos(960,156)\t(-331,1630,\c&H000000&\3c&H000000&)}Like, bam!
-Dialogue: 10,0:07:22.84,0:07:24.51,Default,,0,0,0,,Well, whatever.
+Dialogue: 10,0:07:25.13,0:07:26.76,Alt,,0,0,0,,{\an8\pos(960,156)\t(-331,1630,\c&H0&\3c&H0&)}Like, bam!
+Dialogue: 10,0:07:22.84,0:07:24.51,Default,,0,0,0,,{\i1}Well, whatever.
 Dialogue: 10,0:07:28.18,0:07:29.80,Default,,0,0,0,,It's Sunday!
 Dialogue: 10,0:07:29.80,0:07:32.68,Default,,0,0,0,,And yet, it's totally dead.
 Dialogue: 10,0:07:32.68,0:07:34.56,Default,,0,0,0,,'Cuz it's June.
@@ -209,7 +209,7 @@ Dialogue: 10,0:11:18.16,0:11:22.95,Default,,0,0,0,,Don't worry. The operation\Ni
 Dialogue: 10,0:11:23.54,0:11:25.66,Default,,0,0,0,,You look a little beat up.
 Dialogue: 10,0:11:27.17,0:11:29.92,Default,,0,0,0,,Wanna relax in the onsen? {hot tub/spa?}
 Dialogue: 10,0:11:30.92,0:11:33.42,Default,,0,0,0,,Whoa! I almost fell!
-Dialogue: 10,0:11:31.38,0:11:33.42,Default,,0,0,0,,{\an8}Hey! Quit shaking it!
+Dialogue: 10,0:11:31.38,0:11:33.42,Alt,,0,0,0,,Hey! Quit shaking it!
 Dialogue: 10,0:11:33.80,0:11:35.26,Default,,0,0,0,,Can you make it?
 Dialogue: 10,0:11:35.26,0:11:36.80,Default,,0,0,0,,Yeah, probably.
 Dialogue: 10,0:11:46.52,0:11:48.06,Default,,0,0,0,,Don't knock me off, jeez!
@@ -281,8 +281,8 @@ Dialogue: 10,0:16:29.47,0:16:30.72,Default,,0,0,0,,Minami!
 Dialogue: 10,0:16:31.05,0:16:33.76,Default,,0,0,0,,If only I could attack from afar!
 Dialogue: 10,0:16:34.85,0:16:37.23,Default,,0,0,0,,Oh, Koyomi! Let's try that thing!
 Dialogue: 10,0:16:37.23,0:16:39.10,Default,,0,0,0,,Huh? Are you sure?
-Dialogue: 10,0:16:39.10,0:16:40.35,Default,,0,0,0,,{\an8}Please!
-Dialogue: 10,0:16:39.10,0:16:40.35,Default,,0,0,0,,Senpai!
+Dialogue: 10,0:16:39.10,0:16:40.35,Default,,0,0,0,,Please!
+Dialogue: 10,0:16:39.10,0:16:40.35,Alt,,0,0,0,,Senpai!
 Dialogue: 10,0:16:41.86,0:16:42.86,Default,,0,0,0,,All right!
 Dialogue: 10,0:17:09.42,0:17:12.84,Default,,0,0,0,,Dyna Soldier Striker Combine!
 Dialogue: 10,0:17:18.93,0:17:21.31,Default,,0,0,0,,You can do it, Yomogi!
@@ -290,8 +290,8 @@ Dialogue: 10,0:17:21.65,0:17:24.57,Default,,0,0,0,,Hang in there, Dyna Soldier!
 Dialogue: 10,0:17:24.57,0:17:27.32,Default,,0,0,0,,Striker Storm Alpha!
 Dialogue: 10,0:17:27.32,0:17:29.57,Default,,0,0,0,,Striker Storm Beta!
 Dialogue: 10,0:17:29.57,0:17:31.49,Default,,0,0,0,,Fire!
-Dialogue: 10,0:17:43.33,0:17:46.13,Default,,0,0,0,,Ouch!
-Dialogue: 10,0:17:43.33,0:17:46.13,Default,,0,0,0,,{\an8}Ow, ow, ow!
+Dialogue: 10,0:17:43.33,0:17:46.13,Default,,0,0,0,,Ow, ow, ow!
+Dialogue: 10,0:17:43.33,0:17:46.13,Alt,,0,0,0,,Ouch!
 Dialogue: 10,0:17:46.13,0:17:48.51,Default,,0,0,0,,All right! Time to combine!
 Dialogue: 10,0:18:28.80,0:18:32.80,Default,,0,0,0,,Combine Dragon Dynazenon!
 Dialogue: 10,0:18:32.80,0:18:36.39,Default,,0,0,0,,There's Dynazenon! Crush 'em, Sizumu!
@@ -310,12 +310,12 @@ Dialogue: 10,0:20:01.93,0:20:04.47,Default,,0,0,0,,Aren't you guys pissed?!
 Dialogue: 10,0:20:05.81,0:20:08.31,Default,,0,0,0,,Gauma may have won again,
 Dialogue: 10,0:20:08.31,0:20:12.27,Default,,0,0,0,,but next time, we're gonna whoop his a—
 Dialogue: 10,0:20:21.78,0:20:23.62,Default,,0,0,0,,I wanted to swim more!
-Dialogue: 10,0:20:23.62,0:20:27.21,Default,,0,0,0,,{\an8}Sizumu's gonna get it next time.
+Dialogue: 10,0:20:23.62,0:20:27.21,Alt,,0,0,0,,Sizumu's gonna get it next time.
 Dialogue: 10,0:20:24.62,0:20:27.21,Default,,0,0,0,,We've gotta go back and get our stuff.
-Dialogue: 10,0:20:27.21,0:20:29.92,Default,,0,0,0,,Oh! We can swim more while we're there!
-Dialogue: 10,0:20:29.92,0:20:30.83,Default,,0,0,0,,I've had enough.
-Dialogue: 10,0:20:30.83,0:20:31.96,Default,,0,0,0,,Aww!
-Dialogue: 10,0:20:29.17,0:20:31.46,Default,,0,0,0,,{\an8} My strategy was too sloppy.
+Dialogue: 10,0:20:27.21,0:20:29.92,Default,,0,0,0,,{\an8}Oh! We can swim more while we're there!
+Dialogue: 10,0:20:29.92,0:20:30.83,Default,,0,0,0,,{\an8}I've had enough.
+Dialogue: 10,0:20:30.83,0:20:31.96,Default,,0,0,0,,{\an8}Aww!
+Dialogue: 10,0:20:29.17,0:20:31.46,Alt,,0,0,0,,{\an8} My strategy was too sloppy.
 Dialogue: 10,0:20:35.01,0:20:37.22,Default,,0,0,0,,Thanks for back there.
 Dialogue: 10,0:20:37.22,0:20:37.97,Default,,0,0,0,,Huh?
 Dialogue: 10,0:20:48.44,0:20:52.94,Default,,0,0,0,,No jumping, please!

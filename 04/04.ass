@@ -30,6 +30,7 @@ Style: Sign,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,1
 Style: OP,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,1,1,64,150,43,1
 Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,100,100,40,1
 Style: phone,Gandhi Sans,72,&H00978C84,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Alt,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00564100,&HFF000000,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -198,7 +199,7 @@ Dialogue: 10,0:10:22.02,0:10:24.52,Default,,0,0,0,,You're asking for it, bastard
 Dialogue: 10,0:10:24.52,0:10:25.73,Default,,0,0,0,,What's this about?!
 Dialogue: 10,0:10:26.19,0:10:29.57,Default,,0,0,0,,Huh? Uh, I came to see someone.
 Dialogue: 10,0:10:30.15,0:10:32.44,Default,,0,0,0,,{\an8}You've got all it wrong! Let go!
-Dialogue: 10,0:10:29.57,0:10:31.65,Default,,0,0,0,,You're coming with us!
+Dialogue: 10,0:10:29.57,0:10:31.65,Alt,,0,0,0,,{\an8}You're coming with us!
 Dialogue: 10,0:10:32.44,0:10:33.49,Default,,0,0,0,,{\an8}Let go of me!
 Dialogue: 10,0:10:33.49,0:10:34.45,Default,,0,0,0,,{\an8}Would you behave?!
 Dialogue: 10,0:10:34.45,0:10:37.95,Default,,0,0,0,,{\an8}Let go! I can explain myself!
@@ -338,16 +339,16 @@ Dialogue: 10,0:19:18.68,0:19:20.68,Default,,0,0,0,,Mujina, focus!
 Dialogue: 10,0:19:20.68,0:19:22.39,Default,,0,0,0,,Your shouting doesn't help!
 Dialogue: 10,0:19:30.52,0:19:33.36,Default,,0,0,0,,Burst Missile Kick!
 Dialogue: 10,0:19:37.53,0:19:39.32,Default,,0,0,0,,Let's finish it!
-Dialogue: 10,0:19:39.32,0:19:40.03,Default,,0,0,0,,{\pos(960,150)}Achoo!
-Dialogue: 10,0:19:39.32,0:19:40.03,Default,,0,0,0,,{\pos(1600,150)}Right!
-Dialogue: 10,0:19:39.32,0:19:40.03,Default,,0,0,0,,{\pos(300,136)}Right!
+Dialogue: 10,0:19:39.32,0:19:40.03,Default,,0,0,930,,Achoo!
+Dialogue: 10,0:19:39.32,0:19:40.03,Default,,662,-618,930,,Right!
+Dialogue: 10,0:19:39.32,0:19:40.03,Default,,-638,682,944,,Right!
 Dialogue: 10,0:19:56.47,0:20:00.72,Default,,0,0,0,,Super Dragon Dyna Rex!
 Dialogue: 10,0:20:01.97,0:20:06.18,Default,,0,0,0,,Up you go! Heave ho!
 Dialogue: 10,0:20:07.81,0:20:08.98,Default,,0,0,0,,Eat this!
 Dialogue: 10,0:20:09.73,0:20:12.98,Default,,0,0,0,,Blazing Inferno...
 Dialogue: 10,0:20:12.98,0:20:16.19,Default,,0,0,0,,...Rex Roar!
 Dialogue: 10,0:20:29.46,0:20:32.50,Default,,0,0,0,,Damn that Gauma!
-Dialogue: 10,0:20:31.54,0:20:32.50,Default,,0,0,0,,{\an8}Good work.
+Dialogue: 10,0:20:31.54,0:20:32.50,Alt,,0,0,0,,Good work.
 Dialogue: 10,0:20:32.50,0:20:33.04,Default,,0,0,0,,You, too.
 Dialogue: 10,0:20:33.04,0:20:33.96,Default,,0,0,0,,Let's go.
 Dialogue: 10,0:20:41.51,0:20:43.35,Default,,0,0,0,,I thought I was dead.
@@ -359,17 +360,17 @@ Dialogue: 10,0:21:01.36,0:21:03.37,Default,,0,0,0,,{\an8}No! I'll combine by tom
 Dialogue: 10,0:21:03.37,0:21:05.12,Default,,0,0,0,,{\an8}What makes you so sure?
 Dialogue: 10,0:21:05.12,0:21:07.87,Default,,0,0,0,,{\an8}If you can do it, I can, too!
 Dialogue: 10,0:21:07.87,0:21:09.16,Default,,0,0,0,,{\an8}How rude.
-Dialogue: 10,0:21:02.16,0:21:07.87,Default,,0,0,0,,Dynazenon... Can anyone pilot you?
+Dialogue: 10,0:21:09.66,0:21:10.00,Default,,0,0,0,,{\an8}What?
+Dialogue: 10,0:21:02.16,0:21:05.87,Default,,0,0,0,,Dynazenon... Can anyone pilot you?
 Dialogue: 10,0:21:07.87,0:21:09.16,Default,,0,0,0,,Want a ride?
 Dialogue: 10,0:21:09.16,0:21:10.00,Default,,0,0,0,,Huh?
-Dialogue: 10,0:21:09.66,0:21:10.00,Default,,0,0,0,,{\an8}What?
 Dialogue: 10,0:21:18.30,0:21:21.05,Default,,0,0,0,,Thanks for coming to get me.
 Dialogue: 10,0:21:21.05,0:21:24.30,Default,,0,0,0,,I should've brought you along\Nfrom the start.
 Dialogue: 10,0:21:25.31,0:21:27.39,Default,,0,0,0,,Can I come along next time?
 Dialogue: 10,0:21:28.14,0:21:28.77,Default,,0,0,0,,Next time?
 Dialogue: 10,0:21:29.27,0:21:32.27,Default,,0,0,0,,When you go asking about your sister.
 Dialogue: 10,0:21:34.11,0:21:35.77,Default,,0,0,0,,Sure, but why?
-Dialogue: 10,0:21:37.69,0:21:39.78,Default,,0,0,0,,I want to know more about you, too.
+Dialogue: 10,0:21:37.69,0:21:39.78,Default,,0,0,0,,I want to know more about yo—
 Dialogue: 10,0:21:43.24,0:21:44.78,Default,,0,0,0,,Sorry. What was that?
 Dialogue: 10,0:21:45.83,0:21:46.79,Default,,0,0,0,,Nothing.
 Dialogue: 10,0:21:50.16,0:21:52.17,Default,,0,0,0,,{\an8}Stand! Bow!
