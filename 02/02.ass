@@ -15,9 +15,9 @@ Video File: ../../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 02 [
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 127
-Active Line: 143
-Video Position: 15213
+Scroll Position: 9
+Active Line: 10
+Video Position: 3843
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Dialogue: 0,0:02:04.27,0:02:06.44,Default,,0,0,0,,Th-That stopped it!
 Dialogue: 0,0:02:06.44,0:02:11.03,Default,,0,0,0,,Is this Dynazenon's true power?! Dyna Rex!
 Dialogue: 0,0:02:25.46,0:02:29.92,Default,,0,0,0,,Blazing Inferno Rex Roar!
 Dialogue: 0,0:02:35.01,0:02:37.70,Default,,0,0,0,,What... just happened?
-Dialogue: 0,0:02:40.28,0:02:42.31,Default,,0,0,0,,Minami, you okay?!
+Dialogue: 0,0:02:40.28,0:02:41.85,Default,,0,0,0,,Minami, you okay?!
 Dialogue: 0,0:02:59.94,0:03:01.58,Default,,0,0,0,,What's this?
 Dialogue: 0,0:03:06.79,0:03:07.92,Default,,0,0,0,,It vanished!
 Dialogue: 0,0:03:11.50,0:03:15.01,Default,,0,0,0,,It can go back to being small?
@@ -47,9 +47,9 @@ Dialogue: 0,0:03:29.46,0:03:33.83,Default,,0,0,0,,Thank goodness!\NYou're not de
 Dialogue: 0,0:03:33.83,0:03:35.12,Default,,0,0,0,,Oh, Chise.
 Dialogue: 0,0:03:35.12,0:03:37.49,Default,,0,0,0,,Where'd the big robot go?
 Dialogue: 0,0:03:37.49,0:03:39.90,Default,,0,0,0,,I guess it shrunk.
-Dialogue: 0,0:03:38.46,0:03:39.90,Default,,0,0,0,,{\an8}Where's your umbrella, Minami?
+Dialogue: 0,0:03:38.46,0:03:39.90,Default,,0,0,30,,{\an8}Where's your umbrella, Minami?
 Dialogue: 0,0:03:39.90,0:03:41.41,Default,,0,0,0,,Huh? Shrunk?
-Dialogue: 0,0:03:39.90,0:03:41.41,Default,,0,0,0,,{\an8}What?
+Dialogue: 0,0:03:39.90,0:03:41.41,Default,,0,0,30,,{\an8}What?
 Dialogue: 0,0:03:41.41,0:03:42.29,Default,,0,0,0,,Hell no.
 Dialogue: 0,0:03:42.29,0:03:42.79,Default,,0,0,0,,Huh?
 Dialogue: 0,0:03:42.79,0:03:46.10,Default,,0,0,0,,You! Apologize to Yomogi!
@@ -80,7 +80,7 @@ Dialogue: 0,0:05:04.25,0:05:06.66,Default,,0,0,0,,If everyone else comes, sure.
 Dialogue: 0,0:05:06.66,0:05:11.65,Default,,0,0,0,,Especially you. Promise me\Nthat you'll show up.
 Dialogue: 0,0:05:12.42,0:05:13.67,Default,,0,0,0,,Fine.
 Dialogue: 0,0:05:19.83,0:05:24.44,Default,,0,0,0,,Dynazenon... Are you a kaiju?
-Dialogue: 0,0:05:24.44,0:05:28.18,Default,,0,0,0,,Why did "that" person trust you with me?
+Dialogue: 0,0:05:24.44,0:05:28.18,Default,,0,0,0,,Why did {\i1}that{\i0} person trust you with me?
 Dialogue: 0,0:05:30.87,0:05:32.57,Default,,0,0,0,,I'm this way.
 Dialogue: 0,0:05:32.57,0:05:33.19,Default,,0,0,0,,Right.
 Dialogue: 0,0:05:36.48,0:05:39.19,Default,,0,0,0,,{\i1}Yomogi! You're being tricked!{\i0}
@@ -98,7 +98,8 @@ Dialogue: 0,0:06:12.05,0:06:14.89,Default,,0,0,0,,{\an8}Why is our school so slo
 Dialogue: 0,0:06:14.89,0:06:16.36,Default,,0,0,0,,{\an8}My friend's school—
 Dialogue: 0,0:06:17.57,0:06:22.98,Default,,0,0,0,,Senpai. Training is this evening,\Nright? Care if I come?
 Dialogue: 0,0:06:22.98,0:06:25.04,Default,,0,0,0,,Sure, why not?
-Dialogue: 0,0:06:25.04,0:06:31.87,Default,,0,0,0,,Must be nice to get your own robot!\NYou'll get paid for this, right?
+Dialogue: 0,0:06:25.04,0:06:28.62,Default,,0,0,0,,Must be nice to get your own robot!
+Dialogue: 0,0:06:29.22,0:06:31.87,Default,,0,0,0,,You'll get paid for this, right?
 Dialogue: 0,0:06:31.87,0:06:33.79,Default,,0,0,0,,Huh? We get money?
 Dialogue: 0,0:06:34.15,0:06:35.63,Default,,0,0,0,,What if you did?
 Dialogue: 0,0:06:36.01,0:06:40.88,Default,,0,0,0,,Uh, then that means... I'm employed.
@@ -155,9 +156,9 @@ Dialogue: 0,0:09:20.12,0:09:22.82,Default,,0,0,0,,I'm finally old enough to work
 Dialogue: 0,0:09:23.69,0:09:24.78,Default,,0,0,0,,I see.
 Dialogue: 0,0:09:26.94,0:09:28.21,Default,,0,0,0,,Aren't you cramped?
 Dialogue: 0,0:09:28.21,0:09:29.05,Default,,0,0,0,,I am.
-Dialogue: 0,0:09:29.05,0:09:31.65,Default,,0,0,0,,I told you, it's too small.
-Dialogue: 0,0:09:31.65,0:09:34.22,Default,,0,0,0,,Oh? So now it's my fault?
-Dialogue: 0,0:09:34.22,0:09:35.05,Default,,0,0,0,,I never—
+Dialogue: 0,0:09:29.05,0:09:31.65,Default,,0,0,0,,{\an8}I told you, it's too small.
+Dialogue: 0,0:09:31.65,0:09:34.22,Default,,0,0,0,,{\an8}Oh? So now it's my fault?
+Dialogue: 0,0:09:34.22,0:09:35.05,Default,,0,0,0,,{\an8}I never—
 Dialogue: 0,0:09:35.05,0:09:38.43,Default,,0,0,0,,{\i1}She's toying with you and tricked you!{\i0}
 Dialogue: 0,0:09:38.87,0:09:40.06,Default,,0,0,0,,Is it true?
 Dialogue: 0,0:09:40.06,0:09:41.82,Default,,0,0,0,,{\an8}I said I was sorry.
@@ -171,10 +172,10 @@ Dialogue: 0,0:09:54.85,0:09:58.71,Default,,0,0,0,,And you just believed him?\NBe
 Dialogue: 0,0:09:58.71,0:10:01.64,Default,,0,0,0,,I know! Why don't you eat with us?
 Dialogue: 0,0:10:01.64,0:10:03.04,Default,,0,0,0,,You're not listening.
 Dialogue: 0,0:10:03.04,0:10:06.46,Default,,0,0,0,,Well, I'd hate to intrude\Nmore than I have.
-Dialogue: 0,0:10:06.46,0:10:10.87,Default,,0,0,0,,{\an8}As you can see,\NImose City Hall is a disaster.
-Dialogue: 0,0:10:10.87,0:10:17.08,Default,,0,0,0,,{\an8}It's a six-floor building,\Nbut roughly four floors were torn apart.
-Dialogue: 0,0:10:17.72,0:10:23.79,Default,,0,0,0,,{\an8}There are what appears to be claw marks\Nfrom a kaiju on the building.
-Dialogue: 0,0:10:23.79,0:10:28.68,Default,,0,0,0,,{\an8}To protect city hall,\Nthis tent will be used as disaster HQ.
+Dialogue: 0,0:10:06.46,0:10:10.87,Default,,0,0,30,,{\an8\i1}As you can see,\NImose City Hall is a disaster.
+Dialogue: 0,0:10:10.87,0:10:17.08,Default,,0,0,30,,{\an8\i1}It's a six-floor building,\Nbut roughly four floors were torn apart.
+Dialogue: 0,0:10:17.72,0:10:23.79,Default,,0,0,30,,{\an8\i1}There are what appears to be claw marks\Nfrom a kaiju on the building.
+Dialogue: 0,0:10:23.79,0:10:28.68,Default,,0,0,30,,{\an8\i1}To protect city hall,\Nthis tent will be used as disaster HQ.
 Dialogue: 0,0:10:09.03,0:10:10.87,Default,,0,0,0,,Why don't you go sleep, Mom?
 Dialogue: 0,0:10:11.28,0:10:12.56,Default,,0,0,0,,Mmm.
 Dialogue: 0,0:10:13.18,0:10:15.38,Default,,0,0,0,,This is incredibly good!
@@ -236,8 +237,8 @@ Dialogue: 0,0:14:07.84,0:14:13.46,Default,,0,0,0,,When I was in elementary schoo
 Dialogue: 0,0:14:13.76,0:14:14.46,Default,,0,0,0,,Huh?
 Dialogue: 0,0:14:15.13,0:14:16.05,Default,,0,0,0,,By accident.
 Dialogue: 0,0:14:18.35,0:14:20.21,Default,,0,0,0,,She died at that flood gate.
-Dialogue: 0,0:14:20.21,0:14:23.21,Default,,0,0,0,,{\an8}Next stop is Fujiyokidai. Fujiyokidai.
-Dialogue: 0,0:14:24.07,0:14:26.72,Default,,0,0,0,,{\an8}Use the doors on the left. Please remain—
+Dialogue: 0,0:14:20.21,0:14:23.21,Default,,0,0,0,,{\an8\i1}Next stop is Fujiyokidai. Fujiyokidai.
+Dialogue: 0,0:14:24.07,0:14:26.72,Default,,0,0,0,,{\an8\i1}Use the doors on the left. Please remain—
 Dialogue: 0,0:14:28.66,0:14:32.02,Default,,0,0,0,,We've got training today. You coming?
 Dialogue: 0,0:14:32.37,0:14:35.13,Default,,0,0,0,,I've got another shift today.
 Dialogue: 0,0:14:35.13,0:14:38.00,Default,,0,0,0,,I see. I'll let the others know.
@@ -248,7 +249,7 @@ Dialogue: 0,0:14:55.41,0:14:56.51,Default,,0,0,0,,Sure is.
 Dialogue: 0,0:14:57.96,0:15:02.22,Default,,0,0,0,,Great, you came again! What about Yomogi?
 Dialogue: 0,0:15:02.22,0:15:04.19,Default,,0,0,0,,He can't make it.
 Dialogue: 0,0:15:04.19,0:15:05.68,Default,,0,0,0,,Again?!
-Dialogue: 0,0:15:07.89,0:15:12.46,Default,,0,0,0,,Ah, there it is. Those are\Nsome crazy colors.
+Dialogue: 0,0:15:07.89,0:15:12.46,Default,,0,0,0,,Ah, there it is.\NThose are some crazy colors.
 Dialogue: 0,0:15:12.46,0:15:14.71,Default,,0,0,0,,It came surprisingly quick.
 Dialogue: 0,0:15:14.71,0:15:18.44,Default,,0,0,0,,Maybe it chained well.\NWho's gonna get this one?
 Dialogue: 0,0:15:18.72,0:15:22.40,Default,,0,0,0,,Seems like a good one for Juuga.
