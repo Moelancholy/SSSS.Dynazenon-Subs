@@ -131,7 +131,7 @@ Dialogue: 10,0:06:56.98,0:07:00.48,Default,,0,0,0,,Captain Gauma, do you have a 
 Dialogue: 10,0:07:00.48,0:07:01.36,Default,,0,0,0,,I do!
 Dialogue: 10,0:07:01.36,0:07:01.98,Default,,0,0,0,,Like?
 Dialogue: 10,0:07:02.40,0:07:03.44,Default,,0,0,0,,Like...
-Dialogue: 10,0:07:04.57,0:07:05.25,Default,,0,0,0,,Like?
+Dialogue: 10,0:07:04.57,0:07:05.24,Default,,0,0,0,,Like?
 Dialogue: 10,0:07:05.99,0:07:07.20,Default,,0,0,0,,Like this!
 Dialogue: 10,0:07:09.41,0:07:15.29,Default,,0,0,0,,But first, dinner! Eat up! You can't\Ndo squat on an empty stomach!
 Dialogue: 10,0:07:15.29,0:07:18.29,Default,,0,0,0,,{\an8}Senpai, do you have a swimsuit?
@@ -201,7 +201,7 @@ Dialogue: 10,0:10:50.09,0:10:53.26,Default,,0,0,0,,Sure are. Say, where's Gauma?
 Dialogue: 10,0:10:53.26,0:10:57.51,Default,,0,0,0,,Uh... I wonder if his strategy succeeded?
 Dialogue: 10,0:10:57.51,0:11:00.01,Default,,0,0,0,,Look at you, lounging around.
 Dialogue: 10,0:11:00.01,0:11:03.02,Default,,0,0,0,,I'm so gonna capture you!
-Dialogue: 10,0:11:03.39,0:11:05.94,Default,,0,0,0,,Just as planned, I'm gonna—
+Dialogue: 10,0:11:03.35,0:11:05.94,Default,,0,0,0,,Just as planned, I'm gonna—
 Dialogue: 10,0:11:07.27,0:11:09.15,Default,,0,0,0,,No jumping, please!
 Dialogue: 10,0:11:12.15,0:11:16.61,Default,,0,0,0,,Dammit, Sizumu! Screw you!
 Dialogue: 10,0:11:16.61,0:11:18.16,Default,,0,0,0,,You okay?
@@ -337,42 +337,42 @@ Dialogue: 10,0:22:03.93,0:22:04.93,Default,,0,0,0,,Yeah?
 Dialogue: 10,0:22:07.43,0:22:09.98,Default,,0,0,0,,It wasn't an accident, but suici—
 Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:00:00.00,0:00:00.02,Insert Song,,0,0,0,,INSERT SONG
-Comment: 10,0:10:17.81,0:10:22.10,Insert Song,,0,0,0,,Just put your trust in me \Nit's gonna work out, alright
-Comment: 10,0:10:25.60,0:10:30.23,Insert Song,,0,0,0,,I can't convince you \Neven if it's gonna take all night
-Comment: 10,0:10:32.82,0:10:37.24,Insert Song,,0,0,0,,Cause there's something in my mind \NI can't picture inside me
-Comment: 10,0:10:37.24,0:10:41.12,Insert Song,,0,0,0,,It took away my mask \Nand my heart is beating faster
-Comment: 10,0:10:41.12,0:10:45.04,Insert Song,,0,0,0,,It's chemistry at work \Nwhenever we're together
-Comment: 10,0:10:45.04,0:10:47.00,Insert Song,,0,0,0,,The sign
-Comment: 10,0:10:47.00,0:10:50.84,Insert Song,,0,0,0,,Something tells me that you're gonna fall
-Comment: 10,0:10:50.84,0:10:53.26,Insert Song,,0,0,0,,for my charms and my affection
-Comment: 10,0:10:53.26,0:10:55.26,Insert Song,,0,0,0,,move in my direction
-Comment: 10,0:10:55.26,0:10:56.76,Insert Song,,0,0,0,,let me show
-Comment: 10,0:10:56.76,0:10:58.80,Insert Song,,0,0,0,,I'm never wrong
-Comment: 10,0:10:58.80,0:11:01.06,Insert Song,,0,0,0,,I can tell the situation
-Comment: 10,0:11:01.06,0:11:03.35,Insert Song,,0,0,0,,the one that bringing(??) mayhem
-Comment: 10,0:11:03.35,0:11:05.94,Insert Song,,0,0,0,,all this time, I know
+Dialogue: 10,0:10:17.81,0:10:22.10,Insert Song,,0,0,0,,Just put your trust in me it's gonna work out, alright
+Dialogue: 10,0:10:25.60,0:10:30.23,Insert Song,,0,0,0,,I can convince you even if it's gonna take all night
+Dialogue: 10,0:10:32.82,0:10:37.24,Insert Song,,0,0,0,,Cos there's something in my mind I can picture inside me
+Dialogue: 10,0:10:37.24,0:10:41.12,Insert Song,,0,0,0,,It took away my breath and my heart is beating faster
+Dialogue: 10,0:10:41.12,0:10:45.04,Insert Song,,0,0,0,,Its chemistry at work whenever we're together
+Dialogue: 10,0:10:45.04,0:10:47.00,Insert Song,,0,0,0,,The sign
+Dialogue: 10,0:10:47.00,0:10:50.84,Insert Song,,0,0,0,,Something tells me that you're gonna fall
+Dialogue: 10,0:10:50.84,0:10:53.26,Insert Song,,0,0,0,,For my charms and my affection
+Dialogue: 10,0:10:53.26,0:10:55.26,Insert Song,,0,0,0,,Move in my direction
+Dialogue: 10,0:10:55.26,0:10:56.76,Insert Song,,0,0,0,,Let me show
+Dialogue: 10,0:10:56.76,0:10:58.80,Insert Song,,0,0,0,,I'm never wrong
+Dialogue: 10,0:10:58.80,0:11:01.06,Insert Song,,0,0,0,,I can tell the situation's
+Dialogue: 10,0:11:01.06,0:11:03.35,Insert Song,,0,0,0,,The one that we've been waiting
+Dialogue: 10,0:11:03.35,0:11:05.94,Insert Song,,0,0,0,,All this time, I know
 Comment: 0,0:22:04.93,0:22:05.97,Default,,0,0,0,,OPENING
-Dialogue: 2,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
-Dialogue: 1,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
-Dialogue: 0,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
-Dialogue: 2,0:00:02.16,0:00:06.72,OP,,0,0,0,,{\fad(100,200)}We're fighting to secure our futures
-Dialogue: 1,0:00:02.16,0:00:06.72,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We're fighting to secure our futures
-Dialogue: 0,0:00:02.16,0:00:06.72,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We're fighting to secure our futures
-Dialogue: 2,0:00:12.56,0:00:15.25,OP,,0,0,0,,{\fad(100,200)}If you look at the azure sky
-Dialogue: 1,0:00:12.56,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you look at the azure sky
-Dialogue: 0,0:00:12.56,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you look at the azure sky
+Dialogue: 2,0:00:00.48,0:00:02.15,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
+Dialogue: 1,0:00:00.48,0:00:02.15,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
+Dialogue: 0,0:00:00.48,0:00:02.15,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
+Dialogue: 2,0:00:02.15,0:00:06.74,OP,,0,0,0,,{\fad(100,200)}We're fighting to secure our futures
+Dialogue: 1,0:00:02.15,0:00:06.74,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We're fighting to secure our futures
+Dialogue: 0,0:00:02.15,0:00:06.74,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We're fighting to secure our futures
+Dialogue: 2,0:00:12.58,0:00:15.25,OP,,0,0,0,,{\fad(100,200)}If you look at the azure sky
+Dialogue: 1,0:00:12.58,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you look at the azure sky
+Dialogue: 0,0:00:12.58,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you look at the azure sky
 Dialogue: 2,0:00:15.25,0:00:19.79,OP,,0,0,0,,{\fad(100,200)}You may find your heart torn
 Dialogue: 1,0:00:15.25,0:00:19.79,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You may find your heart torn
 Dialogue: 0,0:00:15.25,0:00:19.79,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You may find your heart torn
 Dialogue: 2,0:00:19.79,0:00:23.29,OP,,0,0,0,,{\fad(100,200)}As you realize your own insignificance
 Dialogue: 1,0:00:19.79,0:00:23.29,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}As you realize your own insignificance
 Dialogue: 0,0:00:19.79,0:00:23.29,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}As you realize your own insignificance
-Dialogue: 2,0:00:23.67,0:00:26.43,OP,,0,0,0,,{\fad(100,200)}The emotions dispersed throughout the city
-Dialogue: 1,0:00:23.67,0:00:26.43,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}The emotions dispersed throughout the city
-Dialogue: 0,0:00:23.67,0:00:26.43,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}The emotions dispersed throughout the city
-Dialogue: 2,0:00:26.43,0:00:30.80,OP,,0,0,0,,{\fad(100,200)}Incommodius and unstable as they are
-Dialogue: 1,0:00:26.43,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Incommodius and unstable as they are
-Dialogue: 0,0:00:26.43,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Incommodius and unstable as they are
+Dialogue: 2,0:00:23.67,0:00:26.42,OP,,0,0,0,,{\fad(100,200)}The emotions dispersed throughout the city
+Dialogue: 1,0:00:23.67,0:00:26.42,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}The emotions dispersed throughout the city
+Dialogue: 0,0:00:23.67,0:00:26.42,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}The emotions dispersed throughout the city
+Dialogue: 2,0:00:26.42,0:00:30.80,OP,,0,0,0,,{\fad(100,200)}Incommodius and unstable as they are
+Dialogue: 1,0:00:26.42,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Incommodius and unstable as they are
+Dialogue: 0,0:00:26.42,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Incommodius and unstable as they are
 Dialogue: 2,0:00:30.80,0:00:34.47,OP,,0,0,0,,{\fad(100,200)}Are almost like an impuissant SOS
 Dialogue: 1,0:00:30.80,0:00:34.47,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Are almost like an impuissant SOS
 Dialogue: 0,0:00:30.80,0:00:34.47,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Are almost like an impuissant SOS
@@ -385,24 +385,24 @@ Dialogue: 0,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Y
 Dialogue: 2,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)}When I met you, you were all alone
 Dialogue: 1,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}When I met you, you were all alone
 Dialogue: 0,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}When I met you, you were all alone
-Dialogue: 2,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
-Dialogue: 1,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
-Dialogue: 0,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
-Dialogue: 2,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
-Dialogue: 1,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
-Dialogue: 0,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
-Dialogue: 2,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
-Dialogue: 1,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
-Dialogue: 0,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
+Dialogue: 2,0:00:43.69,0:00:49.49,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
+Dialogue: 1,0:00:43.69,0:00:49.49,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
+Dialogue: 0,0:00:43.69,0:00:49.49,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
+Dialogue: 2,0:00:50.20,0:00:51.49,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
+Dialogue: 1,0:00:50.20,0:00:51.49,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
+Dialogue: 0,0:00:50.20,0:00:51.49,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
+Dialogue: 2,0:00:51.49,0:00:54.24,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
+Dialogue: 1,0:00:51.49,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
+Dialogue: 0,0:00:51.49,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
 Dialogue: 2,0:00:54.24,0:01:01.12,OP,,0,0,0,,{\fad(100,200)}We can nullify the melancholy of this world!
 Dialogue: 1,0:00:54.24,0:01:01.12,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We can nullify the melancholy of this world!
 Dialogue: 0,0:00:54.24,0:01:01.12,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We can nullify the melancholy of this world!
-Dialogue: 2,0:01:01.12,0:01:05.33,OP,,0,0,0,,{\fad(100,200)}I want to take on all your overflowing sadness
-Dialogue: 1,0:01:01.12,0:01:05.33,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to take on all your overflowing sadness
-Dialogue: 0,0:01:01.12,0:01:05.33,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to take on all your overflowing sadness
-Dialogue: 2,0:01:05.33,0:01:08.13,OP,,0,0,0,,{\fad(100,200)}And all your weakness
-Dialogue: 1,0:01:05.33,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And all your weakness
-Dialogue: 0,0:01:05.33,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And all your weakness
+Dialogue: 2,0:01:01.12,0:01:05.34,OP,,0,0,0,,{\fad(100,200)}I want to take on all your overflowing sadness
+Dialogue: 1,0:01:01.12,0:01:05.34,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to take on all your overflowing sadness
+Dialogue: 0,0:01:01.12,0:01:05.34,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to take on all your overflowing sadness
+Dialogue: 2,0:01:05.34,0:01:08.13,OP,,0,0,0,,{\fad(100,200)}And all your weakness
+Dialogue: 1,0:01:05.34,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And all your weakness
+Dialogue: 0,0:01:05.34,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And all your weakness
 Dialogue: 2,0:01:08.13,0:01:12.09,OP,,0,0,0,,{\fad(100,200)}I'll take it hand in hand
 Dialogue: 1,0:01:08.13,0:01:12.09,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I'll take it hand in hand
 Dialogue: 0,0:01:08.13,0:01:12.09,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I'll take it hand in hand
@@ -419,193 +419,193 @@ Dialogue: 2,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)}You're needed right 
 Dialogue: 1,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You're needed right now!
 Dialogue: 0,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You're needed right now!
 Comment: 0,0:22:05.97,0:22:07.97,Default,,0,0,0,,ENDING
-Dialogue: 0,0:22:10.35,0:22:16.64,ED,,0,0,0,,You were looking a little downcast and I wanted to have a chat
-Dialogue: 0,0:22:17.14,0:22:22.15,ED,,0,0,0,,So I tried walking a whole step closer alongside you
-Dialogue: 0,0:22:28.99,0:22:35.20,ED,,0,0,0,,The shadows were growing like a sundial's needle at sunset
-Dialogue: 0,0:22:35.66,0:22:42.84,ED,,0,0,0,,You were striding so fast I thought the season'd change
-Dialogue: 0,0:22:42.84,0:22:49.34,ED,,0,0,0,,I'd never put into words the real important stuff like love
-Dialogue: 0,0:22:49.34,0:22:55.43,ED,,0,0,0,,Blink and you'll miss it, but that's what I put my faith in
-Dialogue: 0,0:22:55.43,0:23:02.86,ED,,0,0,0,,Words of promise, my favourite flower, the treasure in my pocket
+Dialogue: 0,0:22:10.35,0:22:16.65,ED,,0,0,0,,You were looking a little downcast and I wanted to have a chat
+Dialogue: 0,0:22:17.15,0:22:22.15,ED,,0,0,0,,So I tried walking a whole step closer alongside you
+Dialogue: 0,0:22:28.99,0:22:35.21,ED,,0,0,0,,The shadows were growing like a sundial's needle at sunset
+Dialogue: 0,0:22:35.67,0:22:42.84,ED,,0,0,0,,You were striding so fast I thought the season'd change
+Dialogue: 0,0:22:42.84,0:22:49.35,ED,,0,0,0,,I'd never put into words the real important stuff like love
+Dialogue: 0,0:22:49.35,0:22:55.44,ED,,0,0,0,,Blink and you'll miss it, but that's what I put my faith in
+Dialogue: 0,0:22:55.44,0:23:02.86,ED,,0,0,0,,Words of promise, my favourite flower, the treasure in my pocket
 Dialogue: 0,0:23:02.86,0:23:09.03,ED,,0,0,0,,It seemed like you'd be torn away along with all those wonderful things
 Dialogue: 0,0:23:09.03,0:23:15.54,ED,,0,0,0,,So I started running, not knowing if I'd make it, your hand in mine
-Dialogue: 0,0:23:15.54,0:23:19.87,ED,,0,0,0,,This world probably isn't that vast
-Dialogue: 0,0:23:19.87,0:23:24.92,ED,,0,0,0,,So I took another step forward today
-Dialogue: 0,0:23:24.92,0:23:28.30,ED,,0,0,0,,It was ever so radiant
+Dialogue: 0,0:23:15.54,0:23:19.88,ED,,0,0,0,,This world probably isn't that vast
+Dialogue: 0,0:23:19.88,0:23:24.93,ED,,0,0,0,,So I took another step forward today
+Dialogue: 0,0:23:24.93,0:23:28.30,ED,,0,0,0,,It was ever so radiant
 Dialogue: 0,0:23:28.30,0:23:33.22,ED,,0,0,0,,Just like your smiling face
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,TS BELOW HERE
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,TS BELOW HERE
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
 Dialogue: 0,0:03:26.89,0:03:30.90,Title,,0,0,0,,{\an7\pos(960,840)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m -631 -538 l 723 -538 723 -327 -631 -327
 Dialogue: 1,0:03:26.89,0:03:30.90,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\blur1.1\b0}What's Lover-Like Mean?
 Dialogue: 0,0:03:26.89,0:03:30.90,Title,,0,0,0,,{\an7\pos(960,840)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m -350 -209 l 346 -209 346 -50 -350 -50
 Dialogue: 1,0:03:26.89,0:03:30.90,Title,,0,0,0,,{\pos(960,715)\fsp6\fs90\fnRoboto\bord0\blur1.1}— Episode 5 —
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
-Dialogue: 0,0:03:35.42,0:03:37.92,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HDCDCDB&}m 637 793 l 620 756 990 693 988 735 809 761
-Dialogue: 1,0:03:35.42,0:03:37.92,Sign,,0,0,0,,{\org(32.1,1709.1)\fry0.60\frx2\fs50\1c&H8E8D8F&\b1\be3\frz13.73\pos(1137.467,831.133)}[Vlog #27] Sopranos
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
-Dialogue: 0,0:05:09.76,0:05:11.52,Sign,,0,0,0,,{\org(-134.2,-25.0)\fry7.10\frx-2.76\fax-0.01\1c&HA69583&\pos(1226,1010)\fs200\frz19.89\b1\blur1.6\fnNancy}Cho Jin
-Dialogue: 0,0:05:09.76,0:05:11.52,Sign,,0,0,0,,{\org(-134.2,-25.0)\fry7.10\frx-2.76\fax-0.01\1c&HBFB8B0&\fs200\frz19.89\b1\blur1.7\fnNancy\pos(1970,2390)}Public\NIzakaya
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
-Dialogue: 0,0:05:30.76,0:05:37.40,Sign,,0,0,0,,{\fnRoboto\blur1.6\c&HDDD7CD&\frz-17.5\fs45\pos(1691.13,86.15)}Congratulations!
-Dialogue: 0,0:05:30.76,0:05:37.40,Sign,,0,0,0,,{\fs30\fnArial Rounded MT Bold\blur1.6\c&HF4E777&\frz-17.5\b0\pos(1755.86,284.3)}Tokyo Beach Land \N Free Entry
-Dialogue: 0,0:05:30.76,0:05:37.40,Sign,,0,0,0,,{\bord5\fsp1\bord4\blur1\fs120\yshad10\4c&H000000&\4a&HEB&\3c&H83EDF1&\c&H83EDF1&\fnCarter One\pos(1696,908.58)\frz341.3}Winner!
-Dialogue: 1,0:05:30.76,0:05:37.40,Sign,,0,0,0,,{\fsp1\bord0\blur1\fs120\yshad10\c&H1BCAF0&\4c&H000000&\4a&HEB&\fnCarter One\pos(1696,908.58)\frz341.3\4a&HFF&}Winner!
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
-Dialogue: 0,0:06:11.68,0:06:11.72,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:11.72,0:06:11.76,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-0.4)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:11.76,0:06:11.80,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(5.56,-107.94)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:11.80,0:06:11.85,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(5.17,-107.54)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:11.85,0:06:12.01,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-149.61)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:12.01,0:06:12.05,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-146.62)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:12.05,0:06:12.10,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-146.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
+Dialogue: 0,0:03:35.40,0:03:37.91,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HDCDCDB&}m 637 793 l 620 756 990 693 988 735 809 761
+Dialogue: 1,0:03:35.40,0:03:37.91,Sign,,0,0,0,,{\org(32.1,1709.1)\fry0.60\frx2\fs50\1c&H8E8D8F&\b1\be3\frz13.73\pos(1137.467,831.133)}[Vlog #27] Sopranos
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
+Dialogue: 0,0:05:09.75,0:05:11.50,Sign,,0,0,0,,{\org(-134.2,-25.0)\fry7.10\frx-2.76\fax-0.01\1c&HA69583&\pos(1226,1010)\fs200\frz19.89\b1\blur1.6\fnNancy}Cho Jin
+Dialogue: 0,0:05:09.75,0:05:11.50,Sign,,0,0,0,,{\org(-134.2,-25.0)\fry7.10\frx-2.76\fax-0.01\1c&HBFB8B0&\fs200\frz19.89\b1\blur1.7\fnNancy\pos(1970,2390)}Public\NIzakaya
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
+Dialogue: 0,0:05:30.77,0:05:37.40,Sign,,0,0,0,,{\fnRoboto\blur1.6\c&HDDD7CD&\frz-17.5\fs45\pos(1691.13,86.15)}Congratulations!
+Dialogue: 0,0:05:30.77,0:05:37.40,Sign,,0,0,0,,{\fs30\fnArial Rounded MT Bold\blur1.6\c&HF4E777&\frz-17.5\b0\pos(1755.86,284.3)}Tokyo Beach Land \N Free Entry
+Dialogue: 0,0:05:30.77,0:05:37.40,Sign,,0,0,0,,{\bord5\fsp1\bord4\blur1\fs120\yshad10\4c&H000000&\4a&HEB&\3c&H83EDF1&\c&H83EDF1&\fnCarter One\pos(1696,908.58)\frz341.3}Winner!
+Dialogue: 1,0:05:30.77,0:05:37.40,Sign,,0,0,0,,{\fsp1\bord0\blur1\fs120\yshad10\c&H1BCAF0&\4c&H000000&\4a&HEB&\fnCarter One\pos(1696,908.58)\frz341.3\4a&HFF&}Winner!
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
+Dialogue: 0,0:06:11.68,0:06:11.73,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:11.73,0:06:11.77,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-0.4)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:11.77,0:06:11.81,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(5.56,-107.94)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:11.81,0:06:11.85,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(5.17,-107.54)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:11.85,0:06:12.02,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-149.61)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:12.02,0:06:12.06,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-146.62)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:12.06,0:06:12.10,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-146.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
 Dialogue: 0,0:06:12.10,0:06:12.14,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-139.18)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
 Dialogue: 0,0:06:12.14,0:06:12.18,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.32,-139.26)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:12.18,0:06:12.26,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-129.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:12.26,0:06:12.35,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-119.99)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:12.35,0:06:12.43,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.38,-112.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:12.43,0:06:13.39,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.64)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:13.39,0:06:13.43,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.62)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:13.43,0:06:13.47,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:13.47,0:06:13.51,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.62)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:13.51,0:06:17.85,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.64)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:17.85,0:06:18.44,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-109.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
-Dialogue: 0,0:06:11.68,0:06:11.72,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2211.2,1731.8)\fry-0.14\frx1.36\frz-14.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(394.29,1237.14)}Chise
-Dialogue: 0,0:06:11.72,0:06:11.76,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2211.2,1731.4)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(394.29,1236.74)}Chise
-Dialogue: 0,0:06:11.76,0:06:11.80,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2216.76,1623.86)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(399.85,1129.2)}Chise
-Dialogue: 0,0:06:11.80,0:06:11.85,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2216.34,1624.24)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(399.45,1129.58)}Chise
+Dialogue: 0,0:06:12.18,0:06:12.27,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-129.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:12.27,0:06:12.35,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-119.99)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:12.35,0:06:12.44,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.38,-112.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:12.44,0:06:13.39,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.64)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:13.39,0:06:13.44,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.62)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:13.44,0:06:13.48,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:13.48,0:06:13.52,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.62)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:13.52,0:06:17.86,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.37,-109.64)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:17.86,0:06:18.44,Sign,,0,0,0,,{=5}{\frz-360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(6.36,-109.63)\p1\c&H9E775A&}m 687 873 l 709 862 748 881 732 906 684 897
+Dialogue: 0,0:06:11.68,0:06:11.73,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2211.2,1731.8)\fry-0.14\frx1.36\frz-14.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(394.29,1237.14)}Chise
+Dialogue: 0,0:06:11.73,0:06:11.77,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2211.2,1731.4)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(394.29,1236.74)}Chise
+Dialogue: 0,0:06:11.77,0:06:11.81,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2216.76,1623.86)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(399.85,1129.2)}Chise
+Dialogue: 0,0:06:11.81,0:06:11.85,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2216.34,1624.24)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(399.45,1129.58)}Chise
 Dialogue: 0,0:06:11.85,0:06:11.89,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.53,1582.17)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1087.52)}Chise
-Dialogue: 0,0:06:11.89,0:06:12.01,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1582.17)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1087.52)}Chise
-Dialogue: 0,0:06:12.01,0:06:12.05,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1585.17)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1090.51)}Chise
-Dialogue: 0,0:06:12.05,0:06:12.10,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1585.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1090.5)}Chise
+Dialogue: 0,0:06:11.89,0:06:12.02,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1582.17)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1087.52)}Chise
+Dialogue: 0,0:06:12.02,0:06:12.06,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1585.17)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1090.51)}Chise
+Dialogue: 0,0:06:12.06,0:06:12.10,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1585.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1090.5)}Chise
 Dialogue: 0,0:06:12.10,0:06:12.14,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.53,1592.6)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1097.95)}Chise
 Dialogue: 0,0:06:12.14,0:06:12.18,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.5,1592.52)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.61,1097.87)}Chise
-Dialogue: 0,0:06:12.18,0:06:12.22,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1602.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1107.5)}Chise
-Dialogue: 0,0:06:12.22,0:06:12.26,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1602.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1107.5)}Chise
-Dialogue: 0,0:06:12.26,0:06:12.35,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1611.79)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1117.13)}Chise
+Dialogue: 0,0:06:12.18,0:06:12.23,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1602.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.64,1107.5)}Chise
+Dialogue: 0,0:06:12.23,0:06:12.27,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1602.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1107.5)}Chise
+Dialogue: 0,0:06:12.27,0:06:12.35,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1611.79)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1117.13)}Chise
 Dialogue: 0,0:06:12.35,0:06:12.39,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.56,1619.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.67,1124.5)}Chise
-Dialogue: 0,0:06:12.39,0:06:12.43,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.56,1619.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.67,1124.5)}Chise
-Dialogue: 0,0:06:12.43,0:06:12.60,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.14)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.49)}Chise
+Dialogue: 0,0:06:12.39,0:06:12.44,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.56,1619.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.67,1124.5)}Chise
+Dialogue: 0,0:06:12.44,0:06:12.60,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.14)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.49)}Chise
 Dialogue: 0,0:06:12.60,0:06:13.39,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.14)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.48)}Chise
-Dialogue: 0,0:06:13.39,0:06:13.43,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.5)}Chise
-Dialogue: 0,0:06:13.43,0:06:13.47,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.5)}Chise
-Dialogue: 0,0:06:13.47,0:06:13.51,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.51)}Chise
-Dialogue: 0,0:06:13.51,0:06:13.68,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.49)}Chise
-Dialogue: 0,0:06:13.68,0:06:13.72,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.49)}Chise
-Dialogue: 0,0:06:13.72,0:06:13.85,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.49)}Chise
-Dialogue: 0,0:06:13.85,0:06:17.85,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.49)}Chise
-Dialogue: 0,0:06:17.85,0:06:18.44,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1622.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.5)}Chise
-Dialogue: 0,0:06:11.68,0:06:11.72,Sign,,0,0,0,,{=5}{\frz360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-6.36,109.63)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:11.72,0:06:11.76,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-6.36,109.23)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:11.76,0:06:11.80,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.81,1.68)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:11.80,0:06:11.85,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-1.2,2.08)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:11.85,0:06:12.01,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.01,-39.99)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:12.01,0:06:12.05,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-36.99)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:12.05,0:06:12.10,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.01,-37)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:13.39,0:06:13.44,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.5)}Chise
+Dialogue: 0,0:06:13.44,0:06:13.48,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.5)}Chise
+Dialogue: 0,0:06:13.48,0:06:13.52,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.51)}Chise
+Dialogue: 0,0:06:13.52,0:06:13.69,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.66,1127.49)}Chise
+Dialogue: 0,0:06:13.69,0:06:13.73,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.49)}Chise
+Dialogue: 0,0:06:13.73,0:06:13.85,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.49)}Chise
+Dialogue: 0,0:06:13.85,0:06:17.86,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.55,1622.15)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.49)}Chise
+Dialogue: 0,0:06:17.86,0:06:18.44,Sign,,0,0,0,,{=5}{\fscx100\fscy100\alpha&H00&\org(2217.54,1622.16)\fry-0.14\frx1.36\frz-374.19\an4\yshad4\fsp0.8\bord\blur1.6\fs26\fnRoboto\4c&H000000&\4a&H8C&\c&HE6E6E6&\pos(400.65,1127.5)}Chise
+Dialogue: 0,0:06:11.68,0:06:11.73,Sign,,0,0,0,,{=5}{\frz360\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-6.36,109.63)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:11.73,0:06:11.77,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-6.36,109.23)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:11.77,0:06:11.81,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.81,1.68)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:11.81,0:06:11.85,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-1.2,2.08)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:11.85,0:06:12.02,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.01,-39.99)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:12.02,0:06:12.06,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-36.99)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:12.06,0:06:12.10,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.01,-37)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
 Dialogue: 0,0:06:12.10,0:06:12.14,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.01,-29.56)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
 Dialogue: 0,0:06:12.14,0:06:12.18,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.04,-29.63)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:12.18,0:06:12.22,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.01,-20)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:12.22,0:06:12.26,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-20)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:12.26,0:06:12.35,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,-10.37)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:12.35,0:06:12.43,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.02,-3)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:12.43,0:06:13.39,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,-0.02)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:13.39,0:06:13.43,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:13.43,0:06:13.51,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,0)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:13.51,0:06:13.68,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,-0.01)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:13.68,0:06:17.85,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-0.01)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:17.85,0:06:18.44,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
-Dialogue: 0,0:06:11.68,0:06:11.72,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(2998.27,1723.24)\fry-0.18\frx0.99\frz346.32\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(422.45,1487.97)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:11.72,0:06:11.76,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(2998.27,1722.85)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(422.45,1487.57)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:11.76,0:06:11.80,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3003.82,1615.3)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.01,1380.03)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:11.80,0:06:11.85,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3003.4,1615.68)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(427.61,1380.41)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:11.85,0:06:12.01,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.59,1573.61)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1338.34)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:12.01,0:06:12.05,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1576.61)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1341.34)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:12.05,0:06:12.10,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.59,1576.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1341.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.18,0:06:12.23,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(-0.01,-20)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:12.23,0:06:12.27,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-20)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:12.27,0:06:12.35,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,-10.37)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:12.35,0:06:12.44,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.02,-3)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:12.44,0:06:13.39,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,-0.02)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:13.39,0:06:13.44,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:13.44,0:06:13.52,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,0)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:13.52,0:06:13.69,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0.01,-0.01)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:13.69,0:06:17.86,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,-0.01)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:17.86,0:06:18.44,Sign,,0,0,0,,{=5}{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HBFBFBB&}m 717 808 l 1061 889 1023 1017 956 1021 815 1000 660 957
+Dialogue: 0,0:06:11.68,0:06:11.73,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(2998.27,1723.24)\fry-0.18\frx0.99\frz346.32\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(422.45,1487.97)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:11.73,0:06:11.77,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(2998.27,1722.85)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(422.45,1487.57)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:11.77,0:06:11.81,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3003.82,1615.3)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.01,1380.03)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:11.81,0:06:11.85,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3003.4,1615.68)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(427.61,1380.41)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:11.85,0:06:12.02,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.59,1573.61)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1338.34)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.02,0:06:12.06,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1576.61)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1341.34)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.06,0:06:12.10,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.59,1576.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1341.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
 Dialogue: 0,0:06:12.10,0:06:12.14,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.59,1584.04)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1348.77)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
 Dialogue: 0,0:06:12.14,0:06:12.18,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.56,1583.97)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.77,1348.7)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:12.18,0:06:12.22,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.59,1593.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1358.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:12.22,0:06:12.26,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1593.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1358.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:12.26,0:06:12.35,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1603.23)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1367.96)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:12.35,0:06:12.43,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.62,1610.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.83,1375.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:12.43,0:06:13.39,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.58)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.82,1378.31)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:13.39,0:06:13.43,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:13.43,0:06:13.47,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.82,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:13.47,0:06:13.51,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:13.51,0:06:13.68,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.59)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.82,1378.32)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:13.68,0:06:17.85,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1613.59)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.32)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
-Dialogue: 0,0:06:17.85,0:06:18.44,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.18,0:06:12.23,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.59,1593.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1358.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.23,0:06:12.27,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1593.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.8,1358.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.27,0:06:12.35,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1603.23)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1367.96)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.35,0:06:12.44,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.62,1610.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.83,1375.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:12.44,0:06:13.39,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.58)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.82,1378.31)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:13.39,0:06:13.44,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:13.44,0:06:13.48,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.82,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:13.48,0:06:13.52,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:13.52,0:06:13.69,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.61,1613.59)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.82,1378.32)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:13.69,0:06:17.86,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1613.59)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.32)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
+Dialogue: 0,0:06:17.86,0:06:18.44,Sign,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\org(3004.6,1613.6)\fry-0.18\frx0.99\frz-13.68\an7\c&H5C5C58&\blur1.3\fnRoboto\fs40\pos(428.81,1378.33)}I won tickets to Tokyo \NBeach Land! Let's hit the \Npool this weekend!
 Dialogue: 0,0:06:11.60,0:06:11.64,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz346\3c&H5FBA8D&\c&H5FBA8D&\pos(1130.29,875.44)}Winner!
 Dialogue: 0,0:06:11.64,0:06:11.68,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1129.89,875.44)}Winner!
-Dialogue: 0,0:06:11.68,0:06:11.72,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1144.41,638.61)}Winner!
-Dialogue: 0,0:06:11.72,0:06:11.76,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1144.19,638.53)}Winner!
-Dialogue: 0,0:06:11.76,0:06:11.80,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1148.55,532.97)}Winner!
-Dialogue: 0,0:06:11.80,0:06:11.85,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1148.56,532.9)}Winner!
-Dialogue: 0,0:06:11.85,0:06:12.01,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,489.71)}Winner!
-Dialogue: 0,0:06:12.01,0:06:12.05,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,492.7)}Winner!
-Dialogue: 0,0:06:12.05,0:06:12.10,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,492.69)}Winner!
+Dialogue: 0,0:06:11.68,0:06:11.73,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1144.41,638.61)}Winner!
+Dialogue: 0,0:06:11.73,0:06:11.77,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1144.19,638.53)}Winner!
+Dialogue: 0,0:06:11.77,0:06:11.81,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1148.55,532.97)}Winner!
+Dialogue: 0,0:06:11.81,0:06:11.85,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1148.56,532.9)}Winner!
+Dialogue: 0,0:06:11.85,0:06:12.02,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,489.71)}Winner!
+Dialogue: 0,0:06:12.02,0:06:12.06,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,492.7)}Winner!
+Dialogue: 0,0:06:12.06,0:06:12.10,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,492.69)}Winner!
 Dialogue: 0,0:06:12.10,0:06:12.14,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,500.14)}Winner!
 Dialogue: 0,0:06:12.14,0:06:12.18,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.89,500.07)}Winner!
-Dialogue: 0,0:06:12.18,0:06:12.22,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,509.69)}Winner!
-Dialogue: 0,0:06:12.22,0:06:12.26,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,509.69)}Winner!
-Dialogue: 0,0:06:12.26,0:06:12.35,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,519.33)}Winner!
-Dialogue: 0,0:06:12.35,0:06:12.43,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.95,526.71)}Winner!
-Dialogue: 0,0:06:12.43,0:06:12.51,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.68)}Winner!
-Dialogue: 0,0:06:12.51,0:06:12.56,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
+Dialogue: 0,0:06:12.18,0:06:12.23,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,509.69)}Winner!
+Dialogue: 0,0:06:12.23,0:06:12.27,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,509.69)}Winner!
+Dialogue: 0,0:06:12.27,0:06:12.35,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,519.33)}Winner!
+Dialogue: 0,0:06:12.35,0:06:12.44,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.95,526.71)}Winner!
+Dialogue: 0,0:06:12.44,0:06:12.52,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.68)}Winner!
+Dialogue: 0,0:06:12.52,0:06:12.56,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
 Dialogue: 0,0:06:12.56,0:06:12.81,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.68)}Winner!
-Dialogue: 0,0:06:12.81,0:06:13.89,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
-Dialogue: 0,0:06:13.89,0:06:14.14,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.92,529.69)}Winner!
-Dialogue: 0,0:06:14.14,0:06:14.27,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.92,529.7)}Winner!
-Dialogue: 0,0:06:14.27,0:06:14.43,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.92,529.69)}Winner!
-Dialogue: 0,0:06:14.43,0:06:14.85,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
-Dialogue: 0,0:06:14.85,0:06:14.89,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.68)}Winner!
-Dialogue: 0,0:06:14.89,0:06:15.10,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
-Dialogue: 0,0:06:15.10,0:06:15.18,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,529.69)}Winner!
-Dialogue: 0,0:06:15.18,0:06:15.43,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.68)}Winner!
-Dialogue: 0,0:06:15.43,0:06:17.85,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
-Dialogue: 0,0:06:17.85,0:06:18.44,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.7)}Winner!
+Dialogue: 0,0:06:12.81,0:06:13.90,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
+Dialogue: 0,0:06:13.90,0:06:14.15,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.92,529.69)}Winner!
+Dialogue: 0,0:06:14.15,0:06:14.27,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.92,529.7)}Winner!
+Dialogue: 0,0:06:14.27,0:06:14.44,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.92,529.69)}Winner!
+Dialogue: 0,0:06:14.44,0:06:14.85,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
+Dialogue: 0,0:06:14.85,0:06:14.90,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.68)}Winner!
+Dialogue: 0,0:06:14.90,0:06:15.10,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
+Dialogue: 0,0:06:15.10,0:06:15.19,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.94,529.69)}Winner!
+Dialogue: 0,0:06:15.19,0:06:15.44,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.68)}Winner!
+Dialogue: 0,0:06:15.44,0:06:17.86,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.69)}Winner!
+Dialogue: 0,0:06:17.86,0:06:18.44,Sign,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fsp1\bord2\blur1.2\fs50\yshad4\4c&H000000&\4a&HE6&\fnCarter One\frz-14\3c&H5FBA8D&\c&H5FBA8D&\pos(1150.93,529.7)}Winner!
 Dialogue: 1,0:06:11.60,0:06:11.64,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz346\4a&HFF&\pos(1130.29,875.44)}Winner!
 Dialogue: 1,0:06:11.64,0:06:11.68,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1129.89,875.44)}Winner!
-Dialogue: 1,0:06:11.68,0:06:11.72,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1144.41,638.61)}Winner!
-Dialogue: 1,0:06:11.72,0:06:11.76,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1144.19,638.53)}Winner!
-Dialogue: 1,0:06:11.76,0:06:11.80,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1148.55,532.97)}Winner!
-Dialogue: 1,0:06:11.80,0:06:11.85,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1148.56,532.9)}Winner!
-Dialogue: 1,0:06:11.85,0:06:12.01,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,489.71)}Winner!
-Dialogue: 1,0:06:12.01,0:06:12.05,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,492.7)}Winner!
-Dialogue: 1,0:06:12.05,0:06:12.10,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,492.69)}Winner!
+Dialogue: 1,0:06:11.68,0:06:11.73,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1144.41,638.61)}Winner!
+Dialogue: 1,0:06:11.73,0:06:11.77,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1144.19,638.53)}Winner!
+Dialogue: 1,0:06:11.77,0:06:11.81,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1148.55,532.97)}Winner!
+Dialogue: 1,0:06:11.81,0:06:11.85,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1148.56,532.9)}Winner!
+Dialogue: 1,0:06:11.85,0:06:12.02,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,489.71)}Winner!
+Dialogue: 1,0:06:12.02,0:06:12.06,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,492.7)}Winner!
+Dialogue: 1,0:06:12.06,0:06:12.10,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,492.69)}Winner!
 Dialogue: 1,0:06:12.10,0:06:12.14,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,500.14)}Winner!
 Dialogue: 1,0:06:12.14,0:06:12.18,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.89,500.07)}Winner!
-Dialogue: 1,0:06:12.18,0:06:12.22,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,509.69)}Winner!
-Dialogue: 1,0:06:12.22,0:06:12.26,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,509.69)}Winner!
-Dialogue: 1,0:06:12.26,0:06:12.35,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,519.33)}Winner!
-Dialogue: 1,0:06:12.35,0:06:12.43,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.95,526.71)}Winner!
-Dialogue: 1,0:06:12.43,0:06:12.51,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.68)}Winner!
-Dialogue: 1,0:06:12.51,0:06:12.56,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
+Dialogue: 1,0:06:12.18,0:06:12.23,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,509.69)}Winner!
+Dialogue: 1,0:06:12.23,0:06:12.27,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,509.69)}Winner!
+Dialogue: 1,0:06:12.27,0:06:12.35,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,519.33)}Winner!
+Dialogue: 1,0:06:12.35,0:06:12.44,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.95,526.71)}Winner!
+Dialogue: 1,0:06:12.44,0:06:12.52,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.68)}Winner!
+Dialogue: 1,0:06:12.52,0:06:12.56,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
 Dialogue: 1,0:06:12.56,0:06:12.81,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.68)}Winner!
-Dialogue: 1,0:06:12.81,0:06:13.89,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
-Dialogue: 1,0:06:13.89,0:06:14.14,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.92,529.69)}Winner!
-Dialogue: 1,0:06:14.14,0:06:14.27,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.92,529.7)}Winner!
-Dialogue: 1,0:06:14.27,0:06:14.43,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.92,529.69)}Winner!
-Dialogue: 1,0:06:14.43,0:06:14.85,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
-Dialogue: 1,0:06:14.85,0:06:14.89,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.68)}Winner!
-Dialogue: 1,0:06:14.89,0:06:15.10,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
-Dialogue: 1,0:06:15.10,0:06:15.18,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,529.69)}Winner!
-Dialogue: 1,0:06:15.18,0:06:15.43,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.68)}Winner!
-Dialogue: 1,0:06:15.43,0:06:17.85,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
-Dialogue: 1,0:06:17.85,0:06:18.44,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.7)}Winner!
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
+Dialogue: 1,0:06:12.81,0:06:13.90,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
+Dialogue: 1,0:06:13.90,0:06:14.15,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.92,529.69)}Winner!
+Dialogue: 1,0:06:14.15,0:06:14.27,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.92,529.7)}Winner!
+Dialogue: 1,0:06:14.27,0:06:14.44,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.92,529.69)}Winner!
+Dialogue: 1,0:06:14.44,0:06:14.85,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
+Dialogue: 1,0:06:14.85,0:06:14.90,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.68)}Winner!
+Dialogue: 1,0:06:14.90,0:06:15.10,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
+Dialogue: 1,0:06:15.10,0:06:15.19,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.94,529.69)}Winner!
+Dialogue: 1,0:06:15.19,0:06:15.44,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.68)}Winner!
+Dialogue: 1,0:06:15.44,0:06:17.86,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.69)}Winner!
+Dialogue: 1,0:06:17.86,0:06:18.44,Sign,,0,0,0,,{=2}{\fscx100\fscy100\alpha&H00&\fsp1\bord0\blur1.2\fs50\yshad4\c&H1B98B6&\4c&H000000&\fnCarter One\frz-14\4a&HFF&\pos(1150.93,529.7)}Winner!
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
 Dialogue: 0,0:07:27.55,0:07:29.80,Sign,,0,0,0,,{\fsp1.2\blur1\an4\fs42\b1\pos(1367.35,441)\1a&H00&\3c&H9D6C4D&\c&H9D6C4D&\fnArial}TOKYO {\3c&H8766E3&\c&H8766E3&\fnArial Rounded MT Bold\i1}BEACH LAND
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
-Dialogue: 0,0:21:15.48,0:21:18.48,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur6\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H97694C&}m 1048 352 l 952 321 900 316 883 363 932 393 1040 406
-Dialogue: 1,0:21:15.48,0:21:18.48,Sign,,0,0,0,,{\an7\org(3127,5038)\fry-0.49\frx0.76\1c&HFFFFFF&\blur1.8\fs90\pos(-2136,333)\shad3\4c&H9D8D83&\frz337}Today
-Dialogue: 0,0:21:15.48,0:21:18.48,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HDCA880&}m 500 378 l 422 352 376 404 494 438
-Dialogue: 1,0:21:15.48,0:21:18.48,Sign,,0,0,0,,{\an7\org(2127.1,4638.7)\fry-0.49\frx0.76\1c&HFFFFFF&\blur1.6\fs90\pos(-2080,392)\shad3\4c&H9D8D83&\frz337}Urita
-Dialogue: 0,0:21:15.48,0:21:18.48,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&}m 410 468 l 1280 692 1134 988 248 752
-Dialogue: 1,0:21:15.48,0:21:18.48,Sign,,0,0,0,,{\an7\org(2127.1,4638.7)\fry-0.49\frx0.76\1c&H646363&\blur1.7\fs112\pos(-2050,638)\frz336.6}I got a hold of Fuuma, the club\Nvice-president. Want me to put\Nyou in touch?
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
+Dialogue: 0,0:21:15.46,0:21:18.47,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur6\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H97694C&}m 1048 352 l 952 321 900 316 883 363 932 393 1040 406
+Dialogue: 1,0:21:15.46,0:21:18.47,Sign,,0,0,0,,{\an7\org(3127,5038)\fry-0.49\frx0.76\1c&HFFFFFF&\blur1.8\fs90\pos(-2136,333)\shad3\4c&H9D8D83&\frz337}Today
+Dialogue: 0,0:21:15.46,0:21:18.47,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HDCA880&}m 500 378 l 422 352 376 404 494 438
+Dialogue: 1,0:21:15.46,0:21:18.47,Sign,,0,0,0,,{\an7\org(2127.1,4638.7)\fry-0.49\frx0.76\1c&HFFFFFF&\blur1.6\fs90\pos(-2080,392)\shad3\4c&H9D8D83&\frz337}Urita
+Dialogue: 0,0:21:15.46,0:21:18.47,Sign,,0,0,0,,{\frz0\alpha&H00&\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&}m 410 468 l 1280 692 1134 988 248 752
+Dialogue: 1,0:21:15.46,0:21:18.47,Sign,,0,0,0,,{\an7\org(2127.1,4638.7)\fry-0.49\frx0.76\1c&H646363&\blur1.7\fs112\pos(-2050,638)\frz336.6}I got a hold of Fuuma, the club\Nvice-president. Want me to put\Nyou in touch?
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
 Dialogue: 0,0:21:18.47,0:21:20.47,Sign,,0,0,0,,{\fsp1.2\blur1\an4\fs42\b1\pos(1367.35,441)\1a&H00&\3c&HA79593&\c&HA79593&\fnArial}TOKYO {\3c&H8F83F1&\c&H8F83F1&\fnArial Rounded MT Bold\i1}BEACH LAND
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
 Dialogue: 0,0:05:37.40,0:05:39.40,Sign,,0,0,0,,{\an7\bord0\c&H584E56&\blur1\p1\pos(3.21,4.18)}m 1576 667 l 1575 722 1849 732 1849 676
 Dialogue: 0,0:05:37.40,0:05:39.40,Sign,,0,0,0,,{\an5\fsp0\b0\bord0\frz-2\fry-5\fs28\bord2\shad2\c&H554F56&\3c&H554F56&\4c&H483F46&\blur0.6\4a&H96&\pos(1710.21,702.18)}Fujiyokidai High School
 Dialogue: 1,0:05:37.40,0:05:39.40,Sign,,0,0,0,,{\an5\fsp0\b0\bord0\frz-2\fry-5\fs28\shad2\c&H8DE1EA&\4c&H483F46&\4a&HFF&\blur0.6\pos(1710.21,702.18)}Fujiyokidai High School
-Comment: 0,0:22:09.97,0:22:12.97,Default,,0,0,0,,
+Comment: 0,0:22:09.98,0:22:12.98,Default,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 2,a-mo,e{"uuid"#3A"2f5a4448-ae36-47e2-8281-0139612174e5"#2C"originalText"#3A"{\\fsp1\\bord0\\blur1.2\\fs50\\yshad4\\c&H1B98B6&\\4c&H000000&\\4a&HE6&\\fnCarter One\\frz346\\4a&HFF&\\pos(1130.29#2C875.44)}Winner!"}
