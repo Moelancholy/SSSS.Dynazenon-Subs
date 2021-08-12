@@ -102,7 +102,7 @@ Dialogue: 0,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Y
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 20,0:01:30.78,0:01:31.82,Default,,0,0,0,,Gimme a sec.
 Dialogue: 20,0:01:31.82,0:01:32.86,Default,,0,0,0,,Come on, do it!
-Dialogue: 20,0:01:32.45,0:01:33.49,Default,,0,0,0,,{\an8}Hurry up!
+Dialogue: 20,0:01:32.45,0:01:33.49,Alt,,0,0,0,,Hurry up!
 Dialogue: 20,0:01:33.49,0:01:35.37,Default,,0,0,0,,I can't do it!
 Dialogue: 20,0:01:35.37,0:01:37.54,Default,,0,0,0,,Ugh, it's creepy.
 Dialogue: 20,0:01:38.33,0:01:39.50,Default,,0,0,0,,Let's see.
@@ -155,7 +155,7 @@ Dialogue: 20,0:05:07.16,0:05:12.83,Default,,0,0,0,,Is Gauma seriously saying the
 Dialogue: 20,0:05:13.58,0:05:14.34,Default,,0,0,0,,There's one.
 Dialogue: 20,0:05:14.34,0:05:15.00,Default,,0,0,0,,Huh?
 Dialogue: 20,0:05:16.84,0:05:18.46,Default,,0,0,0,,There {\i1}is {\i0}one!
-Dialogue: 20,0:05:18.46,0:05:19.63,Default,,0,0,0,,It's really small.
+Dialogue: 20,0:05:18.46,0:05:20.24,Default,,0,0,0,,It's really small.
 Dialogue: 20,0:05:21.51,0:05:22.64,Default,,0,0,0,,It's running!
 Dialogue: 20,0:05:22.64,0:05:25.22,Default,,0,0,0,,Tell Gauma! I'll catch it!
 Dialogue: 20,0:05:25.22,0:05:25.81,Default,,0,0,0,,Right!
@@ -228,8 +228,8 @@ Dialogue: 20,0:09:04.82,0:09:09.07,Default,,0,0,0,,Hey, hey, hey, hey! This look
 Dialogue: 20,0:09:10.36,0:09:15.12,Default,,0,0,0,,Worried about kaiju being born\Nwhile we're in there?
 Dialogue: 20,0:09:15.12,0:09:16.83,Default,,0,0,0,,Learn to loosen up!
 Dialogue: 20,0:09:17.75,0:09:20.08,Default,,0,0,0,,Did you two always get along?
-Dialogue: 20,0:09:20.08,0:09:21.71,Default,,0,0,0,,{\pos(650,999)}No way.
-Dialogue: 20,0:09:20.08,0:09:21.71,Default,,0,0,0,,{\pos(1320,999)}No way.
+Dialogue: 20,0:09:20.08,0:09:21.71,Default,,-288,332,81,,No way.
+Dialogue: 20,0:09:20.08,0:09:21.71,Default,,382,-338,81,,No way.
 Dialogue: 20,0:09:23.79,0:09:27.05,Default,,0,0,0,,It's believed that kaiju have a source.
 Dialogue: 20,0:09:27.05,0:09:28.76,Default,,0,0,0,,A source?
 Dialogue: 20,0:09:28.76,0:09:33.22,Default,,0,0,0,,However, for kaiju to\Nappear this frequently,
@@ -283,9 +283,9 @@ Dialogue: 20,0:12:37.95,0:12:38.74,Default,,0,0,0,,Which movie?
 Dialogue: 20,0:12:38.74,0:12:40.24,Default,,0,0,0,,You're going?!
 Dialogue: 20,0:12:53.38,0:12:55.00,Default,,0,0,0,,Where is it?
 Dialogue: 20,0:12:55.50,0:12:58.51,Default,,0,0,0,,Whoa, whoa, whoa. You serious?
-Dialogue: 20,0:12:58.80,0:13:00.76,Default,,0,0,0,,{\pos(1200,999)}That sounds\Nawesome.
-Dialogue: 20,0:12:58.80,0:13:00.76,Default,,0,0,0,,{\pos(1700,999)}That sounds\Nawesome.
-Dialogue: 20,0:13:00.76,0:13:01.51,Default,,0,0,0,,Huh?
+Dialogue: 20,0:12:58.80,0:13:00.76,Default,,262,-218,81,,That sounds\Nawesome.
+Dialogue: 20,0:12:58.80,0:13:00.76,Default,,762,-718,81,,That sounds\Nawesome.
+Dialogue: 20,0:13:00.76,0:13:01.51,Default,,-288,332,81,,Huh?
 Dialogue: 20,0:13:06.60,0:13:08.02,Default,,0,0,0,,What are you doing?
 Dialogue: 20,0:13:08.77,0:13:10.31,Default,,0,0,0,,Knight?
 Dialogue: 20,0:13:12.10,0:13:14.61,Default,,0,0,0,,That one kaiju got away.

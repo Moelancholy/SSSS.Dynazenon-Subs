@@ -165,7 +165,8 @@ Dialogue: 20,0:05:28.47,0:05:31.48,Default,,0,0,0,,Wh-What?! What?!
 Dialogue: 20,0:05:31.81,0:05:34.52,Default,,0,0,0,,No, no, no! Too big, too big! Shrink, Goldburn!
 Dialogue: 20,0:05:34.52,0:05:37.48,Default,,0,0,0,,Go back to being small!\NLike before! Much smaller than—
 Dialogue: 20,0:05:38.03,0:05:40.24,Default,,0,0,0,,You're not listening at all.
-Dialogue: 20,0:05:40.24,0:05:40.36,Default,,0,0,0,,{\clip(m 712 918 l 702 1004 1324 999 1317 920)}You're not listening at all.
+Dialogue: 20,0:05:40.24,0:05:40.36,Default,,0,0,0,,{\clip(m 715.79 917.52 l 702.56 1004.14 1324 999 1271.93 922.93)}You're not listening at all.
+Dialogue: 20,0:05:40.36,0:05:40.49,Default,,0,0,0,,{\clip(m 1289.28 970.6 l 1298.7 969.09 1302 990 1290.91 990.87)}You're not listening at all.
 Dialogue: 20,0:05:57.09,0:05:58.71,Default,,0,0,0,,Awesome!
 Dialogue: 20,0:06:00.46,0:06:01.17,Default,,0,0,0,,Huh?
 Dialogue: 20,0:06:02.05,0:06:04.55,Default,,0,0,0,,The lousy Ayame Middle School...
@@ -188,7 +189,7 @@ Dialogue: 20,0:06:59.15,0:06:59.69,Default,,0,0,0,,Huh?
 Dialogue: 20,0:07:00.82,0:07:02.94,Default,,0,0,0,,Um, all right.
 Dialogue: 20,0:07:03.57,0:07:05.78,Default,,0,0,0,,Sorry, I've gotta go back.
 Dialogue: 20,0:07:05.78,0:07:06.82,Default,,0,0,0,,Why?
-Dialogue: 20,0:07:06.82,0:07:08.66,Default,,0,0,0,,I'm super sorry.
+Dialogue: 20,0:07:06.82,0:07:08.41,Default,,0,0,0,,I'm super sorry.
 Dialogue: 20,0:07:09.28,0:07:10.37,Default,,0,0,0,,The boyfriend, huh?!
 Dialogue: 20,0:07:11.24,0:07:12.37,Default,,0,0,0,,Ex-boyfriend!
 Dialogue: 20,0:07:13.83,0:07:15.54,Default,,0,0,0,,That girl...
@@ -259,7 +260,7 @@ Dialogue: 20,0:12:11.29,0:12:12.04,Default,,0,0,0,,Hey!
 Dialogue: 20,0:12:12.80,0:12:14.92,Default,,0,0,0,,Go get Yume right now!
 Dialogue: 20,0:12:14.92,0:12:15.51,Default,,0,0,0,,Huh?
 Dialogue: 20,0:12:15.51,0:12:18.30,Default,,0,0,0,,What have you been around her for?!
-Dialogue: 20,0:12:18.30,0:12:20.30,Default,,0,0,0,,You can tell that she's acting strange!
+Dialogue: 20,0:12:18.30,0:12:21.01,Default,,0,0,0,,You can tell that she's acting strange!
 Dialogue: 20,0:12:21.72,0:12:25.31,Default,,0,0,0,,I-I... I'll go get her!
 Dialogue: 20,0:12:25.31,0:12:27.56,Default,,0,0,0,,Come back together.
 Dialogue: 20,0:12:27.56,0:12:31.65,Default,,0,0,0,,You're the only one who can bring her back!

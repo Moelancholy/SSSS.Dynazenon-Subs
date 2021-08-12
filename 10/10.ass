@@ -33,8 +33,8 @@ Style: Alt,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00564100,&HFF000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chapter,0,0,0,,{Intro}
-Dialogue: 20,0:00:00.81,0:00:03.48,Default,,0,0,0,,Not many kaiju lately.
-Dialogue: 20,0:00:03.48,0:00:05.82,Default,,0,0,0,,Maybe there're kaiju seasons.
+Dialogue: 20,0:00:00.81,0:00:03.48,Default,,0,0,0,,{\an8}Not many kaiju lately.
+Dialogue: 20,0:00:03.48,0:00:05.82,Default,,0,0,0,,{\an8}Maybe there're kaiju seasons.
 Dialogue: 20,0:00:05.82,0:00:10.78,Default,,0,0,0,,{\an8}Hot seasons, dry seasons, harvest seasons...
 Dialogue: 20,0:00:07.20,0:00:09.49,Default,,0,0,0,,Captain? What are you looking at?
 Dialogue: 20,0:00:09.49,0:00:11.99,Default,,0,0,0,,Huh? Look.
@@ -45,7 +45,7 @@ Dialogue: 20,0:00:19.37,0:00:20.58,Default,,0,0,0,,A kite!
 Comment: 0,0:00:23.00,0:00:23.00,Default,chapter,0,0,0,,{Part A}
 Dialogue: 20,0:00:23.92,0:00:26.01,Default,,0,0,0,,First kaiju in a while.
 Dialogue: 20,0:00:26.01,0:00:28.51,Default,,0,0,30,,This one looks different.
-Dialogue: 20,0:00:28.51,0:00:31.76,Default,,0,0,0,,It's good. I was waiting\Nfor one like this.
+Dialogue: 20,0:00:28.51,0:00:31.76,Default,,0,0,30,,It's good. I was waiting for one like this.
 Dialogue: 20,0:00:32.55,0:00:34.31,Default,,0,0,0,,Can I go for it?
 Dialogue: 20,0:00:34.31,0:00:35.52,Default,,0,0,0,,Of course.
 Dialogue: 20,0:00:35.52,0:00:37.27,Default,,0,0,0,,Instance Dominat—
@@ -310,8 +310,8 @@ Dialogue: 20,0:20:50.85,0:20:56.44,Default,,0,0,0,,{\an8}Now I'm hungry from wor
 Dialogue: 20,0:20:56.44,0:20:57.36,Default,,0,0,0,,{\an8}Me, too.
 Dialogue: 20,0:20:57.36,0:21:00.41,Default,,0,0,0,,{\an8}Right? Let's grab something to eat!
 Dialogue: 20,0:21:01.41,0:21:03.70,Default,,0,0,0,,{\an8}Like takoyaki, maybe?
-Dialogue: 20,0:20:49.02,0:20:53.86,Default,,0,0,0,,So, you were betrayed\Nby the country you served?
-Dialogue: 20,0:20:53.86,0:20:56.44,Default,,0,0,0,,I can't remember every damn thing.
+Dialogue: 20,0:20:49.02,0:20:53.60,Default,,0,0,0,,So, you were betrayed\Nby the country you served?
+Dialogue: 20,0:20:53.60,0:20:57.02,Default,,0,0,0,,I can't remember every damn thing.
 Dialogue: 20,0:20:57.90,0:21:02.62,Default,,0,0,0,,But... I thought I'd\Nget to meet her again.
 Dialogue: 20,0:21:02.62,0:21:03.20,Default,,0,0,0,,Huh?
 Dialogue: 20,0:21:05.29,0:21:06.95,Default,,0,0,0,,I'm starving!
