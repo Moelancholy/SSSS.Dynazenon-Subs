@@ -16,10 +16,10 @@ Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
 Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 2300
-Active Line: 2314
-Video Position: 20270
+Video Zoom Percent: 1.000000
+Scroll Position: 690
+Active Line: 694
+Video Position: 9641
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -725,7 +725,7 @@ Dialogue: 0,0:02:48.35,0:02:51.35,Sign,,0,0,0,,{\clip(1853,662,1854,737)\pos(0,0
 Dialogue: 1,0:02:48.36,0:02:51.36,Sign,,0,0,0,,{\fs34.5\c&H98E6F2&\shad1\fnHalant\b1\pos(1712.5,700.5)\be1\fax0.02\frz-2.035\4c&H000000&\4a&H88&\clip(m 1575.65 666.43 l 1848.7 675.83 1848.7 731.83 1574.96 721.74)}F{*\fs34.568}u{*\fs34.636}j{*\fs34.705}i{*\fs34.773}y{*\fs34.841}o{*\fs34.909}k{*\fs34.977}i{*\fs35.045}d{*\fs35.114}a{*\fs35.182}i {*\fs35.318}H{*\fs35.386}i{*\fs35.455}g{*\fs35.523}h {*\fs35.659}S{*\fs35.727}c{*\fs35.795}h{*\fs35.864}o{*\fs35.932}o{\fs36}l
 Dialogue: 2,0:02:48.36,0:02:51.36,Sign,,0,0,0,,{=2}{\fs30\pos(1712.5,700.5)\clip(m 1575.65 666.43 l 1848.7 675.83 1848.7 731.83 1574.96 721.74)\blur0.8\fnGrain\c&HFFFFFF&\1a&H7C&}Id ex id officia nemo pariatur. Molestias debitis officia a perferendis et. Voluptas atque eius blanditiis excepturi quas beatae. Soluta distinctio ex repellat ab enim at reprehenderit. Ea consequatur sequi dolorem ipsum consequuntur dolorum cumque. Sit quis ipsam corporis fuga ea aspernatur
 Comment: 0,0:06:42.09,0:06:45.47,Sign,,0,0,0,,=====Entering School Gift=====
-Comment: 0,0:06:42.08,0:06:45.46,Sign,,0,0,0,New Idea,{\an9\fs40\bord0\c&H000000&\fnBubblegum Sans\b1\pos(1550.43,540.57)\org(1667.43,532.57)\fry-0.12\frx3.79\frz-24.87\fax-0.01\clip(m 1234.29 329.14 l 1674.29 532.57 1649.14 585.14 1205.71 377.14)}Entering School Gift
+Comment: 0,0:06:42.08,0:06:45.46,Sign,,0,0,0,New Idea,{\an9\fs40\bord0\blur1.2\c&H54534F&\fnBubblegum Sans\b1\fry-0.12\frx3.81\frz-25.17\fax-0.04\clip(m 1234.29 329.14 l 1674.29 532.57 1649.14 585.14 1205.71 377.14)\pos(1597.43,511.57)}Entering School Gift
 Dialogue: 0,0:06:42.08,0:06:45.46,Sign,,0,0,0,,{\pos(970,794)\fs60\blur1.6\bord0\c&H616163&\fnBubblegum Sans\b1\frz236.4}E{\c&H6D6D6C&}n{\c&H616163&}t{\c&H6D6D6C&}e{\c&H616163&}r{\c&H6D6D6C&}i{\c&H616163&}n{\c&H6D6D6C&}g \N {\c&H616163&}S{\c&H6D6D6C&}c{\c&H616163&}h{\c&H6D6D6C&}o{\c&H616163&}o{\c&H6D6D6C&}l \N {\c&H616163&}G{\c&H6D6D6C&}i{\c&H616163&}f{\c&H6D6D6C&}t
 Comment: 0,0:07:03.61,0:07:06.11,Sign,,0,0,0,,=====Donation Box=====
 Dialogue: 0,0:07:03.61,0:07:03.74,Sign,,0,0,0,,{\pos(926.765,226.46)\blur3\c&HFFFFFF&\p1}m 0 43.69 b 2.74 38.29 2.68 27.48 7.89 20.85 9.45 4.87 19.36 5.52 22.16 0 l 59.7 3.69 174.16 3.08 174.77 35.08 156.93 44.31 155.08 75.08 130.47 80 22.77 78.16
