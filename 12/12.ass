@@ -53,33 +53,35 @@ Dialogue: 20,0:01:29.87,0:01:33.82,Default,,0,0,0,,I choose a future where more 
 Dialogue: 20,0:01:33.82,0:01:36.87,Default,,0,0,0,,In the end, this is all I can do.
 Dialogue: 20,0:01:51.22,0:01:52.09,Default,,0,0,0,,What the—?!
 Dialogue: 20,0:01:55.72,0:01:58.85,Default,,0,0,0,,This guy powered up even more?!
-Dialogue: 20,0:02:01.85,0:02:02.95,Default,,0,0,0,,Gauma!
-Dialogue: 20,0:02:03.63,0:02:04.85,Default,,0,0,0,,Thank goodness!
-Dialogue: 20,0:02:05.18,0:02:06.26,Default,,0,0,0,,You okay?!
-Dialogue: 20,0:02:07.06,0:02:09.41,Default,,0,0,0,,Am I okay?
-Dialogue: 20,0:02:09.92,0:02:12.57,Default,,0,0,0,,Your face tells me\Nall I need to know.
-Dialogue: 20,0:02:13.91,0:02:17.40,Default,,0,0,0,,I don't think... I've got long.
-Dialogue: 20,0:02:17.40,0:02:18.37,Default,,0,0,0,,Stop it.
-Dialogue: 20,0:02:19.69,0:02:21.25,Default,,0,0,0,,What are you saying?
-Dialogue: 20,0:02:21.99,0:02:25.39,Default,,0,0,0,,Yomogi... Yume...
-Dialogue: 20,0:02:26.68,0:02:32.76,Default,,0,0,0,,Sorry for getting you involved\Nin this kaiju user mess.
-Dialogue: 20,0:02:33.30,0:02:39.76,Default,,0,0,0,,All that happened 5,000 years ago\Nhas nothing to do with you guys.
-Dialogue: 20,0:02:40.20,0:02:42.27,Default,,0,0,0,,It has nothing to do with us?!
-Dialogue: 20,0:02:42.67,0:02:48.24,Default,,0,0,0,,Gauma, you brought us\Ninto it yourself! With Dynazenon!
-Dialogue: 20,0:02:49.95,0:02:55.15,Default,,0,0,0,,You're the reason\Nwe all built this connection!
-Dialogue: 20,0:02:58.95,0:03:00.62,Default,,0,0,0,,I'm sorry.
-Dialogue: 20,0:03:01.73,0:03:03.41,Default,,0,0,0,,No, that's not it...
+Dialogue: 20,0:02:01.85,0:02:02.95,Default,,0,0,0,,{\an8}Gauma!
+Dialogue: 20,0:02:03.63,0:02:04.85,Default,,0,0,0,,{\an8}Thank goodness!
+Dialogue: 20,0:02:05.18,0:02:06.26,Default,,0,0,0,,{\an8}You okay?!
+Dialogue: 20,0:02:07.06,0:02:09.41,Default,,0,0,0,,{\an8}Am I okay?
+Dialogue: 20,0:02:09.92,0:02:12.57,Default,,0,0,0,,{\an8}Your face tells me all I need to know.
+Dialogue: 20,0:02:13.91,0:02:17.40,Default,,0,0,0,,{\an8}I don't think... I've got long.
+Dialogue: 20,0:02:17.40,0:02:18.37,Default,,0,0,0,,{\an8}Stop it.
+Dialogue: 20,0:02:19.62,0:02:21.25,Default,,0,0,0,,{\an8}What are you saying?
+Dialogue: 20,0:02:21.99,0:02:25.39,Default,,0,0,30,,{\an8}Yomogi... Yume...
+Dialogue: 20,0:02:26.68,0:02:32.76,Default,,0,0,30,,{\an8}Sorry for getting you involved\N in this kaiju user mess.
+Dialogue: 20,0:02:33.30,0:02:39.76,Default,,0,0,30,,{\an8}All that happened 5,000 years ago \Nhas nothing to do with you guys.
+Dialogue: 20,0:02:40.20,0:02:42.27,Default,,0,0,0,,{\an8}It has nothing to do with us?!
+Dialogue: 20,0:02:42.67,0:02:46.90,Default,,0,0,0,,{\an8}Gauma, you brought us into it yourself!
+Dialogue: 20,0:02:46.90,0:02:48.24,Default,,0,0,0,,{\an8}With Dynazenon!
+Dialogue: 20,0:02:49.95,0:02:55.15,Default,,0,0,0,,{\an8}You're the reason we all built this connection!
+Dialogue: 20,0:02:58.95,0:03:00.62,Default,,0,0,30,,{\an8}I'm sorry.
+Dialogue: 20,0:03:01.73,0:03:03.41,Default,,0,0,30,,{\an8}No, that's not it...
 Dialogue: 20,0:03:03.41,0:03:05.92,Default,,0,0,0,,{\an8}Thanks.
-Dialogue: 20,0:03:06.79,0:03:09.47,Default,,0,0,0,,Tell Koyomi for me.
-Dialogue: 20,0:03:14.99,0:03:16.99,Default,,0,0,0,,Tell him yourself.
-Dialogue: 20,0:03:16.99,0:03:20.18,Default,,0,0,0,,Live and tell him in your own words!
-Dialogue: 20,0:03:22.10,0:03:23.81,Default,,0,0,0,,Not so loud.
+Dialogue: 20,0:03:06.79,0:03:09.47,Default,,0,0,0,,{\an8}Tell Koyomi for me.
+Dialogue: 20,0:03:14.99,0:03:16.99,Default,,0,0,0,,{\an8}Tell him yourself.
+Dialogue: 20,0:03:16.99,0:03:20.18,Default,,0,0,0,,{\an8}Live and tell him in your own words!
+Dialogue: 20,0:03:22.10,0:03:23.81,Default,,0,0,30,,{\an8}Not so loud.
 Dialogue: 20,0:03:25.03,0:03:29.40,Default,,0,0,0,,Kaiser Knight Double Storm!
-Dialogue: 20,0:03:45.82,0:03:50.73,Default,,0,0,0,,Let's go, Yomogi. There's still\Nsomething we can do.
-Dialogue: 20,0:03:51.53,0:03:54.99,Default,,0,0,0,,Second, take care of Gauma.
-Dialogue: 20,0:03:54.99,0:03:56.88,Default,,0,0,0,,Yeah. Be careful.
-Dialogue: 20,0:03:57.30,0:03:58.65,Default,,0,0,0,,See you later.
-Dialogue: 20,0:03:58.65,0:03:59.21,Default,,0,0,0,,Mmm.
+Dialogue: 20,0:03:45.82,0:03:48.00,Default,,0,0,0,,{\an8}Let's go, Yomogi.
+Dialogue: 20,0:03:48.00,0:03:50.73,Default,,0,0,0,,{\an8}There's still something we can do.
+Dialogue: 20,0:03:51.53,0:03:54.99,Default,,0,0,0,,{\an8}Second, take care of Gauma.
+Dialogue: 20,0:03:54.99,0:03:56.88,Default,,0,0,0,,{\an8}Yeah. Be careful.
+Dialogue: 20,0:03:57.30,0:03:58.65,Default,,0,0,0,,{\an8}See you later.
+Dialogue: 20,0:03:58.65,0:03:59.21,Default,,0,0,0,,{\an8}Mmm.
 Dialogue: 20,0:04:00.89,0:04:03.89,Default,,0,0,0,,{\an8}The train has come to an emergency stop. We apologize—
 Dialogue: 20,0:04:12.86,0:04:15.74,Default,,0,0,0,,{\i1}It's all a coincidence, just like that day.
 Dialogue: 20,0:04:16.72,0:04:19.11,Default,,0,0,0,,{\i1}But what's different... is me.
