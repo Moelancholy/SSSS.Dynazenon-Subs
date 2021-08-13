@@ -91,8 +91,8 @@ Dialogue: 20,0:04:30.95,0:04:35.76,Default,,0,0,0,,{\an8}I sure as hell didn't r
 Dialogue: 20,0:04:36.08,0:04:38.76,Default,,0,0,0,,But you're in no shape for it!
 Dialogue: 20,0:04:39.19,0:04:46.10,Default,,0,0,0,,In this world, there's three...\Nimportant things... you've gotta keep.
 Dialogue: 20,0:04:46.53,0:04:49.43,Default,,0,0,0,,Promises, love, and...
-Dialogue: 20,0:05:00.27,0:05:01.16,Default,,0,0,0,,I like you.
-Dialogue: 20,0:05:01.87,0:05:02.87,Default,,0,0,0,,Will you go out with me?
+Dialogue: 20,0:05:00.27,0:05:01.16,Default,,0,0,0,,{\i1}I like you.
+Dialogue: 20,0:05:01.87,0:05:02.87,Default,,0,0,0,,{\i1}Will you go out with me?
 Dialogue: 20,0:05:05.34,0:05:08.41,Default,,0,0,0,,In the end, she never answered.
 Dialogue: 20,0:05:10.74,0:05:12.37,Default,,0,0,0,,I missed my chance.
 Dialogue: 20,0:05:24.17,0:05:25.56,Default,,0,0,0,,Don't touch me! {Hands off, creep!}
@@ -105,7 +105,7 @@ Dialogue: 20,0:06:01.30,0:06:02.30,Default,,0,0,0,,Mmm!
 Dialogue: 20,0:06:07.57,0:06:10.68,Default,,0,0,0,,Goldburn! Tell me you're alive!
 Dialogue: 20,0:06:14.56,0:06:20.23,Default,,0,0,0,,You really are the coolest friend\NI've got in the world!
 Dialogue: 20,0:06:35.83,0:06:38.54,Default,,0,0,0,,No killing Chise's friend!
-Dialogue: 20,0:06:38.99,0:06:40.91,Default,,0,0,0,,I'm sick of memorials!
+Dialogue: 20,0:06:38.99,0:06:40.66,Default,,0,0,0,,I'm sick of memorials!
 Dialogue: 20,0:06:41.80,0:06:43.80,Default,,0,0,0,,Knight!
 Dialogue: 20,0:06:47.01,0:06:48.65,Default,,0,0,0,,Yomogi Asanaka?
 Dialogue: 20,0:06:54.31,0:06:55.72,Default,,0,0,0,,Gauma?!
@@ -198,8 +198,8 @@ Dialogue: 20,0:16:13.06,0:16:16.87,Default,,0,0,0,,{\an8}We must leave this worl
 Dialogue: 20,0:16:16.87,0:16:19.84,Default,,0,0,0,,{\an8}Thanks for everything, guys.
 Dialogue: 20,0:16:19.84,0:16:24.51,Default,,0,0,0,,{\an8}Same here. Thank you, Knight... Second.
 Dialogue: 20,0:16:26.26,0:16:28.51,Default,,0,0,0,,Thank you, Dynazenon.
-Dialogue: 20,0:16:39.77,0:16:41.93,Default,,0,0,4,,Thank you, Goldburn!
-Dialogue: 20,0:16:42.52,0:16:47.74,Default,,0,0,0,,You're the best friend I've ever had!
+Dialogue: 20,0:16:39.77,0:16:41.86,Default,,-18,62,40,,Thank you, Goldburn!
+Dialogue: 20,0:16:42.52,0:16:47.74,Default,,0,0,40,,You're the best friend I've ever had!
 Dialogue: 20,0:16:50.32,0:16:51.49,Default,,0,0,0,,Thank you!
 Dialogue: 20,0:17:02.69,0:17:04.18,Default,,0,0,0,,They're gone.
 Dialogue: 20,0:17:04.18,0:17:04.78,Default,,0,0,0,,Yeah.
@@ -238,8 +238,8 @@ Dialogue: 20,0:18:59.00,0:19:01.86,Default,,0,0,0,,Hey, is Gauma coming?
 Dialogue: 20,0:19:03.84,0:19:04.33,Default,,0,0,0,,Nope.
 Dialogue: 20,0:19:06.74,0:19:09.47,Default,,0,0,0,,He got banned from our school.
 Dialogue: 20,0:19:09.47,0:19:11.54,Default,,0,0,0,,Huh? Why? What did he do?
-Dialogue: 20,0:19:10.89,0:19:12.21,Default,,0,0,20,,{\an8}Yomo!
-Dialogue: 20,0:19:10.89,0:19:12.21,Alt,,0,0,20,,{\an8}Yomogi!
+Dialogue: 20,0:19:10.89,0:19:12.21,Default,,0,0,60,,{\an8}Yomo!
+Dialogue: 20,0:19:10.89,0:19:12.21,Alt,,0,0,60,,{\an8}Yomogi!
 Dialogue: 20,0:19:14.57,0:19:15.84,Default,,0,0,0,,What's up?
 Dialogue: 20,0:19:15.84,0:19:18.04,Default,,0,0,0,,Minami's not coming.
 Dialogue: 20,0:19:18.04,0:19:24.81,Default,,0,0,0,,{\an8}What's her deal? If you won't help prep,\Nat least help the day of!
@@ -248,19 +248,19 @@ Dialogue: 20,0:19:18.99,0:19:22.56,Default,,0,0,0,,She's coming up next,\Nbut we
 Dialogue: 20,0:19:23.04,0:19:24.81,Default,,0,0,0,,Yomogi, go find her.
 Dialogue: 20,0:19:24.81,0:19:26.19,Default,,0,0,0,,You're on Minami duty!
 Dialogue: 20,0:19:27.20,0:19:28.69,Default,,0,0,0,,R-Right!
-Dialogue: 20,0:19:46.70,0:19:51.68,Default,,0,0,35,,{\an8}Hello, everyone!\NWe're the calligraphy club!
-Dialogue: 20,0:19:51.68,0:20:00.31,Default,,0,0,35,,{\an8}The recent kaiju have caused terrible\Ndamage to Fujiyokidai and the area.
-Dialogue: 20,0:20:00.98,0:20:07.05,Default,,0,0,35,,{\an8}The calligraphy club extends our\Ndeepest sympathies to all the victims.
-Dialogue: 20,0:20:08.58,0:20:18.96,Default,,0,0,35,,{\an8}We hope our performance puts smiles\Non everyone's faces, so please enjoy!
-Dialogue: 20,0:19:59.72,0:20:04.12,Default,,0,0,0,,In your heart, you are...
-Dialogue: 20,0:20:05.65,0:20:17.79,Default,,0,0,0,,A white, white bird\Nwith huge wings...
+Dialogue: 20,0:19:46.70,0:19:51.68,Default,,0,0,60,,{\an8}Hello, everyone!\NWe're the calligraphy club!
+Dialogue: 20,0:19:51.68,0:20:00.31,Default,,0,0,60,,{\an8}The recent kaiju have caused terrible\Ndamage to Fujiyokidai and the area.
+Dialogue: 20,0:20:00.98,0:20:07.05,Default,,0,0,60,,{\an8}The calligraphy club extends our\Ndeepest sympathies to all the victims.
+Dialogue: 20,0:20:08.58,0:20:18.96,Default,,0,0,60,,{\an8}We hope our performance puts smiles\Non everyone's faces, so please enjoy!
+Dialogue: 20,0:19:58.91,0:20:04.12,Default,,0,0,0,,In your heart, you are...
+Dialogue: 20,0:20:05.65,0:20:18.04,Default,,0,0,0,,A white, white bird with huge wings...
 Dialogue: 20,0:20:18.04,0:20:19.72,Default,,0,0,0,,There you are!
 Dialogue: 20,0:20:20.29,0:20:24.79,Default,,0,0,0,,It's our turn to run the cafe,\Nso let's head back.
 Dialogue: 20,0:20:26.18,0:20:29.16,Default,,0,0,0,,I really don't want to.
 Dialogue: 20,0:20:29.16,0:20:33.70,Default,,0,0,0,,I know, but just do it\Nfor the others in our class.
 Dialogue: 20,0:20:34.57,0:20:35.96,Default,,0,0,0,,It's time to go.
 Dialogue: 20,0:20:40.39,0:20:42.35,Default,,0,0,0,,Then take me with you.
-Dialogue: 20,0:20:46.50,0:20:48.35,Default,,0,0,0,,I just don't get it.
+Dialogue: 20,0:20:46.50,0:20:48.35,Default,,0,0,0,,{\i1}I just don't get it.
 Dialogue: 20,0:20:52.38,0:20:57.36,Default,,0,0,0,,You had the potential to be\Na kaiju user, but you wasted it.
 Dialogue: 20,0:20:58.47,0:21:03.74,Default,,0,0,0,,I don't understand kaiju,\Nso I could never do it.
 Dialogue: 20,0:21:04.61,0:21:07.68,Default,,0,0,0,,Kaiju can't be understood by people.
