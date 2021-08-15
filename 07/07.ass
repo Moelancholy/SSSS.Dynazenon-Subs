@@ -28,31 +28,32 @@ Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,100,100,0,1
 Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,100,100,40,1
 Style: OP,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,1,1,64,150,43,1
+Style: Alt,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00564100,&HFF000000,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.03,Default,chapter,0,0,0,,{OP}
-Dialogue: 2,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
-Dialogue: 1,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
-Dialogue: 0,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
-Dialogue: 2,0:00:02.16,0:00:06.72,OP,,0,0,0,,{\fad(100,200)}We're fighting to secure our futures
-Dialogue: 1,0:00:02.16,0:00:06.72,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We're fighting to secure our futures
-Dialogue: 0,0:00:02.16,0:00:06.72,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We're fighting to secure our futures
-Dialogue: 2,0:00:12.56,0:00:15.25,OP,,0,0,0,,{\fad(100,200)}If you look at the azure sky
-Dialogue: 1,0:00:12.56,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you look at the azure sky
-Dialogue: 0,0:00:12.56,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you look at the azure sky
+Comment: 0,0:00:00.00,0:00:00.02,Default,chapter,0,0,0,,{OP}
+Dialogue: 2,0:00:00.48,0:00:02.15,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
+Dialogue: 1,0:00:00.48,0:00:02.15,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
+Dialogue: 0,0:00:00.48,0:00:02.15,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
+Dialogue: 2,0:00:02.15,0:00:06.74,OP,,0,0,0,,{\fad(100,200)}We're fighting to secure our futures
+Dialogue: 1,0:00:02.15,0:00:06.74,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We're fighting to secure our futures
+Dialogue: 0,0:00:02.15,0:00:06.74,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We're fighting to secure our futures
+Dialogue: 2,0:00:12.58,0:00:15.25,OP,,0,0,0,,{\fad(100,200)}If you look at the azure sky
+Dialogue: 1,0:00:12.58,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}If you look at the azure sky
+Dialogue: 0,0:00:12.58,0:00:15.25,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}If you look at the azure sky
 Dialogue: 2,0:00:15.25,0:00:19.79,OP,,0,0,0,,{\fad(100,200)}You may find your heart torn
 Dialogue: 1,0:00:15.25,0:00:19.79,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You may find your heart torn
 Dialogue: 0,0:00:15.25,0:00:19.79,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You may find your heart torn
 Dialogue: 2,0:00:19.79,0:00:23.29,OP,,0,0,0,,{\fad(100,200)}As you realize your own insignificance
 Dialogue: 1,0:00:19.79,0:00:23.29,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}As you realize your own insignificance
 Dialogue: 0,0:00:19.79,0:00:23.29,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}As you realize your own insignificance
-Dialogue: 2,0:00:23.67,0:00:26.43,OP,,0,0,0,,{\fad(100,200)}The emotions dispersed throughout the city
-Dialogue: 1,0:00:23.67,0:00:26.43,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}The emotions dispersed throughout the city
-Dialogue: 0,0:00:23.67,0:00:26.43,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}The emotions dispersed throughout the city
-Dialogue: 2,0:00:26.43,0:00:30.80,OP,,0,0,0,,{\fad(100,200)}Incommodius and unstable as they are
-Dialogue: 1,0:00:26.43,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Incommodius and unstable as they are
-Dialogue: 0,0:00:26.43,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Incommodius and unstable as they are
+Dialogue: 2,0:00:23.67,0:00:26.42,OP,,0,0,0,,{\fad(100,200)}The emotions dispersed throughout the city
+Dialogue: 1,0:00:23.67,0:00:26.42,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}The emotions dispersed throughout the city
+Dialogue: 0,0:00:23.67,0:00:26.42,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}The emotions dispersed throughout the city
+Dialogue: 2,0:00:26.42,0:00:30.80,OP,,0,0,0,,{\fad(100,200)}Incommodius and unstable as they are
+Dialogue: 1,0:00:26.42,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Incommodius and unstable as they are
+Dialogue: 0,0:00:26.42,0:00:30.80,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Incommodius and unstable as they are
 Dialogue: 2,0:00:30.80,0:00:34.47,OP,,0,0,0,,{\fad(100,200)}Are almost like an impuissant SOS
 Dialogue: 1,0:00:30.80,0:00:34.47,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Are almost like an impuissant SOS
 Dialogue: 0,0:00:30.80,0:00:34.47,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Are almost like an impuissant SOS
@@ -65,24 +66,24 @@ Dialogue: 0,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Y
 Dialogue: 2,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)}When I met you, you were all alone
 Dialogue: 1,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}When I met you, you were all alone
 Dialogue: 0,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}When I met you, you were all alone
-Dialogue: 2,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
-Dialogue: 1,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
-Dialogue: 0,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
-Dialogue: 2,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
-Dialogue: 1,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
-Dialogue: 0,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
-Dialogue: 2,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
-Dialogue: 1,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
-Dialogue: 0,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
+Dialogue: 2,0:00:43.69,0:00:49.49,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
+Dialogue: 1,0:00:43.69,0:00:49.49,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
+Dialogue: 0,0:00:43.69,0:00:49.49,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
+Dialogue: 2,0:00:50.20,0:00:51.49,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
+Dialogue: 1,0:00:50.20,0:00:51.49,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
+Dialogue: 0,0:00:50.20,0:00:51.49,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
+Dialogue: 2,0:00:51.49,0:00:54.24,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
+Dialogue: 1,0:00:51.49,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
+Dialogue: 0,0:00:51.49,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
 Dialogue: 2,0:00:54.24,0:01:01.12,OP,,0,0,0,,{\fad(100,200)}We can nullify the melancholy of this world!
 Dialogue: 1,0:00:54.24,0:01:01.12,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We can nullify the melancholy of this world!
 Dialogue: 0,0:00:54.24,0:01:01.12,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We can nullify the melancholy of this world!
-Dialogue: 2,0:01:01.12,0:01:05.33,OP,,0,0,0,,{\fad(100,200)}I want to take on all your overflowing sadness
-Dialogue: 1,0:01:01.12,0:01:05.33,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to take on all your overflowing sadness
-Dialogue: 0,0:01:01.12,0:01:05.33,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to take on all your overflowing sadness
-Dialogue: 2,0:01:05.33,0:01:08.13,OP,,0,0,0,,{\fad(100,200)}And all your weakness
-Dialogue: 1,0:01:05.33,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And all your weakness
-Dialogue: 0,0:01:05.33,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And all your weakness
+Dialogue: 2,0:01:01.12,0:01:05.34,OP,,0,0,0,,{\fad(100,200)}I want to take on all your overflowing sadness
+Dialogue: 1,0:01:01.12,0:01:05.34,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to take on all your overflowing sadness
+Dialogue: 0,0:01:01.12,0:01:05.34,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to take on all your overflowing sadness
+Dialogue: 2,0:01:05.34,0:01:08.13,OP,,0,0,0,,{\fad(100,200)}And all your weakness
+Dialogue: 1,0:01:05.34,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}And all your weakness
+Dialogue: 0,0:01:05.34,0:01:08.13,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}And all your weakness
 Dialogue: 2,0:01:08.13,0:01:12.09,OP,,0,0,0,,{\fad(100,200)}I'll take it hand in hand
 Dialogue: 1,0:01:08.13,0:01:12.09,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I'll take it hand in hand
 Dialogue: 0,0:01:08.13,0:01:12.09,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I'll take it hand in hand
@@ -100,233 +101,234 @@ Dialogue: 1,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Y
 Dialogue: 0,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You're needed right now!
 Dialogue: 0,0:01:25.19,0:01:27.19,OP,,0,0,0,,
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
-Dialogue: 20,0:01:42.08,0:01:44.31,Default,,0,0,0,,We can finally intervene.
-Dialogue: 20,0:01:44.31,0:01:48.30,Default,,0,0,0,,Kaiju appearing in a world\Nweakens the barrier.
+Dialogue: 20,0:01:42.08,0:01:44.29,Default,,0,0,0,,We can finally intervene.
+Dialogue: 20,0:01:44.29,0:01:48.30,Default,,0,0,0,,Kaiju appearing in a world\Nweakens the barrier.
 Dialogue: 20,0:01:48.30,0:01:50.76,Default,,0,0,0,,It's early for two at once.
 Dialogue: 20,0:01:50.76,0:01:54.01,Default,,0,0,0,,Go on, Knight! Do your best!
 Dialogue: 20,0:01:54.72,0:01:57.01,Default,,0,0,0,,Of course. That's my duty.
 Dialogue: 20,0:02:06.19,0:02:07.52,Default,,0,0,0,,What the—?!
-Dialogue: 20,0:02:08.82,0:02:10.33,Default,,0,0,0,,A giant?!
-Dialogue: 20,0:02:23.41,0:02:25.57,Default,,0,0,0,,Hey, hey, hey! What the hell?!
-Dialogue: 20,0:02:26.29,0:02:27.57,Default,,0,0,0,,Get lost!
+Dialogue: 20,0:02:08.82,0:02:10.32,Default,,0,0,0,,A giant?!
+Dialogue: 20,0:02:23.41,0:02:25.58,Default,,0,0,0,,Hey, hey, hey! What the hell?!
+Dialogue: 20,0:02:26.29,0:02:27.59,Default,,0,0,0,,Get lost!
 Dialogue: 20,0:02:31.63,0:02:32.26,Default,,0,0,0,,So fast!
 Dialogue: 20,0:02:32.26,0:02:34.26,Default,,0,0,0,,What is that thing?
-Dialogue: 20,0:02:34.68,0:02:36.56,Default,,0,0,0,,Is that a kaiju, too?
-Dialogue: 20,0:02:37.53,0:02:39.01,Default,,0,0,0,,I can't control it.
+Dialogue: 20,0:02:34.68,0:02:36.55,Default,,0,0,0,,Is that a kaiju, too?
+Dialogue: 20,0:02:37.51,0:02:39.01,Default,,0,0,0,,I can't control it.
 Dialogue: 20,0:02:39.01,0:02:40.01,Default,,0,0,0,,Dammit!
 Dialogue: 20,0:02:40.01,0:02:41.89,Default,,0,0,0,,Stay still!
 Dialogue: 20,0:02:40.01,0:02:41.89,Default,,0,0,0,,{\an8}Gridknight Storm!
-Dialogue: 20,0:02:45.41,0:02:47.38,Default,,0,0,0,,Onija, let me take over!
-Dialogue: 20,0:02:47.38,0:02:49.11,Default,,0,0,0,,Chill! Just relax!
+Dialogue: 20,0:02:45.40,0:02:47.40,Default,,0,0,0,,Onija, let me take over!
+Dialogue: 20,0:02:47.40,0:02:49.11,Default,,0,0,0,,Chill! Just relax!
 Dialogue: 20,0:02:57.20,0:02:59.95,Default,,0,0,0,,You guys, let's withdraw for now.
-Dialogue: 20,0:02:59.95,0:03:01.50,Default,,0,0,0,,We've got this!
-Dialogue: 20,0:03:01.50,0:03:03.91,Default,,0,0,0,,We can beat Gauma this time!
-Dialogue: 20,0:03:03.91,0:03:04.93,Default,,0,0,0,,But...
-Dialogue: 20,0:03:06.59,0:03:09.71,Default,,0,0,0,,It would be a waste to lose this kaiju.
-Dialogue: 20,0:03:13.62,0:03:14.68,Default,,0,0,0,,Fine.
-Dialogue: 20,0:03:23.78,0:03:25.22,Default,,0,0,0,,That was close.
-Dialogue: 20,0:03:25.22,0:03:27.10,Default,,0,0,0,,It saved us?
+Dialogue: 20,0:02:59.95,0:03:01.49,Default,,0,0,0,,We've got this!
+Dialogue: 20,0:03:01.49,0:03:03.91,Default,,0,0,0,,We can beat Gauma this time!
+Dialogue: 20,0:03:03.91,0:03:04.91,Default,,0,0,0,,But...
+Dialogue: 20,0:03:06.58,0:03:09.71,Default,,0,0,0,,It would be a waste to lose this kaiju.
+Dialogue: 20,0:03:13.63,0:03:14.67,Default,,0,0,0,,Fine.
+Dialogue: 20,0:03:23.77,0:03:25.23,Default,,0,0,0,,That was close.
+Dialogue: 20,0:03:25.23,0:03:27.10,Default,,0,0,0,,It saved us?
 Dialogue: 20,0:03:27.10,0:03:29.86,Default,,0,0,0,,Thank god it's not an enemy.
-Dialogue: 20,0:03:31.86,0:03:33.62,Default,,0,0,0,,I take it back!
-Dialogue: 20,0:03:33.62,0:03:35.24,Default,,0,0,0,,You asked for it!
-Dialogue: 20,0:03:43.63,0:03:46.25,Default,,0,0,0,,What?! Where'd it go?!
-Dialogue: 20,0:03:46.25,0:03:48.41,Default,,0,0,0,,This ain't over yet!
-Dialogue: 20,0:03:54.99,0:03:57.88,Default,,0,0,0,,Dammit! Now it's all beat up!
-Dialogue: 20,0:03:58.68,0:04:03.15,Default,,0,0,0,,And to think she entrusted\NDynazenon to me!
+Dialogue: 20,0:03:31.86,0:03:33.61,Default,,0,0,0,,I take it back!
+Dialogue: 20,0:03:33.61,0:03:35.24,Default,,0,0,0,,You asked for it!
+Dialogue: 20,0:03:43.62,0:03:46.25,Default,,0,0,0,,What?! Where'd it go?!
+Dialogue: 20,0:03:46.25,0:03:48.42,Default,,0,0,0,,This ain't over yet!
+Dialogue: 20,0:03:55.01,0:03:57.88,Default,,0,0,0,,Dammit! Now it's all beat up!
+Dialogue: 20,0:03:58.68,0:04:03.14,Default,,0,0,0,,And to think she entrusted\NDynazenon to me!
 Dialogue: 20,0:04:06.52,0:04:07.39,Default,,0,0,0,,Huh?
-Dialogue: 20,0:04:08.47,0:04:12.10,Default,,0,0,0,,Hey, Koyomi! Where are you going?!
-Dialogue: 20,0:04:12.10,0:04:14.93,Default,,0,0,0,,Eh? What's up with him?
-Dialogue: 20,0:04:15.59,0:04:19.16,Default,,0,0,0,,Whatever. Let's look for the kaiju.
+Dialogue: 20,0:04:08.48,0:04:12.11,Default,,0,0,0,,Hey, Koyomi! Where are you going?!
+Dialogue: 20,0:04:12.11,0:04:14.94,Default,,0,0,0,,Eh? What's up with him?
+Dialogue: 20,0:04:15.61,0:04:19.16,Default,,0,0,0,,Whatever. Let's look for the kaiju.
 Dialogue: 20,0:04:19.16,0:04:19.78,Default,,0,0,0,,Huh?
 Dialogue: 20,0:04:19.78,0:04:24.79,Default,,0,0,0,,You guys search from above.\NIt couldn't have gotten far.
-Dialogue: 20,0:04:30.15,0:04:35.62,Default,,0,0,0,,Shit. I've gotta fix it somehow.\NWe can't fight like this.
-Dialogue: 20,0:04:40.18,0:04:41.92,Default,,0,0,0,,I'm not seeing the kaiju.
+Dialogue: 20,0:04:30.17,0:04:35.63,Default,,0,0,0,,Shit. I've gotta fix it somehow.\NWe can't fight like this.
+Dialogue: 20,0:04:40.18,0:04:41.93,Default,,0,0,0,,I'm not seeing the kaiju.
 Dialogue: 20,0:04:49.64,0:04:52.98,Default,,0,0,0,,Sorry. I wasn't watching my energy.
-Dialogue: 20,0:04:52.98,0:04:54.56,Default,,0,0,0,,It's no big deal.
-Dialogue: 20,0:04:56.19,0:04:59.31,Default,,0,0,0,,Let's just keep an eye on things.
+Dialogue: 20,0:04:52.98,0:04:54.57,Default,,0,0,0,,It's no big deal.
+Dialogue: 20,0:04:56.19,0:04:59.32,Default,,0,0,0,,Let's just keep an eye on things.
 Dialogue: 20,0:05:05.45,0:05:08.45,Default,,0,0,0,,What's with this purple guy?
-Dialogue: 20,0:05:15.99,0:05:19.36,Default,,0,0,0,,Shit. Was that giant a kaiju?
-Dialogue: 20,0:05:19.36,0:05:22.64,Default,,0,0,0,,Not sure, but I couldn't control it.
+Dialogue: 20,0:05:16.00,0:05:19.34,Default,,0,0,0,,Shit. Was that giant a kaiju?
+Dialogue: 20,0:05:19.34,0:05:22.64,Default,,0,0,0,,Not sure, but I couldn't control it.
 Dialogue: 20,0:05:22.64,0:05:24.43,Default,,0,0,0,,We made another enemy.
 Dialogue: 20,0:05:24.43,0:05:27.97,Default,,0,0,0,,It's natural to make enemies\Nwhen you change things.
-Dialogue: 20,0:05:28.45,0:05:33.86,Default,,0,0,0,,Our kaiju was pretty strong.\NIf we play it right, we can win.
-Dialogue: 20,0:05:33.86,0:05:38.33,Default,,0,0,0,,You're surprisingly pumped up.\NSomething happen?
-Dialogue: 20,0:05:38.33,0:05:39.20,Default,,0,0,0,,No.
-Dialogue: 20,0:05:39.20,0:05:43.14,Default,,0,0,0,,Ah! You're pissed\N'cuz that guy hugged you!
-Dialogue: 20,0:05:43.14,0:05:46.20,Default,,0,0,0,,Hey, hey! Looks like Mujina's\Ngot a cute side—
-Dialogue: 20,0:05:48.57,0:05:50.37,Default,,0,0,0,,It's not like that.
-Dialogue: 20,0:05:51.41,0:05:53.49,Default,,0,0,0,,I messed things up.
-Dialogue: 20,0:05:54.61,0:05:57.88,Default,,0,0,0,,I'm just taking responsibility for it.
-Dialogue: 20,0:06:04.94,0:06:06.04,Default,,0,0,0,,I knew it.
-Dialogue: 20,0:06:06.89,0:06:10.15,Default,,0,0,0,,{\i1}This is Arata. Uh, my husband.
-Dialogue: 20,0:06:10.15,0:06:13.64,Default,,0,0,0,,{\i1}She always talks about you, Yamamoto.
+Dialogue: 20,0:05:28.43,0:05:33.86,Default,,0,0,0,,Our kaiju was pretty strong.\NIf we play it right, we can win.
+Dialogue: 20,0:05:33.86,0:05:38.32,Default,,0,0,0,,You're surprisingly pumped up.\NSomething happen?
+Dialogue: 20,0:05:38.32,0:05:39.19,Default,,0,0,0,,No.
+Dialogue: 20,0:05:39.19,0:05:43.16,Default,,0,0,0,,Ah! You're pissed\N'cuz that guy hugged you!
+Dialogue: 20,0:05:43.16,0:05:46.20,Default,,0,0,0,,Hey, hey! Looks like Mujina's got a cute side—
+Dialogue: 20,0:05:48.58,0:05:50.37,Default,,0,0,0,,It's not like that.
+Dialogue: 20,0:05:51.41,0:05:53.50,Default,,0,0,0,,I messed things up.
+Dialogue: 20,0:05:54.63,0:05:57.88,Default,,0,0,0,,I'm just taking responsibility for it.
+Dialogue: 20,0:06:04.93,0:06:06.05,Default,,0,0,0,,I knew it.
+Dialogue: 20,0:06:06.89,0:06:10.14,Default,,0,0,0,,{\i1}This is Arata. Uh, my husband.
+Dialogue: 20,0:06:10.14,0:06:13.64,Default,,0,0,0,,{\i1}She always talks about you, Yamamoto.
 Dialogue: 20,0:06:13.64,0:06:18.15,Default,,0,0,0,,{\i1}You've known her since middle school,\Nright? Was she always like this?
-Dialogue: 20,0:06:27.93,0:06:29.49,Default,,0,0,0,,{\i1}You work nearby?
+Dialogue: 20,0:06:27.95,0:06:29.49,Default,,0,0,0,,{\i1}You work nearby?
 Dialogue: 20,0:06:29.49,0:06:33.66,Default,,0,0,0,,{\i1}Hmm? You could say that.\NI... help people in need.
 Dialogue: 20,0:06:33.66,0:06:35.29,Default,,0,0,0,,{\i1}That's amazing!
-Dialogue: 20,0:06:37.53,0:06:40.05,Default,,0,0,0,,Are you okay, uh, Tachibana?!
-Dialogue: 20,0:06:40.41,0:06:42.55,Default,,0,0,0,,Hello?! Anyone there?!
-Dialogue: 20,0:06:49.56,0:06:50.29,Default,,0,0,0,,Found you.
-Dialogue: 20,0:06:56.08,0:06:58.19,Default,,0,0,0,,Gauma sure is late.
+Dialogue: 20,0:06:37.54,0:06:40.05,Default,,0,0,0,,Are you okay, uh, Tachibana?!
+Dialogue: 20,0:06:40.42,0:06:42.55,Default,,0,0,0,,Hello?! Anyone there?!
+Dialogue: 20,0:06:49.56,0:06:50.31,Default,,0,0,0,,Found you.
+Dialogue: 20,0:06:56.06,0:06:58.19,Default,,0,0,0,,Gauma sure is late.
 Dialogue: 20,0:07:02.03,0:07:03.19,Default,,0,0,0,,Are you mad?
-Dialogue: 20,0:07:03.73,0:07:05.20,Default,,0,0,0,,I'm not mad.
-Dialogue: 20,0:07:05.55,0:07:07.20,Default,,0,0,0,,Yeah, you are.
-Dialogue: 20,0:07:11.96,0:07:12.97,Default,,0,0,0,,He's back.
-Dialogue: 20,0:07:14.29,0:07:17.19,Default,,0,0,0,,I feel like shit right now.
-Dialogue: 20,0:07:17.77,0:07:19.13,Default,,0,0,0,,The kaiju?
-Dialogue: 20,0:07:19.13,0:07:21.58,Default,,0,0,0,,No use. Couldn't find it.
-Dialogue: 20,0:07:21.58,0:07:22.85,Default,,0,0,0,,I see.
-Dialogue: 20,0:07:27.33,0:07:28.93,Default,,0,0,0,,I'm starving.
-Dialogue: 20,0:07:29.50,0:07:31.44,Default,,0,0,0,,Let's grab something to eat.
-Dialogue: 20,0:07:38.76,0:07:43.63,Default,,0,0,0,,Sorry about earlier... For teasing you.
-Dialogue: 20,0:07:44.26,0:07:48.86,Default,,0,0,0,,But you being serious\Nfor a change ain't half bad.
+Dialogue: 20,0:07:03.74,0:07:05.20,Default,,0,0,0,,I'm not mad.
+Dialogue: 20,0:07:05.53,0:07:07.20,Default,,0,0,0,,Yeah, you are.
+Dialogue: 20,0:07:11.95,0:07:12.95,Default,,0,0,0,,He's back.
+Dialogue: 20,0:07:14.29,0:07:17.21,Default,,0,0,0,,I feel like shit right now.
+Dialogue: 20,0:07:17.75,0:07:19.13,Default,,0,0,0,,The kaiju?
+Dialogue: 20,0:07:19.13,0:07:21.59,Default,,0,0,0,,No use. Couldn't find it.
+Dialogue: 20,0:07:21.59,0:07:22.84,Default,,0,0,0,,I see.
+Dialogue: 20,0:07:27.34,0:07:28.93,Default,,0,0,0,,I'm starving.
+Dialogue: 20,0:07:29.51,0:07:31.43,Default,,0,0,0,,Let's grab something to eat.
+Dialogue: 20,0:07:38.77,0:07:43.61,Default,,0,0,0,,Sorry about earlier... For teasing you.
+Dialogue: 20,0:07:44.28,0:07:48.86,Default,,0,0,0,,But you being serious\Nfor a change ain't half bad.
 Dialogue: 20,0:07:50.45,0:07:54.00,Default,,0,0,0,,Just so we're clear,
 Dialogue: 20,0:07:54.00,0:07:56.96,Default,,0,0,0,,we don't fight to settle\Npersonal grudges, you know?
-Dialogue: 20,0:07:57.68,0:08:00.96,Default,,0,0,0,,The power of kaiju\Nisn't for killing people.
-Dialogue: 20,0:08:01.36,0:08:04.46,Default,,0,0,0,,It's for killing humanity as a whole.
-Dialogue: 20,0:08:06.88,0:08:10.61,Default,,0,0,0,,I don't always get\Nthe things you guys say,
+Dialogue: 20,0:07:57.67,0:08:00.96,Default,,0,0,0,,The power of kaiju\Nisn't for killing people.
+Dialogue: 20,0:08:01.38,0:08:04.46,Default,,0,0,0,,It's for killing humanity as a whole.
+Dialogue: 20,0:08:06.88,0:08:10.59,Default,,0,0,0,,I don't always get\Nthe things you guys say,
 Dialogue: 20,0:08:11.26,0:08:13.64,Default,,0,0,0,,but I'll go along with it this time.
-Dialogue: 20,0:08:18.16,0:08:20.23,Default,,0,0,0,,Thanks for the meal!
-Dialogue: 20,0:08:20.61,0:08:23.11,Default,,0,0,0,,Man, I'm stuffed!
-Dialogue: 20,0:08:23.11,0:08:23.19,Default,,0,0,0,,{\pos(960,990)}That's better! Now we're pumped\Nand ready to roll, right?
-Dialogue: 20,0:08:23.19,0:08:23.23,Default,,0,0,0,,{\pos(960,995)}That's better! Now we're pumped\Nand ready to roll, right?
+Dialogue: 20,0:08:18.14,0:08:20.23,Default,,0,0,0,,Thanks for the meal!
+Dialogue: 20,0:08:20.60,0:08:23.11,Default,,0,0,0,,Man, I'm stuffed!
+Dialogue: 20,0:08:23.11,0:08:23.19,Default,,0,0,90,,That's better! Now we're pumped\Nand ready to roll, right?
+Dialogue: 20,0:08:23.19,0:08:23.23,Default,,0,0,85,,That's better! Now we're pumped\Nand ready to roll, right?
 Dialogue: 20,0:08:23.23,0:08:27.74,Default,,0,0,0,,That's better! Now we're pumped\Nand ready to roll, right?
 Dialogue: 20,0:08:27.74,0:08:30.28,Default,,0,0,0,,What? Sure.
-Dialogue: 20,0:08:30.90,0:08:32.28,Default,,0,0,0,,Thanks for the meal.
+Dialogue: 20,0:08:30.91,0:08:32.28,Default,,0,0,0,,Thanks for the meal.
 Dialogue: 20,0:08:36.62,0:08:41.25,Default,,0,0,0,,Jeez, there you are! I finally found you!
-Dialogue: 20,0:08:42.15,0:08:43.59,Default,,0,0,0,,Chise?
-Dialogue: 20,0:08:43.59,0:08:44.91,Default,,0,0,0,,Why are you here?
-Dialogue: 20,0:08:44.91,0:08:49.36,Default,,0,0,0,,What a mean thing to say\Nto a comrade in arms!
-Dialogue: 20,0:08:49.36,0:08:51.83,Default,,0,0,0,,I know, but...
-Dialogue: 20,0:08:51.83,0:08:53.76,Default,,0,0,0,,Hmm? Where's Senpai?
+Dialogue: 20,0:08:42.17,0:08:43.59,Default,,0,0,0,,Chise?
+Dialogue: 20,0:08:43.59,0:08:44.92,Default,,0,0,0,,Why are you here?
+Dialogue: 20,0:08:44.92,0:08:49.34,Default,,0,0,0,,What a mean thing to say\Nto a comrade in arms!
+Dialogue: 20,0:08:49.34,0:08:51.84,Default,,0,0,0,,I know, but...
+Dialogue: 20,0:08:51.84,0:08:53.76,Default,,0,0,0,,Hmm? Where's Senpai?
 Dialogue: 20,0:08:53.76,0:08:57.27,Default,,0,0,0,,Who the hell knows? He ran off.
-Dialogue: 20,0:08:57.61,0:08:59.77,Default,,0,0,0,,Huh? On his own?
-Dialogue: 20,0:08:59.77,0:09:06.42,Default,,0,0,0,,Yeah, and hope he comes back quick.\NWe'll be up all night.
-Dialogue: 20,0:09:06.42,0:09:08.37,Default,,0,0,0,,Huh? All night?
-Dialogue: 20,0:09:08.37,0:09:12.53,Default,,0,0,0,,Waiting for the kaiju.\NWhat about you guys?
-Dialogue: 20,0:09:13.75,0:09:15.16,Default,,0,0,0,,I'll stay, too.
+Dialogue: 20,0:08:57.60,0:08:59.77,Default,,0,0,0,,Huh? On his own?
+Dialogue: 20,0:08:59.77,0:09:06.40,Default,,0,0,0,,Yeah, and hope he comes back quick.\NWe'll be up all night.
+Dialogue: 20,0:09:06.40,0:09:08.36,Default,,0,0,0,,Huh? All night?
+Dialogue: 20,0:09:08.36,0:09:12.53,Default,,0,0,0,,Waiting for the kaiju.\NWhat about you guys?
+Dialogue: 20,0:09:13.74,0:09:15.16,Default,,0,0,0,,I'll stay, too.
 Dialogue: 20,0:09:15.16,0:09:15.53,Default,,0,0,0,,Huh?
-Dialogue: 20,0:09:17.66,0:09:22.35,Default,,0,0,0,,I'll tell my parents I'm staying\Nat a friend's house.
-Dialogue: 20,0:09:24.28,0:09:25.17,Default,,0,0,0,,Me, too.
+Dialogue: 20,0:09:17.66,0:09:22.33,Default,,0,0,0,,I'll tell my parents I'm staying\Nat a friend's house.
+Dialogue: 20,0:09:24.29,0:09:25.17,Default,,0,0,0,,Me, too.
 Dialogue: 20,0:09:25.17,0:09:27.05,Default,,0,0,0,,That's more like it.
 Dialogue: 20,0:09:31.05,0:09:33.47,Default,,0,0,0,,They're working well together.
 Dialogue: 20,0:09:33.47,0:09:35.30,Default,,0,0,0,,Yeah. Not bad.
-Dialogue: 20,0:09:35.30,0:09:40.90,Default,,0,0,0,,You were saved by this purple guy?\NIs he a friend?
-Dialogue: 20,0:09:40.90,0:09:45.77,Default,,0,0,0,,Nah, he picked a fight right after.\NWhat's his deal?
+Dialogue: 20,0:09:35.30,0:09:38.56,Default,,0,0,0,,You were saved by this purple guy?
+Dialogue: 20,0:09:39.04,0:09:40.89,Default,,0,0,0,,Is he a friend?
+Dialogue: 20,0:09:40.89,0:09:45.77,Default,,0,0,0,,Nah, he picked a fight right after.\NWhat's his deal?
 Dialogue: 20,0:09:45.77,0:09:46.57,Default,,0,0,0,,Yeah?
 Dialogue: 20,0:09:50.69,0:09:51.32,Default,,0,0,0,,Minam—
-Dialogue: 20,0:09:50.84,0:09:51.95,Default,,0,0,0,,{\an8}Hey!
+Dialogue: 20,0:09:50.82,0:09:51.95,Default,,0,0,0,,{\an8}Hey!
 Dialogue: 20,0:09:51.95,0:09:54.82,Default,,0,0,0,,Koyomi! Where have you been?!
-Dialogue: 20,0:09:59.13,0:10:03.35,Default,,0,0,0,,Senpai, don't worry me like that!
-Dialogue: 20,0:10:03.35,0:10:04.50,Default,,0,0,0,,Sorry.
+Dialogue: 20,0:09:59.12,0:10:03.33,Default,,0,0,0,,Senpai, don't worry me like that!
+Dialogue: 20,0:10:03.33,0:10:04.50,Default,,0,0,0,,Sorry.
 Dialogue: 20,0:10:04.50,0:10:06.21,Default,,0,0,0,,Huh? That's all?
-Dialogue: 20,0:10:06.77,0:10:08.37,Default,,0,0,0,,Did something happen?
-Dialogue: 20,0:10:08.97,0:10:10.71,Default,,0,0,0,,That was you guys?
-Dialogue: 20,0:10:13.04,0:10:15.50,Default,,0,0,0,,That was your atrocious fighting?
+Dialogue: 20,0:10:06.75,0:10:08.38,Default,,0,0,0,,Did something happen?
+Dialogue: 20,0:10:08.96,0:10:10.71,Default,,0,0,0,,That was you guys?
+Dialogue: 20,0:10:13.05,0:10:15.51,Default,,0,0,0,,That was your atrocious fighting?
 Comment: 0,0:10:15.97,0:10:15.97,Default,chapter,0,0,0,,{Part B}
 Dialogue: 20,0:10:16.68,0:10:18.01,Default,,0,0,0,,Atrocious?
-Dialogue: 20,0:10:18.02,0:10:22.89,Default,,0,0,0,,Knight, please don't be\Nso rude right off the bat.
+Dialogue: 20,0:10:18.01,0:10:22.89,Default,,0,0,0,,Knight, please don't be\Nso rude right off the bat.
 Dialogue: 20,0:10:22.89,0:10:24.73,Default,,0,0,0,,Who the hell are you?
 Dialogue: 20,0:10:24.73,0:10:27.86,Default,,0,0,0,,We're the Gridknight Alliance.
 Dialogue: 20,0:10:30.28,0:10:33.53,Default,,0,0,0,,Uh, the name's not important though.
 Dialogue: 20,0:10:33.53,0:10:34.74,Default,,0,0,0,,What the hell?
 Dialogue: 20,0:10:34.74,0:10:39.74,Default,,0,0,0,,We protect the world\Nfrom the threat of kaiju!
-Dialogue: 20,0:10:39.74,0:10:42.72,Default,,0,0,0,,Protect the world... from kaiju?
-Dialogue: 20,0:10:42.72,0:10:45.50,Default,,0,0,0,,How's that purple guy involved?
+Dialogue: 20,0:10:39.74,0:10:42.71,Default,,0,0,0,,Protect the world... from kaiju?
+Dialogue: 20,0:10:42.71,0:10:45.50,Default,,0,0,0,,How's that purple guy involved?
 Dialogue: 20,0:10:45.50,0:10:47.75,Default,,0,0,0,,That would be me.
-Dialogue: 20,0:10:48.74,0:10:53.56,Default,,0,0,0,,Huh? You mean, you become that?\NYou transform?
-Dialogue: 20,0:10:53.56,0:10:56.51,Default,,0,0,0,,Whoa. Talk about fantasy.
-Dialogue: 20,0:10:56.51,0:11:01.46,Default,,0,0,0,,I thought that red guy was\Na kaiju, but I guess not.
-Dialogue: 20,0:11:01.46,0:11:03.84,Default,,0,0,0,,Your ragtag crew got wrecked.
-Dialogue: 20,0:11:03.84,0:11:06.11,Default,,0,0,0,,You mean, Dynazenon?
-Dialogue: 20,0:11:06.11,0:11:09.01,Default,,0,0,0,,Dynazenon. That's its name?
-Dialogue: 20,0:11:09.01,0:11:12.51,Default,,0,0,0,,So? Did you come to fight kaiju?
-Dialogue: 20,0:11:12.51,0:11:17.34,Default,,0,0,0,,That's right! Which is why\Nwe want to cooperate with you.
-Dialogue: 20,0:11:17.34,0:11:18.24,Default,,0,0,0,,Cooperate?
-Dialogue: 20,0:11:18.24,0:11:20.36,Default,,0,0,0,,Yup! And speaking of which...
+Dialogue: 20,0:10:48.75,0:10:53.55,Default,,0,0,0,,Huh? You mean, you become that?\NYou transform?
+Dialogue: 20,0:10:53.55,0:10:56.51,Default,,0,0,0,,Whoa. Talk about fantasy.
+Dialogue: 20,0:10:56.51,0:11:01.47,Default,,0,0,0,,I thought that red guy was\Na kaiju, but I guess not.
+Dialogue: 20,0:11:01.47,0:11:03.85,Default,,0,0,0,,Your ragtag crew got wrecked.
+Dialogue: 20,0:11:03.85,0:11:06.10,Default,,0,0,0,,You mean, Dynazenon?
+Dialogue: 20,0:11:06.10,0:11:09.02,Default,,0,0,0,,Dynazenon. That's its name?
+Dialogue: 20,0:11:09.02,0:11:12.53,Default,,0,0,0,,So? Did you come to fight kaiju?
+Dialogue: 20,0:11:12.53,0:11:17.32,Default,,0,0,0,,That's right! Which is why\Nwe want to cooperate with you.
+Dialogue: 20,0:11:17.32,0:11:18.24,Default,,0,0,0,,Cooperate?
+Dialogue: 20,0:11:18.24,0:11:20.37,Default,,0,0,0,,Yup! And speaking of which...
 Dialogue: 20,0:11:21.29,0:11:23.50,Default,,0,0,0,,We can use this Fixer—
 Dialogue: 20,0:11:23.50,0:11:24.54,Default,,0,0,0,,We refuse!
-Dialogue: 20,0:11:26.29,0:11:27.52,Default,,0,0,0,,Huh?
-Dialogue: 20,0:11:27.52,0:11:33.27,Default,,0,0,0,,These guys are shady as hell.\NThey roll up on us out of nowhere?
-Dialogue: 20,0:11:33.27,0:11:35.45,Default,,0,0,0,,You're one to talk.
-Dialogue: 20,0:11:35.45,0:11:36.80,Default,,0,0,0,,I see.
-Dialogue: 20,0:11:37.28,0:11:43.05,Default,,0,0,0,,I'd rather not work with the wounded.\NYou'll only hold me back.
-Dialogue: 20,0:11:43.05,0:11:44.06,Default,,0,0,0,,Say what?
+Dialogue: 20,0:11:26.29,0:11:27.50,Default,,0,0,0,,Huh?
+Dialogue: 20,0:11:27.50,0:11:33.26,Default,,0,0,0,,These guys are shady as hell.\NThey roll up on us out of nowhere?
+Dialogue: 20,0:11:33.26,0:11:35.47,Default,,0,0,0,,You're one to talk.
+Dialogue: 20,0:11:35.47,0:11:36.80,Default,,0,0,0,,I see.
+Dialogue: 20,0:11:37.26,0:11:43.06,Default,,0,0,0,,I'd rather not work with the wounded.\NYou'll only hold me back.
+Dialogue: 20,0:11:43.06,0:11:44.06,Default,,0,0,0,,Say what?
 Dialogue: 20,0:11:44.06,0:11:46.06,Default,,0,0,0,,I'm stating the truth.
-Dialogue: 20,0:11:46.42,0:11:52.44,Default,,0,0,0,,Which is it? You wanna cooperate with us,\Nor are you picking a fight?
-Dialogue: 20,0:11:52.44,0:11:54.51,Default,,0,0,0,,I see what you're saying.
-Dialogue: 20,0:11:55.95,0:11:59.88,Default,,0,0,0,,Let's go, Knight... For now.
-Dialogue: 20,0:11:59.88,0:12:00.50,Default,,0,0,0,,Right.
-Dialogue: 20,0:12:02.83,0:12:06.99,Default,,0,0,0,,What's up with them?\NGet on the same page first.
-Dialogue: 20,0:12:06.99,0:12:13.42,Default,,0,0,0,,Was that smart, Gauma? Dynazenon's broken,\Nso shouldn't we fight together?
-Dialogue: 20,0:12:15.50,0:12:21.05,Default,,0,0,0,,Dynazenon. When kaiju appear\Nin a world, so does opposition—
-Dialogue: 20,0:12:21.05,0:12:24.45,Default,,0,0,0,,like antibodies that rise to defend it.
-Dialogue: 20,0:12:24.45,0:12:29.97,Default,,0,0,0,,Yeah. But it seems pretty obvious\Nthat they're not bad people.
-Dialogue: 20,0:12:29.97,0:12:33.46,Default,,0,0,0,,I just want to make sure of it.
+Dialogue: 20,0:11:46.44,0:11:52.44,Default,,0,0,0,,Which is it? You wanna cooperate with us,\Nor are you picking a fight?
+Dialogue: 20,0:11:52.44,0:11:54.53,Default,,0,0,0,,I see what you're saying.
+Dialogue: 20,0:11:55.95,0:11:59.87,Default,,0,0,0,,Let's go, Knight... For now.
+Dialogue: 20,0:11:59.87,0:12:00.49,Default,,0,0,0,,Right.
+Dialogue: 20,0:12:02.83,0:12:07.00,Default,,0,0,0,,What's up with them?\NGet on the same page first.
+Dialogue: 20,0:12:07.00,0:12:13.42,Default,,0,0,0,,Was that smart, Gauma? Dynazenon's broken,\Nso shouldn't we fight together?
+Dialogue: 20,0:12:15.51,0:12:21.05,Default,,0,0,0,,Dynazenon. When kaiju appear\Nin a world, so does opposition—
+Dialogue: 20,0:12:21.05,0:12:24.43,Default,,0,0,0,,like antibodies that rise to defend it.
+Dialogue: 20,0:12:24.43,0:12:29.98,Default,,0,0,0,,Yeah. But it seems pretty obvious\Nthat they're not bad people.
+Dialogue: 20,0:12:29.98,0:12:33.44,Default,,0,0,0,,I just want to make sure of it.
 Dialogue: 20,0:12:34.48,0:12:37.61,Default,,0,0,0,,It doesn't heal with time after all.
-Dialogue: 20,0:12:39.98,0:12:41.42,Default,,0,0,0,,Gauma.
-Dialogue: 20,0:12:41.42,0:12:42.15,Default,,0,0,0,,Mmm?
-Dialogue: 20,0:12:42.71,0:12:47.33,Default,,0,0,0,,Earlier, I went to save someone...
+Dialogue: 20,0:12:39.99,0:12:41.41,Default,,0,0,0,,Gauma.
+Dialogue: 20,0:12:41.41,0:12:42.16,Default,,0,0,0,,Mmm?
+Dialogue: 20,0:12:42.70,0:12:47.33,Default,,0,0,0,,Earlier, I went to save someone...
 Dialogue: 20,0:12:47.33,0:12:50.33,Default,,0,0,0,,A person I think I hate.
-Dialogue: 20,0:12:50.33,0:12:53.47,Default,,0,0,0,,I see. Good on you.
-Dialogue: 20,0:12:55.99,0:12:58.63,Default,,0,0,0,,Somebody once told me something:
-Dialogue: 20,0:12:59.35,0:13:04.01,Default,,0,0,0,,"It's best to live honestly\Nwith your feelings."
-Dialogue: 20,0:13:04.47,0:13:08.19,Default,,0,0,0,,Was it the same person\Nyou're searching for?
-Dialogue: 20,0:13:08.73,0:13:09.84,Default,,0,0,0,,Yeah.
-Dialogue: 20,0:13:10.36,0:13:11.98,Default,,0,0,0,,What kind of person was she?
+Dialogue: 20,0:12:50.33,0:12:53.46,Default,,0,0,0,,I see. Good on you.
+Dialogue: 20,0:12:56.01,0:12:58.63,Default,,0,0,0,,Somebody once told me something:
+Dialogue: 20,0:12:59.34,0:13:04.01,Default,,0,0,0,,"It's best to live honestly\Nwith your feelings."
+Dialogue: 20,0:13:04.47,0:13:08.18,Default,,0,0,0,,Was it the same person\Nyou're searching for?
+Dialogue: 20,0:13:08.73,0:13:09.85,Default,,0,0,0,,Yeah.
+Dialogue: 20,0:13:10.35,0:13:11.98,Default,,0,0,0,,What kind of person was she?
 Dialogue: 20,0:13:12.48,0:13:16.40,Default,,0,0,0,,Someone who lived\Nin a world I couldn't reach.
-Dialogue: 20,0:13:17.20,0:13:18.40,Default,,0,0,0,,And...
+Dialogue: 20,0:13:17.19,0:13:18.40,Default,,0,0,0,,And...
 Dialogue: 20,0:13:18.40,0:13:19.49,Default,,0,0,0,,And?
 Dialogue: 20,0:13:20.20,0:13:21.99,Default,,0,0,0,,A total beauty.
 Dialogue: 20,0:13:22.82,0:13:27.16,Default,,0,0,0,,She's the one who entrusted\NDynazenon to you?
-Dialogue: 20,0:13:28.11,0:13:29.29,Default,,0,0,0,,Cool, right?
-Dialogue: 20,0:13:33.01,0:13:34.10,Default,,0,0,0,,Sure is.
-Dialogue: 20,0:13:38.78,0:13:41.62,Default,,0,0,0,,I wonder what Gauma plans to do.
-Dialogue: 20,0:13:41.62,0:13:44.30,Default,,0,0,0,,We can't exactly fight kaiju like this.
-Dialogue: 20,0:13:47.80,0:13:49.93,Default,,0,0,0,,You always carry that, huh?
-Dialogue: 20,0:13:55.45,0:13:56.47,Default,,0,0,0,,Are you hot?
+Dialogue: 20,0:13:28.12,0:13:29.29,Default,,0,0,0,,Cool, right?
+Dialogue: 20,0:13:33.00,0:13:34.08,Default,,0,0,0,,Sure is.
+Dialogue: 20,0:13:38.80,0:13:41.63,Default,,0,0,0,,I wonder what Gauma plans to do.
+Dialogue: 20,0:13:41.63,0:13:44.30,Default,,0,0,0,,We can't exactly fight kaiju like this.
+Dialogue: 20,0:13:47.81,0:13:49.93,Default,,0,0,0,,You always carry that, huh?
+Dialogue: 20,0:13:55.44,0:13:56.48,Default,,0,0,0,,Are you hot?
 Dialogue: 20,0:13:57.65,0:13:59.57,Default,,0,0,0,,Maybe I'll go buy something.
-Dialogue: 20,0:14:01.57,0:14:02.35,Default,,0,0,0,,This...
-Dialogue: 20,0:14:03.75,0:14:05.07,Default,,0,0,0,,It was Kano's.
-Dialogue: 20,0:14:08.09,0:14:11.04,Default,,0,0,0,,I always wanted to play with it.
+Dialogue: 20,0:14:01.57,0:14:02.36,Default,,0,0,0,,This...
+Dialogue: 20,0:14:03.74,0:14:05.07,Default,,0,0,0,,It was Kano's.
+Dialogue: 20,0:14:08.08,0:14:11.04,Default,,0,0,0,,I always wanted to play with it.
 Dialogue: 20,0:14:12.92,0:14:15.67,Default,,0,0,0,,Kano! Can I try it, too?
-Dialogue: 20,0:14:16.17,0:14:18.06,Default,,0,0,0,,You're never getting it.
-Dialogue: 20,0:14:19.34,0:14:20.39,Default,,0,0,0,,When Kano...
-Dialogue: 20,0:14:21.79,0:14:26.10,Default,,0,0,0,,When my sister and I were little,\Nwe got along just fine.
-Dialogue: 20,0:14:26.62,0:14:29.70,Default,,0,0,0,,But before long, we grew apart.
-Dialogue: 20,0:14:30.28,0:14:33.30,Default,,0,0,0,,Even at home, I hardly saw her smile.
+Dialogue: 20,0:14:16.17,0:14:18.05,Default,,0,0,0,,You're never getting it.
+Dialogue: 20,0:14:19.34,0:14:20.38,Default,,0,0,0,,When Kano...
+Dialogue: 20,0:14:21.80,0:14:26.10,Default,,0,0,0,,When my sister and I were little,\Nwe got along just fine.
+Dialogue: 20,0:14:26.64,0:14:29.68,Default,,0,0,0,,But before long, we grew apart.
+Dialogue: 20,0:14:30.27,0:14:33.31,Default,,0,0,0,,Even at home, I hardly saw her smile.
 Dialogue: 20,0:14:34.31,0:14:40.03,Default,,0,0,0,,So when I saw her in that video\Nsmiling and having fun in chorus club,
-Dialogue: 20,0:14:40.75,0:14:42.66,Default,,0,0,0,,it kinda surprised me.
-Dialogue: 20,0:14:43.59,0:14:49.58,Default,,0,0,0,,But the one time she invited me\Nto her recital, she was smiling.
-Dialogue: 20,0:14:50.74,0:14:53.09,Default,,0,0,0,,I don't know why, but...
-Dialogue: 20,0:14:53.57,0:15:00.03,Default,,0,0,0,,I thought, maybe she wanted to\Nget along again like we had in the past.
-Dialogue: 20,0:15:00.82,0:15:04.26,Default,,0,0,0,,But that was the last time I saw her.
-Dialogue: 20,0:15:04.75,0:15:07.27,Default,,0,0,0,,If Kano was really bullied...
-Dialogue: 20,0:15:07.78,0:15:09.79,Default,,0,0,0,,If she really committed suicide...
-Dialogue: 20,0:15:10.50,0:15:15.32,Default,,0,0,0,,I wonder why she smiled at me that day?
-Dialogue: 20,0:15:15.32,0:15:19.27,Default,,0,0,0,,I honestly have no idea.
-Dialogue: 20,0:15:19.63,0:15:23.13,Default,,0,0,0,,I guess I know nothing about Kano.
-Dialogue: 20,0:15:26.72,0:15:27.89,Default,,0,0,0,,Hmm?
+Dialogue: 20,0:14:40.73,0:14:42.65,Default,,0,0,0,,it kinda surprised me.
+Dialogue: 20,0:14:43.57,0:14:49.58,Default,,0,0,0,,But the one time she invited me\Nto her recital, she was smiling.
+Dialogue: 20,0:14:50.74,0:14:53.08,Default,,0,0,0,,I don't know why, but...
+Dialogue: 20,0:14:53.58,0:15:00.05,Default,,0,0,0,,I thought, maybe she wanted to\Nget along again like we had in the past.
+Dialogue: 20,0:15:00.84,0:15:04.26,Default,,0,0,0,,But that was the last time I saw her.
+Dialogue: 20,0:15:04.76,0:15:07.26,Default,,0,0,0,,If Kano was really bullied...
+Dialogue: 20,0:15:07.76,0:15:10.01,Default,,0,0,0,,If she really committed suicide...
+Dialogue: 20,0:15:10.51,0:15:15.31,Default,,0,0,0,,I wonder why she smiled at me that day?
+Dialogue: 20,0:15:15.31,0:15:19.27,Default,,0,0,0,,I honestly have no idea.
+Dialogue: 20,0:15:19.65,0:15:23.11,Default,,0,0,0,,I guess I know nothing about Kano.
+Dialogue: 20,0:15:26.74,0:15:27.91,Default,,0,0,0,,Hmm?
 Dialogue: 20,0:15:30.91,0:15:31.79,Default,,0,0,0,,Hmm?
-Dialogue: 20,0:15:32.23,0:15:34.08,Default,,0,0,0,,Uh, sorry.
-Dialogue: 20,0:15:36.24,0:15:38.04,Default,,0,0,0,,Why are you crying?
-Dialogue: 20,0:15:38.53,0:15:41.67,Default,,0,0,0,,I don't know. I really don't know.
-Dialogue: 20,0:15:42.81,0:15:47.61,Default,,0,0,0,,But you still don't know\Nif it was suicide or not.
-Dialogue: 20,0:15:48.79,0:15:52.19,Default,,0,0,0,,You still don't know why she was smiling.
+Dialogue: 20,0:15:32.24,0:15:34.08,Default,,0,0,0,,Uh, sorry.
+Dialogue: 20,0:15:36.25,0:15:38.04,Default,,0,0,0,,Why are you crying?
+Dialogue: 20,0:15:38.54,0:15:41.67,Default,,0,0,0,,I don't know. I really don't know.
+Dialogue: 20,0:15:42.80,0:15:47.59,Default,,0,0,0,,But you still don't know\Nif it was suicide or not.
+Dialogue: 20,0:15:48.80,0:15:52.18,Default,,0,0,0,,You still don't know why she was smiling.
 Dialogue: 20,0:15:52.81,0:15:55.56,Default,,0,0,0,,Let's keep investigating more.
-Dialogue: 20,0:15:56.93,0:15:59.78,Default,,0,0,0,,But she was just a stranger to you.
-Dialogue: 20,0:16:00.56,0:16:02.72,Default,,0,0,0,,She was your sister.
+Dialogue: 20,0:15:56.94,0:15:59.77,Default,,0,0,0,,But she was just a stranger to you.
+Dialogue: 20,0:16:00.56,0:16:02.73,Default,,0,0,0,,She was your sister.
 Dialogue: 20,0:16:03.28,0:16:07.32,Default,,0,0,0,,If she was a part of you,\Nshe's not some stranger.
-Dialogue: 20,0:16:13.35,0:16:14.11,Default,,0,0,0,,What?
-Dialogue: 20,0:16:15.27,0:16:16.72,Default,,0,0,0,,Your face.
-Dialogue: 20,0:16:17.21,0:16:18.19,Default,,0,0,0,,S-Sorry.
-Dialogue: 20,0:16:19.40,0:16:21.70,Default,,0,0,0,,Talk about a runny nose.
-Dialogue: 20,0:16:21.70,0:16:24.62,Default,,0,0,0,,I know. It's a snotty mess.
-Dialogue: 20,0:16:26.44,0:16:27.83,Default,,0,0,0,,Yomogi.
-Dialogue: 20,0:16:27.83,0:16:29.09,Default,,0,0,0,,Yeah?
-Dialogue: 20,0:16:31.20,0:16:32.26,Default,,0,0,0,,Thanks.
-Dialogue: 20,0:16:35.85,0:16:37.88,Default,,0,0,0,,I'll get us some ice cream.
-Dialogue: 20,0:16:38.49,0:16:40.85,Default,,0,0,0,,Wait. I'll come, too.
+Dialogue: 20,0:16:13.37,0:16:14.12,Default,,0,0,0,,What?
+Dialogue: 20,0:16:15.29,0:16:16.71,Default,,0,0,0,,Your face.
+Dialogue: 20,0:16:17.21,0:16:18.21,Default,,0,0,0,,S-Sorry.
+Dialogue: 20,0:16:19.42,0:16:21.71,Default,,0,0,0,,Talk about a runny nose.
+Dialogue: 20,0:16:21.71,0:16:24.63,Default,,0,0,0,,I know. It's a snotty mess.
+Dialogue: 20,0:16:26.42,0:16:27.84,Default,,0,0,0,,Yomogi.
+Dialogue: 20,0:16:27.84,0:16:29.09,Default,,0,0,0,,Yeah?
+Dialogue: 20,0:16:31.22,0:16:32.26,Default,,0,0,0,,Thanks.
+Dialogue: 20,0:16:35.85,0:16:37.89,Default,,0,0,0,,I'll get us some ice cream.
+Dialogue: 20,0:16:38.48,0:16:40.85,Default,,0,0,0,,Wait. I'll come, too.
 Dialogue: 20,0:16:55.12,0:16:57.75,Default,,0,0,0,,You okay, Mujina? Need a break?
 Dialogue: 20,0:16:57.75,0:17:02.13,Default,,0,0,0,,I'm fine. I don't get tired\Nwhen connected to kaiju.
 Dialogue: 20,0:17:04.88,0:17:08.26,Default,,0,0,0,,Real kaiju users don't sleep.
@@ -335,67 +337,67 @@ Dialogue: 20,0:17:19.52,0:17:25.11,Default,,0,0,0,,It's the kaiju. Dynazenon's n
 Dialogue: 20,0:17:33.99,0:17:35.62,Default,,0,0,0,,Dynazenon!
 Dialogue: 20,0:17:35.62,0:17:37.08,Default,,0,0,0,,Battle—!
 Dialogue: 20,0:17:43.46,0:17:48.55,Default,,0,0,0,,Dynazenon! This time,\Nwe're gonna whoop your ragtag ass!
-Dialogue: 20,0:17:53.65,0:17:55.97,Default,,0,0,0,,{\i1}Your ragtag crew got wrecked.
+Dialogue: 20,0:17:53.64,0:17:55.97,Default,,0,0,0,,{\i1}Your ragtag crew got wrecked.
 Dialogue: 20,0:17:55.97,0:18:00.98,Default,,0,0,0,,{\i1}So what?! Being ragtag\Nis what brought us together!
-Dialogue: 20,0:18:03.52,0:18:05.59,Default,,0,0,0,,Still not sure about them?
-Dialogue: 20,0:18:06.33,0:18:08.23,Default,,0,0,0,,No. Let's do it.
-Dialogue: 20,0:18:21.81,0:18:23.37,Default,,0,0,0,,We don't need help.
-Dialogue: 20,0:18:23.76,0:18:26.88,Default,,0,0,0,,Don't get me wrong. It wasn't to help you.
-Dialogue: 20,0:18:28.56,0:18:31.72,Default,,0,0,0,,Knight Bursting Light Bomb!
+Dialogue: 20,0:18:03.52,0:18:05.61,Default,,0,0,0,,Still not sure about them?
+Dialogue: 20,0:18:06.32,0:18:08.23,Default,,0,0,0,,No. Let's do it.
+Dialogue: 20,0:18:21.83,0:18:23.37,Default,,0,0,0,,We don't need help.
+Dialogue: 20,0:18:23.75,0:18:26.88,Default,,0,0,0,,Don't get me wrong. It wasn't to help you.
+Dialogue: 20,0:18:28.55,0:18:31.72,Default,,0,0,0,,Knight Bursting Light Bomb!
 Dialogue: 20,0:18:31.72,0:18:32.97,Default,,0,0,0,,Something Beam!
-Dialogue: 20,0:18:43.33,0:18:46.36,Default,,0,0,0,,The kaiju's stronger than before.
+Dialogue: 20,0:18:43.31,0:18:46.36,Default,,0,0,0,,The kaiju's stronger than before.
 Dialogue: 20,0:18:46.36,0:18:49.23,Default,,0,0,0,,Knight, I'll use Fixer Beam!
 Dialogue: 20,0:18:49.23,0:18:52.49,Default,,0,0,0,,You sure? We only have one.
 Dialogue: 20,0:18:52.49,0:18:54.99,Default,,0,0,0,,That's why I'm using it now!
 Dialogue: 20,0:18:54.99,0:18:59.74,Default,,0,0,0,,Dynazenon! It's time to\Nget your power back!
-Dialogue: 20,0:19:05.43,0:19:07.15,Default,,0,0,0,,Dynazenon healed!
-Dialogue: 20,0:19:07.15,0:19:09.38,Default,,0,0,0,,Huh? How?
+Dialogue: 20,0:19:05.42,0:19:07.17,Default,,0,0,0,,Dynazenon healed!
+Dialogue: 20,0:19:07.17,0:19:09.38,Default,,0,0,0,,Huh? How?
 Dialogue: 20,0:19:10.09,0:19:13.17,Default,,0,0,0,,Now we can fight to our heart's content!
-Dialogue: 20,0:19:26.48,0:19:31.58,Default,,0,0,0,,There's two of them and two of us!\NThere's no excuse to lose!
-Dialogue: 20,0:19:31.58,0:19:34.73,Default,,0,0,0,,Right! We won't be beat!
+Dialogue: 20,0:19:26.48,0:19:31.57,Default,,0,0,0,,There's two of them and two of us!\NThere's no excuse to lose!
+Dialogue: 20,0:19:31.57,0:19:34.74,Default,,0,0,0,,Right! We won't be beat!
 Dialogue: 20,0:19:54.67,0:19:58.18,Default,,0,0,0,,Gridknight Circular!
-Dialogue: 20,0:19:58.18,0:19:59.75,Default,,0,0,0,,Dyna Saber!
+Dialogue: 20,0:19:58.18,0:19:59.76,Default,,0,0,0,,Dyna Saber!
 Dialogue: 20,0:20:03.56,0:20:05.77,Default,,0,0,0,,Knight Circular End!
-Dialogue: 20,0:20:04.35,0:20:05.77,Default,,0,0,0,,{\an8}Big Blade Strike!
-Dialogue: 20,0:20:14.34,0:20:16.76,Default,,0,0,0,,If not for the irregular, we had that.
-Dialogue: 20,0:20:17.24,0:20:21.31,Default,,0,0,0,,Irregulars come because of kaiju.\NIt's a good omen.
-Dialogue: 20,0:20:22.52,0:20:26.41,Default,,0,0,0,,Next time... Next time,\Nwe'll do even better.
-Dialogue: 20,0:20:28.57,0:20:29.92,Default,,0,0,0,,You know it.
+Dialogue: 20,0:20:04.35,0:20:05.77,Alt,,0,0,0,,Big Blade Strike!
+Dialogue: 20,0:20:14.36,0:20:16.78,Default,,0,0,0,,If not for the irregular, we had that.
+Dialogue: 20,0:20:17.24,0:20:21.32,Default,,0,0,0,,Irregulars come because of kaiju.\NIt's a good omen.
+Dialogue: 20,0:20:22.53,0:20:26.41,Default,,0,0,0,,Next time... Next time,\Nwe'll do even better.
+Dialogue: 20,0:20:28.58,0:20:29.92,Default,,0,0,0,,You know it.
 Dialogue: 20,0:20:30.33,0:20:33.17,Default,,0,0,0,,You saved our asses! Uh...
-Dialogue: 20,0:20:33.17,0:20:36.70,Default,,0,0,0,,This is Knight. Gridknight.
-Dialogue: 20,0:20:37.12,0:20:39.43,Default,,0,0,0,,And me, I'm the Second.
-Dialogue: 20,0:20:39.43,0:20:41.23,Default,,0,0,0,,The Second?
-Dialogue: 20,0:20:41.23,0:20:42.01,Default,,0,0,0,,Of what?
+Dialogue: 20,0:20:33.17,0:20:36.72,Default,,0,0,0,,This is Knight. Gridknight.
+Dialogue: 20,0:20:37.13,0:20:39.43,Default,,0,0,0,,And me, I'm the Second.
+Dialogue: 20,0:20:39.43,0:20:41.22,Default,,0,0,0,,The Second?
+Dialogue: 20,0:20:41.22,0:20:42.01,Default,,0,0,0,,Of what?
 Dialogue: 20,0:20:42.01,0:20:45.64,Default,,0,0,0,,I've gotta say thanks\Nfor healing Dynazenon—!
-Dialogue: 20,0:20:47.96,0:20:49.64,Default,,0,0,0,,Keep your hands to yourself.
-Dialogue: 20,0:20:51.05,0:20:52.65,Default,,0,0,0,,Sorry.
+Dialogue: 20,0:20:47.98,0:20:49.64,Default,,0,0,0,,Keep your hands to yourself.
+Dialogue: 20,0:20:51.06,0:20:52.65,Default,,0,0,0,,Sorry.
 Dialogue: 20,0:20:53.90,0:20:56.03,Default,,0,0,0,,Until next time, guys!
-Dialogue: 20,0:20:59.71,0:21:01.97,Default,,0,0,0,,Shoot! It's this late?!
-Dialogue: 20,0:21:01.97,0:21:03.37,Default,,0,0,0,,Going somewhere?
-Dialogue: 20,0:21:03.37,0:21:04.77,Default,,0,0,0,,To school!
-Dialogue: 20,0:21:04.77,0:21:07.79,Default,,0,0,0,,Let's hurry. We might make it.
-Dialogue: 20,0:21:08.17,0:21:10.31,Default,,0,0,0,,Access Mode... Dyna Wing!
-Dialogue: 20,0:21:15.27,0:21:18.67,Default,,0,0,0,,{\i1}He said that you saved him! Thank you!
-Dialogue: 20,0:21:19.03,0:21:23.62,Default,,0,0,0,,{\i1}It helped us realize we should\Nvalue each other more.
-Dialogue: 20,0:21:24.63,0:21:25.50,Default,,0,0,0,,Mmm.
-Dialogue: 20,0:21:25.50,0:21:28.81,Default,,0,0,0,,{\i1}Thanks so much! Until now, I didn't—
-Dialogue: 20,0:21:57.70,0:22:02.01,Default,,0,0,0,,Will you come along if I\Nlook into Kano some more?
-Dialogue: 20,0:22:02.01,0:22:04.92,Default,,0,0,0,,Yeah. What's the plan?
+Dialogue: 20,0:20:59.70,0:21:01.99,Default,,0,0,0,,Shoot! It's this late?!
+Dialogue: 20,0:21:01.99,0:21:03.37,Default,,0,0,0,,Going somewhere?
+Dialogue: 20,0:21:03.37,0:21:04.79,Default,,0,0,0,,To school!
+Dialogue: 20,0:21:04.79,0:21:07.79,Default,,0,0,0,,Let's hurry. We might make it.
+Dialogue: 20,0:21:08.16,0:21:10.29,Default,,0,0,0,,Access Mode... Dyna Wing!
+Dialogue: 20,0:21:15.25,0:21:18.67,Default,,0,0,0,,{\i1}He said that you saved him! Thank you!
+Dialogue: 20,0:21:19.05,0:21:23.64,Default,,0,0,0,,{\i1}It helped us realize we should\Nvalue each other more.
+Dialogue: 20,0:21:24.64,0:21:25.51,Default,,0,0,0,,Mmm.
+Dialogue: 20,0:21:25.51,0:21:28.81,Default,,0,0,0,,{\i1}Thanks so much! Until now, I didn't—
+Dialogue: 20,0:21:57.71,0:22:02.01,Default,,0,0,0,,Will you come along if I\Nlook into Kano some more?
+Dialogue: 20,0:22:02.01,0:22:04.93,Default,,0,0,0,,Yeah. What's the plan?
 Dialogue: 20,0:22:05.93,0:22:07.51,Default,,0,0,0,,I need to find this person—
-Dialogue: 20,0:22:08.05,0:22:09.98,Default,,0,0,0,,Futaba Senda.
+Dialogue: 20,0:22:08.06,0:22:09.98,Default,,0,0,0,,Futaba Senda.
 Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
-Dialogue: 0,0:22:10.35,0:22:16.64,ED,,0,0,0,,You were looking a little downcast and I wanted to have a chat
-Dialogue: 0,0:22:17.14,0:22:22.15,ED,,0,0,0,,So I tried walking a whole step closer alongside you
-Dialogue: 0,0:22:28.99,0:22:35.20,ED,,0,0,0,,The shadows were growing like a sundial's needle at sunset
-Dialogue: 0,0:22:35.66,0:22:42.84,ED,,0,0,0,,You were striding so fast I thought the season'd change
-Dialogue: 0,0:22:42.84,0:22:49.34,ED,,0,0,0,,I'd never put into words the real important stuff like love
-Dialogue: 0,0:22:49.34,0:22:55.43,ED,,0,0,0,,Blink and you'll miss it, but that's what I put my faith in
-Dialogue: 0,0:22:55.43,0:23:02.86,ED,,0,0,0,,Words of promise, my favourite flower, the treasure in my pocket
+Dialogue: 0,0:22:10.35,0:22:16.65,ED,,0,0,0,,You were looking a little downcast and I wanted to have a chat
+Dialogue: 0,0:22:17.15,0:22:22.15,ED,,0,0,0,,So I tried walking a whole step closer alongside you
+Dialogue: 0,0:22:28.99,0:22:35.21,ED,,0,0,0,,The shadows were growing like a sundial's needle at sunset
+Dialogue: 0,0:22:35.67,0:22:42.84,ED,,0,0,0,,You were striding so fast I thought the season'd change
+Dialogue: 0,0:22:42.84,0:22:49.35,ED,,0,0,0,,I'd never put into words the real important stuff like love
+Dialogue: 0,0:22:49.35,0:22:55.44,ED,,0,0,0,,Blink and you'll miss it, but that's what I put my faith in
+Dialogue: 0,0:22:55.44,0:23:02.86,ED,,0,0,0,,Words of promise, my favourite flower, the treasure in my pocket
 Dialogue: 0,0:23:02.86,0:23:09.03,ED,,0,0,0,,It seemed like you'd be torn away along with all those wonderful things
 Dialogue: 0,0:23:09.03,0:23:15.54,ED,,0,0,0,,So I started running, not knowing if I'd make it, your hand in mine
-Dialogue: 0,0:23:15.54,0:23:19.87,ED,,0,0,0,,This world probably isn't that vast
-Dialogue: 0,0:23:19.87,0:23:24.92,ED,,0,0,0,,So I took another step forward today
-Dialogue: 0,0:23:24.92,0:23:28.30,ED,,0,0,0,,It was ever so radiant
+Dialogue: 0,0:23:15.54,0:23:19.88,ED,,0,0,0,,This world probably isn't that vast
+Dialogue: 0,0:23:19.88,0:23:24.93,ED,,0,0,0,,So I took another step forward today
+Dialogue: 0,0:23:24.93,0:23:28.30,ED,,0,0,0,,It was ever so radiant
 Dialogue: 0,0:23:28.30,0:23:33.22,ED,,0,0,0,,Just like your smiling face
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TS BELOW HERE
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
@@ -409,150 +411,150 @@ Dialogue: 2,0:05:05.45,0:05:08.45,Sign,,0,0,0,,{\1c&H484848&\be3\fs50\frz8.2\fnR
 Dialogue: 0,0:05:05.45,0:05:08.45,Sign,,0,0,0,,{\an7\blur10\c&HFFFFFF&\blur1\p1\pos(0,0)}m 985 244 l 508 313 516 380 993 315
 Dialogue: 2,0:05:05.45,0:05:08.45,Sign,,0,0,0,,{\1c&H484848&\be3\fs50\frz8.4\fnRoboto Regular\fscx80\pos(739.2,313.2)}Another rampaging kaiju
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\blur1.4\c&H381615&\b1\fs70\pos(1162,250)}Authorized Personnel Only{\c&H361412&}
-Comment: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\blur1.4\c&H33110F&\b1\fs70\pos(1162,250)}Authorized Personnel Only{\c&H311413&}
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(810,219,815,289)\pos(1162,250)\blur1.4\b1\fs70\c&H381615&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(815,219,820,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(820,219,825,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(825,219,830,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(830,219,835,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(835,219,840,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(840,219,845,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(845,219,850,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(850,219,855,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(855,219,860,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(860,219,865,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(865,219,870,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(870,219,875,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(875,219,880,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(880,219,885,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(885,219,890,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(890,219,895,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(895,219,900,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(900,219,905,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(905,219,910,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(910,219,915,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(915,219,920,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(920,219,925,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(925,219,930,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(930,219,935,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(935,219,940,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(940,219,945,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(945,219,950,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(950,219,955,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(955,219,960,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(960,219,965,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(965,219,970,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(970,219,975,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(975,219,980,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(980,219,985,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(985,219,990,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(990,219,995,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(995,219,1000,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1000,219,1005,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1005,219,1010,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1010,219,1015,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1015,219,1020,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1020,219,1025,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1025,219,1030,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1030,219,1035,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1035,219,1040,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1040,219,1045,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1045,219,1050,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1050,219,1055,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1055,219,1060,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1060,219,1065,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1065,219,1070,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1070,219,1075,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1075,219,1080,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1080,219,1085,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1085,219,1090,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1090,219,1095,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1095,219,1100,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1100,219,1105,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1105,219,1110,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1110,219,1115,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1115,219,1120,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1120,219,1125,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1125,219,1130,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1130,219,1135,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1135,219,1140,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1140,219,1145,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1145,219,1150,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1150,219,1155,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1155,219,1160,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1160,219,1165,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1165,219,1170,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1170,219,1175,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1175,219,1180,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1180,219,1185,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1185,219,1190,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1190,219,1195,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1195,219,1200,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1200,219,1205,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1205,219,1210,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1210,219,1215,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1215,219,1220,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1220,219,1225,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1225,219,1230,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1230,219,1235,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1235,219,1240,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1240,219,1245,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1245,219,1250,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1250,219,1255,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1255,219,1260,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1260,219,1265,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1265,219,1270,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1270,219,1275,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1275,219,1280,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1280,219,1285,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1285,219,1290,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1290,219,1295,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1295,219,1300,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1300,219,1305,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1305,219,1310,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1310,219,1315,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1315,219,1320,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1320,219,1325,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1325,219,1330,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1330,219,1335,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1335,219,1340,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1340,219,1345,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1345,219,1350,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1350,219,1355,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1355,219,1360,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1360,219,1365,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1365,219,1370,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1370,219,1375,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1375,219,1380,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1380,219,1385,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1385,219,1390,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1390,219,1395,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1395,219,1400,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1400,219,1405,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1405,219,1410,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1410,219,1415,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1415,219,1420,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1420,219,1425,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1425,219,1430,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1430,219,1435,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1435,219,1440,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1440,219,1445,289)\pos(1162,250)\blur1.4\b1\fs70\c&H331110&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1445,219,1450,289)\pos(1162,250)\blur1.4\b1\fs70\c&H331110&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1450,219,1455,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1455,219,1460,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1460,219,1465,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1465,219,1470,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1470,219,1475,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1475,219,1480,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1480,219,1485,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1485,219,1490,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1490,219,1495,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1495,219,1500,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1500,219,1505,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1505,219,1510,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\clip(1510,219,1515,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=5}{\pos(1162,180.5)\blur1.4\c&H27172D&\p1}m 0 0 l 700 0 700 70 0 70
-Dialogue: 1,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=3}{\c&H3D3B39&\fsp20\blur1.4\b1\pos(1170,183)}DO NOT ENTER
-Dialogue: 0,0:13:36.79,0:13:38.29,Sign,,0,0,0,,{=4}{\an4\c&H231715&\blur1.5\fs57\b1\pos(417,872.5)}JAPAN EXPRESSWAY
-Comment: 0,0:22:11.97,0:22:13.97,Default,,0,0,0,,
+Comment: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\blur1.4\c&H381615&\b1\fs70\pos(1162,250)}Authorized Personnel Only{\c&H361412&}
+Comment: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\blur1.4\c&H33110F&\b1\fs70\pos(1162,250)}Authorized Personnel Only{\c&H311413&}
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(810,219,815,289)\pos(1162,250)\blur1.4\b1\fs70\c&H381615&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(815,219,820,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(820,219,825,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(825,219,830,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(830,219,835,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(835,219,840,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(840,219,845,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(845,219,850,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(850,219,855,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(855,219,860,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(860,219,865,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(865,219,870,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(870,219,875,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(875,219,880,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(880,219,885,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(885,219,890,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(890,219,895,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(895,219,900,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(900,219,905,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(905,219,910,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(910,219,915,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(915,219,920,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(920,219,925,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(925,219,930,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(930,219,935,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(935,219,940,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(940,219,945,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(945,219,950,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(950,219,955,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(955,219,960,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(960,219,965,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(965,219,970,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(970,219,975,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(975,219,980,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(980,219,985,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(985,219,990,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(990,219,995,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(995,219,1000,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1000,219,1005,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1005,219,1010,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1010,219,1015,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1015,219,1020,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1020,219,1025,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1025,219,1030,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1030,219,1035,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1035,219,1040,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1040,219,1045,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1045,219,1050,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1050,219,1055,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1055,219,1060,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1060,219,1065,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1065,219,1070,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1070,219,1075,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1075,219,1080,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1080,219,1085,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1085,219,1090,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1090,219,1095,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1095,219,1100,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371514&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1100,219,1105,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1105,219,1110,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1110,219,1115,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1115,219,1120,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1120,219,1125,289)\pos(1162,250)\blur1.4\b1\fs70\c&H371513&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1125,219,1130,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1130,219,1135,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1135,219,1140,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1140,219,1145,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1145,219,1150,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1150,219,1155,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1155,219,1160,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1160,219,1165,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1165,219,1170,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1170,219,1175,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1175,219,1180,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1180,219,1185,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1185,219,1190,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1190,219,1195,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1195,219,1200,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1200,219,1205,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1205,219,1210,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1210,219,1215,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361413&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1215,219,1220,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1220,219,1225,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1225,219,1230,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1230,219,1235,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1235,219,1240,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1240,219,1245,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1245,219,1250,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1250,219,1255,289)\pos(1162,250)\blur1.4\b1\fs70\c&H361412&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1255,219,1260,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1260,219,1265,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1265,219,1270,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1270,219,1275,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1275,219,1280,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1280,219,1285,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1285,219,1290,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1290,219,1295,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1295,219,1300,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1300,219,1305,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351312&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1305,219,1310,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1310,219,1315,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1315,219,1320,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1320,219,1325,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1325,219,1330,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1330,219,1335,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1335,219,1340,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1340,219,1345,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1345,219,1350,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1350,219,1355,289)\pos(1162,250)\blur1.4\b1\fs70\c&H351311&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1355,219,1360,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1360,219,1365,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1365,219,1370,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1370,219,1375,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1375,219,1380,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1380,219,1385,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341211&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1385,219,1390,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1390,219,1395,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1395,219,1400,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1400,219,1405,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1405,219,1410,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1410,219,1415,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1415,219,1420,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1420,219,1425,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1425,219,1430,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1430,219,1435,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1435,219,1440,289)\pos(1162,250)\blur1.4\b1\fs70\c&H341210&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1440,219,1445,289)\pos(1162,250)\blur1.4\b1\fs70\c&H331110&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1445,219,1450,289)\pos(1162,250)\blur1.4\b1\fs70\c&H331110&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1450,219,1455,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1455,219,1460,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1460,219,1465,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1465,219,1470,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1470,219,1475,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1475,219,1480,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1480,219,1485,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1485,219,1490,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1490,219,1495,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1495,219,1500,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1500,219,1505,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1505,219,1510,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\clip(1510,219,1515,289)\pos(1162,250)\blur1.4\b1\fs70\c&H33110F&}Authorized Personnel Only
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=5}{\pos(1162,180.5)\blur1.4\c&H27172D&\p1}m 0 0 l 700 0 700 70 0 70
+Dialogue: 1,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=3}{\c&H3D3B39&\fsp20\blur1.4\b1\pos(1170,183)}DO NOT ENTER
+Dialogue: 0,0:13:36.80,0:13:38.30,Sign,,0,0,0,,{=4}{\an4\c&H231715&\blur1.5\fs57\b1\pos(417,872.5)}JAPAN EXPRESSWAY
+Comment: 0,0:22:11.98,0:22:13.98,Default,,0,0,0,,
