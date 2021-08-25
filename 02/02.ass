@@ -24,6 +24,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
 Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,100,100,0,1
+Style: Insert Song,Bahnschrift,60,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,7,22,22,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -343,6 +344,36 @@ Dialogue: 0,0:22:00.76,0:22:02.88,Default,,0,0,0,,Are those people the...?
 Dialogue: 0,0:22:03.17,0:22:06.64,Default,,0,0,0,,Yeah. The Kaiju Eugenicists.
 Dialogue: 0,0:22:07.28,0:22:09.93,Default,,0,0,0,,Kaiju users like me!
 Comment: 0,0:22:09.93,0:22:09.93,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:19:10.59,0:19:10.59,Insert Song,,0,0,0,,
+Comment: 0,0:19:10.59,0:19:10.59,Insert Song,,0,0,0,,{ALL THIS METAL insert song}
+Comment: 0,0:19:10.59,0:19:10.59,Insert Song,,0,0,0,,
+Dialogue: 0,0:19:15.88,0:19:17.18,Insert Song,,0,0,0,,Yeah
+Dialogue: 0,0:19:22.56,0:19:25.77,Insert Song,,0,0,0,,Just put your trust in me it's gonna work out alright
+Dialogue: 0,0:19:28.73,0:19:31.57,Insert Song,,0,0,0,,I can convince you even if it's gonna take all night
+Dialogue: 0,0:19:33.94,0:19:35.57,Insert Song,,0,0,0,,Cause there's something in my mind
+Dialogue: 0,0:19:35.57,0:19:37.07,Insert Song,,0,0,0,,I can picture inside me
+Dialogue: 0,0:19:37.07,0:19:38.49,Insert Song,,0,0,0,,It took away my breath
+Dialogue: 0,0:19:38.49,0:19:40.08,Insert Song,,0,0,0,,And my heart is breathing faster
+Dialogue: 0,0:19:40.08,0:19:41.49,Insert Song,,0,0,0,,It's chemistry at work
+Dialogue: 0,0:19:41.49,0:19:43.05,Insert Song,,0,0,0,,Whenever we're together
+Dialogue: 0,0:19:43.05,0:19:44.75,Insert Song,,0,0,0,,The sign
+Dialogue: 0,0:19:44.75,0:19:47.37,Insert Song,,0,0,0,,Something tells me that you're gonna fall
+Dialogue: 0,0:19:47.37,0:19:49.29,Insert Song,,0,0,0,,For my charms and my affection
+Dialogue: 0,0:19:49.29,0:19:50.75,Insert Song,,0,0,0,,Move in my direction
+Dialogue: 0,0:19:50.75,0:19:51.88,Insert Song,,0,0,0,,Let me show
+Dialogue: 0,0:19:51.88,0:19:53.38,Insert Song,,0,0,0,,I'm never wrong
+Dialogue: 0,0:19:53.38,0:19:55.05,Insert Song,,0,0,0,, I can tell this situation's
+Dialogue: 0,0:19:55.05,0:19:56.74,Insert Song,,0,0,0,,The one that we've been waiting
+Dialogue: 0,0:19:56.74,0:19:57.89,Insert Song,,0,0,0,,All this time
+Dialogue: 0,0:19:57.89,0:19:59.47,Insert Song,,0,0,0,,I see the signs
+Dialogue: 0,0:19:59.47,0:20:01.30,Insert Song,,0,0,0,,For my charms and my affection
+Dialogue: 0,0:20:01.30,0:20:02.85,Insert Song,,0,0,0,,Move in my direction
+Dialogue: 0,0:20:02.85,0:20:03.97,Insert Song,,0,0,0,,Let me show
+Dialogue: 0,0:20:03.97,0:20:05.52,Insert Song,,0,0,0,,I'm never wrong
+Dialogue: 0,0:20:05.52,0:20:07.07,Insert Song,,0,0,0,,I can tell the situation's
+Dialogue: 0,0:20:07.07,0:20:08.85,Insert Song,,0,0,0,,The one that we've been waiting
+Dialogue: 0,0:20:08.85,0:20:10.31,Insert Song,,0,0,0,,All this time, I know!
+Comment: 0,0:20:52.27,0:20:54.48,Insert Song,,0,0,0,,
 Comment: 0,0:22:09.80,0:22:11.80,Default,,0,0,0,,=====TS BELOW HERE=====
 Comment: 0,0:22:11.80,0:22:13.80,Default,,0,0,0,,=====Acheron Flood Gate=====
 Comment: 1,0:03:52.96,0:03:53.25,Sign,,0,0,0,Mask Base 1,{=2}{\pos(1292.535,422.135)\p1\blur2\c&H272425&}m 6.93 34.67 l 0 21.87 2.66 2.67 12.8 0 23.46 1.6 26.13 11.2 18.66 34.13
