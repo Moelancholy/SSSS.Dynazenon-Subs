@@ -15,9 +15,9 @@ Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 02 [4F2D916F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 678
-Active Line: 696
-Video Position: 26296
+Scroll Position: 257
+Active Line: 264
+Video Position: 25841
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -293,9 +293,9 @@ Dialogue: 0,0:17:49.29,0:17:51.01,Default,,0,0,0,,Um...
 Dialogue: 0,0:17:51.01,0:17:55.51,Default,,0,0,0,,Got it? Fight as three\Ntill I can get a good shot!
 Dialogue: 0,0:17:55.82,0:17:57.51,Default,,0,0,0,,Um...
 Dialogue: 0,0:17:57.76,0:17:58.64,Default,,0,0,0,,{=2}{\t(0,859,\fscx98,\fscy98)\move(240,430,266.22,433.85)}Got it.
-Dialogue: 0,0:17:57.76,0:17:58.64,Default,,0,0,0,,{=3}{\t(0,859,\fscx99,\fscy99)\move(1680,430,1651.95,433.37)}Okay.
+Dialogue: 0,0:17:57.76,0:17:58.64,Default,,0,0,0,,{=3}{\t(0,859,\fscx98.308,\fscy98.308)\move(1677.32,397,1651.76,401.97,25,859)}Okay.
 Dialogue: 0,0:17:58.21,0:18:01.02,Default,,0,0,0,,But I don't really know how to move yet.
-Dialogue: 0,0:17:58.64,0:18:01.01,Default,,0,0,0,,{=4}{\t(0,2357,\fscx89.86,\fscy89.86)\move(968,340,961.57,350.88,0,2357)}Good! Commence strategy! {Screw you style override, this release is hereby not compatible with default fonts that aren't gandhi sans}
+Dialogue: 0,0:17:58.64,0:18:01.01,Default,,0,0,0,,{=4}{\t(0,2357,\fscx91.218,\fscy91.218)\move(988,346.74,987.89,359.93,21,2357)}Good! Commence strategy! {Screw you style override, this release is hereby not compatible with default fonts that aren't gandhi sans} 
 Comment: 0,0:17:57.76,0:17:58.91,Default,,0,0,0,,{=2}{\pos(240,430)}Got it.
 Comment: 0,0:17:57.76,0:17:58.91,Default,,0,0,0,,{=3}{\pos(1690,430)}Okay.
 Comment: 0,0:17:58.12,0:18:01.02,Default,,0,0,0,,But I don't really know how to move yet.
