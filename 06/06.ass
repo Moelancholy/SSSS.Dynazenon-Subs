@@ -415,10 +415,10 @@ Dialogue: 10,0:18:35.47,0:18:37.97,Default,,0,0,0,,It takes two to control it.
 Dialogue: 10,0:18:37.97,0:18:41.14,Default,,0,0,0,,Do it. Change the world with kaiju.
 Dialogue: 10,0:18:45.35,0:18:47.90,Default,,0,0,0,,I feel like I finally get it.
 Dialogue: 10,0:18:49.78,0:18:51.78,Default,,0,0,0,,What's up with you guys?
-Dialogue: 10,0:18:52.17,0:18:52.77,Default,,0,0,0,,{\pos(260,960)}Nothing.
-Dialogue: 10,0:18:51.78,0:18:52.77,Default,,0,0,0,,{\pos(640,890)}Nothing.
-Dialogue: 10,0:18:51.78,0:18:52.77,Default,,0,0,0,,{\pos(1210,890)}Nothing.
-Dialogue: 10,0:18:52.17,0:18:52.77,Default,,0,0,0,,{\pos(1560,960)}Nothing.
+Dialogue: 10,0:18:52.17,0:18:52.77,Default,,-678,722,120,,Nothing.
+Dialogue: 10,0:18:51.78,0:18:52.77,Default,,-298,342,190,,Nothing.
+Dialogue: 10,0:18:51.78,0:18:52.77,Default,,272,-228,190,,Nothing.
+Dialogue: 10,0:18:52.17,0:18:52.77,Default,,622,-578,120,,Nothing.
 Dialogue: 10,0:18:53.86,0:18:56.53,Default,,0,0,0,,Whatever. Let's go!
 Dialogue: 10,0:18:57.16,0:19:00.04,Default,,0,0,0,,Access Mode... Dyna Soldier.
 Dialogue: 10,0:19:00.49,0:19:01.66,Default,,0,0,0,,Dyna Wing.

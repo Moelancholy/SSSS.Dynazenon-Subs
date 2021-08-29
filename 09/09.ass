@@ -128,8 +128,8 @@ Dialogue: 20,0:03:32.36,0:03:34.15,Default,,0,0,0,,It's my brother's birthday.
 Dialogue: 20,0:03:34.15,0:03:36.57,Default,,0,0,0,,I've got plans to go eat.
 Dialogue: 20,0:03:36.57,0:03:37.28,Default,,0,0,0,,Me, too.
 Dialogue: 20,0:03:37.70,0:03:39.78,Default,,0,0,0,,Why don't you two go?
-Dialogue: 20,0:03:42.37,0:03:43.29,Default,,0,0,0,,{\pos(1200,999)}No way.
-Dialogue: 20,0:03:42.37,0:03:43.29,Default,,0,0,0,,{\pos(500,999)}No way.
+Dialogue: 20,0:03:42.37,0:03:43.29,Default,,262,-218,81,,No way.
+Dialogue: 20,0:03:42.37,0:03:43.29,Default,,-438,482,81,,No way.
 Dialogue: 20,0:03:46.66,0:03:49.29,Default,,0,0,0,,Not interested in the festival?
 Dialogue: 20,0:03:49.29,0:03:52.55,Default,,0,0,0,,Huh? Uh, not really.
 Dialogue: 20,0:03:53.67,0:03:55.88,Default,,0,0,0,,I think I wanna go.
