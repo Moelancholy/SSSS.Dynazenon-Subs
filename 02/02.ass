@@ -292,14 +292,10 @@ Dialogue: 0,0:17:44.21,0:17:45.64,Default,,0,0,0,,Disperse!
 Dialogue: 0,0:17:49.29,0:17:51.01,Default,,0,0,0,,Um...
 Dialogue: 0,0:17:51.01,0:17:55.51,Default,,0,0,0,,Got it? Fight as three\Ntill I can get a good shot!
 Dialogue: 0,0:17:55.82,0:17:57.51,Default,,0,0,0,,Um...
-Dialogue: 0,0:17:57.76,0:17:58.64,Default,,0,0,0,,{=2}{\t(0,859,\fscx98,\fscy98)\move(240,430,266.22,433.85)}Got it.
-Dialogue: 0,0:17:57.76,0:17:58.64,Default,,0,0,0,,{=3}{\t(0,859,\fscx98.308,\fscy98.308)\move(1677.32,397,1651.76,401.97,25,859)}Okay.
+Comment: 0,0:17:57.76,0:17:58.64,Default,,0,0,0,,{=2}{\t(0,859,\fscx98,\fscy98)\move(204.75,432.48,230.68,435.16,25,859)}Got it. {lines moved to bottom of TS}
+Comment: 0,0:17:57.76,0:17:58.64,Default,,0,0,0,,{=3}{\t(0,859,\fscx98.308,\fscy98.308)\move(1677.32,397,1653.66,401.1,25,859)}Okay.
 Dialogue: 0,0:17:58.21,0:18:01.02,Default,,0,0,0,,But I don't really know how to move yet.
-Dialogue: 0,0:17:58.64,0:18:01.01,Default,,0,0,0,,{=4}{\t(0,2357,\fscx91.218,\fscy91.218)\move(988,346.74,987.89,359.93,21,2357)}Good! Commence strategy! {Screw you style override, this release is hereby not compatible with default fonts that aren't gandhi sans} 
-Comment: 0,0:17:57.76,0:17:58.91,Default,,0,0,0,,{=2}{\pos(240,430)}Got it.
-Comment: 0,0:17:57.76,0:17:58.91,Default,,0,0,0,,{=3}{\pos(1690,430)}Okay.
-Comment: 0,0:17:58.12,0:18:01.02,Default,,0,0,0,,But I don't really know how to move yet.
-Comment: 0,0:17:58.91,0:18:01.02,Default,,0,0,0,,{=4}{\pos(968,340)}Good! Commence strategy!
+Comment: 0,0:17:58.64,0:18:01.01,Default,,0,0,0,,{=4}{\t(0,2357,\fscx91.218,\fscy91.218)\move(990.24,346.98,988.63,361.91,21,2357)}Good! Commence strategy! {"wtf the motion tracking sucks". Yes. The original line is here. Pls fix and then I can put it in a patch or something.}
 Dialogue: 0,0:18:10.24,0:18:12.99,Default,,0,0,0,,C'mon, Yomogi! Move!
 Dialogue: 9,0:18:12.99,0:18:16.09,Default,,0,0,0,,Sorry! I'm not sure how!
 Dialogue: 9,0:18:17.43,0:18:20.25,Default,,0,0,0,,Shoot! It's a call from work!
@@ -831,7 +827,109 @@ Comment: 0,0:15:43.17,0:15:43.26,Sign,,0,0,0,Mask Clip,{\an7\fs80\blur1\clip(m 2
 Comment: 0,0:15:43.17,0:15:43.26,Sign,,0,0,0,Mask Clip,{=5}{\an7\fs80\shad1\blur0.6\clip(m 267 709 l 312 596 1264 1022 1217 1134)\fnSerangkaian Pattern\pos(289,545)\frz-22.1\c&HE2EFE9&\1a&H00&\4c&HEEE7F3&\4a&H00&}HHHHHHHHHHHHHHHH\NHHHHHHHHHHHHHHHH\NHHHHHHHHHHHHHHHH\NHHHHHHHHHHHHHHHHHHH
 Comment: 0,0:15:43.17,0:15:43.26,Sign,,0,0,0,,{\an7\c&HADA79F&\blur0.9\fs46\fnRoboto\fry-0.29\frx-0.55\frz-23.98\fax0.03\pos(308,637)\b0}Dai Jiro to judge the 32nd Computer Art & Photo Contest
 Dialogue: 0,0:15:43.84,0:15:44.92,Default,,0,0,0,,{\an8}"[Breaking] Another gigantic kaiju-like creature discovered in Tokyo."
-Comment: 0,0:22:11.80,0:22:13.80,Default,,0,0,0,,
+Comment: 0,0:22:11.80,0:22:13.80,Default,,0,0,0,,{Line 265)
+Dialogue: 0,0:17:57.76,0:17:57.81,Default,,0,0,0,,{=2}{\pos(204.75,432.48)\fscx99.95\fscy99.95}Got it.
+Dialogue: 0,0:17:57.81,0:17:57.85,Default,,0,0,0,,{=2}{\pos(205.93,432.6)\fscx99.86\fscy99.86}Got it.
+Dialogue: 0,0:17:57.85,0:17:57.89,Default,,0,0,0,,{=2}{\pos(207.24,432.74)\fscx99.76\fscy99.76}Got it.
+Dialogue: 0,0:17:57.89,0:17:57.93,Default,,0,0,0,,{=2}{\pos(208.51,432.87)\fscx99.66\fscy99.66}Got it.
+Dialogue: 0,0:17:57.93,0:17:57.97,Default,,0,0,0,,{=2}{\pos(209.82,433)\fscx99.56\fscy99.56}Got it.
+Dialogue: 0,0:17:57.97,0:17:58.02,Default,,0,0,0,,{=2}{\pos(211.12,433.14)\fscx99.47\fscy99.47}Got it.
+Dialogue: 0,0:17:58.02,0:17:58.06,Default,,0,0,0,,{=2}{\pos(212.43,433.27)\fscx99.37\fscy99.37}Got it.
+Dialogue: 0,0:17:58.06,0:17:58.10,Default,,0,0,0,,{=2}{\pos(213.7,433.41)\fscx99.27\fscy99.27}Got it.
+Dialogue: 0,0:17:58.10,0:17:58.14,Default,,0,0,0,,{=2}{\pos(215.01,433.54)\fscx99.17\fscy99.17}Got it.
+Dialogue: 0,0:17:58.14,0:17:58.18,Default,,0,0,0,,{=2}{\pos(216.32,433.68)\fscx99.08\fscy99.08}Got it.
+Dialogue: 0,0:17:58.18,0:17:58.22,Default,,0,0,0,,{=2}{\pos(217.59,433.81)\fscx98.98\fscy98.98}Got it.
+Dialogue: 0,0:17:58.22,0:17:58.27,Default,,0,0,0,,{=2}{\pos(218.9,433.94)\fscx98.88\fscy98.88}Got it.
+Dialogue: 0,0:17:58.27,0:17:58.31,Default,,0,0,0,,{=2}{\pos(220.2,434.08)\fscx98.79\fscy98.79}Got it.
+Dialogue: 0,0:17:58.31,0:17:58.35,Default,,0,0,0,,{=2}{\pos(221.51,434.21)\fscx98.69\fscy98.69}Got it.
+Dialogue: 0,0:17:58.35,0:17:58.39,Default,,0,0,0,,{=2}{\pos(222.78,434.34)\fscx98.59\fscy98.59}Got it.
+Dialogue: 0,0:17:58.39,0:17:58.43,Default,,0,0,0,,{=2}{\pos(224.09,434.48)\fscx98.49\fscy98.49}Got it.
+Dialogue: 0,0:17:58.43,0:17:58.47,Default,,0,0,0,,{=2}{\pos(225.39,434.61)\fscx98.4\fscy98.4}Got it.
+Dialogue: 0,0:17:58.47,0:17:58.52,Default,,0,0,0,,{=2}{\pos(226.67,434.75)\fscx98.3\fscy98.3}Got it.
+Dialogue: 0,0:17:58.52,0:17:58.56,Default,,0,0,0,,{=2}{\pos(227.98,434.88)\fscx98.2\fscy98.2}Got it.
+Dialogue: 0,0:17:58.56,0:17:58.60,Default,,0,0,0,,{=2}{\pos(229.28,435.02)\fscx98.1\fscy98.1}Got it.
+Dialogue: 0,0:17:58.60,0:17:58.64,Default,,0,0,0,,{=2}{\pos(230.56,435.15)\fscx98.01\fscy98.01}Got it.
+Comment: 0,0:22:13.80,0:22:16.80,Default,,0,0,0,,{line 266}
+Dialogue: 0,0:17:57.76,0:17:57.81,Default,,0,0,0,,{=3}{\pos(1677.32,397)\fscx99.96\fscy99.96}Okay.
+Dialogue: 0,0:17:57.81,0:17:57.85,Default,,0,0,0,,{=3}{\pos(1676.24,397.19)\fscx99.88\fscy99.88}Okay.
+Dialogue: 0,0:17:57.85,0:17:57.89,Default,,0,0,0,,{=3}{\pos(1675.05,397.39)\fscx99.79\fscy99.79}Okay.
+Dialogue: 0,0:17:57.89,0:17:57.93,Default,,0,0,0,,{=3}{\pos(1673.89,397.59)\fscx99.71\fscy99.71}Okay.
+Dialogue: 0,0:17:57.93,0:17:57.97,Default,,0,0,0,,{=3}{\pos(1672.7,397.8)\fscx99.63\fscy99.63}Okay.
+Dialogue: 0,0:17:57.97,0:17:58.02,Default,,0,0,0,,{=3}{\pos(1671.5,398.01)\fscx99.55\fscy99.55}Okay.
+Dialogue: 0,0:17:58.02,0:17:58.06,Default,,0,0,0,,{=3}{\pos(1670.31,398.21)\fscx99.47\fscy99.47}Okay.
+Dialogue: 0,0:17:58.06,0:17:58.10,Default,,0,0,0,,{=3}{\pos(1669.15,398.42)\fscx99.38\fscy99.38}Okay.
+Dialogue: 0,0:17:58.10,0:17:58.14,Default,,0,0,0,,{=3}{\pos(1667.96,398.62)\fscx99.3\fscy99.3}Okay.
+Dialogue: 0,0:17:58.14,0:17:58.18,Default,,0,0,0,,{=3}{\pos(1666.77,398.83)\fscx99.22\fscy99.22}Okay.
+Dialogue: 0,0:17:58.18,0:17:58.22,Default,,0,0,0,,{=3}{\pos(1665.6,399.03)\fscx99.14\fscy99.14}Okay.
+Dialogue: 0,0:17:58.22,0:17:58.27,Default,,0,0,0,,{=3}{\pos(1664.41,399.24)\fscx99.06\fscy99.06}Okay.
+Dialogue: 0,0:17:58.27,0:17:58.31,Default,,0,0,0,,{=3}{\pos(1663.22,399.44)\fscx98.97\fscy98.97}Okay.
+Dialogue: 0,0:17:58.31,0:17:58.35,Default,,0,0,0,,{=3}{\pos(1662.03,399.65)\fscx98.89\fscy98.89}Okay.
+Dialogue: 0,0:17:58.35,0:17:58.39,Default,,0,0,0,,{=3}{\pos(1660.87,399.85)\fscx98.81\fscy98.81}Okay.
+Dialogue: 0,0:17:58.39,0:17:58.43,Default,,0,0,0,,{=3}{\pos(1659.67,400.06)\fscx98.73\fscy98.73}Okay.
+Dialogue: 0,0:17:58.43,0:17:58.47,Default,,0,0,0,,{=3}{\pos(1658.48,400.26)\fscx98.64\fscy98.64}Okay.
+Dialogue: 0,0:17:58.47,0:17:58.52,Default,,0,0,0,,{=3}{\pos(1657.32,400.47)\fscx98.56\fscy98.56}Okay.
+Dialogue: 0,0:17:58.52,0:17:58.56,Default,,0,0,0,,{=3}{\pos(1656.13,400.67)\fscx98.48\fscy98.48}Okay.
+Dialogue: 0,0:17:58.56,0:17:58.60,Default,,0,0,0,,{=3}{\pos(1654.94,400.88)\fscx98.4\fscy98.4}Okay.
+Dialogue: 0,0:17:58.60,0:17:58.64,Default,,0,0,0,,{=3}{\pos(1653.77,401.08)\fscx98.32\fscy98.32}Okay.
+Comment: 0,0:22:16.80,0:22:19.80,Default,,0,0,0,,{line 268}
+Dialogue: 0,0:17:58.64,0:17:58.68,Default,,0,0,0,,{=4}{\pos(990.24,346.98)\fscx99.93\fscy99.93}Good! Commence strategy!
+Dialogue: 0,0:17:58.68,0:17:58.72,Default,,0,0,0,,{=4}{\pos(990.21,347.25)\fscx99.77\fscy99.77}Good! Commence strategy!
+Dialogue: 0,0:17:58.72,0:17:58.77,Default,,0,0,0,,{=4}{\pos(990.18,347.52)\fscx99.61\fscy99.61}Good! Commence strategy!
+Dialogue: 0,0:17:58.77,0:17:58.81,Default,,0,0,0,,{=4}{\pos(990.15,347.78)\fscx99.46\fscy99.46}Good! Commence strategy!
+Dialogue: 0,0:17:58.81,0:17:58.85,Default,,0,0,0,,{=4}{\pos(990.12,348.05)\fscx99.3\fscy99.3}Good! Commence strategy!
+Dialogue: 0,0:17:58.85,0:17:58.89,Default,,0,0,0,,{=4}{\pos(990.1,348.32)\fscx99.15\fscy99.15}Good! Commence strategy!
+Dialogue: 0,0:17:58.89,0:17:58.93,Default,,0,0,0,,{=4}{\pos(990.07,348.58)\fscx98.99\fscy98.99}Good! Commence strategy!
+Dialogue: 0,0:17:58.93,0:17:58.97,Default,,0,0,0,,{=4}{\pos(990.04,348.85)\fscx98.84\fscy98.84}Good! Commence strategy!
+Dialogue: 0,0:17:58.97,0:17:59.02,Default,,0,0,0,,{=4}{\pos(990.01,349.11)\fscx98.68\fscy98.68}Good! Commence strategy!
+Dialogue: 0,0:17:59.02,0:17:59.06,Default,,0,0,0,,{=4}{\pos(989.98,349.38)\fscx98.52\fscy98.52}Good! Commence strategy!
+Dialogue: 0,0:17:59.06,0:17:59.10,Default,,0,0,0,,{=4}{\pos(989.95,349.65)\fscx98.37\fscy98.37}Good! Commence strategy!
+Dialogue: 0,0:17:59.10,0:17:59.14,Default,,0,0,0,,{=4}{\pos(989.92,349.91)\fscx98.21\fscy98.21}Good! Commence strategy!
+Dialogue: 0,0:17:59.14,0:17:59.18,Default,,0,0,0,,{=4}{\pos(989.89,350.18)\fscx98.06\fscy98.06}Good! Commence strategy!
+Dialogue: 0,0:17:59.18,0:17:59.22,Default,,0,0,0,,{=4}{\pos(989.87,350.44)\fscx97.91\fscy97.91}Good! Commence strategy!
+Dialogue: 0,0:17:59.22,0:17:59.27,Default,,0,0,0,,{=4}{\pos(989.84,350.71)\fscx97.75\fscy97.75}Good! Commence strategy!
+Dialogue: 0,0:17:59.27,0:17:59.31,Default,,0,0,0,,{=4}{\pos(989.81,350.98)\fscx97.59\fscy97.59}Good! Commence strategy!
+Dialogue: 0,0:17:59.31,0:17:59.35,Default,,0,0,0,,{=4}{\pos(989.78,351.25)\fscx97.44\fscy97.44}Good! Commence strategy!
+Dialogue: 0,0:17:59.35,0:17:59.39,Default,,0,0,0,,{=4}{\pos(989.75,351.51)\fscx97.28\fscy97.28}Good! Commence strategy!
+Dialogue: 0,0:17:59.39,0:17:59.43,Default,,0,0,0,,{=4}{\pos(989.72,351.78)\fscx97.13\fscy97.13}Good! Commence strategy!
+Dialogue: 0,0:17:59.43,0:17:59.47,Default,,0,0,0,,{=4}{\pos(989.69,352.05)\fscx96.97\fscy96.97}Good! Commence strategy!
+Dialogue: 0,0:17:59.47,0:17:59.52,Default,,0,0,0,,{=4}{\pos(989.67,352.31)\fscx96.82\fscy96.82}Good! Commence strategy!
+Dialogue: 0,0:17:59.52,0:17:59.56,Default,,0,0,0,,{=4}{\pos(989.64,352.58)\fscx96.66\fscy96.66}Good! Commence strategy!
+Dialogue: 0,0:17:59.56,0:17:59.60,Default,,0,0,0,,{=4}{\pos(989.61,352.85)\fscx96.5\fscy96.5}Good! Commence strategy!
+Dialogue: 0,0:17:59.60,0:17:59.64,Default,,0,0,0,,{=4}{\pos(989.58,353.11)\fscx96.35\fscy96.35}Good! Commence strategy!
+Dialogue: 0,0:17:59.64,0:17:59.68,Default,,0,0,0,,{=4}{\pos(989.55,353.38)\fscx96.19\fscy96.19}Good! Commence strategy!
+Dialogue: 0,0:17:59.68,0:17:59.73,Default,,0,0,0,,{=4}{\pos(989.52,353.65)\fscx96.04\fscy96.04}Good! Commence strategy!
+Dialogue: 0,0:17:59.73,0:17:59.77,Default,,0,0,0,,{=4}{\pos(989.49,353.91)\fscx95.88\fscy95.88}Good! Commence strategy!
+Dialogue: 0,0:17:59.77,0:17:59.81,Default,,0,0,0,,{=4}{\pos(989.46,354.18)\fscx95.73\fscy95.73}Good! Commence strategy!
+Dialogue: 0,0:17:59.81,0:17:59.85,Default,,0,0,0,,{=4}{\pos(989.44,354.45)\fscx95.57\fscy95.57}Good! Commence strategy!
+Dialogue: 0,0:17:59.85,0:17:59.89,Default,,0,0,0,,{=4}{\pos(989.41,354.71)\fscx95.42\fscy95.42}Good! Commence strategy!
+Dialogue: 0,0:17:59.89,0:17:59.93,Default,,0,0,0,,{=4}{\pos(989.38,354.98)\fscx95.26\fscy95.26}Good! Commence strategy!
+Dialogue: 0,0:17:59.93,0:17:59.98,Default,,0,0,0,,{=4}{\pos(989.35,355.24)\fscx95.11\fscy95.11}Good! Commence strategy!
+Dialogue: 0,0:17:59.98,0:18:00.02,Default,,0,0,0,,{=4}{\pos(989.32,355.51)\fscx94.95\fscy94.95}Good! Commence strategy!
+Dialogue: 0,0:18:00.02,0:18:00.06,Default,,0,0,0,,{=4}{\pos(989.29,355.78)\fscx94.79\fscy94.79}Good! Commence strategy!
+Dialogue: 0,0:18:00.06,0:18:00.10,Default,,0,0,0,,{=4}{\pos(989.26,356.04)\fscx94.64\fscy94.64}Good! Commence strategy!
+Dialogue: 0,0:18:00.10,0:18:00.14,Default,,0,0,0,,{=4}{\pos(989.23,356.31)\fscx94.48\fscy94.48}Good! Commence strategy!
+Dialogue: 0,0:18:00.14,0:18:00.18,Default,,0,0,0,,{=4}{\pos(989.2,356.58)\fscx94.33\fscy94.33}Good! Commence strategy!
+Dialogue: 0,0:18:00.18,0:18:00.23,Default,,0,0,0,,{=4}{\pos(989.18,356.84)\fscx94.17\fscy94.17}Good! Commence strategy!
+Dialogue: 0,0:18:00.23,0:18:00.27,Default,,0,0,0,,{=4}{\pos(989.15,357.11)\fscx94.02\fscy94.02}Good! Commence strategy!
+Dialogue: 0,0:18:00.27,0:18:00.31,Default,,0,0,0,,{=4}{\pos(989.12,357.38)\fscx93.86\fscy93.86}Good! Commence strategy!
+Dialogue: 0,0:18:00.31,0:18:00.35,Default,,0,0,0,,{=4}{\pos(989.09,357.65)\fscx93.7\fscy93.7}Good! Commence strategy!
+Dialogue: 0,0:18:00.35,0:18:00.39,Default,,0,0,0,,{=4}{\pos(989.06,357.91)\fscx93.55\fscy93.55}Good! Commence strategy!
+Dialogue: 0,0:18:00.39,0:18:00.43,Default,,0,0,0,,{=4}{\pos(989.03,358.18)\fscx93.39\fscy93.39}Good! Commence strategy!
+Dialogue: 0,0:18:00.43,0:18:00.48,Default,,0,0,0,,{=4}{\pos(989,358.45)\fscx93.24\fscy93.24}Good! Commence strategy!
+Dialogue: 0,0:18:00.48,0:18:00.52,Default,,0,0,0,,{=4}{\pos(988.98,358.71)\fscx93.09\fscy93.09}Good! Commence strategy!
+Dialogue: 0,0:18:00.52,0:18:00.56,Default,,0,0,0,,{=4}{\pos(988.95,358.98)\fscx92.93\fscy92.93}Good! Commence strategy!
+Dialogue: 0,0:18:00.56,0:18:00.60,Default,,0,0,0,,{=4}{\pos(988.92,359.24)\fscx92.77\fscy92.77}Good! Commence strategy!
+Dialogue: 0,0:18:00.60,0:18:00.64,Default,,0,0,0,,{=4}{\pos(988.89,359.51)\fscx92.62\fscy92.62}Good! Commence strategy!
+Dialogue: 0,0:18:00.64,0:18:00.68,Default,,0,0,0,,{=4}{\pos(988.86,359.78)\fscx92.46\fscy92.46}Good! Commence strategy!
+Dialogue: 0,0:18:00.68,0:18:00.73,Default,,0,0,0,,{=4}{\pos(988.83,360.04)\fscx92.31\fscy92.31}Good! Commence strategy!
+Dialogue: 0,0:18:00.73,0:18:00.77,Default,,0,0,0,,{=4}{\pos(988.8,360.31)\fscx92.15\fscy92.15}Good! Commence strategy!
+Dialogue: 0,0:18:00.77,0:18:00.81,Default,,0,0,0,,{=4}{\pos(988.77,360.57)\fscx92\fscy92}Good! Commence strategy!
+Dialogue: 0,0:18:00.81,0:18:00.85,Default,,0,0,0,,{=4}{\pos(988.75,360.84)\fscx91.84\fscy91.84}Good! Commence strategy!
+Dialogue: 0,0:18:00.85,0:18:00.89,Default,,0,0,0,,{=4}{\pos(988.72,361.11)\fscx91.68\fscy91.68}Good! Commence strategy!
+Dialogue: 0,0:18:00.89,0:18:00.93,Default,,0,0,0,,{=4}{\pos(988.69,361.37)\fscx91.53\fscy91.53}Good! Commence strategy!
+Dialogue: 0,0:18:00.93,0:18:00.98,Default,,0,0,0,,{=4}{\pos(988.66,361.64)\fscx91.37\fscy91.37}Good! Commence strategy!
+Dialogue: 0,0:18:00.98,0:18:01.02,Default,,0,0,0,,{=4}{\pos(988.63,361.91)\fscx91.22\fscy91.22}Good! Commence strategy!
+Comment: 0,0:22:19.80,0:22:22.80,Default,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 2,l0.Nudge.cycleState,e{"c900ef51-88dd-413d-8380-cebb7a59c793"#3A3}
