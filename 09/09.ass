@@ -12,15 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: dynazenon
-Audio File: ../../../../Tools/Timing/ssss dynazenon/09/SSSS.Dynazenon - 09 (workraw).mkv
-Video File: ../../../../Tools/Timing/ssss dynazenon/09/SSSS.Dynazenon - 09 (workraw).mkv
-Keyframes File: ../../../../Tools/Timing/ssss dynazenon/09/dynazenon09_keyframes.txt
+Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 09 [9D789B2F].mkv
+Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 09 [9D789B2F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 372
-Active Line: 379
-Video Position: 27423
+Video Zoom Percent: 0.875000
+Scroll Position: 573
+Active Line: 577
+Video Position: 5009
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -610,16 +609,12 @@ Comment: 0,0:04:44.68,0:04:48.72,Sign,,0,0,0,,{=0}
 Dialogue: 0,0:04:51.23,0:04:58.49,Sign,,0,0,0,,{=0}{\blur3\pos(846.5,101.5)\p1\c&H0AC4FE&}m 0 27 l 214 257 233 128 114 0
 Dialogue: 0,0:04:51.23,0:04:58.49,Sign,,0,0,0,,{=0}{\org(-303.2,2238.7)\fry4.89\frx-0.33\frz-9.01\fnAsap Condensed SemiBold\blur0.9\fs76\pos(741.99,-986.34)}Model Apartments Open
 Comment: 0,0:04:44.59,0:04:44.63,Sign,,0,0,0,,{=0}
-Dialogue: 0,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&HD6C7E9&}m 790 736 l 849 769 934 787 980 774 982 673 980 513 978 230 860 340 800 350
-Dialogue: 1,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&HD6C7E9&\blur15}m 761 696 l 849 769 934 787 980 774 982 673 980 513 978 230 860 336 740 415 710 500 692 545 715 612
-Dialogue: 2,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&HAE93D1&\blur0.8}m 968 201 l 979 289 980 184
-Dialogue: 0,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&HD3C5E5&\clip()}m 1089 231 l 1055 205 1000 207 981 235 980 298 981 342 981 398 981 462 981 513 986 581 985 653 983 713 982 763 1006 772 1074 754 1092 292
-Dialogue: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&HD8C9EB&\blur30\clip()}m 1031 349 l 1074 330 1096 198 1076 160 1022 159 991 192 995 293
-Dialogue: 0,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&HD3C5E5&\clip()}m 801 878 l 956 916 942 792 890 779 836 769 796 768
-Dialogue: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\1c&H755E94&\b1\fs110\fscx120\fnAsap Condensed SemiBold\org(1473.1,318.0)\fry-2.60\frx-5.72\frz-9.69\be4\pos(686.496,534.533)}38th
-Dialogue: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\1c&H755E94&\b1\fs90\fscx120\fnAsap Condensed SemiBold\org(1473.1,318.0)\fry-2.60\frx-5.72\frz-9.69\be4\pos(570.267,690.333)}Uzukigaoka
-Dialogue: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\1c&H755E94&\b1\fs80\fscx120\fnAsap Condensed SemiBold\fry-2.60\frx-5.72\frz-9.69\be4\pos(613.067,770.133)\org(1483.1,322)}Fireworks
-Dialogue: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\an7\1c&H755E94&\b1\fs80\fscx120\fnAsap Condensed SemiBold\fry-2.60\frx-5.72\frz-9.69\be4\pos(632.667,841.333)\org(1479.1,326)}Festival
+Dialogue: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\blur1\pos(1028.735,704.825)\p1\c&HD4C6E6&}m 6.58 24.77 l 19.69 18.57 24.61 5.28 39.36 0 64.31 5.28 72.5 18.39 66.49 25.31 94.35 41.16 88.34 65.38 79.24 63.74 75.23 83.78 93.81 97.98 93.99 117.83 7.12 136.23 0 130.95 0.6 102.1 1.65 51.2 1.35 35.18 1.65 30.09
+Dialogue: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\pos(1028.735,704.825)\clip(m 988.14 661.48 l 1001.25 655.28 1006.17 641.99 1020.92 636.71 1045.87 641.99 1054.06 655.1 1048.05 662.02 1075.91 677.87 1069.9 702.09 1060.8 700.45 1056.79 720.49 1075.37 734.69 1075.55 754.54 988.68 772.94 981.56 767.66 982.16 738.81 983.21 687.91 982.91 671.89 983.21 666.8)\fnGrain\fs40\b1\be1\c&H000000&\1a&HF5&}GrainPower\NMakesFan\Nsubbers\NHorny
+Comment: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\c&H674F87&\b1\fs110\fnBubblegun\}38th
+Comment: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\c&H674F87&\b1\fs80\fnBubblegun}Uzukigaoka
+Comment: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\c&H674F87&\b1\fs80\fnBubblegun}Fireworks
+Comment: 3,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\c&H674F87&\b1\fs80\fnBubblegun}Festival
 Comment: 0,0:03:28.90,0:03:37.30,Sign,,0,0,0,,{=0}
 Dialogue: 0,0:06:23.70,0:06:25.45,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&H9D92B8&}m 959 154 l 926 165 947 236 936 272 943 316 883 286 810 297 783 341 808 670 839 691 917 701 936 692 955 683 954 592
 Dialogue: 0,0:06:23.70,0:06:25.45,Sign,,0,0,0,,{\an7\pos(0,0)\p1\1c&H9D92B8&}m 957 686 l 1044 679 1049 633 1019 552 1049 494 1019 462 1016 436 1041 405 1037 365 1008 351 1030 315 1038 264 1045 241 1028 221 1038 175 1033 146 996 136 972 136 960 143 957 598 958 392 957 268 960 171
