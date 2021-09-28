@@ -15,9 +15,9 @@ Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 06 [C21C87F0].mkv
 Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 06 [C21C87F0].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 422
-Active Line: 432
+Video Zoom Percent: 1.000000
+Scroll Position: 431
+Active Line: 433
 Video Position: 3280
 
 [V4+ Styles]
@@ -464,7 +464,10 @@ Dialogue: 0,0:23:19.87,0:23:24.92,ED,,0,0,0,,So I took another step forward toda
 Dialogue: 0,0:23:24.92,0:23:28.30,ED,,0,0,0,,It was ever so radiant
 Dialogue: 0,0:23:28.30,0:23:33.22,ED,,0,0,0,,Just like your smiling face
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,=====TS BELOW HERE=====
-Dialogue: 0,0:02:16.78,0:02:22.54,Sign,,0,0,0,,{\b0\c&HDDEEE6&\blur1.5\pos(967.5,591)\frz2.44\fnRoboto Black\fax-0.04}E{\frz2.282\fax-0.02}m{\frz2.125\fax-0.01}e{\frz1.968\fax0.01}r{\frz1.81\fax0.02}g{\frz1.207\fax0.04}e{\frz0.603\fax0.06}n{\frz0\fax0.07}c{\frz359.603\fax0.09}y {\frz-1.19\fax0.12}E{\frz358.63\fax0.14}x{\frz-1.55\fax0.15}i{\fax0.17}t
+Dialogue: 0,0:02:16.78,0:02:22.54,Sign,,0,0,0,,
+Dialogue: 0,0:02:16.78,0:02:22.54,Sign,,0,0,0,,{\frx3\b0\c&HDBEDE3&\blur10\fnRoboto Black\pos(964,589.04)}{\frz2.12\fax-0.015\c&HDBEDE3&\1a&H8F&}E{*\frz361.926\fax-0.004}m{*\frz361.731\fax0.007}e{*\frz361.537\fax0.018}r{*\frz361.343\fax0.029}g{*\frz361.149\fax0.04}e{*\frz360.954\fax0.051}n{*\frz360.76\fax0.063}c{*\frz360.566\fax0.074}y {*\frz360.177\fax0.096}E{*\frz359.983\fax0.107}x{*\frz359.789\fax0.118}i{*\frz359.594\fax0.129}t{\frz-0.6\fax0.14}
+Dialogue: 1,0:02:16.78,0:02:22.54,Sign,,0,0,0,,{\frx3\b0\c&HDBEDE3&\blur1.6\fnRoboto Black\pos(964,589.04)}{\frz2.12\fax-0.015}E{*\frz361.926\fax-0.004}m{*\frz361.731\fax0.007}e{*\frz361.537\fax0.018}r{*\frz361.343\fax0.029}g{*\frz361.149\fax0.04}e{*\frz360.954\fax0.051}n{*\frz360.76\fax0.063}c{*\frz360.566\fax0.074}y {*\frz360.177\fax0.096}E{*\frz359.983\fax0.107}x{*\frz359.789\fax0.118}i{*\frz359.594\fax0.129}t{\frz-0.6\fax0.14}
+Comment: 0,0:02:16.78,0:02:22.54,Sign,,0,0,0,,{\frx3\b0\c&HDBEDE3&\blur1.6\fnRoboto Black\pos(964,589.04)}{\frz2.12\fax-0.015}Emergency Exit{\frz-0.6\fax0.14}
 Dialogue: 1,0:09:31.55,0:09:35.81,Sign,,0,0,0,,{\pos(973.72,124)\fnRoboto Condensed\fs180\fsp6\i1\bord6\c&HFF5800&\3c&HFF5800&\1a&HFF&\4a&HFF&\blur1.7\fad(1523,0)\t(1478,1523,\1a&H00&)}Pre-Recital Pranking!!{\i0}
 Dialogue: 2,0:09:31.55,0:09:35.81,Sign,,0,0,0,,{\pos(973.72,124)\fnRoboto Condensed\fs180\fsp6\i1\c&HFFFF02&\4a&HFF&\blur1.7\fad(1523,0)}Pre-Recital Pranking!!{\i0}
 Dialogue: 0,0:09:33.76,0:09:35.76,Sign,,0,0,0,,{\pos(912,630)\fs100\c&HFC02F4&\blur2.3}~Kanokano Edition~
