@@ -16,10 +16,10 @@ Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 10 [7F04EF12].mkv
 Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 10 [7F04EF12].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 379
-Active Line: 386
-Video Position: 11661
+Video Zoom Percent: 0.500000
+Scroll Position: 406
+Active Line: 429
+Video Position: 11721
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -375,15 +375,14 @@ Dialogue: 0,0:19:01.95,0:19:06.29,Insert Song,,0,0,0,,{Is more psychedelic than}
 Dialogue: 0,0:19:07.04,0:19:10.05,Insert Song,,0,0,0,,{Robot Love}
 Dialogue: 0,0:19:10.46,0:19:14.88,Insert Song,,0,0,0,,{Is more traumatic than}
 Dialogue: 0,0:19:15.47,0:19:16.46,Insert Song,,0,0,0,,Human Love
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TS BELOW HERE
-Dialogue: 0,0:08:06.34,0:08:09.09,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,TS BELOW HERE
+Comment: 0,0:00:19.00,0:00:23.00,Title,,0,0,0,,===Title===
 Dialogue: 0,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -631 -538 l 723 -538 723 -327 -631 -327
 Dialogue: 1,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\fs135\blur1.1}Which Memories Do You Regret?
 Dialogue: 0,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -350 -209 l 346 -209 346 -50 -350 -50
 Dialogue: 1,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\pos(960,715)\fnRoboto\fs90\fsp6\blur1.1}— Episode 10 —
-Comment: 0,0:08:06.34,0:08:09.09,Default,,0,0,0,,
-Comment: 1,0:08:06.34,0:08:09.09,Sign,,0,0,0,,{=5}TEXT FOR SHEET
+Comment: 0,0:08:06.34,0:08:09.09,Default,,0,0,0,,===Seasonal Recital Flyer===
+Comment: 1,0:08:06.34,0:08:09.09,Sign,,0,0,0,,{=5}Text
 Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(1013,426)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs74\fnAveria Libre\b1}The
 Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(986,409)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs77\fnAveria Libre\b1}The
 Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(984,406)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs77\fnAveria Libre\b1}The
@@ -392,7 +391,6 @@ Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(1331.57,494.56)\blur2\c&H15
 Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(1319.57,482.56)\blur2\c&H151B1B&\fs84\fnAveria Libre\b1\frz354.7}rd
 Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(1314.57,479.56)\blur2\c&H151B1B&\fs84\fnAveria Libre\b1\frz354}rd
 Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(1314.57,475.56)\blur2\c&H151B1B&\fs86\fnAveria Libre\b1\frz354}rd
-Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\clip(m 957.63 596.03 l 1317.83 592.93 1319.29 621.21 957.63 621.57)}
 Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\c&H12181A&\blur1.6\fs50\fnBowlby One SC\pos(1123,606)\org(1123.41,607.76)\fry-5.08\frx2.43\frz0.28\fax0.02}Fujiyokidai High School
 Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\c&H12181A&\blur1.6\fs50\fnBowlby One SC\pos(1105,596)\org(1123.41,607.76)\fry-5.08\frx2.43\frz0.28\fax0.02}Fujiyokidai High School
 Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\c&H12181A&\blur1.6\fs50\fnBowlby One SC\pos(1099,594)\org(1123.41,607.76)\fry-5.08\frx2.43\frz0.28\fax0.02}Fujiyokidai High School
@@ -405,7 +403,7 @@ Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\c&H12181A&\blur1.6\fs37\fnBowlb
 Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\c&H12181A&\blur1.6\fs37\fnBowlby One SC\pos(1105,664)\fry-5.76\frx3.99\fax0.02\frz359.8}Wind Instrument - Chorus Club
 Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\fscx99\c&H12181A&\blur1.6\fs37\fnBowlby One SC\pos(1099,662)\fry-5.76\frx3.99\fax0.02\frz359.8}Wind Instrument - Chorus Club
 Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\fscx99\c&H12181A&\blur1.6\fs37\fnBowlby One SC\pos(1096,661)\fry-5.76\frx3.99\fax0.02\frz359.8}Wind Instrument - Chorus Club
-Comment: 1,0:08:06.34,0:08:09.09,Sign,,0,0,0,,{=16}MASKS FOR SHEET BELOW HERE
+Comment: 1,0:08:06.34,0:08:09.09,Sign,,0,0,0,,{=16}Masks
 Dialogue: 0,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(1323.045,495.245)\blur2\c&H3E5A5D&\p1}m 21.51 0 l 83.91 2.51 81.91 91.51 0 82.69 b 6.16 79.26 11.93 61.49 15.18 34.78
 Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
 Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
@@ -465,4 +463,3 @@ Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(796.83,582.44)\blur2.4\c&H3
 Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(819,589)\blur1\fnGrain\b1\c&H000000&\1a&HE2&\clip(m 816.83 559.01 l 825.45 586.53 828.19 612.75 813.11 612.6 765.47 603.6 771.07 552.13)}AB
 Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(1074.59,616.98)\blur3\c&H3C585E&\p1}m 0 0 l 0.89 62.71 3.61 123.86 182.41 122.9 306.92 127.3 413.23 126.95 464.57 126.43 467.14 47.97 458.99 2.92
 Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(1095,622)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 841.02 553.33 l 841.91 616.04 844.63 677.19 1023.43 676.23 1147.94 680.63 1254.25 680.28 1305.59 679.76 1308.16 601.3 1300.01 556.25)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
-Comment: 0,0:08:06.34,0:08:09.09,Sign,,0,0,0,,

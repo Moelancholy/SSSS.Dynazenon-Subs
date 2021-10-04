@@ -16,10 +16,10 @@ Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 09 [9D789B2F].mkv
 Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 09 [9D789B2F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 735
-Active Line: 742
-Video Position: 9200
+Video Zoom Percent: 0.625000
+Scroll Position: 429
+Active Line: 435
+Video Position: 4763
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -468,14 +468,13 @@ Dialogue: 0,0:20:19.83,0:20:23.93,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alp
 Dialogue: 2,0:20:23.93,0:20:26.91,Insert Song,,0,0,0,,{\fad(100,200)}You're needed right now!
 Dialogue: 1,0:20:23.93,0:20:26.91,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You're needed right now!
 Dialogue: 0,0:20:23.93,0:20:26.91,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You're needed right now!
-Comment: 0,0:03:18.64,0:03:21.01,Sign,,0,0,0,,
 Comment: 0,0:03:18.64,0:03:21.01,Sign,,0,0,0,,TS BELOW HERE
-Comment: 0,0:03:18.64,0:03:21.01,Sign,,0,0,0,,
+Comment: 0,0:03:18.64,0:03:21.01,Sign,,0,0,0,,===Title===
 Dialogue: 0,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -631 -538 l 723 -538 723 -327 -631 -327
 Dialogue: 1,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\fs110\blur1.1}What Are These Overlapping Emotions?
 Dialogue: 0,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -350 -209 l 346 -209 346 -50 -350 -50
 Dialogue: 1,0:03:18.64,0:03:22.64,Title,,0,0,0,,{\pos(960,715)\fnRoboto\fs90\fsp6\blur1.1}— Episode 9 —
-Comment: 0,0:03:28.90,0:03:30.31,Sign,,0,0,0,,
+Comment: 0,0:04:42.13,0:04:48.72,Sign,,0,0,0,,===Apartments panning down===
 Dialogue: 0,0:04:42.13,0:04:42.17,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,1196.35)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
 Dialogue: 0,0:04:42.17,0:04:42.22,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.45,1175.61)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
 Dialogue: 0,0:04:42.22,0:04:42.26,Sign,,0,0,0,,{=1}{\fscx100\fscy100\frz0\alpha&H00&\blur1\pos(943.44,1154.83)\p1\c&H02BFFF&}m 17 0 l 177.33 221.44 164.22 292.55 0 86.44
@@ -605,10 +604,10 @@ Dialogue: 0,0:04:44.55,0:04:44.59,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\
 Dialogue: 0,0:04:44.59,0:04:44.63,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1130.64)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,185.19)}Model Apartments Open
 Dialogue: 0,0:04:44.63,0:04:44.68,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1129.06)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.44,183.62)}Model Apartments Open
 Dialogue: 0,0:04:44.68,0:04:48.72,Sign,,0,0,0,,{=0}{\fscx100\fscy100\alpha&H00&\org(649.8,1128.6)\fry15.91\frx-3.42\frz-10.09\fnAsap Condensed SemiBold\fs36\blur0.9\pos(829.43,183.15)}Model Apartments Open
-Comment: 0,0:04:44.68,0:04:48.72,Sign,,0,0,0,,{=0}
+Comment: 0,0:04:44.68,0:04:48.72,Sign,,0,0,0,,{=0}===Apartments Close Up===
 Dialogue: 0,0:04:51.23,0:04:58.49,Sign,,0,0,0,,{=0}{\blur3\pos(846.5,101.5)\p1\c&H0AC4FE&}m 0 27 l 214 257 233 128 114 0
 Dialogue: 0,0:04:51.23,0:04:58.49,Sign,,0,0,0,,{=0}{\org(-303.2,2238.7)\fry4.89\frx-0.33\frz-9.01\fnAsap Condensed SemiBold\blur0.9\fs76\pos(741.99,-986.34)}Model Apartments Open
-Comment: 0,0:04:44.59,0:04:44.63,Sign,,0,0,0,,{=0}
+Comment: 0,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{=2}===Uzukigaoka Fireworks Festival 1===
 Dialogue: 0,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{=2}{\blur1\pos(970.17,267.885)\c&HD6C7E9&\p1}m 1.08 1.8 l 11.88 0 12.96 25.02 14.4 53.47 10.8 57.97 5.22 49.51 0 26.64
 Dialogue: 1,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{=2}{\pos(974.46,261.29)\blur0.6\c&HB69DD6&\p1}m 7.56 0 l 8.31 31.62 8.46 42.72 8.46 53.64 8.28 70.48 2.76 52.72 0 0.33
 Comment: 0,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\blur1\pos(1034.845,260.6)\c&HD6C7E9&\p1}m 13.63 129.42 l 3.5 117.31 0.14 103.05 0 86.12 0.07 71.98 0.07 51.13 1.17 39.54 14.34 32.72 22.02 5.53 56.25 0 83.42 11.69 109.23 23.37 107.33 69.56 81.79 126.34
@@ -674,7 +673,7 @@ Dialogue: 2,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{=5}{\c&H725A90&\b1\fs100\fnBubbl
 Dialogue: 2,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{=5}{\c&H725A90&\b1\fs100\fnBubblegun\blur1.2\fry2.59\frx-7.06\frz13.54\fax-0.2\clip(m 981.76 139.82 l 1555.41 14.27 1428.41 679.82 980.33 792.52)\pos(921.26,588.22)}Uzukigaoka
 Dialogue: 2,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\c&H725A90&\b1\blur1.2\fs62\fnBubblegun\fry-3.24\frx-7.42\frz-11.91\fax0.23\pos(908.06,641)\clip(m 386 44 l 982 140 980.79 796 512 692)}Fireworks Festival
 Dialogue: 2,0:03:28.90,0:03:37.28,Sign,,0,0,0,,{\c&H725A90&\b1\blur1.2\fs62\fnBubblegun\fry2.68\frx-7.3\frz13.78\fax-0.21\pos(921.06,671)\clip(m 981.76 139.82 l 1555.41 14.27 1428.41 679.82 980.33 792.52)}Fireworks Festival
-Comment: 0,0:03:28.90,0:03:37.30,Sign,,0,0,0,,{=0}
+Comment: 0,0:06:23.70,0:06:25.45,Sign,,0,0,0,,{=0}===Uzukigaoka Fireworks Festival 2===
 Dialogue: 0,0:06:23.70,0:06:25.45,Sign,,0,0,0,,{\blur0.6\pos(1003.65,624.705)\c&H9C91B7&\p1}m 4.75 124.05 l 0.11 118.49 0 101.67 0.05 62.98 0.25 38.21 2.68 22.29 21.19 13.21 22.51 2.06 53.93 0 73.89 13.36 75.8 29.36 94.3 54.9 80.5 60.92 76.97 81.18 88.13 91.46 89.01 114.21
 Dialogue: 1,0:06:23.70,0:06:25.45,Sign,,0,0,0,,{\pos(1003.65,624.705)\clip(m 961.25 686.73 l 956.61 681.17 956.5 664.35 956.55 625.66 956.75 600.89 959.18 584.97 977.69 575.89 979.01 564.74 1010.43 562.68 1030.39 576.04 1032.3 592.04 1050.8 617.58 1037 623.6 1033.47 643.86 1044.63 654.14 1045.51 676.89)\fnGrain\fs40\b1\be1\c&H000000&\1a&HF5&}GrainPowaa\NMakesFansu\NbbersHorny\NHornySome\NMoreGrain\NForGoodMe\NasureJoJo
 Dialogue: 0,0:06:23.70,0:06:25.45,Sign,,0,0,0,,{\pos(942.035,672.935)\blur0.6\c&H9D91B7&\p1}m 13.93 35.15 l 24.78 31.18 25.03 25.31 25.05 18.79 25.16 13.3 25.29 9.08 23.52 0 8.69 1.66 0 23.27
