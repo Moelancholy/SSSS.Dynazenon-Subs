@@ -11,14 +11,14 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: dynazenon
+Last Style Storage: Dynazenon
 Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
 Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 371
-Active Line: 386
+Scroll Position: 332
+Active Line: 359
 Video Position: 4037
 
 [V4+ Styles]
@@ -28,7 +28,7 @@ Style: Sign,Roboto Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,100,100,60,1
 Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,100,100,0,1
 Style: Alt,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00564100,&HFF000000,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
-Style: Insert Song,Bahnschrift,60,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,7,22,22,81,1
+Style: Insert Song,Bahnschrift,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,1,7,50,55,42,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -366,50 +366,50 @@ Comment: 0,0:22:10.31,0:22:10.31,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,{ALL THIS METAL insert song}
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
-Dialogue: 0,0:18:40.22,0:18:41.22,Insert Song,,0,0,0,,Yeah
-Dialogue: 0,0:18:46.73,0:18:50.44,Insert Song,,0,0,0,,Just put your trust in me it's gonna work out alright
-Dialogue: 0,0:18:53.12,0:18:55.86,Insert Song,,0,0,0,,I can convince you even if it's gonna take all night
-Dialogue: 0,0:18:58.08,0:18:59.88,Insert Song,,0,0,0,,Cause there's something in my mind
-Dialogue: 0,0:18:59.88,0:19:01.37,Insert Song,,0,0,0,,I can picture inside me
-Dialogue: 0,0:19:01.37,0:19:02.95,Insert Song,,0,0,0,,It took away my breath
-Dialogue: 0,0:19:02.95,0:19:04.37,Insert Song,,0,0,0,,And my heart is breathing faster
-Dialogue: 0,0:19:04.37,0:19:05.87,Insert Song,,0,0,0,,It's chemistry at work
-Dialogue: 0,0:19:05.87,0:19:07.34,Insert Song,,0,0,0,,whenever we're together
-Dialogue: 0,0:19:07.34,0:19:08.96,Insert Song,,0,0,0,,A sign
-Dialogue: 0,0:19:08.96,0:19:11.67,Insert Song,,0,0,0,,Something tells me that you're gonna fall
-Dialogue: 0,0:19:11.67,0:19:13.51,Insert Song,,0,0,0,,For my charms and my affection
-Dialogue: 0,0:19:13.51,0:19:15.01,Insert Song,,0,0,0,,Move in my direction
-Dialogue: 0,0:19:15.01,0:19:17.51,Insert Song,,0,0,0,,Let me show I'm never wrong
-Dialogue: 0,0:19:17.51,0:19:19.30,Insert Song,,0,0,0,,I can tell this situation
-Dialogue: 0,0:19:19.30,0:19:21.01,Insert Song,,0,0,0,,The one that we've been waiting
-Dialogue: 0,0:19:21.01,0:19:23.31,Insert Song,,0,0,0,,All this time, I know!
+Dialogue: 0,0:18:40.22,0:18:41.22,Insert Song,,0,0,0,,{\fad(100,100)}Yeah
+Dialogue: 0,0:18:46.73,0:18:50.44,Insert Song,,0,0,0,,{\fad(100,100)}Just put your trust in me it's gonna work out alright
+Dialogue: 0,0:18:53.12,0:18:55.86,Insert Song,,0,0,0,,{\fad(100,100)}I can't convince you even if it's gonna take all night
+Dialogue: 0,0:18:58.08,0:18:59.88,Insert Song,,0,0,0,,{\fad(100,100)}Cause there's something in my mind
+Dialogue: 0,0:18:59.88,0:19:01.37,Insert Song,,0,0,0,,{\fad(100,100)}I can't picture inside me
+Dialogue: 0,0:19:01.37,0:19:02.95,Insert Song,,0,0,0,,{\fad(100,100)}It took away my breath
+Dialogue: 0,0:19:02.95,0:19:04.37,Insert Song,,0,0,0,,{\fad(100,100)}And my heart is beating faster
+Dialogue: 0,0:19:04.37,0:19:05.87,Insert Song,,0,0,0,,{\fad(100,100)}There's chemistry at work
+Dialogue: 0,0:19:05.87,0:19:07.34,Insert Song,,0,0,0,,{\fad(100,100)}Whenever we're together
+Dialogue: 0,0:19:07.34,0:19:08.96,Insert Song,,0,0,0,,{\fad(100,100)}The sign
+Dialogue: 0,0:19:08.96,0:19:11.67,Insert Song,,0,0,0,,{\fad(100,100)}Something tells me that you're gonna fall
+Dialogue: 0,0:19:11.67,0:19:13.51,Insert Song,,0,0,0,,{\fad(100,100)}For my charms and my affection
+Dialogue: 0,0:19:13.51,0:19:15.01,Insert Song,,0,0,0,,{\fad(100,100)}Move in my direction
+Dialogue: 0,0:19:15.01,0:19:17.51,Insert Song,,0,0,0,,{\fad(100,100)}Let me show I'm never wrong
+Dialogue: 0,0:19:17.51,0:19:19.30,Insert Song,,0,0,0,,{\fad(100,100)}I can tell the situation's
+Dialogue: 0,0:19:19.30,0:19:21.01,Insert Song,,0,0,0,,{\fad(100,100)}The one that we've been waiting
+Dialogue: 0,0:19:21.01,0:19:23.31,Insert Song,,0,0,0,,{\fad(100,100)}All this time, I know!
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{OP Start}
 Comment: 0,0:00:00.49,0:00:02.16,Insert Song,,0,0,0,,Alright it's go time
 Comment: 0,0:00:02.16,0:00:06.72,Insert Song,,0,0,0,,We're fighting to secure our futures
-Dialogue: 0,0:19:58.55,0:20:00.14,Insert Song,,0,0,0,,Stand proud!
-Dialogue: 0,0:20:00.14,0:20:09.90,Insert Song,,0,0,0,,It all depends on us! We can nullify the melancholy of this world!
-Dialogue: 0,0:20:09.90,0:20:16.86,Insert Song,,0,0,0,,I want to take on all your overflowing sadness and all your weakness
-Dialogue: 0,0:20:16.86,0:20:20.76,Insert Song,,0,0,0,,I'll take it hand in hand
-Dialogue: 0,0:20:20.76,0:20:22.24,Insert Song,,0,0,0,,Alright it's go time
-Dialogue: 0,0:20:22.24,0:20:26.54,Insert Song,,0,0,0,,We're fighting to secure our futures
-Dialogue: 0,0:20:32.84,0:20:35.46,Insert Song,,0,0,0,,If you look at the azure sky
-Dialogue: 0,0:20:35.46,0:20:40.01,Insert Song,,0,0,0,,You may find your heart torn
-Dialogue: 0,0:20:40.01,0:20:43.99,Insert Song,,0,0,0,,As you realise your own insignificance
-Dialogue: 0,0:20:43.99,0:20:46.71,Insert Song,,0,0,0,,The emotions dispersed throughout the city
-Dialogue: 0,0:20:46.71,0:20:51.38,Insert Song,,0,0,0,,Incommodius and unstable as they are
-Dialogue: 0,0:20:51.38,0:20:54.69,Insert Song,,0,0,0,,Are almost like an impuissant SOS
-Dialogue: 0,0:20:55.69,0:20:58.59,Insert Song,,0,0,0,,If you try and take someone's hand
-Dialogue: 0,0:20:58.59,0:21:01.11,Insert Song,,0,0,0,,You can find the root of their anxiety
-Dialogue: 0,0:21:01.11,0:21:03.91,Insert Song,,0,0,0,,I want to know why I met you solus
-Dialogue: 0,0:21:03.91,0:21:10.33,Insert Song,,0,0,0,,I want to know the reason for your solitude
-Dialogue: 0,0:21:10.33,0:21:11.63,Insert Song,,0,0,0,,Stand proud!
-Dialogue: 0,0:21:11.63,0:21:21.26,Insert Song,,0,0,0,,It all depends on us! We can nullify the melancholy of this world!
-Dialogue: 0,0:21:21.26,0:21:28.27,Insert Song,,0,0,0,,I want to take on all your overflowing sadness and all your weakness
-Dialogue: 0,0:21:28.27,0:21:32.52,Insert Song,,0,0,0,,I'll take it hand in hand
-Dialogue: 0,0:21:32.52,0:21:34.02,Insert Song,,0,0,0,,Alright it's go time
-Dialogue: 0,0:21:34.02,0:21:38.57,Insert Song,,0,0,0,,We're fighting to secure our futures
-Dialogue: 0,0:21:38.72,0:21:42.57,Insert Song,,0,0,0,,And you're really needed right now
-Dialogue: 0,0:21:42.57,0:21:45.52,Insert Song,,0,0,0,,You're needed
+Dialogue: 0,0:19:58.55,0:20:00.14,Insert Song,,0,0,0,,{\fad(150,150)\fs69}Stand proud!
+Dialogue: 0,0:20:00.14,0:20:09.90,Insert Song,,0,0,0,,{\fad(150,150)}It all depends on us! We can nullify the melancholy of this world!
+Dialogue: 0,0:20:09.90,0:20:16.86,Insert Song,,0,0,0,,{\fad(150,150)}I want to take on all your overflowing sadness and all your weakness
+Dialogue: 0,0:20:16.86,0:20:20.76,Insert Song,,0,0,0,,{\fad(150,150)}I'll take it hand in hand
+Dialogue: 0,0:20:20.76,0:20:22.24,Insert Song,,0,0,0,,{\fad(150,150)}Alright it's go time
+Dialogue: 0,0:20:22.24,0:20:26.54,Insert Song,,0,0,0,,{\fad(150,150)}We're fighting to secure our futures
+Dialogue: 0,0:20:32.84,0:20:35.46,Insert Song,,0,0,0,,{\fad(150,150)}If you look at the azure sky
+Dialogue: 0,0:20:35.46,0:20:40.01,Insert Song,,0,0,0,,{\fad(150,150)}You may find your heart torn
+Dialogue: 0,0:20:40.01,0:20:43.99,Insert Song,,0,0,0,,{\fad(150,150)}As you realise your own insignificance
+Dialogue: 0,0:20:43.99,0:20:46.71,Insert Song,,0,0,0,,{\fad(150,150)}The emotions dispersed throughout the city
+Dialogue: 0,0:20:46.71,0:20:51.38,Insert Song,,0,0,0,,{\fad(150,150)}Incommodius and unstable as they are
+Dialogue: 0,0:20:51.38,0:20:54.69,Insert Song,,0,0,0,,{\fad(150,150)}Are almost like an impuissant SOS
+Dialogue: 0,0:20:55.69,0:20:58.59,Insert Song,,0,0,0,,{\fad(150,150)}If you try and take someone's hand
+Dialogue: 0,0:20:58.59,0:21:01.11,Insert Song,,0,0,0,,{\fad(150,150)}You can find the root of their anxiety
+Dialogue: 0,0:21:01.11,0:21:03.91,Insert Song,,0,0,0,,{\fad(150,150)}When I met you, you were all alone
+Dialogue: 0,0:21:03.91,0:21:10.33,Insert Song,,0,0,0,,{\fad(150,150)}I want to know why you were looking so lorn
+Dialogue: 0,0:21:10.33,0:21:11.63,Insert Song,,0,0,0,,{\fad(150,150)\fs69}Stand proud!
+Dialogue: 0,0:21:11.63,0:21:21.26,Insert Song,,0,0,0,,{\fad(150,150)}It all depends on us! We can nullify the melancholy of this world!
+Dialogue: 0,0:21:21.26,0:21:28.27,Insert Song,,0,0,0,,{\fad(150,150)}I want to take on all your overflowing sadness and all your weakness
+Dialogue: 0,0:21:28.27,0:21:32.52,Insert Song,,0,0,0,,{\fad(150,150)}I'll take it hand in hand
+Dialogue: 0,0:21:32.52,0:21:34.02,Insert Song,,0,0,0,,{\fad(150,150)}Alright it's go time
+Dialogue: 0,0:21:34.02,0:21:38.57,Insert Song,,0,0,0,,{\fad(150,150)}We're fighting to secure our futures
+Dialogue: 0,0:21:38.72,0:21:42.57,Insert Song,,0,0,0,,{\fad(150,150)}And you're really needed right now
+Dialogue: 0,0:21:42.57,0:21:45.52,Insert Song,,0,0,0,,{\fad(150,150)}You're needed right now!
 Comment: 0,0:22:09.93,0:22:09.93,ED,,0,0,0,,{ED Start}
 Dialogue: 0,0:22:10.68,0:22:16.98,ED,,0,0,0,,I wanted to have a chat since you were looking a little downcast
 Dialogue: 0,0:22:17.48,0:22:22.49,ED,,0,0,0,,So I tried walking a whole step closer to you than usual
