@@ -10,15 +10,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
-Audio File: ../../../../Tools/Timing/ssss dynazenon/02/[Pizza] SSSS.Dynazenon - 02 [4F2D916F].mkv
-Video File: ../../../../Tools/Timing/ssss dynazenon/02/[Pizza] SSSS.Dynazenon - 02 [4F2D916F].mkv
-Keyframes File: ../../../../Tools/Timing/ssss dynazenon/02/dyna02workraw_keyframes.txt
+Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/dynabd02v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 691
-Active Line: 702
-Video Position: 2650
+Video Zoom Percent: 0.250000
+Scroll Position: 889
+Active Line: 911
+Video Position: 25911
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -950,6 +948,20 @@ Dialogue: 0,0:18:00.85,0:18:00.89,Default,,0,0,0,,{=4}{\pos(988.72,361.11)\fscx9
 Dialogue: 0,0:18:00.89,0:18:00.93,Default,,0,0,0,,{=4}{\pos(988.69,361.37)\fscx91.53\fscy91.53}Good! Commence strategy!
 Dialogue: 0,0:18:00.93,0:18:00.98,Default,,0,0,0,,{=4}{\pos(988.66,361.64)\fscx91.37\fscy91.37}Good! Commence strategy!
 Dialogue: 0,0:18:00.98,0:18:01.02,Default,,0,0,0,,{=4}{\pos(988.63,361.91)\fscx91.22\fscy91.22}Good! Commence strategy!
+Comment: 0,0:22:09.93,0:22:09.93,ED,,0,0,0,,{ED Start}
+Dialogue: 0,0:22:10.31,0:22:16.61,ED,,0,0,0,,I wanted to have a chat since you were looking a little downcast
+Dialogue: 0,0:22:17.11,0:22:22.11,ED,,0,0,0,,So I tried walking a whole step closer to you than usual
+Dialogue: 0,0:22:28.95,0:22:35.17,ED,,0,0,0,,The shadows were growing like a clock's hand as the sun set
+Dialogue: 0,0:22:35.63,0:22:42.80,ED,,0,0,0,,The next season was calling me as you hurried down the road
+Dialogue: 0,0:22:42.80,0:22:49.31,ED,,0,0,0,,I'd never put into words the real important stuff like love
+Dialogue: 0,0:22:49.31,0:22:55.40,ED,,0,0,0,,Blink and you'll miss it, but that's what I put my faith in
+Dialogue: 0,0:22:55.40,0:23:02.82,ED,,0,0,0,,Words of promise, my favourite flower, the treasure in my pocket
+Dialogue: 0,0:23:02.82,0:23:08.99,ED,,0,0,0,,It seemed like you'd be torn away along with all those wonderful things
+Dialogue: 0,0:23:08.99,0:23:15.50,ED,,0,0,0,,So I started running, not knowing if I'd make it, your hand in mine
+Dialogue: 0,0:23:15.50,0:23:19.84,ED,,0,0,0,,This world probably isn't that vast
+Dialogue: 0,0:23:19.84,0:23:24.88,ED,,0,0,0,,So I took another step forward today
+Dialogue: 0,0:23:24.88,0:23:28.26,ED,,0,0,0,,It was ever so radiant
+Dialogue: 0,0:23:28.26,0:23:33.18,ED,,0,0,0,,Just like your smiling face
 Comment: 0,0:22:19.80,0:22:22.80,Default,,0,0,0,,
 
 [Aegisub Extradata]
