@@ -11,13 +11,12 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: dynazenon
+Last Style Storage: Dynazenon
 Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/dynabd09.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 324
-Active Line: 348
+Active Line: 1
 Video Position: 32515
 
 [V4+ Styles]
@@ -33,6 +32,7 @@ Style: Insert Song,Bahnschrift,60,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,{OP Start}
 Dialogue: 2,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
 Dialogue: 1,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
 Dialogue: 0,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
@@ -99,6 +99,7 @@ Dialogue: 0,0:01:18.43,0:01:22.44,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}A
 Dialogue: 2,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)}You're needed right now!
 Dialogue: 1,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You're needed right now!
 Dialogue: 0,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You're needed right now!
+Dialogue: 0,0:01:25.19,0:01:27.19,OP,,0,0,0,,
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 20,0:01:59.06,0:02:01.06,Default,,0,0,0,,Um, Captain?
 Dialogue: 20,0:02:01.73,0:02:04.56,Default,,0,0,0,,Yomo? Minami?

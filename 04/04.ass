@@ -17,8 +17,8 @@ Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/dynabd04v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 1090
-Active Line: 1113
+Scroll Position: 1031
+Active Line: 1058
 Video Position: 32343
 
 [V4+ Styles]
@@ -1077,6 +1077,7 @@ Dialogue: 0,0:12:07.54,0:12:08.12,Sign,,0,0,0,,{\an7\pos(0,0)\blur1\bord0\shad0\
 Dialogue: 0,0:12:07.54,0:12:08.12,Sign,,0,0,0,,{\an7\pos(0,0)\blur2\bord0\shad1\4c&H000000&\4a&H9C&\fscx100\fscy100\p1}m 891 1005 l 1162 902 1164 906 895 1008
 Dialogue: 0,0:12:07.54,0:12:08.12,Sign,,0,0,0,,{\an4\pos(878,970.67)\bord0\blur2\shad2\fs84\fnRoboto\frz20.75\clip(m 835.56 937.78 l 1153.78 815.11 1166.22 820.44 1159.11 850.67 1154.67 871.11 1155.56 882.67 1160 900 1166.4 910.4 1168 921.6 1137.6 940 1140.8 968 1128.8 972.8 1110.4 952 1068 959.2 1047.11 974.22 1043.56 999.11 1030.22 1001.78 1000.89 986.67 959.11 1000.89 950.22 1030.22 864.89 1038.22)\b1\4c&H000000&\4a&HCD&}#THEFUCK{\b0}
 Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,{OP Start}
+Comment: 0,0:00:00.00,0:00:00.00,OP,,0,0,0,,{OP Start}
 Dialogue: 2,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)}Alright it's go time
 Dialogue: 1,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
 Dialogue: 0,0:00:00.49,0:00:02.16,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
@@ -1107,15 +1108,15 @@ Dialogue: 0,0:00:35.47,0:00:38.06,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I
 Dialogue: 2,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)}You can find the root of their anxiety
 Dialogue: 1,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You can find the root of their anxiety
 Dialogue: 0,0:00:38.06,0:00:40.90,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You can find the root of their anxiety
-Dialogue: 2,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)}I want to know why I met you all on your own
-Dialogue: 1,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to know why I met you all on your own
-Dialogue: 0,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to know why I met you all on your own
-Dialogue: 2,0:00:43.69,0:00:50.20,OP,,0,0,0,,{\fad(100,200)}I want to know the reason for your solitude
-Dialogue: 1,0:00:43.69,0:00:50.20,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I want to know the reason for your solitude
-Dialogue: 0,0:00:43.69,0:00:50.20,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I want to know the reason for your solitude
-Dialogue: 2,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(100,200)}Stand proud!
-Dialogue: 1,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Stand proud!
-Dialogue: 0,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Stand proud!
+Dialogue: 2,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)}When I met you, you were all alone
+Dialogue: 1,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}When I met you, you were all alone
+Dialogue: 0,0:00:40.90,0:00:43.69,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}When I met you, you were all alone
+Dialogue: 2,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)}I want to know why you were looking so lorn
+Dialogue: 1,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur0.8\c&H000000&}I want to know why you were looking so lorn
+Dialogue: 0,0:00:43.69,0:00:49.48,OP,,0,0,0,,{\fad(100,0)\blur3.5\alpha&H80&}I want to know why you were looking so lorn
+Dialogue: 2,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\fs69}Stand proud!
+Dialogue: 1,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur0.8\c&H000000&\fs69}Stand proud!
+Dialogue: 0,0:00:50.20,0:00:51.50,OP,,0,0,0,,{\fad(0,200)\blur3.5\alpha&H80&\fs69}Stand proud!
 Dialogue: 2,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)}It all depends on us!
 Dialogue: 1,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}It all depends on us!
 Dialogue: 0,0:00:51.50,0:00:54.24,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}It all depends on us!
@@ -1143,6 +1144,7 @@ Dialogue: 0,0:01:18.43,0:01:22.44,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}A
 Dialogue: 2,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)}You're needed right now!
 Dialogue: 1,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}You're needed right now!
 Dialogue: 0,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}You're needed right now!
+Dialogue: 0,0:01:25.19,0:01:27.19,OP,,0,0,0,,
 Comment: 0,0:22:09.93,0:22:09.93,ED,,0,0,0,,{ED Start}
 Dialogue: 0,0:22:10.31,0:22:16.61,ED,,0,0,0,,I wanted to have a chat since you were looking a little downcast
 Dialogue: 0,0:22:17.11,0:22:22.11,ED,,0,0,0,,So I tried walking a whole step closer to you than usual
