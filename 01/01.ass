@@ -12,14 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
-Audio File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
-Video File: B:/Fansubbing/Dynazenon/[Pizza] SSSS.Dynazenon - 01 [E059AA8F].mkv
+Audio File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E01.mkv
+Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Scroll Position: 332
-Active Line: 359
-Video Position: 4037
+Video Zoom Percent: 0.375000
+Scroll Position: 168
+Active Line: 179
+Video Position: 14609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,7 +154,7 @@ Dialogue: 10,0:06:52.10,0:06:53.85,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:06:54.64,0:06:56.31,Default,,0,0,0,,...and it talks automatically.
 Dialogue: 10,0:06:58.69,0:07:01.61,Default,,0,0,0,,What are you doing, Yomogi? Let's go!
 Dialogue: 10,0:07:06.11,0:07:09.70,Default,,0,0,0,,{\an8\i1}It's another day in the life\Nof this big family!
-Dialogue: 10,0:07:10.41,0:07:12.29,Default,,0,0,0,,{\an8}The Hinode's morning starts...
+Dialogue: 10,0:07:10.41,0:07:12.29,Default,,0,0,0,,{\an8\i1}The Hinode's morning starts...
 Dialogue: 10,0:07:12.29,0:07:13.58,Default,,0,0,0,,Thanks for the meal.
 Dialogue: 10,0:07:16.79,0:07:21.25,Default,,0,0,0,,Oh. Can I go in Kano's room?\NI wanna borrow something.
 Dialogue: 10,0:07:22.25,0:07:23.59,Default,,0,0,0,,What?
@@ -174,9 +174,9 @@ Dialogue: 10,0:08:00.08,0:08:02.71,Default,,0,0,0,,{\an8}It's about time you cle
 Dialogue: 10,0:08:03.25,0:08:04.59,Default,,0,0,0,,{\an8}Cleaned what?
 Dialogue: 10,0:08:04.59,0:08:07.34,Default,,0,0,0,,{\an8}Kano's room. Enough is enough.
 Dialogue: 10,0:08:07.34,0:08:09.43,Default,,0,0,0,,{\an8}What do you want from me?
-Dialogue: 10,0:08:09.43,0:08:12.68,Default,,0,0,0,,According to the police,\Nat around 6 o'clock...
+Dialogue: 10,0:08:09.43,0:08:12.68,Default,,0,0,0,,{\i1}According to the police,\Nat around 6 o'clock...
 Dialogue: 10,0:08:12.68,0:08:16.06,Default,,0,0,0,,Whoa. Check this out, Senpai.
-Dialogue: 10,0:08:16.68,0:08:18.31,Default,,0,0,0,,Garbage was floating...
+Dialogue: 10,0:08:16.68,0:08:18.31,Default,,0,0,0,,{\i1}Garbage was floating...
 Dialogue: 10,0:08:18.31,0:08:23.32,Default,,0,0,0,,Hey, Senpai! Senpai!\NHey, hey, hey! Senpai!
 Dialogue: 10,0:08:26.07,0:08:28.65,Default,,0,0,0,,And he grabbed me by the leg.
 Dialogue: 10,0:08:28.65,0:08:30.66,Default,,0,0,0,,Whoa. Freaky.
@@ -210,7 +210,7 @@ Dialogue: 10,0:09:57.58,0:09:59.54,Default,,0,0,0,,You don't have to pretend.
 Dialogue: 10,0:10:00.66,0:10:03.42,Default,,0,0,0,,You don't believe me, though?
 Dialogue: 10,0:10:03.42,0:10:05.50,Default,,0,0,0,,No, that's not true.
 Dialogue: 10,0:10:05.50,0:10:09.05,Default,,0,0,0,,Good. I'll see you here. It's a promise.
-Dialogue: 10,0:10:09.05,0:10:09.63,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:10:09.05,0:10:09.71,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:10:09.30,0:10:10.42,Default,,0,0,0,,{\an8}Hey!
 Dialogue: 10,0:10:11.17,0:10:13.43,Default,,0,0,0,,{\an8}Yomogi!
 Dialogue: 10,0:10:14.43,0:10:16.47,Default,,0,0,0,,{\an8}Why do you keep running from me?!
@@ -366,7 +366,6 @@ Comment: 0,0:22:10.31,0:22:10.31,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,{ALL THIS METAL insert song}
 Comment: 0,0:18:35.22,0:18:35.22,Insert Song,,0,0,0,,
-Dialogue: 0,0:18:40.22,0:18:41.22,Insert Song,,0,0,0,,{\fad(100,100)}Yeah
 Dialogue: 0,0:18:46.73,0:18:50.44,Insert Song,,0,0,0,,{\fad(100,100)}Just put your trust in me it's gonna work out alright
 Dialogue: 0,0:18:53.12,0:18:55.86,Insert Song,,0,0,0,,{\fad(100,100)}I can't convince you even if it's gonna take all night
 Dialogue: 0,0:18:58.08,0:18:59.88,Insert Song,,0,0,0,,{\fad(100,100)}Cause there's something in my mind
@@ -427,8 +426,8 @@ Dialogue: 0,0:23:28.64,0:23:33.56,ED,,0,0,0,,Just like your smiling face
 Comment: 0,0:22:07.65,0:22:09.65,Sign,,0,0,0,,=====TS BELOW HERE=====
 Comment: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,=====Pay Check=====
 Dialogue: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,{\pos(774,234.06)\fs60\c&HC4968F&\bord0\blur1.5\frz346.5\fnAlata\b1}Pay Stub
-Dialogue: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,{\pos(1286.58,359.82)\fs54\c&H937E7F&\bord0\blur1.8\frz347\fnAlata\b1}Yomogi Asanaka
-Dialogue: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,{\pos(1013.22,343.47)\fs39\c&H8F8584&\bord0\blur1.8\frz347\fnAlata}25 May 2020
+Dialogue: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,{\pos(1286.58,359.82)\fs54\c&H937E7F&\bord0\blur1.7\frz347\fnAlata\b1}Yomogi Asanaka
+Dialogue: 0,0:00:40.27,0:00:42.52,Sign,,0,0,0,,{\pos(1013.22,343.47)\fs39\c&H8F8584&\bord0\blur1.6\frz347\fnAlata}25 May 2020
 Comment: 0,0:02:44.35,0:02:48.35,Title,,0,0,0,,=====Title=====
 Dialogue: 0,0:02:44.35,0:02:48.35,Title,,0,0,0,,{\an7\pos(960,840)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m -631 -538 l 723 -538 723 -327 -631 -327
 Dialogue: 1,0:02:44.35,0:02:48.35,Title,,0,0,0,,{\an5\pos(960,415)\fnRoboto Light\bord0\blur1.1\b0}What's a Kaiju User?
