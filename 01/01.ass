@@ -17,8 +17,8 @@ Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 168
-Active Line: 179
+Scroll Position: 324
+Active Line: 343
 Video Position: 14609
 
 [V4+ Styles]
@@ -393,7 +393,7 @@ Dialogue: 0,0:20:20.76,0:20:22.24,Insert Song,,0,0,0,,{\fad(150,150)}Alright it'
 Dialogue: 0,0:20:22.24,0:20:26.54,Insert Song,,0,0,0,,{\fad(150,150)}We're fighting to secure our futures
 Dialogue: 0,0:20:32.84,0:20:35.46,Insert Song,,0,0,0,,{\fad(150,150)}If you look at the azure sky
 Dialogue: 0,0:20:35.46,0:20:40.01,Insert Song,,0,0,0,,{\fad(150,150)}You may find your heart torn
-Dialogue: 0,0:20:40.01,0:20:43.99,Insert Song,,0,0,0,,{\fad(150,150)}As you realise your own insignificance
+Dialogue: 0,0:20:40.01,0:20:43.99,Insert Song,,0,0,0,,{\fad(150,150)}As you realize your own insignificance
 Dialogue: 0,0:20:43.99,0:20:46.71,Insert Song,,0,0,0,,{\fad(150,150)}The emotions dispersed throughout the city
 Dialogue: 0,0:20:46.71,0:20:51.38,Insert Song,,0,0,0,,{\fad(150,150)}Incommodius and unstable as they are
 Dialogue: 0,0:20:51.38,0:20:54.69,Insert Song,,0,0,0,,{\fad(150,150)}Are almost like an impuissant SOS
