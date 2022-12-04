@@ -13,13 +13,14 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Dynazenon
-Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/dynabd04v2.mkv
+Audio File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E04.mkv
+Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 1031
-Active Line: 1058
-Video Position: 32343
+Video Zoom Percent: 0.375000
+Scroll Position: 323
+Active Line: 330
+Video Position: 30649
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -108,7 +109,7 @@ Dialogue: 10,0:05:41.70,0:05:42.91,Default,,0,0,0,,Huh? Wh-What's this?
 Dialogue: 10,0:05:43.57,0:05:47.29,Default,,0,0,0,,What does it mean? Is this like... a date?
 Dialogue: 10,0:05:47.29,0:05:50.45,Default,,0,0,0,,Hey, quit your mumbling over there.
 Dialogue: 10,0:05:50.45,0:05:52.00,Default,,0,0,0,,Y-You were here?
-Dialogue: 10,0:05:52.00,0:05:54.13,Default,,0,0,0,,Huh? Have been since morning.
+Dialogue: 10,0:05:52.00,0:05:54.13,Default,,0,0,0,,Huh? Have been since this morning.
 Dialogue: 10,0:05:54.13,0:05:56.79,Default,,0,0,0,,Oh, right. Yeah.
 Dialogue: 10,0:05:58.63,0:06:00.88,Default,,0,0,0,,Did you meet the chorus grad?
 Dialogue: 10,0:06:00.88,0:06:01.55,Default,,0,0,0,,Yeah.
@@ -314,9 +315,9 @@ Dialogue: 10,0:17:00.87,0:17:03.75,Default,,0,0,0,,Don't make me go to another m
 Dialogue: 10,0:17:06.26,0:17:09.93,Default,,0,0,0,,Deep inside, maybe you just\Nwant to fight them? {italicize?}
 Dialogue: 10,0:17:10.84,0:17:14.47,Default,,0,0,0,,{\i1}What makes you think\Nyou need to fight kaiju?
 Dialogue: 10,0:17:15.01,0:17:17.18,Default,,0,0,0,,That's what I'd like to know.
-Dialogue: 10,0:17:19.81,0:17:21.52,Default,,0,0,0,,How is it, Minami?
+Dialogue: 10,0:17:19.81,0:17:21.52,Default,,0,0,0,,{\i1}How is it, Minami?{\i0}
 Dialogue: 10,0:17:21.52,0:17:23.02,Default,,0,0,0,,Real ugly.
-Dialogue: 10,0:17:23.02,0:17:24.65,Default,,0,0,0,,Huh? I should come.
+Dialogue: 10,0:17:23.02,0:17:24.65,Default,,0,0,0,,{\i1}Huh? I should come.{\i0}
 Dialogue: 10,0:17:24.65,0:17:26.78,Default,,0,0,0,,Yeah. We might need you.
 Dialogue: 10,0:17:26.78,0:17:29.78,Default,,0,0,0,,Having said that, how do I get there?
 Dialogue: 10,0:17:30.20,0:17:33.24,Default,,0,0,0,,It's not like I can borrow Mom's car.
@@ -383,7 +384,7 @@ Comment: 0,0:02:44.44,0:02:46.19,Sign,,0,0,0,,
 Dialogue: 0,0:02:44.44,0:02:46.19,Sign,,0,0,0,,{\an7\pos(0,0)\blur1\bord0\shad0\fscx100\fscy100\p1\c&HF5F7F0&\1a&H05&}m 555 597 l 956 597 956 719 555 719
 Dialogue: 0,0:02:44.44,0:02:46.19,Sign,,0,0,0,,{\an7\pos(0,0)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H3EE013&\1a&H14&}m 558 600 l 953 600 953 659 558 659
 Dialogue: 1,0:02:44.44,0:02:46.19,Sign,,0,0,0,,{\an5\pos(755,628)\fsp0\fs48\bord0\blur1.4\fnRoboto\b1}Departing
-Dialogue: 1,0:02:44.44,0:02:46.19,Sign,,0,0,0,,{\an5\pos(755,687)\fsp0\fs38\fnRoboto Medium\bord0\blur1.4\c&H73DA4B&\b0}Please Hold The Handrail
+Dialogue: 1,0:02:44.44,0:02:46.19,Sign,,0,0,0,,{\an5\pos(755,687)\fsp0\fs38\fnRoboto Medium\bord0\blur1.4\c&H73DA4B&\b0}Please hold the handrail
 Comment: 0,0:02:55.70,0:02:59.70,Sign,,0,0,0,,===Title===
 Dialogue: 0,0:02:55.70,0:02:59.70,Title,,0,0,0,,{\an7\pos(960,840)\blur1\bord0\shad0\fscx100\fscy100\p1\c&H000000&}m -631 -538 l 723 -538 723 -327 -631 -327
 Dialogue: 1,0:02:55.70,0:02:59.70,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\blur1.1\fs146\b0}What Is This Thumping Heart?
