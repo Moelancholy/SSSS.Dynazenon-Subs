@@ -12,13 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
-Audio File: ../../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 08 [6B4D2A40].mkv
-Video File: ../../../../Desktop/Dynazenon/Episodes/[Pizza] SSSS.Dynazenon - 08 [6B4D2A40].mkv
+Audio File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E08.mkv
+Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E08.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 1
-Video Position: 31888
+Video Zoom Percent: 0.375000
+Scroll Position: 237
+Active Line: 256
+Video Position: 18860
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -102,7 +103,7 @@ Dialogue: 0,0:01:22.44,0:01:25.19,OP,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Y
 Dialogue: 0,0:01:25.19,0:01:27.19,OP,,0,0,0,,
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 20,0:01:30.78,0:01:31.82,Default,,0,0,0,,Gimme a sec.
-Dialogue: 20,0:01:31.82,0:01:32.86,Default,,0,0,0,,Come on, do it!
+Dialogue: 20,0:01:31.82,0:01:33.49,Default,,0,0,0,,Come on, do it!
 Dialogue: 20,0:01:32.45,0:01:33.49,Alt,,0,0,0,,Hurry up!
 Dialogue: 20,0:01:33.49,0:01:35.37,Default,,0,0,0,,I can't do it!
 Dialogue: 20,0:01:35.37,0:01:37.54,Default,,0,0,0,,Ugh, it's creepy.
@@ -145,7 +146,7 @@ Dialogue: 20,0:04:27.25,0:04:29.21,Default,,0,0,0,,Another kaiju?
 Dialogue: 20,0:04:29.21,0:04:31.63,Default,,0,0,0,,Yeah. A kaiju got me.
 Dialogue: 20,0:04:32.13,0:04:37.80,Default,,0,0,0,,Only a kaiju could do this!\NEveryone, let's split up and find it!
 Dialogue: 20,0:04:37.80,0:04:39.18,Default,,0,0,0,,Find it?
-Dialogue: 20,0:04:39.51,0:04:43.18,Default,,0,0,0,,It's using power but hasn't shown itself.
+Dialogue: 20,0:04:39.51,0:04:43.18,Default,,0,0,0,,It's using a power but hasn't shown itself.
 Dialogue: 20,0:04:43.18,0:04:44.47,Default,,0,0,0,,True.
 Dialogue: 20,0:04:44.47,0:04:47.43,Default,,0,0,0,,It could be a little kaiju.
 Dialogue: 20,0:04:47.43,0:04:49.69,Default,,0,0,0,,I guess there's all types of kaiju.
@@ -201,7 +202,7 @@ Dialogue: 20,0:07:28.30,0:07:31.22,Default,,0,0,0,,Go on. Let's see your trainin
 Dialogue: 20,0:07:31.22,0:07:33.18,Default,,0,0,0,,You {\i1}are {\i0}making fun of me.
 Dialogue: 20,0:07:33.18,0:07:35.23,Default,,0,0,0,,I think I'll pass.
 Dialogue: 20,0:07:35.23,0:07:37.31,Default,,0,0,0,,Instance Domination.
-Dialogue: 20,0:07:36.10,0:07:36.69,Alt,,0,0,0,,Huh?
+Dialogue: 20,0:07:36.10,0:07:36.77,Alt,,0,0,0,,Huh?
 Dialogue: 20,0:07:47.53,0:07:49.82,Default,,0,0,0,,Instance Domination.
 Dialogue: 20,0:07:51.83,0:07:53.54,Default,,0,0,0,,Huh? Sweet!
 Dialogue: 20,0:07:53.54,0:07:54.37,Default,,0,0,0,,Whoa!
@@ -284,9 +285,9 @@ Dialogue: 20,0:12:37.95,0:12:38.74,Default,,0,0,0,,Which movie?
 Dialogue: 20,0:12:38.74,0:12:40.24,Default,,0,0,0,,You're going?!
 Dialogue: 20,0:12:53.38,0:12:55.00,Default,,0,0,0,,Where is it?
 Dialogue: 20,0:12:55.50,0:12:58.51,Default,,0,0,0,,Whoa, whoa, whoa. You serious?
-Dialogue: 20,0:12:58.80,0:13:00.76,Default,,262,0,81,,That sounds\Nawesome.
-Dialogue: 20,0:12:58.80,0:13:00.76,Default,,762,0,81,,That sounds\Nawesome.
-Dialogue: 20,0:13:00.76,0:13:01.51,Default,,0,332,81,,Huh?
+Dialogue: 20,0:12:58.80,0:13:00.76,Default,,502,0,81,,That sounds\Nawesome.
+Dialogue: 20,0:12:58.80,0:13:00.76,Default,,1482,0,81,,That sounds\Nawesome.
+Dialogue: 20,0:13:00.76,0:13:01.51,Default,,580,0,0,,{\an1}Huh?
 Dialogue: 20,0:13:06.60,0:13:08.02,Default,,0,0,0,,What are you doing?
 Dialogue: 20,0:13:08.77,0:13:10.31,Default,,0,0,0,,Knight?
 Dialogue: 20,0:13:12.10,0:13:14.61,Default,,0,0,0,,That one kaiju got away.
