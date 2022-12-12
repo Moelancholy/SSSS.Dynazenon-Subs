@@ -12,12 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
-Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/dynabd09.mkv
+Audio File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E09.mkv
+Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E09.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 1
-Video Position: 32515
+Scroll Position: 308
+Active Line: 336
+Video Position: 31587
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +29,7 @@ Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Style: ED,Bahnschrift,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,1,7,50,55,42,1
 Style: OP,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,1,1,64,150,43,1
 Style: Alt,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00564100,&HFF000000,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
-Style: Insert Song,Bahnschrift,60,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,7,22,22,40,1
+Style: Insert Song,Bahnschrift,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,1,7,50,55,42,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -127,8 +129,8 @@ Dialogue: 20,0:03:32.36,0:03:34.15,Default,,0,0,0,,It's my brother's birthday.
 Dialogue: 20,0:03:34.15,0:03:36.57,Default,,0,0,0,,I've got plans to go eat.
 Dialogue: 20,0:03:36.57,0:03:37.28,Default,,0,0,0,,Me, too.
 Dialogue: 20,0:03:37.70,0:03:39.78,Default,,0,0,0,,Why don't you two go?
-Dialogue: 20,0:03:42.37,0:03:43.29,Default,,262,0,81,,No way.
-Dialogue: 20,0:03:42.37,0:03:43.29,Default,,0,482,81,,No way.
+Dialogue: 20,0:03:42.37,0:03:43.29,Default,,472,0,0,,No way.
+Dialogue: 20,0:03:42.37,0:03:43.29,Default,,420,482,0,,{\an1}No way.
 Dialogue: 20,0:03:46.66,0:03:49.29,Default,,0,0,0,,Not interested in the festival?
 Dialogue: 20,0:03:49.29,0:03:52.55,Default,,0,0,0,,Huh? Uh, not really.
 Dialogue: 20,0:03:53.67,0:03:55.88,Default,,0,0,0,,I think I wanna go.
@@ -353,7 +355,7 @@ Dialogue: 20,0:20:54.82,0:20:56.19,Default,,0,0,0,,That's true.
 Dialogue: 20,0:20:59.07,0:21:01.32,Default,,0,0,0,,I realized something today.
 Dialogue: 20,0:21:01.74,0:21:04.12,Default,,0,0,0,,We've all gotta fight together.
 Dialogue: 20,0:21:04.83,0:21:07.20,Default,,0,0,0,,We can't win without everyone.
-Dialogue: 20,0:21:09.16,0:21:10.62,Default,,0,0,0,,Even me?
+Dialogue: 20,0:21:09.16,0:21:10.62,Default,,0,0,0,,Including me?
 Dialogue: 20,0:21:10.62,0:21:13.96,Default,,0,0,0,,Including you... and Goldburn.
 Dialogue: 20,0:21:20.47,0:21:23.22,Default,,0,0,0,,We're too late for the festival.
 Dialogue: 20,0:21:23.22,0:21:25.81,Default,,0,0,0,,No, not if we run.
@@ -361,15 +363,15 @@ Dialogue: 20,0:21:25.81,0:21:27.22,Default,,0,0,0,,All right!
 Dialogue: 20,0:21:27.22,0:21:28.14,Default,,0,0,0,,Right now?
 Dialogue: 20,0:21:28.14,0:21:30.35,Default,,0,0,0,,C'mon, get moving!
 Dialogue: 20,0:21:32.10,0:21:33.69,Default,,0,0,0,,You guys, too.
-Dialogue: 20,0:21:45.12,0:21:47.04,Default,,0,0,0,,We didn't make it.
-Dialogue: 20,0:21:47.04,0:21:48.54,Default,,0,0,0,,Guess not.
-Dialogue: 20,0:21:48.54,0:21:51.00,Default,,0,0,0,,Who wants to do fireworks?
-Dialogue: 20,0:21:51.00,0:21:51.79,Default,,0,0,0,,Huh?
-Dialogue: 20,0:21:51.79,0:21:53.38,Default,,0,0,0,,Like, our own.
-Dialogue: 20,0:21:53.38,0:21:57.42,Default,,0,0,0,,That's a great idea!\NWe'll go and buy some!
-Dialogue: 20,0:21:57.42,0:21:59.30,Default,,0,0,0,,Huh? Okay.
-Dialogue: 20,0:21:59.76,0:22:02.05,Default,,0,0,0,,I wanna buy some, too!
-Dialogue: 20,0:22:02.05,0:22:03.93,Default,,0,0,0,,Huh? O-Okay.
+Dialogue: 20,0:21:45.12,0:21:47.04,Default,,0,0,25,,We didn't make it.
+Dialogue: 20,0:21:47.04,0:21:48.54,Default,,0,0,25,,Guess not.
+Dialogue: 20,0:21:48.54,0:21:51.00,Default,,0,0,25,,Who wants to do fireworks?
+Dialogue: 20,0:21:51.00,0:21:51.79,Default,,0,0,25,,Huh?
+Dialogue: 20,0:21:51.79,0:21:53.38,Default,,0,0,25,,Like, our own.
+Dialogue: 20,0:21:53.38,0:21:57.42,Default,,0,0,25,,That's a great idea! We'll go and buy some!
+Dialogue: 20,0:21:57.42,0:21:59.30,Default,,0,0,25,,Huh? Okay.
+Dialogue: 20,0:21:59.76,0:22:02.05,Default,,0,0,25,,I wanna buy some, too!
+Dialogue: 20,0:22:02.05,0:22:03.93,Default,,0,0,25,,Huh? O-Okay.
 Dialogue: 20,0:22:04.64,0:22:06.93,Default,,0,0,0,,Can I go home for a sec?
 Dialogue: 20,0:22:06.93,0:22:07.93,Default,,0,0,0,,What for?
 Dialogue: 20,0:22:08.43,0:22:10.81,Default,,0,0,0,,I'll be right back.
@@ -441,15 +443,18 @@ Dialogue: 0,0:19:40.68,0:19:42.03,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alp
 Dialogue: 2,0:19:42.03,0:19:47.62,Insert Song,,0,0,0,,{\fad(100,200)}Isn't actually why I do it, I'm not so magnanimous
 Dialogue: 1,0:19:42.03,0:19:47.62,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Isn't actually why I do it, I'm not so magnanimous
 Dialogue: 0,0:19:42.03,0:19:47.62,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Isn't actually why I do it, I'm not so magnanimous
-Dialogue: 2,0:19:47.62,0:19:51.59,Insert Song,,0,0,0,,{\fad(100,200)}I do it for you
-Dialogue: 1,0:19:47.62,0:19:51.59,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I do it for you
-Dialogue: 0,0:19:47.62,0:19:51.59,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I do it for you
+Dialogue: 2,0:19:47.62,0:19:51.59,Insert Song,,0,0,0,,{\fad(100,200)}I do it for you!
+Dialogue: 1,0:19:47.62,0:19:51.59,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}I do it for you!
+Dialogue: 0,0:19:47.62,0:19:51.59,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}I do it for you!
 Dialogue: 2,0:19:51.59,0:19:56.01,Insert Song,,0,0,0,,{\fad(100,200)}When protecting the one they care about
 Dialogue: 1,0:19:51.59,0:19:56.01,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}When protecting the one they care about
 Dialogue: 0,0:19:51.59,0:19:56.01,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}When protecting the one they care about
-Dialogue: 2,0:19:56.01,0:20:05.02,Insert Song,,0,0,0,,{\fad(100,200)}Anyone can become the hero of their own little story, for sure!
-Dialogue: 1,0:19:56.01,0:20:05.02,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Anyone can become the hero of their own little story, for sure!
-Dialogue: 0,0:19:56.01,0:20:05.02,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Anyone can become the hero of their own little story, for sure!
+Dialogue: 2,0:19:56.01,0:19:58.59,Insert Song,,0,0,0,,{\fad(100,200)}Anyone can become
+Dialogue: 1,0:19:56.01,0:19:58.59,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Anyone can become
+Dialogue: 0,0:19:56.01,0:19:58.59,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Anyone can become
+Dialogue: 2,0:19:58.59,0:20:05.02,Insert Song,,0,0,0,,{\fad(100,200)}the hero of their own little story, for sure!
+Dialogue: 1,0:19:58.59,0:20:05.02,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}the hero of their own little story, for sure!
+Dialogue: 0,0:19:58.59,0:20:05.02,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}the hero of their own little story, for sure!
 Dialogue: 2,0:20:04.25,0:20:09.25,Insert Song,,0,0,0,,{\fad(100,200)\an9}(Scarred Souls Shine like Stars)
 Dialogue: 1,0:20:04.25,0:20:09.25,Insert Song,,0,0,0,,{\fad(100,200)\an9\blur0.8\c&H000000&}(Scarred Souls Shine like Stars)
 Dialogue: 0,0:20:04.25,0:20:09.25,Insert Song,,0,0,0,,{\fad(100,200)\an9\blur3.5\alpha&H80&}(Scarred Souls Shine like Stars)
@@ -458,7 +463,7 @@ Dialogue: 1,0:20:09.72,0:20:13.86,Insert Song,,0,0,0,,{\fad(100,200)\an9\blur0.8
 Dialogue: 0,0:20:09.72,0:20:13.86,Insert Song,,0,0,0,,{\fad(100,200)\an9\blur3.5\alpha&H80&}(Dynazenon)
 Dialogue: 2,0:20:13.86,0:20:15.36,Insert Song,,0,0,0,,{\fad(100,200)}Alright it's go time
 Dialogue: 1,0:20:13.86,0:20:15.36,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}Alright it's go time
-Dialogue: 0,0:20:13.86,0:20:15.36,Insert Song,,0,0,0,,{\fad(100,200)\an9\blur3.5\alpha&H80&}Alright it's go time
+Dialogue: 0,0:20:13.86,0:20:15.36,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}Alright it's go time
 Dialogue: 2,0:20:15.36,0:20:19.83,Insert Song,,0,0,0,,{\fad(100,200)}We're fighting to secure our futures
 Dialogue: 1,0:20:15.36,0:20:19.83,Insert Song,,0,0,0,,{\fad(100,200)\blur0.8\c&H000000&}We're fighting to secure our futures
 Dialogue: 0,0:20:15.36,0:20:19.83,Insert Song,,0,0,0,,{\fad(100,200)\blur3.5\alpha&H80&}We're fighting to secure our futures
