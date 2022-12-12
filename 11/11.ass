@@ -12,13 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
-Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/dynabd11.mkv
+Audio File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E11.mkv
+Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E11.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 322
-Active Line: 342
-Video Position: 33155
+Scroll Position: 179
+Active Line: 208
+Video Position: 15965
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -238,7 +239,7 @@ Dialogue: 20,0:10:29.15,0:10:32.90,Default,,0,0,0,,Princess wasn't a kaiju user,
 Dialogue: 20,0:10:33.61,0:10:37.24,Default,,0,0,0,,And because of that, they'll never meet.
 Dialogue: 20,0:10:37.24,0:10:39.49,Default,,0,0,0,,Must be why he's so bummed.
 Dialogue: 20,0:10:40.24,0:10:40.95,Default,,0,0,0,,Yeah.
-Dialogue: 20,0:10:49.92,0:10:54.30,Default,,0,0,0,,Yomogi, can you come with me\Nsomewhere tomorrow?
+Dialogue: 20,0:10:49.92,0:10:54.30,Default,,0,0,25,,Yomogi, can you come with me\Nsomewhere tomorrow?
 Dialogue: 20,0:11:05.85,0:11:10.40,Default,,0,0,0,,Tomorrow, I'm planning\Nto visit Kano's grave.
 Dialogue: 20,0:11:11.28,0:11:13.32,Default,,0,0,0,,That seems sudden.
 Dialogue: 20,0:11:14.03,0:11:15.32,Default,,0,0,0,,I guess it is.
@@ -381,8 +382,8 @@ Dialogue: 0,0:23:24.88,0:23:28.26,ED,,0,0,0,,It was ever so radiant
 Dialogue: 0,0:23:28.26,0:23:33.18,ED,,0,0,0,,Just like your smiling face
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,TS BELOW HERE
 Comment: 0,0:08:58.81,0:09:00.02,Sign,,0,0,0,,===Photo Dispenser===
-Dialogue: 0,0:08:58.81,0:09:00.02,Sign,,0,0,0,,{\an7\pos(0,0)\c&H311215&\blur1\p1}m 608 129 l 580 91 572 57 601 27 675 19 1300 19 1331 41 1339 81 1328 112 1300 134 984 139 691 139
-Dialogue: 1,0:08:58.81,0:09:00.02,Sign,,0,0,0,,{\an8\fnFormata Regular\fs100\b1\1c&H4E4042&\1a&H0F&\pos(954,32)\blur1}Photo Dispenser
+Dialogue: 1,0:08:58.81,0:09:00.02,Sign,,0,0,0,,{\an7\pos(0,0)\c&H311215&\blur1\p1}m 608 129 l 580 91 572 57 601 27 675 19 1300 19 1331 41 1339 81 1328 112 1300 134 984 139 691 139
+Dialogue: 2,0:08:58.81,0:09:00.02,Sign,,0,0,0,,{\an8\fnFormata Regular\fs100\b1\1c&H4E4042&\1a&H0F&\pos(954,32)\blur1}Photo Dispenser
 Comment: 0,0:11:54.78,0:11:55.88,Sign,,0,0,0,,===1st Google===
 Dialogue: 0,0:11:54.78,0:11:55.88,Sign,,0,0,0,,{\an7\pos(0,0)\c&HFCFAFA&\blur7\p1}m 371 94 l 92 89 76 100 69 122 74 143 88 162 371 168
 Dialogue: 1,0:11:54.78,0:11:55.88,Sign,,0,0,0,,{\an7\pos(0,0)\c&HF9F7F6&\1a&H50&\blur7\p1}m 390 102 l 92 89 76 100 69 122 74 143 88 162 257 141
