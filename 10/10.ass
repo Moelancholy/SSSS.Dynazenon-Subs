@@ -12,13 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Dynazenon
-Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/dynabd10.mkv
+Audio File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E10.mkv
+Video File: ../../Encode-Scripts/Pizza/SSSS.Dynazenon/[Pizza] SSSS.Dynazenon - S01E10.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 292
-Active Line: 317
-Video Position: 33458
+Scroll Position: 204
+Active Line: 220
+Video Position: 22829
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +29,7 @@ Style: Title,Roboto Light,156,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Style: ED,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,100,100,60,1
 Style: OP,Bahnschrift,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.7,1,1,64,150,43,1
 Style: Alt,Gandhi Sans,69,&H00FFFFFF,&H008F8F8F,&H00564100,&HFF000000,-1,0,0,0,100,100,0.6,0,1,3.375,0,2,22,22,81,1
-Style: Insert Song,Bahnschrift,60,&H00FFFFFF,&H008F8F8F,&H00000000,&HFF821A15,-1,0,0,0,100,100,0.6,0,1,3.375,0,7,22,22,40,1
+Style: Insert Song,Bahnschrift,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,1,7,50,55,42,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -150,7 +151,7 @@ Dialogue: 20,0:05:56.88,0:05:58.59,Default,,0,0,0,,Minami!
 Dialogue: 20,0:06:00.09,0:06:01.67,Default,,0,0,0,,Minami!
 Dialogue: 20,0:06:02.01,0:06:05.14,Default,,0,0,0,,What the hell is all this?
 Dialogue: 20,0:06:10.06,0:06:11.93,Default,,0,0,0,,Why is it broken?
-Dialogue: 20,0:06:12.31,0:06:12.94,Default,,0,0,0,,Oh...
+Dialogue: 20,0:06:12.27,0:06:12.94,Default,,0,0,0,,Oh...
 Dialogue: 20,0:06:30.45,0:06:33.46,Default,,0,0,0,,Futaba and Kano?
 Dialogue: 20,0:06:34.04,0:06:36.46,Default,,0,0,0,,Is this Minami's past?
 Dialogue: 20,0:06:41.26,0:06:44.84,Default,,0,0,0,,Goldburn. You protected us, didn't you?
@@ -168,176 +169,176 @@ Dialogue: 20,0:07:45.86,0:07:46.65,Default,,0,0,0,,Huh?
 Dialogue: 20,0:07:46.95,0:07:48.07,Default,,0,0,0,,What?!
 Dialogue: 20,0:07:49.49,0:07:54.04,Default,,0,0,0,,Minami... Try to remember!
 Comment: 0,0:07:54.95,0:07:54.95,Default,chapter,0,0,0,,{Part B}
-Dialogue: 20,0:07:57.71,0:07:58.96,Default,,0,0,0,,Yume.
-Dialogue: 20,0:07:59.92,0:08:02.34,Default,,0,0,0,,Yume, I'd like you to come.
-Dialogue: 20,0:08:02.88,0:08:03.50,Default,,0,0,0,,Huh?
-Dialogue: 20,0:08:04.13,0:08:06.34,Default,,0,0,0,,To the chorus club's recital.
-Dialogue: 20,0:08:08.22,0:08:09.09,Default,,0,0,0,,Okay.
-Dialogue: 20,0:08:09.84,0:08:11.85,Default,,0,0,0,,It's a promise, then.
-Dialogue: 20,0:08:12.60,0:08:13.35,Default,,0,0,0,,Yeah.
-Dialogue: 20,0:08:16.64,0:08:17.52,Default,,0,0,0,,What?
-Dialogue: 20,0:08:24.65,0:08:25.61,Default,,0,0,0,,Never mind.
-Dialogue: 20,0:08:59.48,0:09:01.15,Default,,0,0,0,,I'm going out.
-Dialogue: 20,0:09:01.81,0:09:03.69,Default,,0,0,0,,Singing practice?
-Dialogue: 20,0:09:03.69,0:09:04.44,Default,,0,0,0,,Yeah.
-Dialogue: 20,0:09:05.07,0:09:07.28,Default,,0,0,0,,Don't go somewhere dangerous.
-Dialogue: 20,0:09:07.74,0:09:09.82,Default,,0,0,0,,Like on the flood gate?
-Dialogue: 20,0:09:10.45,0:09:12.99,Default,,0,0,0,,Hey, don't you dare!
-Dialogue: 20,0:09:14.33,0:09:15.41,Default,,0,0,0,,Kano!
-Dialogue: 20,0:09:16.74,0:09:18.58,Default,,0,0,0,,{\i1}They say it was suicide.
-Dialogue: 20,0:09:18.58,0:09:20.71,Default,,0,0,0,,{\i1}She died at that flood gate.
-Dialogue: 20,0:09:21.96,0:09:26.21,Default,,0,0,0,,{\i1}Minami, we've gotta\Nstop your sister! Otherwise...
-Dialogue: 20,0:09:27.84,0:09:32.89,Default,,0,0,0,,{\i1}Why can't I reach you?! At this rate—!
-Dialogue: 20,0:09:32.89,0:09:37.47,Default,,0,0,0,,{\i1}At this rate, Minami will be sad! And I...
-Dialogue: 20,0:09:41.10,0:09:43.98,Default,,0,0,0,,I... can't stand that!
-Dialogue: 20,0:09:51.74,0:09:53.86,Default,,0,0,0,,Dyna Wing?
-Dialogue: 20,0:10:02.46,0:10:02.96,Default,,0,0,0,,Yomogi!
-Dialogue: 20,0:10:04.50,0:10:05.71,Default,,0,0,0,,Minami...
-Dialogue: 20,0:10:08.00,0:10:10.97,Default,,0,0,0,,Let's go stop your sister!
-Dialogue: 20,0:10:12.17,0:10:12.97,Default,,0,0,0,,Right!
-Dialogue: 20,0:10:13.93,0:10:17.39,Default,,0,0,0,,Now,
-Dialogue: 20,0:10:18.93,0:10:23.44,Default,,0,0,0,,go and soar.
-Dialogue: 20,0:10:25.19,0:10:29.23,Default,,0,0,0,,On the winds
-Dialogue: 20,0:10:30.53,0:10:34.16,Default,,0,0,0,,called hope.
-Dialogue: 20,0:10:36.99,0:10:40.33,Default,,0,0,0,,Kano! Kano! Kano!
-Dialogue: 20,0:10:42.08,0:10:43.08,Default,,0,0,0,,Kano!
-Dialogue: 20,0:10:46.83,0:10:48.21,Default,,0,0,0,,Please don't die!
-Dialogue: 20,0:10:48.96,0:10:49.46,Default,,0,0,0,,Huh?
-Dialogue: 20,0:10:49.46,0:10:51.80,Default,,0,0,0,,I know everything!
-Dialogue: 20,0:10:51.80,0:10:55.93,Default,,0,0,0,,I know you're dating Futaba\Nand that you're being bullied!
-Dialogue: 20,0:10:55.93,0:10:58.22,Default,,0,0,0,,And... and... this!
-Dialogue: 20,0:10:58.22,0:11:01.85,Default,,0,0,0,,Hold up. Why would I die?
-Dialogue: 20,0:11:02.18,0:11:03.10,Default,,0,0,0,,Huh?
-Dialogue: 20,0:11:08.31,0:11:11.48,Default,,0,0,0,,I don't plan on dying.
-Dialogue: 20,0:11:11.48,0:11:16.49,Default,,0,0,0,,Didn't I make you promise\Nto come to my recital?
-Dialogue: 20,0:11:18.49,0:11:19.95,Default,,0,0,0,,Right, Yume?
-Dialogue: 20,0:11:29.25,0:11:30.21,Default,,0,0,0,,Kano...
-Dialogue: 20,0:11:31.38,0:11:32.76,Default,,0,0,0,,{\i1}...it was an accident.
-Dialogue: 20,0:11:33.21,0:11:34.88,Default,,0,0,0,,{\i1}Kano wasn't like that.
-Dialogue: 20,0:11:40.76,0:11:43.02,Default,,0,0,0,,Why do you look so big?
-Dialogue: 20,0:11:43.81,0:11:47.60,Default,,0,0,0,,You never meant to break our promise.
-Dialogue: 20,0:11:53.98,0:11:56.86,Default,,0,0,0,,This... It's awful!
-Dialogue: 20,0:11:56.86,0:12:00.66,Default,,0,0,0,,It makes no difference\Nwhether it's suicide or an accident.
-Dialogue: 20,0:12:01.95,0:12:05.37,Default,,0,0,0,,I just... don't want you to die!
-Dialogue: 20,0:12:06.66,0:12:11.79,Default,,0,0,0,,Die? So that's why you came and found me.
-Dialogue: 20,0:12:14.76,0:12:18.30,Default,,0,0,0,,I should've gotten along with you better.
-Dialogue: 20,0:12:24.93,0:12:29.14,Default,,0,0,0,,{\i1}Sorry, Yomogi. Can you give me more time?
-Dialogue: 20,0:12:29.60,0:12:31.65,Default,,0,0,0,,Got it. I'm going ahead.
-Dialogue: 20,0:12:32.11,0:12:32.94,Default,,0,0,0,,{\i1}Okay.
-Dialogue: 20,0:12:33.32,0:12:35.69,Default,,0,0,0,,{\i1}We'll all be waiting for you.
-Dialogue: 20,0:12:41.32,0:12:44.41,Default,,0,0,0,,Everyone who vanished is stuck in the past
-Dialogue: 20,0:12:44.41,0:12:48.00,Default,,0,0,0,,and it's up to me to bring them back!
-Dialogue: 20,0:12:52.29,0:12:55.00,Default,,0,0,0,,Money to last a lifetime...
-Dialogue: 20,0:12:56.63,0:12:57.88,Default,,0,0,0,,A lifetime of—
-Dialogue: 20,0:12:57.88,0:12:58.63,Default,,0,0,0,,Koyomi!
-Dialogue: 20,0:13:13.02,0:13:15.36,Default,,0,0,0,,Huh? Supervisor?
-Dialogue: 20,0:13:15.36,0:13:17.90,Default,,0,0,0,,Hurry! Help me pick it up!
-Dialogue: 20,0:13:18.53,0:13:22.07,Default,,0,0,0,,Who cares? It's probably not real.
-Dialogue: 20,0:13:22.07,0:13:27.29,Default,,0,0,0,,And what if it is?! Argh, shit! Dammit!
-Dialogue: 20,0:13:59.69,0:14:00.82,Default,,0,0,0,,Yomogi.
-Dialogue: 20,0:14:00.82,0:14:02.45,Default,,0,0,0,,Let's go home, Koyomi.
-Dialogue: 20,0:14:03.91,0:14:04.45,Default,,0,0,0,,I...
-Dialogue: 20,0:14:04.45,0:14:05.32,Default,,0,0,0,,Koyomi.
-Dialogue: 20,0:14:19.51,0:14:23.26,Default,,0,0,0,,Bastard! I'll kill you!
-Dialogue: 20,0:14:33.98,0:14:38.23,Default,,0,0,0,,Why... did you... betray us?
-Dialogue: 20,0:14:38.73,0:14:43.78,Default,,0,0,0,,You Eugenicists are the ones\Nwho betrayed the country.
-Dialogue: 20,0:14:44.20,0:14:49.20,Default,,0,0,0,,The country... wanted to\Nget rid of... us kaiju users.
-Dialogue: 20,0:14:49.20,0:14:51.58,Default,,0,0,0,,They were just... using us.
-Dialogue: 20,0:14:51.58,0:15:00.96,Default,,0,0,0,,Why do you care...\Nabout a country... like that?
-Dialogue: 20,0:15:03.63,0:15:07.18,Default,,0,0,0,,It's not the country I care about.
-Dialogue: 20,0:15:10.51,0:15:12.93,Default,,0,0,0,,Prin... cess.
-Dialogue: 20,0:15:15.77,0:15:19.15,Default,,0,0,0,,{\i1}That person... taught me...
-Dialogue: 20,0:15:20.02,0:15:24.90,Default,,0,0,0,,{\i1}Promises, love, and...
-Dialogue: 20,0:15:26.78,0:15:29.74,Default,,0,0,0,,Gauma! This is no time to die!
-Dialogue: 20,0:15:29.74,0:15:36.12,Default,,0,0,0,,The Eugenicists revive in 5,000 years\Nand are trying to erase our world!
-Dialogue: 20,0:15:36.12,0:15:39.54,Default,,0,0,0,,Our present time is getting wiped out!
-Dialogue: 20,0:15:45.72,0:15:51.18,Default,,0,0,0,,Yomogi, you're my lifesaver after all.
-Dialogue: 20,0:15:52.18,0:15:54.77,Default,,0,0,0,,Let's go back to our "now."
-Dialogue: 20,0:16:01.69,0:16:05.19,Default,,0,0,0,,Knight, let's go back to our world!
-Dialogue: 20,0:16:08.11,0:16:09.95,Default,,0,0,0,,I didn't need help.
-Dialogue: 20,0:16:10.91,0:16:15.45,Default,,0,0,0,,It's embarrassing at home,\Nso I sang here a lot.
-Dialogue: 20,0:16:15.45,0:16:16.83,Default,,0,0,0,,I never knew.
-Dialogue: 20,0:16:16.83,0:16:19.25,Default,,0,0,0,,Yume, didn't you hate me?
-Dialogue: 20,0:16:20.04,0:16:21.00,Default,,0,0,0,,That's not true!
-Dialogue: 20,0:16:22.25,0:16:24.38,Default,,0,0,0,,You're always so agreeable.
-Dialogue: 20,0:16:25.84,0:16:29.01,Default,,0,0,0,,Yume, you know what people want to hear.
-Dialogue: 20,0:16:29.01,0:16:32.14,Default,,0,0,0,,That's not... true.
-Dialogue: 20,0:16:35.39,0:16:38.48,Default,,0,0,0,,I was always envious of that.
-Dialogue: 20,0:16:38.48,0:16:41.10,Default,,0,0,0,,I wished I was more like you.
-Dialogue: 20,0:16:41.98,0:16:44.36,Default,,0,0,0,,That's why I pushed you away.
-Dialogue: 20,0:16:45.40,0:16:46.03,Default,,0,0,0,,Huh?
-Dialogue: 20,0:16:46.61,0:16:52.16,Default,,0,0,0,,In high school, I decided to\Njoin the club and try to change.
-Dialogue: 20,0:16:52.70,0:16:55.33,Default,,0,0,0,,I might've been spinning my wheels,
-Dialogue: 20,0:16:55.99,0:16:59.54,Default,,0,0,0,,but Futaba was real nice to me.
-Dialogue: 20,0:17:00.17,0:17:03.50,Default,,0,0,0,,Then you should've relied on him more.
-Dialogue: 20,0:17:03.50,0:17:09.72,Default,,0,0,0,,Yeah, but I didn't want to be a bother.\NMaybe I tried too hard.
-Dialogue: 20,0:17:10.51,0:17:13.55,Default,,0,0,0,,So, please don't blame him.
-Dialogue: 20,0:17:15.31,0:17:16.06,Default,,0,0,0,,Okay.
-Dialogue: 20,0:17:17.56,0:17:19.81,Default,,0,0,0,,Make sure you rely on people.
-Dialogue: 20,0:17:20.81,0:17:23.90,Default,,0,0,0,,Lately, I'm getting much better at it.
-Dialogue: 20,0:17:24.57,0:17:26.48,Default,,0,0,0,,I see.
-Dialogue: 20,0:17:28.15,0:17:31.57,Default,,0,0,0,,I kinda envy you after all.
-Dialogue: 20,0:17:36.95,0:17:40.62,Default,,0,0,0,,Should I really go back to my own time?
-Dialogue: 20,0:17:41.67,0:17:43.58,Default,,0,0,0,,Suit yourself, right?
-Dialogue: 20,0:17:45.71,0:17:47.09,Default,,0,0,0,,You always say that.
-Dialogue: 20,0:17:52.09,0:17:53.14,Default,,0,0,0,,Hey, look!
-Dialogue: 20,0:18:00.81,0:18:03.52,Default,,0,0,0,,Thanks, Sis.
-Dialogue: 20,0:18:17.62,0:18:19.16,Default,,0,0,0,,Sorry I'm late!
-Dialogue: 20,0:18:19.16,0:18:20.37,Default,,0,0,0,,Welcome back, Minami.
-Dialogue: 20,0:18:20.79,0:18:21.54,Default,,0,0,0,,Hi.
-Dialogue: 20,0:18:21.83,0:18:27.25,Default,,0,0,0,,You back, Yume?\NThat kaiju took us into our pasts.
-Dialogue: 20,0:18:27.25,0:18:30.63,Default,,0,0,0,,{\t(3068,3360,1,\3c&HFFFFFF&)}So let's give it a big thank you!
-Dialogue: 20,0:18:31.67,0:18:34.34,Default,,0,0,0,,Dynazenon! Battle...
-Dialogue: 20,0:18:37.43,0:18:39.64,Default,,0,0,0,,...Go!
-Dialogue: 20,0:18:39.64,0:18:40.64,Default,,0,0,0,,Knight!
-Dialogue: 20,0:18:40.64,0:18:41.31,Default,,0,0,0,,Right!
-Dialogue: 20,0:18:55.82,0:18:59.49,Default,,0,0,0,,We have to hurry!\NThe whole world will disappear!
-Dialogue: 20,0:18:59.49,0:19:03.37,Default,,0,0,0,,But what about the people\Ntrapped in the kaiju?!
-Dialogue: 20,0:19:03.37,0:19:09.29,Default,,0,0,0,,If you beat the kaiju and disable\Nits power, all the people should return!
-Dialogue: 20,0:19:09.29,0:19:11.30,Default,,192,0,40,,Then let's beat \Nthe kaiju...
-Dialogue: 20,0:19:09.29,0:19:11.30,Default,,0,462,260,,Then let's beat \Nthe kaiju...
-Dialogue: 20,0:19:11.80,0:19:15.43,Default,,0,0,0,,...and get back our "now"!
-Dialogue: 20,0:19:23.77,0:19:25.14,Default,,0,0,0,,All together!
-Dialogue: 20,0:19:25.14,0:19:25.89,Default,,0,0,0,,Right!
-Dialogue: 20,0:20:04.27,0:20:09.35,Default,,0,0,0,,Super Dragon King Kaiser Gridknight!
-Dialogue: 20,0:20:19.16,0:20:20.16,Default,,0,0,0,,Now!
-Dialogue: 20,0:20:20.16,0:20:22.45,Default,,0,0,0,,Powering up Dyna Saber!
-Dialogue: 20,0:20:24.33,0:20:25.75,Default,,0,0,0,,Here it goes!
-Dialogue: 20,0:20:26.29,0:20:29.79,Default,,0,0,0,,Kaiser Knight Circular!
-Dialogue: 20,0:20:45.35,0:20:49.02,Default,,0,0,0,,{\an8}You worried me sick, Senpai. You okay?
-Dialogue: 20,0:20:49.02,0:20:50.19,Default,,0,0,0,,{\an8}I guess.
-Dialogue: 20,0:20:50.85,0:20:56.44,Default,,0,0,0,,{\an8}Now I'm hungry from worrying so much.
-Dialogue: 20,0:20:56.44,0:20:57.36,Default,,0,0,0,,{\an8}Me, too.
-Dialogue: 20,0:20:57.36,0:21:00.41,Default,,0,0,0,,{\an8}Right? Let's grab something to eat!
-Dialogue: 20,0:21:01.41,0:21:03.70,Default,,0,0,0,,{\an8}Like takoyaki, maybe?
-Dialogue: 20,0:20:49.02,0:20:53.60,Default,,0,0,0,,So, you were betrayed\Nby the country you served?
-Dialogue: 20,0:20:53.60,0:20:57.02,Default,,0,0,0,,I can't remember every damn thing.
-Dialogue: 20,0:20:57.90,0:21:02.62,Default,,0,0,0,,But... I thought I'd\Nget to meet her again.
-Dialogue: 20,0:21:02.62,0:21:03.20,Default,,0,0,0,,Huh?
-Dialogue: 20,0:21:05.29,0:21:06.95,Default,,0,0,0,,I'm starving!
-Dialogue: 20,0:21:06.95,0:21:07.08,Default,,572,0,405,,Hmm?!
-Dialogue: 20,0:21:07.08,0:21:07.16,Default,,597,0,540,,Hmm?!
-Dialogue: 20,0:21:07.16,0:21:07.20,Default,,552,0,610,,Hmm?!
-Dialogue: 20,0:21:07.20,0:21:07.33,Default,,497,0,680,,Hmm?!
-Dialogue: 20,0:21:07.33,0:21:07.41,Default,,402,0,710,,Hmm?!
-Dialogue: 20,0:21:07.41,0:21:08.21,Default,,462,0,760,,Hmm?!
-Dialogue: 20,0:21:07.29,0:21:08.21,Default,,0,232,81,,Us, too.
-Dialogue: 20,0:21:08.54,0:21:09.96,Default,,0,0,0,,Wanna go eat?
-Dialogue: 20,0:21:09.96,0:21:11.46,Default,,0,0,0,,Absolutely!
-Dialogue: 20,0:21:11.75,0:21:14.21,Default,,0,0,0,,Huh? Where's Minami?
-Dialogue: 20,0:21:36.23,0:21:37.40,Default,,0,0,0,,{\an8}Captain!
-Dialogue: 20,0:21:37.40,0:21:39.53,Default,,0,0,0,,{\an8}Shoot, I collapsed from hunger.
-Dialogue: 20,0:21:39.53,0:21:40.28,Default,,0,0,0,,{\an8}Again?!
-Dialogue: 20,0:21:40.28,0:21:41.20,Default,,0,0,0,,{\an8}Again?
-Dialogue: 20,0:21:41.20,0:21:42.74,Default,,0,0,0,,{\an8}Didn't I mention it?
-Dialogue: 20,0:21:42.74,0:21:47.16,Default,,0,0,0,,{\an8}The first time we met,\NGauma fell over from hunger.
-Dialogue: 20,0:21:47.16,0:21:47.87,Default,,0,0,0,,{\an8}Really?
-Dialogue: 20,0:21:48.50,0:21:49.75,Default,,0,0,0,,{\an8}Just leave him behind.
-Dialogue: 20,0:21:49.75,0:21:50.87,Default,,0,0,0,,{\an8}We should.
-Dialogue: 20,0:21:16.00,0:21:20.88,Default,,0,0,0,,The blue skies that cover...
-Dialogue: 20,0:21:38.11,0:21:42.74,Default,,0,0,0,,Now,
-Dialogue: 20,0:21:42.74,0:21:47.16,Default,,0,0,0,,go and soar!
-Dialogue: 20,0:21:49.33,0:21:58.92,Default,,0,0,0,,On the winds called hope.
+Dialogue: 20,0:07:57.67,0:07:58.92,Default,,0,0,0,,Yume.
+Dialogue: 20,0:07:59.88,0:08:02.29,Default,,0,0,0,,Yume, I'd like you to come.
+Dialogue: 20,0:08:02.84,0:08:03.46,Default,,0,0,0,,Huh?
+Dialogue: 20,0:08:04.09,0:08:06.26,Default,,0,0,0,,To the chorus club's recital.
+Dialogue: 20,0:08:08.18,0:08:09.05,Default,,0,0,0,,Okay.
+Dialogue: 20,0:08:09.80,0:08:11.80,Default,,0,0,0,,It's a promise, then.
+Dialogue: 20,0:08:12.56,0:08:13.31,Default,,0,0,0,,Yeah.
+Dialogue: 20,0:08:16.60,0:08:17.48,Default,,0,0,0,,What?
+Dialogue: 20,0:08:24.61,0:08:25.57,Default,,0,0,0,,Never mind.
+Dialogue: 20,0:08:59.44,0:09:01.10,Default,,0,0,0,,I'm going out.
+Dialogue: 20,0:09:01.77,0:09:03.65,Default,,0,0,0,,Singing practice?
+Dialogue: 20,0:09:03.65,0:09:04.40,Default,,0,0,0,,Yeah.
+Dialogue: 20,0:09:05.02,0:09:07.23,Default,,0,0,0,,Don't go somewhere dangerous.
+Dialogue: 20,0:09:07.69,0:09:09.78,Default,,0,0,0,,Like on the flood gate?
+Dialogue: 20,0:09:10.40,0:09:12.95,Default,,0,0,0,,Hey, don't you dare!
+Dialogue: 20,0:09:14.28,0:09:15.37,Default,,0,0,0,,Kano!
+Dialogue: 20,0:09:16.70,0:09:18.54,Default,,0,0,0,,{\i1}They say it was suicide.
+Dialogue: 20,0:09:18.54,0:09:20.66,Default,,0,0,0,,{\i1}She died at that flood gate.
+Dialogue: 20,0:09:21.92,0:09:26.17,Default,,0,0,0,,{\i1}Minami, we've gotta\Nstop your sister! Otherwise...
+Dialogue: 20,0:09:27.80,0:09:32.84,Default,,0,0,0,,{\i1}Why can't I reach you?! At this rate—!
+Dialogue: 20,0:09:32.84,0:09:37.43,Default,,0,0,0,,{\i1}At this rate, Minami will be sad! And I...
+Dialogue: 20,0:09:41.06,0:09:43.94,Default,,0,0,0,,I... can't stand that!
+Dialogue: 20,0:09:51.70,0:09:53.82,Default,,0,0,0,,Dyna Wing?
+Dialogue: 20,0:10:02.41,0:10:02.92,Default,,0,0,0,,Yomogi!
+Dialogue: 20,0:10:04.46,0:10:05.67,Default,,0,0,0,,Minami...
+Dialogue: 20,0:10:07.96,0:10:10.92,Default,,0,0,0,,Let's go stop your sister!
+Dialogue: 20,0:10:12.13,0:10:12.93,Default,,0,0,0,,Right!
+Dialogue: 20,0:10:13.88,0:10:17.35,Default,,0,0,0,,Now,
+Dialogue: 20,0:10:18.89,0:10:23.39,Default,,0,0,0,,go and soar.
+Dialogue: 20,0:10:25.15,0:10:29.19,Default,,0,0,0,,On the winds
+Dialogue: 20,0:10:30.48,0:10:34.11,Default,,0,0,0,,called hope.
+Dialogue: 20,0:10:36.95,0:10:40.29,Default,,0,0,0,,Kano! Kano! Kano!
+Dialogue: 20,0:10:42.04,0:10:43.04,Default,,0,0,0,,Kano!
+Dialogue: 20,0:10:46.79,0:10:48.17,Default,,0,0,0,,Please don't die!
+Dialogue: 20,0:10:48.92,0:10:49.42,Default,,0,0,0,,Huh?
+Dialogue: 20,0:10:49.42,0:10:51.76,Default,,0,0,0,,I know everything!
+Dialogue: 20,0:10:51.76,0:10:55.89,Default,,0,0,0,,I know you're dating Futaba\Nand that you're being bullied!
+Dialogue: 20,0:10:55.89,0:10:58.18,Default,,0,0,0,,And... and... this!
+Dialogue: 20,0:10:58.18,0:11:01.81,Default,,0,0,0,,Hold up. Why would I die?
+Dialogue: 20,0:11:02.14,0:11:03.06,Default,,0,0,0,,Huh?
+Dialogue: 20,0:11:08.27,0:11:11.44,Default,,0,0,0,,I don't plan on dying.
+Dialogue: 20,0:11:11.44,0:11:16.45,Default,,0,0,0,,Didn't I make you promise\Nto come to my recital?
+Dialogue: 20,0:11:18.45,0:11:19.91,Default,,0,0,0,,Right, Yume?
+Dialogue: 20,0:11:29.21,0:11:30.17,Default,,0,0,0,,Kano...
+Dialogue: 20,0:11:31.34,0:11:32.71,Default,,0,0,0,,{\i1}...it was an accident.
+Dialogue: 20,0:11:33.17,0:11:34.84,Default,,0,0,0,,{\i1}Kano wasn't like that.
+Dialogue: 20,0:11:40.72,0:11:42.97,Default,,0,0,0,,Why do you look so big?
+Dialogue: 20,0:11:43.77,0:11:47.56,Default,,0,0,0,,You never meant to break our promise.
+Dialogue: 20,0:11:53.94,0:11:56.82,Default,,0,0,0,,This... It's awful!
+Dialogue: 20,0:11:56.82,0:12:00.62,Default,,0,0,0,,It makes no difference\Nwhether it's suicide or an accident.
+Dialogue: 20,0:12:01.91,0:12:05.33,Default,,0,0,0,,I just... don't want you to die!
+Dialogue: 20,0:12:06.62,0:12:11.75,Default,,0,0,0,,Die? So that's why you came and found me.
+Dialogue: 20,0:12:14.71,0:12:18.26,Default,,0,0,0,,I should've gotten along with you better.
+Dialogue: 20,0:12:24.89,0:12:29.10,Default,,0,0,0,,{\i1}Sorry, Yomogi. Can you give me more time?
+Dialogue: 20,0:12:29.56,0:12:31.61,Default,,0,0,0,,Got it. I'm going ahead.
+Dialogue: 20,0:12:32.06,0:12:32.90,Default,,0,0,0,,{\i1}Okay.
+Dialogue: 20,0:12:33.27,0:12:35.65,Default,,0,0,0,,{\i1}We'll all be waiting for you.
+Dialogue: 20,0:12:41.28,0:12:44.37,Default,,0,0,0,,Everyone who vanished is stuck in the past
+Dialogue: 20,0:12:44.37,0:12:47.96,Default,,0,0,0,,and it's up to me to bring them back!
+Dialogue: 20,0:12:52.25,0:12:54.96,Default,,0,0,0,,Money to last a lifetime...
+Dialogue: 20,0:12:56.59,0:12:57.84,Default,,0,0,0,,A lifetime of—
+Dialogue: 20,0:12:57.84,0:12:58.59,Default,,0,0,0,,Koyomi!
+Dialogue: 20,0:13:12.98,0:13:15.32,Default,,0,0,0,,Huh? Supervisor?
+Dialogue: 20,0:13:15.32,0:13:17.86,Default,,0,0,0,,Hurry! Help me pick it up!
+Dialogue: 20,0:13:18.49,0:13:22.03,Default,,0,0,0,,Who cares? It's probably not real.
+Dialogue: 20,0:13:22.03,0:13:27.24,Default,,0,0,0,,And what if it is?! Argh, shit! Dammit!
+Dialogue: 20,0:13:59.65,0:14:00.78,Default,,0,0,0,,Yomogi.
+Dialogue: 20,0:14:00.78,0:14:02.40,Default,,0,0,0,,Let's go home, Koyomi.
+Dialogue: 20,0:14:03.86,0:14:04.41,Default,,0,0,0,,I...
+Dialogue: 20,0:14:04.41,0:14:05.28,Default,,0,0,0,,Koyomi.
+Dialogue: 20,0:14:19.46,0:14:23.22,Default,,0,0,0,,Bastard! I'll kill you!
+Dialogue: 20,0:14:33.94,0:14:38.19,Default,,0,0,0,,Why... did you... betray us?
+Dialogue: 20,0:14:38.69,0:14:43.74,Default,,0,0,0,,You Eugenicists are the ones\Nwho betrayed the country.
+Dialogue: 20,0:14:44.15,0:14:49.16,Default,,0,0,0,,The country... wanted to\Nget rid of... us kaiju users.
+Dialogue: 20,0:14:49.16,0:14:51.54,Default,,0,0,0,,They were just... using us.
+Dialogue: 20,0:14:51.54,0:15:00.92,Default,,0,0,0,,Why do you care...\Nabout a country... like that?
+Dialogue: 20,0:15:03.59,0:15:07.14,Default,,0,0,0,,It's not the country I care about.
+Dialogue: 20,0:15:10.47,0:15:12.89,Default,,0,0,0,,Prin... cess.
+Dialogue: 20,0:15:15.73,0:15:19.11,Default,,0,0,0,,{\i1}That person... taught me...
+Dialogue: 20,0:15:19.98,0:15:24.86,Default,,0,0,0,,{\i1}Promises, love, and...
+Dialogue: 20,0:15:26.74,0:15:29.70,Default,,0,0,0,,Gauma! This is no time to die!
+Dialogue: 20,0:15:29.70,0:15:36.08,Default,,0,0,0,,The Eugenicists revive in 5,000 years\Nand are trying to erase our world!
+Dialogue: 20,0:15:36.08,0:15:39.50,Default,,0,0,0,,Our present time is getting wiped out!
+Dialogue: 20,0:15:45.67,0:15:51.14,Default,,0,0,0,,Yomogi, you're my lifesaver after all.
+Dialogue: 20,0:15:52.14,0:15:54.73,Default,,0,0,0,,Let's go back to our "now".
+Dialogue: 20,0:16:01.65,0:16:05.15,Default,,0,0,0,,Knight, let's go back to our world!
+Dialogue: 20,0:16:08.07,0:16:09.91,Default,,0,0,0,,I didn't need help.
+Dialogue: 20,0:16:10.87,0:16:15.41,Default,,0,0,0,,It's embarrassing at home,\Nso I sang here a lot.
+Dialogue: 20,0:16:15.41,0:16:16.79,Default,,0,0,0,,I never knew.
+Dialogue: 20,0:16:16.79,0:16:19.21,Default,,0,0,0,,Yume, didn't you hate me?
+Dialogue: 20,0:16:20.00,0:16:20.96,Default,,0,0,0,,That's not true!
+Dialogue: 20,0:16:22.21,0:16:24.34,Default,,0,0,0,,You're always so agreeable.
+Dialogue: 20,0:16:25.80,0:16:28.97,Default,,0,0,0,,Yume, you know what people want to hear.
+Dialogue: 20,0:16:28.97,0:16:32.10,Default,,0,0,0,,That's not... true.
+Dialogue: 20,0:16:35.35,0:16:38.44,Default,,0,0,0,,I was always envious of that.
+Dialogue: 20,0:16:38.44,0:16:41.06,Default,,0,0,0,,I wished I was more like you.
+Dialogue: 20,0:16:41.94,0:16:44.32,Default,,0,0,0,,That's why I pushed you away.
+Dialogue: 20,0:16:45.36,0:16:45.98,Default,,0,0,0,,Huh?
+Dialogue: 20,0:16:46.57,0:16:52.12,Default,,0,0,0,,In high school, I decided to\Njoin the club and try to change.
+Dialogue: 20,0:16:52.66,0:16:55.29,Default,,0,0,0,,I might've been spinning my wheels,
+Dialogue: 20,0:16:55.95,0:16:59.50,Default,,0,0,0,,but Futaba was real nice to me.
+Dialogue: 20,0:17:00.12,0:17:03.46,Default,,0,0,0,,Then you should've relied on him more.
+Dialogue: 20,0:17:03.46,0:17:09.68,Default,,0,0,0,,Yeah, but I didn't want to be a bother.\NMaybe I tried too hard.
+Dialogue: 20,0:17:10.47,0:17:13.51,Default,,0,0,0,,So, please don't blame him.
+Dialogue: 20,0:17:15.26,0:17:16.01,Default,,0,0,0,,Okay.
+Dialogue: 20,0:17:17.52,0:17:19.77,Default,,0,0,0,,Make sure you rely on people.
+Dialogue: 20,0:17:20.77,0:17:23.86,Default,,0,0,0,,Lately, I'm getting much better at it.
+Dialogue: 20,0:17:24.52,0:17:26.44,Default,,0,0,0,,I see.
+Dialogue: 20,0:17:28.11,0:17:31.53,Default,,0,0,0,,I kinda envy you after all.
+Dialogue: 20,0:17:36.91,0:17:40.58,Default,,0,0,0,,Should I really go back to my own time?
+Dialogue: 20,0:17:41.62,0:17:43.54,Default,,0,0,0,,Suit yourself, right?
+Dialogue: 20,0:17:45.67,0:17:47.05,Default,,0,0,0,,You always say that.
+Dialogue: 20,0:17:52.05,0:17:53.09,Default,,0,0,0,,Hey, look!
+Dialogue: 20,0:18:00.77,0:18:03.48,Default,,0,0,0,,Thanks, Sis.
+Dialogue: 20,0:18:17.58,0:18:19.12,Default,,0,0,0,,Sorry I'm late!
+Dialogue: 20,0:18:19.12,0:18:20.33,Default,,0,0,0,,Welcome back, Minami.
+Dialogue: 20,0:18:20.75,0:18:21.50,Default,,0,0,0,,Hi.
+Dialogue: 20,0:18:21.79,0:18:27.21,Default,,0,0,0,,You back, Yume?\NThat kaiju took us into our pasts.
+Dialogue: 20,0:18:27.21,0:18:30.59,Default,,0,0,0,,{\t(3068,3360,1,\3c&HFFFFFF&)}So let's give it a big thank you!
+Dialogue: 20,0:18:31.63,0:18:34.30,Default,,0,0,0,,Dynazenon! Battle...
+Dialogue: 20,0:18:37.39,0:18:39.60,Default,,0,0,0,,...Go!
+Dialogue: 20,0:18:39.60,0:18:40.60,Default,,0,0,0,,Knight!
+Dialogue: 20,0:18:40.60,0:18:41.27,Default,,0,0,0,,Right!
+Dialogue: 20,0:18:55.78,0:18:59.45,Default,,0,0,0,,We have to hurry!\NThe whole world will disappear!
+Dialogue: 20,0:18:59.45,0:19:03.33,Default,,0,0,0,,But what about the people\Ntrapped in the kaiju?!
+Dialogue: 20,0:19:03.33,0:19:09.25,Default,,0,0,0,,If you beat the kaiju and disable\Nits power, all the people should return!
+Dialogue: 20,0:19:09.25,0:19:11.25,Default,,292,0,40,,Then let's beat \Nthe kaiju...
+Dialogue: 20,0:19:09.25,0:19:11.25,Default,,0,962,270,,Then let's beat \Nthe kaiju...
+Dialogue: 20,0:19:11.76,0:19:15.38,Default,,0,0,0,,...and get back our "now"!
+Dialogue: 20,0:19:23.73,0:19:25.10,Default,,0,0,0,,All together!
+Dialogue: 20,0:19:25.10,0:19:25.85,Default,,0,0,0,,Right!
+Dialogue: 20,0:20:04.22,0:20:09.31,Default,,0,0,0,,Super Dragon King Kaiser Gridknight!
+Dialogue: 20,0:20:19.11,0:20:20.12,Default,,0,0,0,,Now!
+Dialogue: 20,0:20:20.12,0:20:22.41,Default,,0,0,0,,Powering up Dyna Saber!
+Dialogue: 20,0:20:24.29,0:20:25.70,Default,,0,0,0,,Here it goes!
+Dialogue: 20,0:20:26.25,0:20:29.75,Default,,0,0,0,,Kaiser Knight Circular!
+Dialogue: 20,0:20:45.31,0:20:48.98,Default,,0,0,0,,{\an8}You worried me sick, Senpai. You okay?
+Dialogue: 20,0:20:48.98,0:20:50.15,Default,,0,0,0,,{\an8}I guess.
+Dialogue: 20,0:20:50.81,0:20:56.40,Default,,0,0,0,,{\an8}Now I'm hungry from worrying so much.
+Dialogue: 20,0:20:56.40,0:20:57.32,Default,,0,0,0,,{\an8}Me, too.
+Dialogue: 20,0:20:57.32,0:21:00.36,Default,,0,0,0,,{\an8}Right? Let's grab something to eat!
+Dialogue: 20,0:21:01.36,0:21:03.66,Default,,0,0,0,,{\an8}Like takoyaki, maybe?
+Dialogue: 20,0:20:48.98,0:20:53.57,Default,,0,0,0,,So, you were betrayed\Nby the country you served?
+Dialogue: 20,0:20:53.57,0:20:56.99,Default,,0,0,0,,I can't remember every damn thing.
+Dialogue: 20,0:20:57.86,0:21:02.53,Default,,0,0,0,,But... I thought I'd\Nget to meet her again.
+Dialogue: 20,0:21:02.53,0:21:03.16,Default,,0,0,0,,Huh?
+Dialogue: 20,0:21:05.24,0:21:06.91,Default,,0,0,0,,I'm starving!
+Dialogue: 20,0:21:06.91,0:21:07.04,Default,,572,0,405,,Hmm?!
+Dialogue: 20,0:21:07.04,0:21:07.12,Default,,597,0,540,,Hmm?!
+Dialogue: 20,0:21:07.12,0:21:07.16,Default,,552,0,610,,Hmm?!
+Dialogue: 20,0:21:07.16,0:21:07.29,Default,,497,0,680,,Hmm?!
+Dialogue: 20,0:21:07.29,0:21:07.37,Default,,402,0,710,,Hmm?!
+Dialogue: 20,0:21:07.37,0:21:08.16,Default,,462,0,760,,Hmm?!
+Dialogue: 20,0:21:07.25,0:21:08.16,Default,,0,232,81,,Us, too.
+Dialogue: 20,0:21:08.50,0:21:09.92,Default,,0,0,0,,Wanna go eat?
+Dialogue: 20,0:21:09.92,0:21:11.42,Default,,0,0,0,,Absolutely!
+Dialogue: 20,0:21:11.71,0:21:14.17,Default,,0,0,0,,Huh? Where's Minami?
+Dialogue: 20,0:21:36.19,0:21:37.36,Default,,0,0,0,,{\an8}Captain!
+Dialogue: 20,0:21:37.36,0:21:39.49,Default,,0,0,0,,{\an8}Shoot, I collapsed from hunger.
+Dialogue: 20,0:21:39.49,0:21:40.24,Default,,0,0,0,,{\an8}Again?!
+Dialogue: 20,0:21:40.24,0:21:41.15,Default,,0,0,0,,{\an8}Again?
+Dialogue: 20,0:21:41.15,0:21:42.70,Default,,0,0,0,,{\an8}Didn't I mention it?
+Dialogue: 20,0:21:42.70,0:21:47.12,Default,,0,0,0,,{\an8}The first time we met,\NGauma fell over from hunger.
+Dialogue: 20,0:21:47.12,0:21:47.83,Default,,0,0,0,,{\an8}Really?
+Dialogue: 20,0:21:48.45,0:21:49.70,Default,,0,0,0,,{\an8}Just leave him behind.
+Dialogue: 20,0:21:49.70,0:21:50.83,Default,,0,0,0,,{\an8}We should.
+Dialogue: 20,0:21:15.96,0:21:20.84,Default,,0,0,0,,The blue skies that cover...
+Dialogue: 20,0:21:38.07,0:21:42.70,Default,,0,0,0,,Now,
+Dialogue: 20,0:21:42.70,0:21:47.12,Default,,0,0,0,,go and soar!
+Dialogue: 20,0:21:49.29,0:21:58.88,Default,,0,0,0,,On the winds called hope.
 Comment: 0,0:22:09.93,0:22:09.93,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:09.89,0:22:09.89,ED,,0,0,0,,{ED Start}
 Dialogue: 0,0:22:10.27,0:22:16.56,ED,,0,0,0,,I wanted to have a chat since you were looking a little downcast
@@ -356,110 +357,110 @@ Dialogue: 0,0:23:28.22,0:23:33.14,ED,,0,0,0,,Just like your smiling face
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:18:18.08,0:18:19.08,Insert Song,,0,0,0,,{All This Human Insert Song}
 Comment: 0,0:00:00.00,0:00:00.00,Insert Song,,0,0,0,,
-Dialogue: 0,0:18:18.08,0:18:19.16,Insert Song,,0,0,0,,Human Love
-Dialogue: 0,0:18:20.04,0:18:22.42,Insert Song,,0,0,0,,For my charms and my affection
-Dialogue: 0,0:18:22.42,0:18:23.83,Insert Song,,0,0,0,,Move in my direction
-Dialogue: 0,0:18:23.83,0:18:25.17,Insert Song,,0,0,0,,Let me show
-Dialogue: 0,0:18:25.17,0:18:26.88,Insert Song,,0,0,0,,I'm never wrong
-Dialogue: 0,0:18:26.88,0:18:28.80,Insert Song,,0,0,0,,I can tell this situation's
-Dialogue: 0,0:18:28.80,0:18:30.71,Insert Song,,0,0,0,,The one that we've been waiting
-Dialogue: 0,0:18:30.71,0:18:32.22,Insert Song,,0,0,0,,All this time
-Dialogue: 0,0:18:32.22,0:18:33.22,Insert Song,,0,0,0,,{\t(600,0,1,\3c&HFFFFFF&)}I know
+Dialogue: 0,0:18:18.08,0:18:19.91,Insert Song,,0,0,0,,{\fad(100,150)}Human Love
+Dialogue: 0,0:18:19.91,0:18:22.21,Insert Song,,0,0,0,,{\fad(100,150)}For my charms and my affection
+Dialogue: 0,0:18:22.21,0:18:23.83,Insert Song,,0,0,0,,{\fad(100,150)}Move in my direction
+Dialogue: 0,0:18:23.83,0:18:25.17,Insert Song,,0,0,0,,{\fad(100,150)}Let me show
+Dialogue: 0,0:18:25.17,0:18:26.88,Insert Song,,0,0,0,,{\fad(100,150)}I'm never wrong
+Dialogue: 0,0:18:26.88,0:18:28.80,Insert Song,,0,0,0,,{\fad(100,150)}I can tell the situation's
+Dialogue: 0,0:18:28.80,0:18:30.71,Insert Song,,0,0,0,,{\fad(100,150)}The one that we've been waiting
+Dialogue: 0,0:18:30.71,0:18:32.22,Insert Song,,0,0,0,,{\fad(100,150)}All this time
+Dialogue: 0,0:18:32.22,0:18:33.22,Insert Song,,0,0,0,,{\fad(100,0)}{\t(600,0,1,\3c&HFFFFFF&)}I know
 Dialogue: 0,0:18:33.22,0:18:34.13,Insert Song,,0,0,0,,{\t(476,0,1,\3c&HFFFFFF&)}I know
 Dialogue: 0,0:18:34.13,0:18:34.93,Insert Song,,0,0,0,,{\t(400,0,1,\3c&HFFFFFF&)}I know
-Dialogue: 0,0:18:34.93,0:18:35.39,Insert Song,,0,0,0,,I know
-Dialogue: 0,0:18:44.74,0:18:45.68,Insert Song,,0,0,0,,Human Love
-Dialogue: 0,0:18:51.54,0:18:52.45,Insert Song,,0,0,0,,Human Love
-Dialogue: 0,0:18:58.49,0:19:01.29,Insert Song,,0,0,0,,{Human Love}
-Dialogue: 0,0:19:01.95,0:19:06.29,Insert Song,,0,0,0,,{Is more psychedelic than}
-Dialogue: 0,0:19:07.04,0:19:10.05,Insert Song,,0,0,0,,{Robot Love}
-Dialogue: 0,0:19:10.46,0:19:14.88,Insert Song,,0,0,0,,{Is more traumatic than}
-Dialogue: 0,0:19:15.47,0:19:16.46,Insert Song,,0,0,0,,Human Love
+Dialogue: 0,0:18:34.93,0:18:35.34,Insert Song,,0,0,0,,I know
+Dialogue: 0,0:18:44.64,0:18:46.06,Insert Song,,0,0,0,,{\fad(100,150)}Human Love
+Dialogue: 0,0:18:51.54,0:18:52.90,Insert Song,,0,0,0,,{\fad(100,150)}Human Love
+Dialogue: 0,0:18:58.41,0:19:01.37,Insert Song,,0,0,0,,{\an9}{\fad(100,150)}Human Love
+Dialogue: 0,0:19:01.87,0:19:06.29,Insert Song,,0,0,0,,{\an9}{\fad(100,150)}Is more psychedelic than
+Dialogue: 0,0:19:06.88,0:19:09.80,Insert Song,,0,0,0,,{\an9}{\fad(100,150)}Robot Love
+Dialogue: 0,0:19:10.46,0:19:14.88,Insert Song,,0,0,0,,{\an9}{\fad(100,150)}Is more traumatic than
+Dialogue: 0,0:19:15.38,0:19:16.68,Insert Song,,0,0,0,,{\fad(100,150)}Human Love
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,TS BELOW HERE
 Comment: 0,0:00:19.00,0:00:23.00,Title,,0,0,0,,===Title===
 Dialogue: 0,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -631 -538 l 723 -538 723 -327 -631 -327
 Dialogue: 1,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\pos(960,415)\fnRoboto Light\fs135\blur1.1}Which Memories Do You Regret?
 Dialogue: 0,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\an7\pos(960,840)\c&H000000&\blur1\p1}m -350 -209 l 346 -209 346 -50 -350 -50
 Dialogue: 1,0:00:19.00,0:00:23.00,Title,,0,0,0,,{\pos(960,715)\fnRoboto\fs90\fsp6\blur1.1}— Episode 10 —
-Comment: 0,0:08:06.34,0:08:09.09,Default,,0,0,0,,===Seasonal Recital Flyer===
-Comment: 1,0:08:06.34,0:08:09.09,Sign,,0,0,0,,{=5}Text
-Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(1013,426)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs74\fnAveria Libre\b1}The
-Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(986,409)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs77\fnAveria Libre\b1}The
-Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(984,406)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs77\fnAveria Libre\b1}The
-Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(976,399)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs80\fnAveria Libre\b1}The
-Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(1331.57,494.56)\blur2\c&H151B1B&\fs83\fnAveria Libre\b1\frz354.7}rd
-Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(1319.57,482.56)\blur2\c&H151B1B&\fs84\fnAveria Libre\b1\frz354.7}rd
-Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(1314.57,479.56)\blur2\c&H151B1B&\fs84\fnAveria Libre\b1\frz354}rd
-Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(1314.57,475.56)\blur2\c&H151B1B&\fs86\fnAveria Libre\b1\frz354}rd
-Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1123,600)\frz358.2\fry352}Fujiyokidai High School
-Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1123,639)\frz357.9\fry352}Seasonal Recital
-Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1123,674)\frz357.5\fry352}Wind Instrument - Chorus Club
-Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1093,593)\frz359.1\fry352}Fujiyokidai High School
-Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1093,633)\frz358.8\fry352}Seasonal Recital
-Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1093,669)\frz358.4\fry352}Wind Instrument - Chorus Club
-Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1087,591)\frz359.1\fry352\fscx98.5\fscy102}Fujiyokidai High School
-Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1087,631.5)\frz358.8\fry352\fscx98.5\fscy102}Seasonal Recital
-Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1087,668)\frz358.4\fry352\fscx98.5\fscy102}Wind Instrument - Chorus Club
-Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1082.5,588)\frz359.5\fry352\fscx99\fscy102}Fujiyokidai High School
-Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1082.5,629)\frz359.2\fry352\fscx99\fscy102}Seasonal Recital
-Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1082.5,666)\frz358.8\fry352\fscx99\fscy102}Wind Instrument - Chorus Club
-Comment: 1,0:08:06.34,0:08:09.09,Sign,,0,0,0,,{=16}Masks
-Dialogue: 0,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(1323.045,495.245)\blur2\c&H3E5A5D&\p1}m 21.51 0 l 83.91 2.51 81.91 91.51 0 82.69 b 6.16 79.26 11.93 61.49 15.18 34.78
-Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
-Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
-Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
-Dialogue: 0,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(1050,452)\blur1.5\p1\c&H3F5B61&}m 17 5 l 98 0 86 84 0 82
-Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1015 413 l 1101 408 1088 492 998 494)\c&H000000&\fs135\blur2.5\1a&H74&}A
-Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1015 413 l 1101 408 1088 492 998 494)\c&H000000&\fs135\blur2.5\1a&HB0&}B
-Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1007,483)\fnGrain\clip(m 1015 413 l 1101 408 1088 492 998 494)\c&H000000&\fs135\blur2.5\1a&HB0&}C
-Dialogue: 0,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(848.725,594.545)\blur2\c&H314244&\p1}m 0 0 l 21.82 53.82 63.75 58.91 52.04 3.58
-Dialogue: 1,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 816.85 565.09 l 838.67 618.91 880.6 624 869.69 568.67)\fnGrain\b1\c&H000000&\1a&HC8&}A
-Dialogue: 0,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(819,589)\blur2.4\c&H3C595D&\p1}m 12.55 0 l 20.66 17.34 33.33 49.34 36.66 63.34 0 56.67 0 10
-Dialogue: 0,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(819,589)\blur1\clip(m 813.22 557.33 l 821.33 574.67 834 606.67 837.33 620.67 800.67 614 800.67 567.33)\fnGrain\b1\c&H000000&\1a&HE2&}AB
-Dialogue: 0,0:08:06.34,0:08:08.59,Sign,,0,0,0,,{\pos(1109.195,633.635)\blur3\c&H3C585E&\p1}m 0 0 l 10.18 47.58 23.89 107.58 145.61 109.3 269.61 115.01 374.18 118.44 478.75 119.01 461.61 26.44 457.61 4.16
-Dialogue: 2,0:08:06.34,0:08:08.59,Sign,,0,0,0,Grain,{\pos(1137,628)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 869.82 574.13 l 880 621.71 893.71 681.71 1015.43 683.43 1139.43 689.14 1244 692.57 1348.57 693.14 1331.43 600.57 1327.43 578.29)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
-Comment: 0,0:08:06.34,0:08:09.09,Sign,,0,0,0,,
-Dialogue: 0,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(1311.575,484.49)\blur2\c&H3E5A5D&\p1}m 26.58 0 l 91.73 7.04 82.89 92.04 0 80.91 b 10.87 76.95 12.02 57.58 16.16 40.82
-Dialogue: 2,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1292.29 438.47 l 1357.44 445.51 1348.6 530.51 1265.71 519.38 b 1276.58 515.42 1277.73 496.05 1281.87 479.29)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
-Dialogue: 2,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1292.29 438.47 l 1357.44 445.51 1348.6 530.51 1265.71 519.38 b 1276.58 515.42 1277.73 496.05 1281.87 479.29)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
-Dialogue: 2,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1292.29 438.47 l 1357.44 445.51 1348.6 530.51 1265.71 519.38 b 1276.58 515.42 1277.73 496.05 1281.87 479.29)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
-Dialogue: 0,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(1030.4,439.8)\blur1.5\c&H3F5B61&\p1}m 21.8 5.8 l 100.4 0 86 82.4 0 88.4
-Dialogue: 2,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1002 401.4 l 1080.6 395.6 1066.2 478 980.2 484)\c&H000000&\fs135\blur2.5\1a&H74&}A
-Dialogue: 2,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(1014.29,469.29)\fnGrain\clip(m 1002 401.4 l 1080.6 395.6 1066.2 478 980.2 484)\c&H000000&\fs135\blur2.5\1a&HB0&}B
-Dialogue: 2,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(994.43,479.57)\fnGrain\clip(m 1002 401.4 l 1080.6 395.6 1066.2 478 980.2 484)\c&H000000&\fs135\blur2.5\1a&HB0&}C
-Dialogue: 0,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(839.835,594.545)\blur2\c&H314244&\p1}m 0 0 l 15.59 53.82 42.41 58.91 35.15 1.8
-Dialogue: 1,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 818.63 565.09 l 834.22 618.91 861.04 624 853.78 566.89)\fnGrain\b1\c&H000000&\1a&HC8&}A
-Dialogue: 0,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(801.8,588.4)\blur2.4\c&H3C595D&\p1}m 45.75 0.4 l 52.66 17.74 61.33 48.94 66.26 62.94 0 46.67 2.4 0
-Dialogue: 0,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(819,589)\blur1\fnGrain\b1\c&H000000&\1a&HE2&\clip(m 814.42 557.33 l 821.33 574.67 830 605.87 834.93 619.87 768.67 603.6 771.07 556.93)}AB
-Dialogue: 0,0:08:08.59,0:08:08.72,Sign,,0,0,0,,{\pos(1093.825,627.715)\blur2\c&H3C585E&\p1}m 0 9.44 l 2.95 53.47 4 64.86 5.33 84.56 6.48 96.98 12.35 107.59 167.21 110.74 288.81 118.05 396.58 119.88 467.55 124.45 475.21 35.08 450.41 0
-Dialogue: 2,0:08:08.59,0:08:08.72,Sign,,0,0,0,Grain,{\pos(1106,625)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 856.22 574.93 l 858.13 619.31 865.1 674.26 1023.43 676.23 1145.03 683.54 1252.8 685.37 1323.77 689.94 1331.43 600.57 1306.63 565.49)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
-Comment: 0,0:08:06.34,0:08:09.09,Sign,,0,0,0,,
-Dialogue: 0,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(1306.245,481.825)\blur2\c&H3E5A5D&\p1}m 29.24 0 l 93.51 1.71 82.89 88.49 0 81.8 b 17.09 77.84 12.02 57.58 17.94 39.93
-Dialogue: 2,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 437.58 l 1353 439.29 1342.38 526.07 1259.49 519.38 b 1276.58 515.42 1271.51 495.16 1277.43 477.51)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
-Dialogue: 2,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 437.58 l 1353 439.29 1342.38 526.07 1259.49 519.38 b 1276.58 515.42 1271.51 495.16 1277.43 477.51)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
-Dialogue: 2,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 437.58 l 1353 439.29 1342.38 526.07 1259.49 519.38 b 1276.58 515.42 1271.51 495.16 1277.43 477.51)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
-Dialogue: 0,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(1029.4,438.3)\blur1.5\c&H3F5B61&\p1}m 24.8 4.8 l 102.4 0 83 82.4 0 85.4
-Dialogue: 2,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1003 400.4 l 1080.6 395.6 1061.2 478 978.2 481)\c&H000000&\fs135\blur2.5\1a&H74&}A
-Dialogue: 2,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(1014.29,469.29)\fnGrain\clip(m 1003 400.4 l 1080.6 395.6 1061.2 478 978.2 481)\c&H000000&\fs135\blur2.5\1a&HB0&}B
-Dialogue: 2,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(994.43,479.57)\fnGrain\clip(m 1003 400.4 l 1080.6 395.6 1061.2 478 978.2 481)\c&H000000&\fs135\blur2.5\1a&HB0&}C
-Dialogue: 0,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(834.835,594.21)\blur2\c&H314244&\p1}m 0 0 l 13.59 53.82 32.41 58.24 29.15 1.8
-Dialogue: 1,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 818.63 565.09 l 832.22 618.91 851.04 623.33 847.78 566.89)\fnGrain\b1\c&H000000&\1a&HC8&}A
-Dialogue: 0,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(799.66,585.765)\blur2.4\c&H3C595D&\p1}m 49.39 3.31 l 51.86 14.83 61.98 57.67 44.44 55.67 0 46.67 2.4 0
-Dialogue: 0,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(819,589)\blur1\clip(m 818.06 560.24 l 820.53 571.76 830.65 614.6 813.11 612.6 768.67 603.6 771.07 556.93)\fnGrain\b1\c&H000000&\1a&HE2&}AB
-Dialogue: 0,0:08:08.72,0:08:08.84,Sign,,0,0,0,,{\pos(1078.19,621.24)\blur3\c&H3C585E&\p1}m 0 13.08 l 4.09 58.19 7.43 112.41 175.21 114.38 299.72 118.78 406.03 118.43 457.37 117.91 459.94 39.45 452.59 0
-Dialogue: 2,0:08:08.72,0:08:08.84,Sign,,0,0,0,Grain,{\pos(1101,624)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 848.22 574.93 l 852.31 620.04 855.65 674.26 1023.43 676.23 1147.94 680.63 1254.25 680.28 1305.59 679.76 1308.16 601.3 1300.81 561.85)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
-Comment: 0,0:08:06.34,0:08:09.09,Sign,,0,0,0,,
-Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(1304.51,476.16)\blur2\c&H3E5A5D&\p1}m 32.71 0 l 96.98 9.71 83.03 93.16 0 81.93 b 13.23 89.84 12.82 63.58 19.41 55.26
-Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 429.58 l 1353 439.29 1339.05 522.74 1256.02 511.51 b 1269.25 519.42 1268.84 493.16 1275.43 484.84)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
-Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 429.58 l 1353 439.29 1339.05 522.74 1256.02 511.51 b 1269.25 519.42 1268.84 493.16 1275.43 484.84)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
-Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 429.58 l 1353 439.29 1339.05 522.74 1256.02 511.51 b 1269.25 519.42 1268.84 493.16 1275.43 484.84)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
-Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(1024.2,432.3)\blur1.5\c&H3F5B61&\p1}m 24.8 6.4 l 104.8 0 81.4 83.2 0 86.2
-Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 996.6 395.6 l 1076.6 389.2 1053.2 472.4 971.8 475.4)\c&H000000&\fs135\blur2.5\1a&H74&}A
-Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(1014.29,469.29)\fnGrain\clip(m 996.6 395.6 l 1076.6 389.2 1053.2 472.4 971.8 475.4)\c&H000000&\fs135\blur2.5\1a&HB0&}B
-Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(994.43,479.57)\fnGrain\clip(m 996.6 395.6 l 1076.6 389.2 1053.2 472.4 971.8 475.4)\c&H000000&\fs135\blur2.5\1a&HB0&}C
-Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(830.18,593.545)\blur2\c&H314244&\p1}m 0 0 l 12.26 54.49 23.08 56.91 23.1 1.13
-Dialogue: 1,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 818.63 565.09 l 830.89 619.58 841.71 622 841.73 566.22)\fnGrain\b1\c&H000000&\1a&HC8&}A
-Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(796.83,582.44)\blur2.4\c&H3C595D&\p1}m 51.36 6.88 l 59.98 34.4 62.72 60.62 47.64 60.47 0 51.47 5.6 0
-Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(819,589)\blur1\fnGrain\b1\c&H000000&\1a&HE2&\clip(m 816.83 559.01 l 825.45 586.53 828.19 612.75 813.11 612.6 765.47 603.6 771.07 552.13)}AB
-Dialogue: 0,0:08:08.84,0:08:09.09,Sign,,0,0,0,,{\pos(1074.59,616.98)\blur3\c&H3C585E&\p1}m 0 0 l 0.89 62.71 3.61 123.86 182.41 122.9 306.92 127.3 413.23 126.95 464.57 126.43 467.14 47.97 458.99 2.92
-Dialogue: 2,0:08:08.84,0:08:09.09,Sign,,0,0,0,Grain,{\pos(1095,622)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 841.02 553.33 l 841.91 616.04 844.63 677.19 1023.43 676.23 1147.94 680.63 1254.25 680.28 1305.59 679.76 1308.16 601.3 1300.01 556.25)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
+Comment: 0,0:08:06.30,0:08:09.05,Default,,0,0,0,,===Seasonal Recital Flyer===
+Comment: 1,0:08:06.30,0:08:09.05,Sign,,0,0,0,,{=5}Text
+Dialogue: 1,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(1013,426)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs74\fnAveria Libre\b1}The
+Dialogue: 1,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(986,409)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs77\fnAveria Libre\b1}The
+Dialogue: 1,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(984,406)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs77\fnAveria Libre\b1}The
+Dialogue: 1,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\org(1229.7,558.9)\pos(976,399)\blur2\c&H151B1B&\fry-6.58\frx14.15\frz0.36\fs80\fnAveria Libre\b1}The
+Dialogue: 1,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\pos(1331.57,494.56)\blur2\c&H151B1B&\fs83\fnAveria Libre\b1\frz354.7}rd
+Dialogue: 1,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\pos(1319.57,482.56)\blur2\c&H151B1B&\fs84\fnAveria Libre\b1\frz354.7}rd
+Dialogue: 1,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\pos(1314.57,479.56)\blur2\c&H151B1B&\fs84\fnAveria Libre\b1\frz354}rd
+Dialogue: 1,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\pos(1314.57,475.56)\blur2\c&H151B1B&\fs86\fnAveria Libre\b1\frz354}rd
+Dialogue: 1,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1123,600)\frz358.2\fry352}Fujiyokidai High School
+Dialogue: 1,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1123,639)\frz357.9\fry352}Seasonal Recital
+Dialogue: 1,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1123,674)\frz357.5\fry352}Wind Instrument - Chorus Club
+Dialogue: 1,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1093,593)\frz359.1\fry352}Fujiyokidai High School
+Dialogue: 1,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1093,633)\frz358.8\fry352}Seasonal Recital
+Dialogue: 1,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1093,669)\frz358.4\fry352}Wind Instrument - Chorus Club
+Dialogue: 1,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1087,591)\frz359.1\fry352\fscx98.5\fscy102}Fujiyokidai High School
+Dialogue: 1,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1087,631.5)\frz358.8\fry352\fscx98.5\fscy102}Seasonal Recital
+Dialogue: 1,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1087,668)\frz358.4\fry352\fscx98.5\fscy102}Wind Instrument - Chorus Club
+Dialogue: 1,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1082.5,588)\frz359.5\fry352\fscx99\fscy102}Fujiyokidai High School
+Dialogue: 1,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs50\fnBowlby One SC\pos(1082.5,629)\frz359.2\fry352\fscx99\fscy102}Seasonal Recital
+Dialogue: 1,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\c&H12181A&\blur1.8\fs38\fnBowlby One SC\pos(1082.5,666)\frz358.8\fry352\fscx99\fscy102}Wind Instrument - Chorus Club
+Comment: 1,0:08:06.30,0:08:09.05,Sign,,0,0,0,,{=16}Masks
+Dialogue: 0,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\pos(1323.045,495.245)\blur2\c&H3E5A5D&\p1}m 21.51 0 l 83.91 2.51 81.91 91.51 0 82.69 b 6.16 79.26 11.93 61.49 15.18 34.78
+Dialogue: 2,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
+Dialogue: 2,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
+Dialogue: 2,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1302.6 449.49 l 1365 452 1363 541 1281.09 532.18 b 1287.25 528.75 1293.02 510.98 1296.27 484.27)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
+Dialogue: 0,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\pos(1050,452)\blur1.5\p1\c&H3F5B61&}m 17 5 l 98 0 86 84 0 82
+Dialogue: 2,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1015 413 l 1101 408 1088 492 998 494)\c&H000000&\fs135\blur2.5\1a&H74&}A
+Dialogue: 2,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1015 413 l 1101 408 1088 492 998 494)\c&H000000&\fs135\blur2.5\1a&HB0&}B
+Dialogue: 2,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(1007,483)\fnGrain\clip(m 1015 413 l 1101 408 1088 492 998 494)\c&H000000&\fs135\blur2.5\1a&HB0&}C
+Dialogue: 0,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\pos(848.725,594.545)\blur2\c&H314244&\p1}m 0 0 l 21.82 53.82 63.75 58.91 52.04 3.58
+Dialogue: 1,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 816.85 565.09 l 838.67 618.91 880.6 624 869.69 568.67)\fnGrain\b1\c&H000000&\1a&HC8&}A
+Dialogue: 0,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\pos(819,589)\blur2.4\c&H3C595D&\p1}m 12.55 0 l 20.66 17.34 33.33 49.34 36.66 63.34 0 56.67 0 10
+Dialogue: 0,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\pos(819,589)\blur1\clip(m 813.22 557.33 l 821.33 574.67 834 606.67 837.33 620.67 800.67 614 800.67 567.33)\fnGrain\b1\c&H000000&\1a&HE2&}AB
+Dialogue: 0,0:08:06.30,0:08:08.55,Sign,,0,0,0,,{\pos(1109.195,633.635)\blur3\c&H3C585E&\p1}m 0 0 l 10.18 47.58 23.89 107.58 145.61 109.3 269.61 115.01 374.18 118.44 478.75 119.01 461.61 26.44 457.61 4.16
+Dialogue: 2,0:08:06.30,0:08:08.55,Sign,,0,0,0,Grain,{\pos(1137,628)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 869.82 574.13 l 880 621.71 893.71 681.71 1015.43 683.43 1139.43 689.14 1244 692.57 1348.57 693.14 1331.43 600.57 1327.43 578.29)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
+Comment: 0,0:08:06.30,0:08:09.05,Sign,,0,0,0,,
+Dialogue: 0,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\pos(1311.575,484.49)\blur2\c&H3E5A5D&\p1}m 26.58 0 l 91.73 7.04 82.89 92.04 0 80.91 b 10.87 76.95 12.02 57.58 16.16 40.82
+Dialogue: 2,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1292.29 438.47 l 1357.44 445.51 1348.6 530.51 1265.71 519.38 b 1276.58 515.42 1277.73 496.05 1281.87 479.29)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
+Dialogue: 2,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1292.29 438.47 l 1357.44 445.51 1348.6 530.51 1265.71 519.38 b 1276.58 515.42 1277.73 496.05 1281.87 479.29)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
+Dialogue: 2,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1292.29 438.47 l 1357.44 445.51 1348.6 530.51 1265.71 519.38 b 1276.58 515.42 1277.73 496.05 1281.87 479.29)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
+Dialogue: 0,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\pos(1030.4,439.8)\blur1.5\c&H3F5B61&\p1}m 21.8 5.8 l 100.4 0 86 82.4 0 88.4
+Dialogue: 2,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1002 401.4 l 1080.6 395.6 1066.2 478 980.2 484)\c&H000000&\fs135\blur2.5\1a&H74&}A
+Dialogue: 2,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(1014.29,469.29)\fnGrain\clip(m 1002 401.4 l 1080.6 395.6 1066.2 478 980.2 484)\c&H000000&\fs135\blur2.5\1a&HB0&}B
+Dialogue: 2,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(994.43,479.57)\fnGrain\clip(m 1002 401.4 l 1080.6 395.6 1066.2 478 980.2 484)\c&H000000&\fs135\blur2.5\1a&HB0&}C
+Dialogue: 0,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\pos(839.835,594.545)\blur2\c&H314244&\p1}m 0 0 l 15.59 53.82 42.41 58.91 35.15 1.8
+Dialogue: 1,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 818.63 565.09 l 834.22 618.91 861.04 624 853.78 566.89)\fnGrain\b1\c&H000000&\1a&HC8&}A
+Dialogue: 0,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\pos(801.8,588.4)\blur2.4\c&H3C595D&\p1}m 45.75 0.4 l 52.66 17.74 61.33 48.94 66.26 62.94 0 46.67 2.4 0
+Dialogue: 0,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\pos(819,589)\blur1\fnGrain\b1\c&H000000&\1a&HE2&\clip(m 814.42 557.33 l 821.33 574.67 830 605.87 834.93 619.87 768.67 603.6 771.07 556.93)}AB
+Dialogue: 0,0:08:08.55,0:08:08.68,Sign,,0,0,0,,{\pos(1093.825,627.715)\blur2\c&H3C585E&\p1}m 0 9.44 l 2.95 53.47 4 64.86 5.33 84.56 6.48 96.98 12.35 107.59 167.21 110.74 288.81 118.05 396.58 119.88 467.55 124.45 475.21 35.08 450.41 0
+Dialogue: 2,0:08:08.55,0:08:08.68,Sign,,0,0,0,Grain,{\pos(1106,625)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 856.22 574.93 l 858.13 619.31 865.1 674.26 1023.43 676.23 1145.03 683.54 1252.8 685.37 1323.77 689.94 1331.43 600.57 1306.63 565.49)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
+Comment: 0,0:08:06.30,0:08:09.05,Sign,,0,0,0,,
+Dialogue: 0,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\pos(1306.245,481.825)\blur2\c&H3E5A5D&\p1}m 29.24 0 l 93.51 1.71 82.89 88.49 0 81.8 b 17.09 77.84 12.02 57.58 17.94 39.93
+Dialogue: 2,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 437.58 l 1353 439.29 1342.38 526.07 1259.49 519.38 b 1276.58 515.42 1271.51 495.16 1277.43 477.51)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
+Dialogue: 2,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 437.58 l 1353 439.29 1342.38 526.07 1259.49 519.38 b 1276.58 515.42 1271.51 495.16 1277.43 477.51)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
+Dialogue: 2,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 437.58 l 1353 439.29 1342.38 526.07 1259.49 519.38 b 1276.58 515.42 1271.51 495.16 1277.43 477.51)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
+Dialogue: 0,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\pos(1029.4,438.3)\blur1.5\c&H3F5B61&\p1}m 24.8 4.8 l 102.4 0 83 82.4 0 85.4
+Dialogue: 2,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 1003 400.4 l 1080.6 395.6 1061.2 478 978.2 481)\c&H000000&\fs135\blur2.5\1a&H74&}A
+Dialogue: 2,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(1014.29,469.29)\fnGrain\clip(m 1003 400.4 l 1080.6 395.6 1061.2 478 978.2 481)\c&H000000&\fs135\blur2.5\1a&HB0&}B
+Dialogue: 2,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(994.43,479.57)\fnGrain\clip(m 1003 400.4 l 1080.6 395.6 1061.2 478 978.2 481)\c&H000000&\fs135\blur2.5\1a&HB0&}C
+Dialogue: 0,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\pos(834.835,594.21)\blur2\c&H314244&\p1}m 0 0 l 13.59 53.82 32.41 58.24 29.15 1.8
+Dialogue: 1,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 818.63 565.09 l 832.22 618.91 851.04 623.33 847.78 566.89)\fnGrain\b1\c&H000000&\1a&HC8&}A
+Dialogue: 0,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\pos(799.66,585.765)\blur2.4\c&H3C595D&\p1}m 49.39 3.31 l 51.86 14.83 61.98 57.67 44.44 55.67 0 46.67 2.4 0
+Dialogue: 0,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\pos(819,589)\blur1\clip(m 818.06 560.24 l 820.53 571.76 830.65 614.6 813.11 612.6 768.67 603.6 771.07 556.93)\fnGrain\b1\c&H000000&\1a&HE2&}AB
+Dialogue: 0,0:08:08.68,0:08:08.80,Sign,,0,0,0,,{\pos(1078.19,621.24)\blur3\c&H3C585E&\p1}m 0 13.08 l 4.09 58.19 7.43 112.41 175.21 114.38 299.72 118.78 406.03 118.43 457.37 117.91 459.94 39.45 452.59 0
+Dialogue: 2,0:08:08.68,0:08:08.80,Sign,,0,0,0,Grain,{\pos(1101,624)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 848.22 574.93 l 852.31 620.04 855.65 674.26 1023.43 676.23 1147.94 680.63 1254.25 680.28 1305.59 679.76 1308.16 601.3 1300.81 561.85)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
+Comment: 0,0:08:06.30,0:08:09.05,Sign,,0,0,0,,
+Dialogue: 0,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\pos(1304.51,476.16)\blur2\c&H3E5A5D&\p1}m 32.71 0 l 96.98 9.71 83.03 93.16 0 81.93 b 13.23 89.84 12.82 63.58 19.41 55.26
+Dialogue: 2,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 429.58 l 1353 439.29 1339.05 522.74 1256.02 511.51 b 1269.25 519.42 1268.84 493.16 1275.43 484.84)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC0&}A
+Dialogue: 2,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 429.58 l 1353 439.29 1339.05 522.74 1256.02 511.51 b 1269.25 519.42 1268.84 493.16 1275.43 484.84)\fnGrain\c&H000000&\fs135\blur2.5\1a&HAD&}B
+Dialogue: 2,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(1315.43,484.57)\clip(m 1288.73 429.58 l 1353 439.29 1339.05 522.74 1256.02 511.51 b 1269.25 519.42 1268.84 493.16 1275.43 484.84)\fnGrain\c&H000000&\fs135\blur2.5\1a&HC4&}C
+Dialogue: 0,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\pos(1024.2,432.3)\blur1.5\c&H3F5B61&\p1}m 24.8 6.4 l 104.8 0 81.4 83.2 0 86.2
+Dialogue: 2,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(1044,443)\fnGrain\clip(m 996.6 395.6 l 1076.6 389.2 1053.2 472.4 971.8 475.4)\c&H000000&\fs135\blur2.5\1a&H74&}A
+Dialogue: 2,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(1014.29,469.29)\fnGrain\clip(m 996.6 395.6 l 1076.6 389.2 1053.2 472.4 971.8 475.4)\c&H000000&\fs135\blur2.5\1a&HB0&}B
+Dialogue: 2,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(994.43,479.57)\fnGrain\clip(m 996.6 395.6 l 1076.6 389.2 1053.2 472.4 971.8 475.4)\c&H000000&\fs135\blur2.5\1a&HB0&}C
+Dialogue: 0,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\pos(830.18,593.545)\blur2\c&H314244&\p1}m 0 0 l 12.26 54.49 23.08 56.91 23.1 1.13
+Dialogue: 1,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(846.33,603.34)\blur2\clip(m 818.63 565.09 l 830.89 619.58 841.71 622 841.73 566.22)\fnGrain\b1\c&H000000&\1a&HC8&}A
+Dialogue: 0,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\pos(796.83,582.44)\blur2.4\c&H3C595D&\p1}m 51.36 6.88 l 59.98 34.4 62.72 60.62 47.64 60.47 0 51.47 5.6 0
+Dialogue: 0,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\pos(819,589)\blur1\fnGrain\b1\c&H000000&\1a&HE2&\clip(m 816.83 559.01 l 825.45 586.53 828.19 612.75 813.11 612.6 765.47 603.6 771.07 552.13)}AB
+Dialogue: 0,0:08:08.80,0:08:09.05,Sign,,0,0,0,,{\pos(1074.59,616.98)\blur3\c&H3C585E&\p1}m 0 0 l 0.89 62.71 3.61 123.86 182.41 122.9 306.92 127.3 413.23 126.95 464.57 126.43 467.14 47.97 458.99 2.92
+Dialogue: 2,0:08:08.80,0:08:09.05,Sign,,0,0,0,Grain,{\pos(1095,622)\blur1.4\fnGrain\c&H000000&\b1\1a&HE6&\clip(m 841.02 553.33 l 841.91 616.04 844.63 677.19 1023.43 676.23 1147.94 680.63 1254.25 680.28 1305.59 679.76 1308.16 601.3 1300.01 556.25)}ABCDEFGHI\NJKLMNOPQRS\NTUVWXYZABCD
